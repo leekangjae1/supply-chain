@@ -27,10 +27,13 @@ jobs:
       - name: Run news monitoring
         run: python news_monitoring.py
 
+      - name: Run GDELT monitoring script
+        run: python gdelt_monitoring.py
+
       - name: Commit updated CSV
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add news_monitoring.csv
+          git add news_monitoring.csv gdelt_monitoring.csv
           git commit -m "Update news monitoring data" || echo "No changes to commit"
           git push
