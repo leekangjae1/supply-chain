@@ -1,53 +1,29 @@
 import requests
 import json
 import time
-from urllib.parse import urlencode
 from datetime import datetime
 
 # =========================
-# 1. 국가별 설정
+# 국가 설정
 # =========================
 
 COUNTRIES = {
-    "China": {
-        "local_name": "中国",
-        "sourcelang": "chinese"
-    },
-    "Germany": {
-        "local_name": "Deutschland",
-        "sourcelang": "german"
-    },
-    "Portugal": {
-        "local_name": "Portugal",
-        "sourcelang": "portuguese"
-    },
-    "Japan": {
-        "local_name": "日本",
-        "sourcelang": "japanese"
-    },
-    "Spain": {
-        "local_name": "España",
-        "sourcelang": "spanish"
-    },
-    "Romania": {
-        "local_name": "România",
-        "sourcelang": "romanian"
-    },
-    "Thailand": {
-        "local_name": "ประเทศไทย",
-        "sourcelang": "thai"
-    },
-    "South Korea": {
-        "local_name": "한국",
-        "sourcelang": "korean"
-    }
+    "China": {"local": "中国", "lang": "chinese"},
+    "Germany": {"local": "Deutschland", "lang": "german"},
+    "Portugal": {"local": "Portugal", "lang": "portuguese"},
+    "Japan": {"local": "日本", "lang": "japanese"},
+    "Spain": {"local": "España", "lang": "spanish"},
+    "Romania": {"local": "România", "lang": "romanian"},
+    "Thailand": {"local": "ประเทศไทย", "lang": "thai"},
+    "South Korea": {"local": "한국", "lang": "korean"}
 }
 
 # =========================
-# 2. 리스크별 현지어 키워드
+# 리스크 설정
 # =========================
 
 RISKS = {
+
     "earthquake": {
         "China": ["地震"],
         "Germany": ["Erdbeben"],
@@ -58,26 +34,29 @@ RISKS = {
         "Thailand": ["แผ่นดินไหว"],
         "South Korea": ["지진"]
     },
+
     "flood": {
-        "China": ["洪水", "暴雨"],
-        "Germany": ["Überschwemmung", "Hochwasser"],
-        "Portugal": ["inundação", "cheia"],
-        "Japan": ["洪水", "豪雨"],
+        "China": ["洪水"],
+        "Germany": ["Überschwemmung"],
+        "Portugal": ["inundação"],
+        "Japan": ["洪水"],
         "Spain": ["inundación"],
         "Romania": ["inundație"],
         "Thailand": ["น้ำท่วม"],
-        "South Korea": ["홍수", "침수"]
+        "South Korea": ["홍수"]
     },
+
     "factory_fire": {
-        "China": ["工厂火灾", "火灾"],
-        "Germany": ["Fabrikbrand", "Brand"],
-        "Portugal": ["incêndio em fábrica", "incêndio"],
-        "Japan": ["工場火災", "火災"],
-        "Spain": ["incendio en fábrica", "incendio"],
-        "Romania": ["incendiu la fabrică", "incendiu"],
-        "Thailand": ["ไฟไหม้โรงงาน", "ไฟไหม้"],
-        "South Korea": ["공장 화재", "화재"]
+        "China": ["工厂火灾"],
+        "Germany": ["Fabrikbrand"],
+        "Portugal": ["incêndio"],
+        "Japan": ["工場火災"],
+        "Spain": ["incendio"],
+        "Romania": ["incendiu"],
+        "Thailand": ["ไฟไหม้โรงงาน"],
+        "South Korea": ["공장 화재"]
     },
+
     "strike": {
         "China": ["罢工"],
         "Germany": ["Streik"],
@@ -85,141 +64,198 @@ RISKS = {
         "Japan": ["ストライキ"],
         "Spain": ["huelga"],
         "Romania": ["grevă"],
-        "Thailand": ["การประท้วง", "หยุดงาน"],
+        "Thailand": ["หยุดงาน"],
         "South Korea": ["파업"]
     },
+
     "power_outage": {
-        "China": ["停电", "限电"],
+        "China": ["停电"],
         "Germany": ["Stromausfall"],
-        "Portugal": ["apagão", "falha de energia"],
-        "Japan": ["停電", "電力不足"],
-        "Spain": ["apagón", "corte de luz"],
+        "Portugal": ["apagão"],
+        "Japan": ["停電"],
+        "Spain": ["apagón"],
         "Romania": ["pană de curent"],
         "Thailand": ["ไฟฟ้าดับ"],
-        "South Korea": ["정전", "전력난"]
+        "South Korea": ["정전"]
     },
+
     "production_shutdown": {
-        "China": ["停产", "工厂停产"],
-        "Germany": ["Produktionsstopp", "Fabrikstillstand"],
-        "Portugal": ["paralisação da produção"],
-        "Japan": ["生産停止", "工場停止"],
+        "China": ["停产"],
+        "Germany": ["Produktionsstopp"],
+        "Portugal": ["paralisação"],
+        "Japan": ["生産停止"],
         "Spain": ["parada de producción"],
         "Romania": ["oprire producție"],
         "Thailand": ["หยุดการผลิต"],
-        "South Korea": ["생산중단", "공장 가동 중단"]
+        "South Korea": ["생산중단"]
     },
+
     "port_disruption": {
-        "China": ["港口拥堵", "港口关闭"],
-        "Germany": ["Hafenstörung", "Hafenstreik"],
-        "Portugal": ["congestionamento portuário", "greve portuária"],
-        "Japan": ["港湾混雑", "港湾停止"],
-        "Spain": ["congestión portuaria", "huelga portuaria"],
+        "China": ["港口拥堵"],
+        "Germany": ["Hafenstörung"],
+        "Portugal": ["congestionamento portuário"],
+        "Japan": ["港湾混雑"],
+        "Spain": ["congestión portuaria"],
         "Romania": ["congestie portuară"],
-        "Thailand": ["ท่าเรือแออัด", "ท่าเรือหยุดชะงัก"],
-        "South Korea": ["항만 혼잡", "항만 차질", "항만 파업"]
+        "Thailand": ["ท่าเรือแออัด"],
+        "South Korea": ["항만 차질"]
     }
 }
 
+
 # =========================
-# 3. GDELT 검색 함수
+# 쿼리 생성
 # =========================
 
-def build_query(country_name, country_info, risk_name):
-    local_country = country_info["local_name"]
-    sourcelang = country_info["sourcelang"]
-    risk_keywords = RISKS[risk_name][country_name]
+def build_query(country, risk):
 
-    risk_query = " OR ".join([f'"{kw}"' for kw in risk_keywords])
+    local_country = COUNTRIES[country]["local"]
+    language = COUNTRIES[country]["lang"]
 
-    query = f'("{local_country}" OR "{country_name}") AND ({risk_query}) sourcelang:{sourcelang}'
+    risk_keywords = RISKS[risk][country]
+
+    risk_query = " OR ".join(
+        [f'"{x}"' for x in risk_keywords]
+    )
+
+    # AND 넣지 말 것 (GDELT 오류 방지)
+    query = f'("{local_country}" OR "{country}") ({risk_query}) sourcelang:{language}'
+
     return query
 
 
-def search_gdelt(query, max_records=10, timespan="7d"):
-    base_url = "https://api.gdeltproject.org/api/v2/doc/doc"
+# =========================
+# GDELT 검색
+# =========================
+
+def search_gdelt(query):
+
+    url = "https://api.gdeltproject.org/api/v2/doc/doc"
 
     params = {
         "query": query,
         "mode": "artlist",
         "format": "json",
-        "maxrecords": max_records,
-        "timespan": timespan,
+        "maxrecords": 10,
+        "timespan": "7d",
         "sort": "datedesc"
     }
 
-    url = base_url + "?" + urlencode(params)
+    for retry in range(3):
 
-    try:
-        response = requests.get(url, timeout=20)
-        response.raise_for_status()
-        data = response.json()
-        return data.get("articles", [])
+        try:
 
-    except Exception as e:
-        print(f"[ERROR] {query}")
-        print(e)
-        return []
+            response = requests.get(
+                url,
+                params=params,
+                timeout=20
+            )
+
+            # 요청 많으면 대기
+            if response.status_code == 429:
+
+                wait_time = 10 * (retry + 1)
+
+                print(f"429 발생 → {wait_time}초 대기")
+
+                time.sleep(wait_time)
+
+                continue
+
+            if response.status_code != 200:
+
+                print("HTTP ERROR:", response.status_code)
+
+                return []
+
+            try:
+                data = response.json()
+
+            except:
+                print("JSON 파싱 실패")
+                print(response.text[:300])
+                return []
+
+            return data.get("articles", [])
+
+        except Exception as e:
+
+            print("요청 실패:", e)
+
+            time.sleep(5)
+
+    return []
 
 
 # =========================
-# 4. 전체 실행
+# 전체 실행
 # =========================
 
 def run_monitoring():
-    results = []
 
-    for country_name, country_info in COUNTRIES.items():
-        for risk_name in RISKS.keys():
-            query = build_query(country_name, country_info, risk_name)
+    all_results = []
 
-            print(f"\n검색 중: {country_name} / {risk_name}")
+    for country in COUNTRIES:
+
+        for risk in RISKS:
+
+            print(f"\n검색 중: {country} / {risk}")
+
+            query = build_query(country, risk)
+
             print(query)
 
-            articles = search_gdelt(
-                query=query,
-                max_records=10,
-                timespan="7d"
-            )
+            articles = search_gdelt(query)
 
             for article in articles:
-                results.append({
-                    "country": country_name,
-                    "local_country_name": country_info["local_name"],
-                    "risk_type": risk_name,
+
+                all_results.append({
+
+                    "country": country,
+                    "risk_type": risk,
                     "query": query,
+
                     "title": article.get("title"),
                     "url": article.get("url"),
                     "domain": article.get("domain"),
-                    "language": article.get("language"),
-                    "source_country": article.get("sourcecountry"),
-                    "seendate": article.get("seendate"),
-                    "socialimage": article.get("socialimage")
+                    "seendate": article.get("seendate")
                 })
 
-            time.sleep(1)
+            # rate limit 방지
+            time.sleep(5)
 
-    return results
+    return all_results
 
 
 # =========================
-# 5. JSON 저장
+# JSON 저장
 # =========================
 
 if __name__ == "__main__":
-    gdelt_results = run_monitoring()
+
+    results = run_monitoring()
 
     output = {
+
         "created_at": datetime.now().isoformat(),
-        "description": "GDELT supply chain risk monitoring results",
-        "countries": list(COUNTRIES.keys()),
-        "risk_types": list(RISKS.keys()),
-        "total_results": len(gdelt_results),
-        "results": gdelt_results
+
+        "total_count": len(results),
+
+        "results": results
     }
 
-    with open("gdelt_supply_chain_risk_results.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    with open(
+        "gdelt_results.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            output,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
 
     print("\n완료")
-    print(f"총 수집 기사 수: {len(gdelt_results)}")
-    print("저장 파일: gdelt_supply_chain_risk_results.json")
+    print(f"총 기사 수: {len(results)}")
