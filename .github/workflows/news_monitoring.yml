@@ -2,37 +2,38 @@ name: GDELT Monitoring
 
 on:
   schedule:
-    - cron: '0 * * * *'   # 매시간
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  run:
-
+  run-gdelt:
     runs-on: ubuntu-latest
 
-    steps:
+    strategy:
+      matrix:
+        risk_group: [disaster, operation, policy_regulation]
 
-      - name: checkout
+    steps:
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: python setup
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: install
+      - name: Install packages
         run: pip install -r requirements.txt
 
-      - name: run python
+      - name: Run GDELT monitoring
+        env:
+          RISK_GROUP: ${{ matrix.risk_group }}
         run: python gdelt_monitoring.py
 
-      - name: commit json
+      - name: Commit results
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-
-          git add gdelt_results.json
-
-          git commit -m "update gdelt results" || echo "no changes"
-
+          git config --global user.email "github-actions@github.com"
+          git add gdelt_results.json gdelt_monitoring.csv
+          git commit -m "Update GDELT monitoring results" || echo "No changes to commit"
           git push
