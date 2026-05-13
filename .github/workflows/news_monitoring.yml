@@ -1,39 +1,38 @@
-name: News Monitoring
+name: GDELT Monitoring
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'   # 매시간
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  collect-news:
+  run:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+
+      - name: checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: python setup
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      - name: Install packages
+      - name: install
         run: pip install -r requirements.txt
 
-      - name: Run news monitoring
-        run: python news_monitoring.py
-
-      - name: Run GDELT monitoring script
+      - name: run python
         run: python gdelt_monitoring.py
 
-      - name: Commit updated CSV
+      - name: commit json
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add news_monitoring.csv gdelt_monitoring.csv
-          git commit -m "Update news monitoring data" || echo "No changes to commit"
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add gdelt_results.json
+
+          git commit -m "update gdelt results" || echo "no changes"
+
           git push
