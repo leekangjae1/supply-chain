@@ -1,186 +1,285 @@
 {
-  "created_at": "2026-05-13T07:54:58.197167",
-  "total_count": 120,
+  "created_at": "2026-05-13T10:37:56.850613",
+  "total_count": 148,
   "results": [
     {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "震不停 ！ 日本地殼進入 「 大震危險期 」 專家警告 ： 南海海槽恐全區破裂 | 國際 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1836065",
+      "query": "\"Japan\" \"flood\"",
+      "title": "韓國瑜江啟臣接見平沼正二郎 盼台日續深化交流 | 政治",
+      "url": "https://www.cna.com.tw:443/news/aipl/202605060034.aspx",
       "source": "",
       "language": "Chinese",
-      "published_at": "20260509T143000Z",
-      "domain": "setn.com"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "​Централни Јапан погодио земљотрес јачине 5 степени",
-      "url": "https://www.politika.rs/scc/clanak/748308/centralni-japan-pogodio-zemljotres-jacine-5-stepeni",
-      "source": "",
-      "language": "Serbian",
-      "published_at": "20260418T073000Z",
-      "domain": "politika.rs"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "日本長野接連地震 氣象廳籲留意震度6以上搖晃 | 國際 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1824549",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260418T151500Z",
-      "domain": "setn.com"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "일본 홋카이도 규모 6 . 1 지진 발생",
-      "url": "https://www.etoday.co.kr/news/view/2579275",
-      "source": "",
-      "language": "Korean",
-      "published_at": "20260426T221500Z",
-      "domain": "etoday.co.kr"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "日本恐有規模8以上地震 ？ 專家示警 ： 2處爆強震 台灣就需高度警戒 | 生活新聞 | 生活",
-      "url": "https://udn.com/news/story/7266/9456846",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260422T033000Z",
-      "domain": "udn.com"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "北海道清晨6 . 2強震 ！ 15秒 「 上下狂搖 」 90歲嬤慘摔 未來7天恐再震 | ETtoday國際新聞",
-      "url": "https://www.ettoday.net/news/20260427/3155930.htm",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260427T041500Z",
-      "domain": "ettoday.net"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "日 훗카이도 규모 6 . 2 지진 … 신칸센 고속열차는 평소대로 운행",
-      "url": "https://biz.heraldcorp.com/article/10726538",
-      "source": "",
-      "language": "Korean",
-      "published_at": "20260427T063000Z",
-      "domain": "biz.heraldcorp.com"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "日本地震規模上修至7 . 7 「 恐再搖更大 」 郭鎧紋曝 ： 成因和311類似 | 國際 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1825361",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260420T133000Z",
-      "domain": "setn.com"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "日本地震頻傳 ！ 北海道今晨6 . 1強震 氣象廳示警 ： 未來2天恐有同規模地震 | 國際 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1828583",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260427T024500Z",
-      "domain": "setn.com"
-    },
-    {
-      "query": "\"Japan\" \"earthquake\"",
-      "title": "日本長野接連地震 氣象廳籲留意震度6以上搖晃 | 國際",
-      "url": "https://www.cna.com.tw:443/news/aopl/202604180167.aspx",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260418T101500Z",
+      "published_at": "20260506T030000Z",
       "domain": "cna.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "Bloomberg : China pauses AV permits after Baidu disruption",
-      "url": "https://www.siliconrepublic.com/machines/bloomberg-china-pauses-av-permits-after-baidu-disruption",
+      "query": "\"Japan\" \"flood\"",
+      "title": "Novelbright10月來台開唱 八木海莉台北演唱 | 娛樂",
+      "url": "https://www.cna.com.tw:443/news/amov/202604230266.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260423T110000Z",
+      "domain": "cna.com.tw"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "防汛期將至 北市搶險演習促進社區自主防災能力 | 地方",
+      "url": "https://www.cna.com.tw/news/aloc/202604290173.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260429T083000Z",
+      "domain": "cna.com.tw"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "韓國瑜接見日台交流協會長隅修三 盼台日深化合作 | 政治",
+      "url": "https://www.cna.com.tw/news/aipl/202605070193.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260507T103000Z",
+      "domain": "cna.com.tw"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "韓國瑜接見日台交流協會長隅修三 盼台日深化合作 | 政治",
+      "url": "https://www.cna.com.tw:443/news/aipl/202605070193.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260507T080000Z",
+      "domain": "cna.com.tw"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "星宇航空何時開闢高雄航線 ？ 一份資料曝進度 - 生活",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5430915",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260509T010000Z",
+      "domain": "news.ltn.com.tw"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "日本庆5 . 13世界法轮大法日 民众支持 | 法轮功",
+      "url": "https://www.epochtimes.com/gb/26/5/12/n14762493.htm",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260512T173000Z",
+      "domain": "epochtimes.com"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "媒體爆日不滿卓揆秘訪卻曝光 他揭兩派拉扯 「 對台關係透明度 」 - 政治",
+      "url": "https://www.chinatimes.com/realtimenews/20260418001495-260407",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260418T044500Z",
+      "domain": "chinatimes.com"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "海中から引き揚げた戦闘機 「 紫電改 」 を公開 鹿児島 ・ 出水 [ 鹿児島県 ]： 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV521TF3V52TLTB001M.html",
+      "source": "",
+      "language": "Japanese",
+      "published_at": "20260502T081500Z",
+      "domain": "asahi.com"
+    },
+    {
+      "query": "\"Japan\" \"flood\"",
+      "title": "內政部開防汛整備精進會議 原民特搜隊預計5 / 15成軍 | 政治",
+      "url": "https://www.cna.com.tw:443/news/aipl/202605050389.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260505T144500Z",
+      "domain": "cna.com.tw"
+    },
+    {
+      "query": "\"Japan\" \"production halt\"",
+      "title": "China manufacturing heartland tested by Iran war energy shock",
+      "url": "https://www.businesstimes.com.sg/international/chinas-manufacturing-heartland-tested-iran-war-energy-shock",
       "source": "",
       "language": "English",
-      "published_at": "20260429T093000Z",
-      "domain": "siliconrepublic.com"
+      "published_at": "20260513T040000Z",
+      "domain": "businesstimes.com.sg"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "BMW iX3 LWB brings exclusive upgrades for China : More space , more tech , not available globally",
-      "url": "https://soyacincau.com/2026/04/27/bmw-ix3-lwb-ev-officially-unveiled-auto-china-2026/",
+      "query": "\"China\" \"flood\"",
+      "title": "嘉義縣全面提升防汛整備 ， 民雄雙福村示範清溝行動",
+      "url": "https://www.cna.com.tw:443/postwrite/chi/431771",
       "source": "",
-      "language": "English",
-      "published_at": "20260427T074500Z",
-      "domain": "soyacincau.com"
+      "language": "Chinese",
+      "published_at": "20260425T080000Z",
+      "domain": "cna.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "Autonomous cars were supposed to free us from traffic hell . Research says otherwise",
-      "url": "https://www.digitaltrends.com/cars/autonomous-cars-were-supposed-to-free-us-from-traffic-hell-research-says-otherwise/",
+      "query": "\"China\" \"flood\"",
+      "title": "嘉義縣全面提升防汛整備 ， 民雄雙福村示範清溝行動",
+      "url": "https://n.yam.com/Article/20260425297817",
       "source": "",
-      "language": "English",
-      "published_at": "20260423T103000Z",
-      "domain": "digitaltrends.com"
+      "language": "Chinese",
+      "published_at": "20260425T071500Z",
+      "domain": "n.yam.com"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "البرنامج الصباحي - إعادة",
-      "url": "https://sarabic.ae/20260508/1113232617.html",
+      "query": "\"China\" \"flood\"",
+      "title": "終結國民黨24年未參選東港鎮長 藍白共推洪志明 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202605120286.aspx",
       "source": "",
-      "language": "Arabic",
-      "published_at": "20260508T234500Z",
-      "domain": "sarabic.ae"
+      "language": "Chinese",
+      "published_at": "20260512T110000Z",
+      "domain": "cna.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "البرنامج الصباحي - إعادة",
-      "url": "https://sarabic.ae/20260508/1113236837.html",
+      "query": "\"China\" \"flood\"",
+      "title": "今年汛期中国北方暴雨洪涝风险突出",
+      "url": "https://www.zaobao.com.sg/news/china/story20260422-8933691",
       "source": "",
-      "language": "Arabic",
-      "published_at": "20260508T234500Z",
-      "domain": "sarabic.ae"
+      "language": "Chinese",
+      "published_at": "20260422T061500Z",
+      "domain": "zaobao.com.sg"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "Power Empowers Smart Agriculture , Greenhouses Boost Harvest to Light Up Rural Revitalization Path",
-      "url": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/power-empowers-smart-agriculture-greenhouses-boost-harvest-to-light-up-rural-revitalization-path/2322614",
+      "query": "\"China\" \"flood\"",
+      "title": "中國官方 ： 南方降雨偏多 五一長假前致災風險增加 | 兩岸",
+      "url": "https://www.cna.com.tw/news/acn/202604260192.aspx",
       "source": "",
-      "language": "English",
-      "published_at": "20260417T094500Z",
-      "domain": "manilatimes.net"
+      "language": "Chinese",
+      "published_at": "20260426T160000Z",
+      "domain": "cna.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "Data center engineers working silently behind booming AI services",
-      "url": "http://www.chinanationalnews.com/news/279029455/data-center-engineers-working-silently-behind-booming-ai-services",
+      "query": "\"China\" \"flood\"",
+      "title": "中國網紅曾登漢他疫情郵輪 官方稱無相關症狀 | 兩岸",
+      "url": "https://www.cna.com.tw:443/news/acn/202605090209.aspx",
       "source": "",
-      "language": "English",
-      "published_at": "20260504T133000Z",
-      "domain": "chinanationalnews.com"
+      "language": "Chinese",
+      "published_at": "20260509T140000Z",
+      "domain": "cna.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "Data center engineers working silently behind booming AI services",
-      "url": "http://www.afghanistansun.com/news/279029455/data-center-engineers-working-silently-behind-booming-ai-services",
+      "query": "\"China\" \"flood\"",
+      "title": "中國網紅曾登漢他疫情郵輪 官方稱無相關症狀 | 兩岸",
+      "url": "https://www.cna.com.tw/news/acn/202605090209.aspx",
       "source": "",
-      "language": "English",
-      "published_at": "20260504T134500Z",
-      "domain": "afghanistansun.com"
+      "language": "Chinese",
+      "published_at": "20260509T143000Z",
+      "domain": "cna.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "China Focus : Data center engineers working silently behind booming AI services",
-      "url": "http://www.bignewsnetwork.com/news/279029384/china-focus-data-center-engineers-working-silently-behind-booming-ai-services",
+      "query": "\"China\" \"flood\"",
+      "title": "中國官方 ： 南方降雨偏多 五一長假前致災風險增加 - 國際",
+      "url": "https://news.cts.com.tw/cna/international/202604/202604263024309.html",
       "source": "",
-      "language": "English",
-      "published_at": "20260504T114500Z",
-      "domain": "bignewsnetwork.com"
+      "language": "Chinese",
+      "published_at": "20260426T143000Z",
+      "domain": "news.cts.com.tw"
     },
     {
-      "query": "\"China\" \"power outage\"",
-      "title": "Beyond AI perfect prompt : How India great data centre boom will change world digital map",
-      "url": "https://www.moneycontrol.com/explainers/beyond-ai-s-perfect-prompt-how-india-s-great-data-centre-boom-will-change-world-s-digital-map-article-13902023.html",
+      "query": "\"China\" \"flood\"",
+      "title": "馬太鞍水患後土石堆 「 比房子還高 」 洪毓祥 ： 堆沙包治標不治本 - 政治",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5425093",
       "source": "",
-      "language": "English",
-      "published_at": "20260428T120000Z",
-      "domain": "moneycontrol.com"
+      "language": "Chinese",
+      "published_at": "20260504T103000Z",
+      "domain": "news.ltn.com.tw"
+    },
+    {
+      "query": "\"China\" \"flood\"",
+      "title": "民進黨前立委陳歐珀收錢喬事手法曝 ！ 妻子也A了442萬元 - 社會",
+      "url": "https://www.chinatimes.com/realtimenews/20260414001654-260402",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260414T031500Z",
+      "domain": "chinatimes.com"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "事关东江 、 北江 、 韩江流域2026年防汛 ！《 水工程联合调度计划 》 印发实施",
+      "url": "https://news.ycwb.com/ikimvkntkb/content_54109718.htm",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260509T113000Z",
+      "domain": "news.ycwb.com"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "不少人都猜错了 ！ 中国移动这位落马的退休高管出事应该与所谓的  下级  无关 到底所为何事 ？ |移动|退休",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-04-21/doc-inhvfqch6295786.shtml",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260421T034500Z",
+      "domain": "finance.sina.com.cn"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "148cm童顏正妹洪瑛琦遭嗆 「 別再露奶了 」 高級反虧 ： 看來你很想看 | ETtoday星光雲",
+      "url": "https://star.ettoday.net/news/3161945",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260507T054500Z",
+      "domain": "star.ettoday.net"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "韩国交流嘉宾畅游张家界宝峰湖 感受山水文旅魅力 - 市州精选 - 湖南在线",
+      "url": "https://hunan.voc.com.cn/news/202604/32469620.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260420T031500Z",
+      "domain": "hunan.voc.com.cn"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "组图丨第20届中韩地方政府交流研讨会与会韩国嘉宾来郴参访",
+      "url": "https://baijiahao.baidu.com/s?id=1862894637369088276",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260419T124500Z",
+      "domain": "baijiahao.baidu.com"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "威尼斯台灣館上演 「 人偶權力 」 爭奪戰 國際觀眾席地直擊跨國藝術唱和",
+      "url": "https://art.ltn.com.tw/article/breakingnews/5429611",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260507T233000Z",
+      "domain": "art.ltn.com.tw"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "资讯｜韩国影像资料院将举办洪常秀导演出道30周年纪念作品展",
+      "url": "https://www.163.com/dy/article/KR03C8PB0517VC4C.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260420T133000Z",
+      "domain": "163.com"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "出道前2個月消失 日籍練習生MV拍完才人間蒸發 公司怒喊告",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5424122",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260503T104500Z",
+      "domain": "ent.ltn.com.tw"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "南韓下重本推生育 微嬰兒潮能否持續意見不一 | 國際",
+      "url": "https://www.cna.com.tw:443/news/aopl/202605100077.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260510T071500Z",
+      "domain": "cna.com.tw"
+    },
+    {
+      "query": "\"South Korea\" \"flood\"",
+      "title": "南韓下重本推生育 微嬰兒潮能否持續意見不一 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202605100077.aspx",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260510T071500Z",
+      "domain": "cna.com.tw"
     },
     {
       "query": "\"South Korea\" \"strike\"",
@@ -247,6 +346,15 @@
     },
     {
       "query": "\"South Korea\" \"strike\"",
+      "title": "三星電子慘了 ？ 17小時馬拉松談判大破局 韓政府急了 ： 不排除強制介入 | 國際 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/News.aspx?NewsID=1837896",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260513T073000Z",
+      "domain": "setn.com"
+    },
+    {
+      "query": "\"South Korea\" \"strike\"",
       "title": "عشرات الآلاف من موظفي « سامسونغ » قي كوريا الجنوبية يتظاهرون للمطالبة بزيادة رواتبهم",
       "url": "https://alwasat.ly/news/economy/515868",
       "source": "",
@@ -264,40 +372,274 @@
       "domain": "world.qianlong.com"
     },
     {
-      "query": "\"South Korea\" \"strike\"",
-      "title": " [ 사설 ] 美빅테크 깜짝실적과 줄잇는 방한 , 정작 한국은 파업 리스크",
-      "url": "https://biz.heraldcorp.com/article/10729236",
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Deutlich spürbares Erdbeben in der Nähe des Bodensees",
+      "url": "https://www.schwaebische.de/regional/bodensee/deutlich-spuerbares-erdbeben-in-der-naehe-des-bodensees-4531881",
       "source": "",
-      "language": "Korean",
-      "published_at": "20260430T024500Z",
-      "domain": "biz.heraldcorp.com"
+      "language": "German",
+      "published_at": "20260426T070000Z",
+      "domain": "schwaebische.de"
     },
     {
-      "query": "\"South Korea\" \"production halt\"",
-      "title": "Ativan shortage exposes fragile economics of Korea essential drugs",
-      "url": "https://www.koreaherald.com/article/10735319",
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "快訊 》 03 : 26臺灣東部海域發生規模4 . 9有感地震 4縣市有感 最大震度2級 | 生活",
+      "url": "https://newtalk.tw/news/view/2026-05-09/1034129",
       "source": "",
-      "language": "English",
-      "published_at": "20260511T063000Z",
-      "domain": "koreaherald.com"
+      "language": "Chinese",
+      "published_at": "20260508T211500Z",
+      "domain": "newtalk.tw"
     },
     {
-      "query": "\"South Korea\" \"production halt\"",
-      "title": "Samsung strike exposes AI - era pay divide , raises HBM supply risks",
-      "url": "https://www.digitimes.com/news/a20260504VL211/samsung-labor-strike-hbm.html",
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Πατριωτικός σεισμός στη Γερμανία - Το AfD « σαρώνει » σε όλες τις δημοσκοπήσεις",
+      "url": "https://www.bankingnews.gr/diethni/articles/870989/patriotikos-seismos-sti-germania-to-afd-saronei-se-oles-tis-dimoskopiseis-panikos-sto-epiteleio-merz",
       "source": "",
-      "language": "English",
-      "published_at": "20260504T130000Z",
-      "domain": "digitimes.com"
+      "language": "Greek",
+      "published_at": "20260425T163000Z",
+      "domain": "bankingnews.gr"
     },
     {
-      "query": "\"South Korea\" \"production halt\"",
-      "title": "China manufacturing heartland tested by Iran war energy shock",
-      "url": "https://www.businesstimes.com.sg/international/chinas-manufacturing-heartland-tested-iran-war-energy-shock",
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Πατριωτικός σεισμός στη Γερμανία - Το AfD « σαρώνει » σε όλες τις δημοσκοπήσεις",
+      "url": "https://www.bankingnews.gr/diethni/articles/870989/patriotikos-seismos-sti-germania-to-afd-saronei-se-oles-tis-dimoskopiseis-panikos-sto-epiteleio-merz%20title=",
+      "source": "",
+      "language": "Greek",
+      "published_at": "20260425T163000Z",
+      "domain": "bankingnews.gr"
+    },
+    {
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "快訊 》 15 : 16宜蘭縣近海發生規模4 . 8有感地震 最大震度宜蘭縣牛鬥3級 | 生活",
+      "url": "https://newtalk.tw/news/view/2026-04-25/1031711",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260425T083000Z",
+      "domain": "newtalk.tw"
+    },
+    {
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "台灣東部海域地震規模6 . 1 台鐵部分列車減速行駛 - 生活",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5422586",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260501T141500Z",
+      "domain": "news.ltn.com.tw"
+    },
+    {
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Fracking in Deutschland : „ Restrisiken nicht gänzlich vermeidbar  ",
+      "url": "http://www.hna.de/wissen/fracking-in-deutschland-restrisiken-nicht-gaenzlich-vermeidbar-zr-94263684.html",
+      "source": "",
+      "language": "German",
+      "published_at": "20260415T161500Z",
+      "domain": "hna.de"
+    },
+    {
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Fracking in Deutschland : „ Restrisiken nicht gänzlich vermeidbar  ",
+      "url": "https://www.hna.de/wissen/fracking-in-deutschland-restrisiken-nicht-gaenzlich-vermeidbar-zr-94263684.html",
+      "source": "",
+      "language": "German",
+      "published_at": "20260415T161500Z",
+      "domain": "hna.de"
+    },
+    {
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Fracking in Deutschland : „ Restrisiken nicht gänzlich vermeidbar  ",
+      "url": "http://www.come-on.de/deutschland-welt/fracking-in-deutschland-restrisiken-nicht-gaenzlich-vermeidbar-zr-94263684.html",
+      "source": "",
+      "language": "German",
+      "published_at": "20260415T161500Z",
+      "domain": "come-on.de"
+    },
+    {
+      "query": "\"Germany\" \"earthquake\"",
+      "title": "Terremoto de magnitude 5 , 8 atinge região de Bio - Bio , no Chile",
+      "url": "https://g1.globo.com/mundo/noticia/2026/05/09/terremoto-atinge-regiao-de-bio-bio-no-chile.ghtml",
+      "source": "",
+      "language": "Portuguese",
+      "published_at": "20260510T044500Z",
+      "domain": "g1.globo.com"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "赖清德发明  偷渡式  外窜 洪秀柱讽刺 偷鸡摸狗行径丢脸 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260505/49470615.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260505T084500Z",
+      "domain": "military.china.com"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "行政院動員全國防汛整備 陳金德視察台南學甲M幹線工程 | 政治",
+      "url": "https://newtalk.tw/news/view/2026-04-14/1029771",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260414T121500Z",
+      "domain": "newtalk.tw"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "赖清德偷偷钻进斯威士兰飞机窜访 ， 洪秀柱酸偷鸡摸狗 ： 非常丢脸 ！ ",
+      "url": "https://www.163.com/dy/article/KS1BRF7H055080L4.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260503T124500Z",
+      "domain": "163.com"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "內控失靈 行外開戶未把關 等同放水 | 詐騙小心點 | 社會",
+      "url": "https://udn.com/news/story/7315/9461110",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260423T181500Z",
+      "domain": "udn.com"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "  洪迪厄斯  号邮轮三名涉疫人员将转运至荷兰 - 千龙网 · 中国首都网",
+      "url": "https://world.qianlong.com/2026/0506/8663906.shtml",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260505T231500Z",
+      "domain": "world.qianlong.com"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "辯 「 洪董大客戶 」 台中銀爆內鬼洗錢36億 … 沒KYC就給最高2千萬轉帳額 | 詐騙小心點 | 社會",
+      "url": "https://udn.com/news/story/124490/9460010",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260423T071500Z",
+      "domain": "udn.com"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "Remulla : Zaldy Co staying in luxury Paris property",
+      "url": "https://www.sunstar.com.ph/manila/remulla-zaldy-co-staying-in-luxury-paris-property-amid-red-notice-bid",
       "source": "",
       "language": "English",
-      "published_at": "20260513T040000Z",
-      "domain": "businesstimes.com.sg"
+      "published_at": "20260508T080000Z",
+      "domain": "sunstar.com.ph"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "东西问丨  洪迪厄斯  号邮轮  零号病人  是谁 ？- 中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/05-11/10619111.shtml",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260511T111500Z",
+      "domain": "chinanews.com.cn"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "Jahr ohne Überschwemmungen : Natur relativ gnädig : Unwetterschäden 2025 gesunken",
+      "url": "https://www.zeit.de/news/2026-04/30/natur-relativ-gnaedig-unwetterschaeden-2025-gesunken",
+      "source": "",
+      "language": "German",
+      "published_at": "20260430T033000Z",
+      "domain": "zeit.de"
+    },
+    {
+      "query": "\"Germany\" \"flood\"",
+      "title": "重庆金佛山 ： 不负绿水青山 ， 独特种质资源焕新生 - 华龙网",
+      "url": "https://www.cqnews.net/web/content_1497503827138138112.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260425T030000Z",
+      "domain": "cqnews.net"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "НПЗ в Туапсе загорелся после атаки БПЛА , пострадавших нет",
+      "url": "https://runews24.ru/incidents/28/04/2026/npz-v-tuapse-zagorelsya-posle-ataki-bpla-postradavshix-net",
+      "source": "",
+      "language": "Russian",
+      "published_at": "20260428T080000Z",
+      "domain": "runews24.ru"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "Brandgefahr : Falsch entsorgte Akkus verursachen Milliardenschäden",
+      "url": "https://www.kreiszeitung.de/lokales/diepholz/bassum-ort51127/falsch-entsorgte-akkus-milliardenschaeden-in-deutschland-awg-batterie-restmuell-landkreis-diepholz-94266597.html",
+      "source": "",
+      "language": "German",
+      "published_at": "20260417T173000Z",
+      "domain": "kreiszeitung.de"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "Brandgefahr : Falsch entsorgte Akkus verursachen Milliardenschäden",
+      "url": "http://www.kreiszeitung.de/lokales/diepholz/bassum-ort51127/falsch-entsorgte-akkus-milliardenschaeden-in-deutschland-awg-batterie-restmuell-landkreis-diepholz-94266597.html",
+      "source": "",
+      "language": "German",
+      "published_at": "20260417T184500Z",
+      "domain": "kreiszeitung.de"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "Дипстрайки Украины на территорию России - что известно о финансировании Германии",
+      "url": "https://24tv.ua/ru/dipstrajki-ukrainy-na-territoriju-rossii-chto-izvestno-o-finansirovanii-germanii_n3065723",
+      "source": "",
+      "language": "Russian",
+      "published_at": "20260511T133000Z",
+      "domain": "24tv.ua"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "46 Medya | Haber , Teknoloji ve Ekonomi Portalı",
+      "url": "http://46medya.com/tr?page=2054",
+      "source": "",
+      "language": "Turkish",
+      "published_at": "20260430T041500Z",
+      "domain": "46medya.com"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": " 【 新聞直擊 】 頂風作案 ！ 中國油輪闖禁區 伊朗要鎖新海峽 ！ | 比亞迪深圳工廠大火 | 伊朗女足隊長 | 萬斯",
+      "url": "https://www.ntdtv.com/b5/2026/04/14/a104086477.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260414T130000Z",
+      "domain": "ntdtv.com"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "国内市占率七成 馆陶小微轴承何以称雄 ？ ",
+      "url": "http://he.people.com.cn/n2/2026/0422/c200202-41559466.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260422T100000Z",
+      "domain": "he.people.com.cn"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "Ukrajina vs . Rusko : Aktuální situace na Ukrajině ONLINE",
+      "url": "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/702030/online-ukrajinci-po-ctvrt-roce-opravili-druzbu-budapest-za-ropu-stahne-veto.html",
+      "source": "",
+      "language": "Czech",
+      "published_at": "20260421T171500Z",
+      "domain": "blesk.cz"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "国内市占率七成 馆陶小微轴承何以称雄 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1863169003698353821",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260422T134500Z",
+      "domain": "baijiahao.baidu.com"
+    },
+    {
+      "query": "\"Germany\" \"factory fire\"",
+      "title": "晶科能源 ( 688223 ): 晶科能源控股有限公司2025年第四季度及2025年度业绩情况说明 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20260416005321.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260416T133000Z",
+      "domain": "cfi.net.cn"
     },
     {
       "query": "\"Germany\" \"strike\"",
@@ -390,67 +732,175 @@
       "domain": "digi24.ro"
     },
     {
-      "query": "\"United States\" \"production halt\"",
-      "title": "Trump China visit adds sparkle to July 4 celebrations for fireworks maker",
-      "url": "https://www.asiaone.com/china/trumps-china-visit-adds-sparkle-july-4-celebrations-fireworks-maker",
+      "query": "\"Germany\" \"power outage\"",
+      "title": "How balcony solar can help renters and homeowners save money",
+      "url": "https://theconversation.com/how-balcony-solar-can-help-renters-and-homeowners-save-money-281620",
       "source": "",
       "language": "English",
-      "published_at": "20260508T071500Z",
-      "domain": "asiaone.com"
+      "published_at": "20260504T140000Z",
+      "domain": "theconversation.com"
     },
     {
-      "query": "\"United States\" \"production halt\"",
-      "title": "Trump China visit adds sparkle to July 4 celebrations for fireworks maker",
-      "url": "https://www.asiaone.com:443/china/trumps-china-visit-adds-sparkle-july-4-celebrations-fireworks-maker",
+      "query": "\"Germany\" \"power outage\"",
+      "title": "Green energy advocates promote DIY solar systems for homes",
+      "url": "https://www.newsday.com/long-island/environment/balcony-solar-power-systems-sunny-act-raapfdyk",
       "source": "",
       "language": "English",
-      "published_at": "20260508T064500Z",
-      "domain": "asiaone.com"
+      "published_at": "20260503T130000Z",
+      "domain": "newsday.com"
     },
     {
-      "query": "\"United States\" \"production halt\"",
-      "title": "沈建光 ： 大选之后的匈牙利能否维持中国投资欧盟的门户",
-      "url": "https://www.yicai.com/news/103153182.html",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260426T144500Z",
-      "domain": "yicai.com"
-    },
-    {
-      "query": "\"United States\" \"production halt\"",
-      "title": "Iran war : What happening on day 62 as Trump asks Iran to  give up ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up/",
+      "query": "\"Germany\" \"power outage\"",
+      "title": "Beyond AI perfect prompt : How India great data centre boom will change world digital map",
+      "url": "https://www.moneycontrol.com/explainers/beyond-ai-s-perfect-prompt-how-india-s-great-data-centre-boom-will-change-world-s-digital-map-article-13902023.html",
       "source": "",
       "language": "English",
-      "published_at": "20260430T081500Z",
-      "domain": "dominicanrepublicpost.com"
+      "published_at": "20260428T120000Z",
+      "domain": "moneycontrol.com"
     },
     {
-      "query": "\"United States\" \"production halt\"",
-      "title": "How U . S . Electric Vehicle Industrial Policy Created A New  Rust Belt  – Analysis – Eurasia Review",
-      "url": "https://www.eurasiareview.com/29042026-how-u-s-electric-vehicle-industrial-policy-created-a-new-rust-belt-analysis/",
+      "query": "\"Germany\" \"power outage\"",
+      "title": "Challenge accepted : Schneider Electric helps industry turn toughest problems into competitive advantage",
+      "url": "https://www.manilatimes.net/2026/04/19/tmt-newswire/globenewswire/challenge-accepted-schneider-electric-helps-industry-turn-toughest-problems-into-competitive-advantage/2323393",
       "source": "",
       "language": "English",
-      "published_at": "20260429T020000Z",
-      "domain": "eurasiareview.com"
+      "published_at": "20260419T073000Z",
+      "domain": "manilatimes.net"
     },
     {
-      "query": "\"United States\" \"production halt\"",
-      "title": "Strait of Hormuz Standoff : Commercial Ships Face Iran Reclosing of Waterways As War Spikes Oil Prices in the U . S . ",
-      "url": "https://newsblaze.com/usnews/national/strait-of-hormuz-standoff-commercial-ships-face-irans-reclosing-of-waterways-as-war-spikes-oil-prices-in-the-u-s_213627/",
+      "query": "\"Germany\" \"power outage\"",
+      "title": "Challenge accepted : Schneider Electric helps industry turn toughest problems into competitive advantage",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68235435-challenge-accepted-schneider-electric-helps-industry-turn-toughest-problems-into-competitive-advantage-399.htm",
       "source": "",
       "language": "English",
-      "published_at": "20260421T091500Z",
-      "domain": "newsblaze.com"
+      "published_at": "20260419T081500Z",
+      "domain": "finanznachrichten.de"
     },
     {
-      "query": "\"United States\" \"port disruption\"",
-      "title": "Synergy Marine and Employee Criminally Charged in Francis Scott Key Bridge Collapse",
-      "url": "https://www.foreignpolicyjournal.com/2026/05/12/synergy-marine-and-employee-criminally-charged-in-francis-scott-key-bridge-collapse/",
+      "query": "\"Germany\" \"power outage\"",
+      "title": "The Worst Sci - fi Anime Of Every Year Of The 2000s",
+      "url": "https://gamerant.com/worst-sci-fi-anime-every-year-2000s/",
       "source": "",
       "language": "English",
-      "published_at": "20260513T004500Z",
-      "domain": "foreignpolicyjournal.com"
+      "published_at": "20260506T001500Z",
+      "domain": "gamerant.com"
+    },
+    {
+      "query": "\"Germany\" \"power outage\"",
+      "title": "10 Insane Conspiracy Theories About World Leaders",
+      "url": "https://listverse.com/2015/05/22/10-insane-conspiracy-theories-about-world-leaders/",
+      "source": "",
+      "language": "English",
+      "published_at": "20260420T231500Z",
+      "domain": "listverse.com"
+    },
+    {
+      "query": "\"Germany\" \"power outage\"",
+      "title": "El 40 aniversario de Chernóbil se united states con demagogia para ... ",
+      "url": "https://www.hispanidad.com/economia/40-aniversario-chernobil-se-usa-con-demagogia-resurja-miedo-nuclear-esta-en-pleno-renacimiento-mundial_12067430_102.html",
+      "source": "",
+      "language": "Spanish",
+      "published_at": "20260501T063000Z",
+      "domain": "hispanidad.com"
+    },
+    {
+      "query": "\"Germany\" \"power outage\"",
+      "title": "NewCa . com Documents",
+      "url": "https://newca.com/doc/5984",
+      "source": "",
+      "language": "English",
+      "published_at": "20260423T000000Z",
+      "domain": "newca.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "قراصنة صينيون يتجسسون على السفارة الكوبية في واشنطن",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=30042026&id=20966f8f-3216-4151-b415-3f42acfab1eb",
+      "source": "",
+      "language": "Arabic",
+      "published_at": "20260429T234500Z",
+      "domain": "shorouknews.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "Minnesota PUC orders Xcel Energy to refund $40 . 6 million to customers after plant outage",
+      "url": "https://www.kare11.com/article/news/local/minnesota-puc-orders-xcel-energy-to-refund-406m-to-customers-after-plant-outage-mn/89-dcdd735c-c752-4ff2-94cc-e74ebac722cc",
+      "source": "",
+      "language": "English",
+      "published_at": "20260507T233000Z",
+      "domain": "kare11.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "جامعة إيرانية : الهجمات الأمريكية الإسرائيلية تستهدف تقدم إيران وأبحاث الذكاء الاصطناعي",
+      "url": "https://www.aljazeera.net/culture/2026/4/13/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
+      "source": "",
+      "language": "Arabic",
+      "published_at": "20260413T110000Z",
+      "domain": "aljazeera.net"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "Gas prices surge despite federal tax break - SwiftCurrentOnline . com - Local news , Weather , Sports , Free Classifieds and Job Listings",
+      "url": "https://www.swiftcurrentonline.com/articles/gas-prices-surge-despite-federal-tax-break",
+      "source": "",
+      "language": "English",
+      "published_at": "20260502T130000Z",
+      "domain": "swiftcurrentonline.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "Continued rising tensions , seasonal trends pushing fuel prices higher - DiscoverAirdrie . com - Local News , Weather , Sports , and Job Listings for Airdrie , Alberta , and the Rocky View County region . ",
+      "url": "https://discoverairdrie.com/articles/continued-rising-tensions-seasonal-trends-pushing-fuel-prices-higher",
+      "source": "",
+      "language": "English",
+      "published_at": "20260501T020000Z",
+      "domain": "discoverairdrie.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "السفير الكوبي لدى الأمم المتحدة لـ  القدس العربي : لن نتخلى عن دعم القضية الفلسطينية في كل الظروف",
+      "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D8%A8%D9%8A-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D9%80%D8%A7%D9%84%D9%82/",
+      "source": "",
+      "language": "Arabic",
+      "published_at": "20260430T220000Z",
+      "domain": "alquds.co.uk"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "Stay Powered in Storms : The Smart Way to Prepare for Hurricane Season",
+      "url": "https://www.thetruthaboutcars.com/post/stay-powered-in-storms-the-smart-way-to-prepare-for-hurricane-season-45135097",
+      "source": "",
+      "language": "English",
+      "published_at": "20260428T170000Z",
+      "domain": "thetruthaboutcars.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "Consumers Energy crews standing by for heavy rain , wind and possible tornadoes across Michigan",
+      "url": "https://www.wzzm13.com/article/weather/weather-impact/consumers-energy-crews-standing-by-for-heavy-rain-wind-and-possible-tornadoes-across-michigan/69-53c3fd1a-8ca8-4172-a4ff-4451a8132793",
+      "source": "",
+      "language": "English",
+      "published_at": "20260415T000000Z",
+      "domain": "wzzm13.com"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "REPLAY . Guerre en Ukraine  : Melania Trump dit avoir ouvert  un canal de communication  avec Poutine sur le sort des enfants ukrainiens",
+      "url": "https://www.ladepeche.fr/2025/10/10/replay-guerre-en-ukraine-melania-trump-dit-avoir-ouvert-un-canal-de-communication-avec-poutine-sur-le-sort-des-enfants-ukrainiens-12983459.php",
+      "source": "",
+      "language": "French",
+      "published_at": "20260512T163000Z",
+      "domain": "ladepeche.fr"
+    },
+    {
+      "query": "\"United States\" \"power outage\"",
+      "title": "شهادة ناجٍ من طاقم سفينة استُهدفت في حرب إيران",
+      "url": "https://www.aljazeera.net/politics/2026/5/9/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D9%86%D8%A7%D8%AC-%D9%85%D9%86-%D8%B7%D8%A7%D9%82%D9%85-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D9%81%D9%8A",
+      "source": "",
+      "language": "Arabic",
+      "published_at": "20260509T143000Z",
+      "domain": "aljazeera.net"
     },
     {
       "query": "\"Mexico\" \"earthquake\"",
@@ -543,544 +993,346 @@
       "domain": "rpp.pe"
     },
     {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "CLIMA Día 3 del diluvio : este martesserá el día con lluvias más intensas en 3 estados",
-      "url": "https://lasillarota.com/estados/2026/5/11/dia-del-diluvio-este-martes-sera-el-dia-con-lluvias-mas-intensas-en-estados-598731.html",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260512T044500Z",
-      "domain": "lasillarota.com"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "Monsoon integrated warning team workshop",
-      "url": "https://www.koat.com/article/monsoon-integrated-warning-team-workshop/71267156",
-      "source": "",
-      "language": "English",
-      "published_at": "20260511T131500Z",
-      "domain": "koat.com"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "Medellín quiere ser  ciudad esponja  con megatanque subterráneo y parques inundables",
-      "url": "https://www.elcolombiano.com/inicio/sistemas-de-drenaje-sostenible-medellin-ciudad-esponja-DM35827774",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260424T141500Z",
-      "domain": "elcolombiano.com"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "Medellín quiere ser  ciudad esponja  con megatanque subterráneo y parques inundables",
-      "url": "https://www.elcolombiano.com/medellin/sistemas-de-drenaje-sostenible-medellin-ciudad-esponja-DM35827774",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260424T130000Z",
-      "domain": "elcolombiano.com"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "Wildfire and flood risk leads thousands of New Mexicans to lose insurance",
-      "url": "https://www.kob.com/new-mexico/wildfire-and-flood-risk-leads-thousands-of-new-mexicans-to-lose-insurance/",
-      "source": "",
-      "language": "English",
-      "published_at": "20260414T050000Z",
-      "domain": "kob.com"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "尤努斯三零ESG精英講座 談善循環不放棄的公益精神",
-      "url": "https://www.cna.com.tw:443/postwrite/chi/433000",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260508T110000Z",
-      "domain": "cna.com.tw"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "BTS conquista la CDMX ; primer concierto en el Estadio GNP deja ola de memes ; así reaccionaron usuarios en X",
-      "url": "https://www.eluniversal.com.mx/tendencias/bts-conquista-la-cdmx-primer-concierto-en-el-estadio-gnp-deja-ola-de-memes-asi-reaccionaron-usuarios-en-x/",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260509T034500Z",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "百想紅毯 ／ 禮服快滑落 ！ 女星暴瘦 「 上圍撐不住 」 狂喬胸 驚險瞬間全播出 | 娛樂星聞 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1835527",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260508T121500Z",
-      "domain": "setn.com"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "NASA - Daten zeigen : Hauptstadt versinkt um mehr als zwei Zentimeter – pro Monat",
-      "url": "https://www.merkur.de/wissen/nasa-daten-zeigen-hauptstadt-versinkt-um-mehr-als-zwei-zentimeter-pro-monat-zr-94296044.html",
-      "source": "",
-      "language": "German",
-      "published_at": "20260507T111500Z",
-      "domain": "merkur.de"
-    },
-    {
-      "query": "\"Mexico\" \"flood\"",
-      "title": "NASA - Daten zeigen : Hauptstadt versinkt um mehr als zwei Zentimeter – pro Monat",
-      "url": "http://www.merkur.de/wissen/nasa-daten-zeigen-hauptstadt-versinkt-um-mehr-als-zwei-zentimeter-pro-monat-zr-94296044.html",
-      "source": "",
-      "language": "German",
-      "published_at": "20260507T124500Z",
-      "domain": "merkur.de"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "一场坠机揭开 ： 美国在墨西哥行动到底水有多深 ？ ",
-      "url": "https://www.wenxuecity.com/news/2026/04/21/126625516.html",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260421T214500Z",
-      "domain": "wenxuecity.com"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "Advierte SEPOMEX posible huelga a partir del viernes",
-      "url": "https://horacero.com.mx/reynosa/advierte-sepomex-posible-huelga-a-partir-del-viernes",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260427T214500Z",
-      "domain": "horacero.com.mx"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "2美駐墨大使館人員墜崖身亡 ! 墨總統表哀悼 但質疑掃毒行動未獲授權 | 國際",
-      "url": "https://newtalk.tw/news/view/2026-04-21/1030950",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260421T093000Z",
-      "domain": "newtalk.tw"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "美媒说美国务院正在审查所有墨西哥驻美领事馆 - 新华网",
-      "url": "https://www.news.cn/world/20260508/d294887e663e4dc38cda05c8a4f0ded4/c.html",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260508T070000Z",
-      "domain": "news.cn"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "  Inminente , primera huelga en el Servicio Postal Mexicano – Periódico Zócalo | Noticias de Saltillo , Torreón , Piedras Negras , Monclova , Acuña",
-      "url": "https://www.zocalo.com.mx/inminente-primera-huelga-en-el-servicio-postal-mexicano/",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260425T164500Z",
-      "domain": "zocalo.com.mx"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "Paro nacional del CNTE será para el Mundial de Futbol",
-      "url": "https://www.am.com.mx/nacional/2026/04/28/paro-nacional-del-cnte-sera-para-el-mundial-de-futbol-1786349.html",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260429T020000Z",
-      "domain": "am.com.mx"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "西媒 ： 以  打击毒贩  为名 ， 特朗普持续对墨西哥施压 - 千龙网 · 中国首都网",
-      "url": "https://world.qianlong.com/2026/0504/8663628.shtml",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260504T174500Z",
-      "domain": "world.qianlong.com"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "Шесть человек умерли от теплового удара в железнодорожном контейнере",
-      "url": "https://gazeta.ua/ru/articles/world-life/_sest-chelovek-umerli-ot-teplovogo-udara-v-zheleznodorozhnom-kontejnere/1250221",
-      "source": "",
-      "language": "Russian",
-      "published_at": "20260512T053000Z",
-      "domain": "gazeta.ua"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "Día del Trabajo en México 2026 : por qué se celebra el 1 de mayo y qué derechos laborales debes conocer y defender",
-      "url": "https://wradio.com.mx/2026/05/01/dia-del-trabajo-en-mexico-2026-por-que-se-celebra-el-1-de-mayo-y-que-derechos-laborales-debes-conocer-y-defender/",
-      "source": "",
-      "language": "Spanish",
-      "published_at": "20260501T201500Z",
-      "domain": "wradio.com.mx"
-    },
-    {
-      "query": "\"Mexico\" \"strike\"",
-      "title": "أولياء الأمور في المكسيك يهددون الحكومة بالإضراب بسبب كأس العالم",
-      "url": "https://www.shorouknews.com/news/view.aspx?cdate=09052026&id=da075899-a877-4acd-bce3-fafc326347f9",
-      "source": "",
-      "language": "Arabic",
-      "published_at": "20260509T110000Z",
-      "domain": "shorouknews.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "Giám sát kết quả hỗ trợ người dân bị thiệt hại do lũ ở Khánh Hòa",
-      "url": "https://plo.vn/giam-sat-ket-qua-ho-tro-nguoi-dan-bi-thiet-hai-do-lu-o-khanh-hoa-post905112.html",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260420T154500Z",
-      "domain": "plo.vn"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "迎鋼鐵景氣復甦 中龍總經理洪正雄豪喊 ： 出貨愈多獎金發愈多 | 產業綜合 | 產經",
-      "url": "https://udn.com/news/story/7241/9450105",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260418T120000Z",
-      "domain": "udn.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "Kiểm tra , làm rõ việc chậm chi trả hỗ trợ người dân bị ảnh hưởng lũ lụt",
-      "url": "https://baotintuc.vn/thoi-su/kiem-tra-lam-ro-viec-cham-chi-tra-ho-tro-nguoi-dan-bi-anh-huong-lu-lut-20260426123123621.htm",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260426T070000Z",
-      "domain": "baotintuc.vn"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "王小洪现身辟谣 诡异缺席越南公安部长会见",
-      "url": "https://www.renminbao.com/rmb/articles/2026/4/16/94881.html",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260415T231500Z",
-      "domain": "renminbao.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "重庆2400个感知设备  紧盯  雨情 数智赋能防汛 _ 新闻频道 _ 中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260420/49429886.html",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260420T003000Z",
-      "domain": "news.china.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "越南麵包遇上法治教育 金門移民署打造新住民多元學習體驗",
-      "url": "https://n.yam.com/Article/20260501431186",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260501T141500Z",
-      "domain": "n.yam.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "Kiểm tra , làm rõ việc chậm chi trả hỗ trợ người dân bị ảnh hưởng lũ lụt",
-      "url": "https://baomoi.com/kiem-tra-lam-ro-viec-cham-chi-tra-ho-tro-nguoi-dan-bi-anh-huong-lu-lut-c55027977.epi",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260426T071500Z",
-      "domain": "baomoi.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "越夜越精彩 ！ 渝中  五一  假期  消购两旺 - 华龙网",
-      "url": "https://www.cqnews.net/web/content_1500899672514916352.html",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260505T014500Z",
-      "domain": "cqnews.net"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "北車商場爭議 台鐵董座 ： 2周內公布調查結果 仍先與新光三越議約 | 生活新聞 | 生活",
-      "url": "https://udn.com/news/story/7266/9473491",
-      "source": "",
-      "language": "Chinese",
-      "published_at": "20260430T030000Z",
-      "domain": "udn.com"
-    },
-    {
-      "query": "\"Vietnam\" \"flood\"",
-      "title": "Bàn giao nhà an toàn cho người dân chịu ảnh hưởng bởi thiên tai tại tỉnh Đắk Lắk",
-      "url": "https://baomoi.com/ban-giao-nha-an-toan-cho-nguoi-dan-chiu-anh-huong-boi-thien-tai-tai-tinh-dak-lak-c54954968.epi",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260416T171500Z",
-      "domain": "baomoi.com"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Ca sĩ Đoan Trường chinh phục Pakistan - Quốc gia thường xuyên bị mất điện 5h mỗi ngày",
-      "url": "https://vietbao.vn/ca-si-doan-truong-chinh-phuc-pakistan-quoc-gia-thuong-xuyen-bi-mat-dien-5h-moi-ngay-591644.html",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260511T033000Z",
-      "domain": "vietbao.vn"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Texas tornado update : Assessing power outages , injuries , damages in Mineral Wells ; more storms and flood risks expected",
-      "url": "https://www.hindustantimes.com/world-news/us-news/texas-tornado-update-assessing-power-outages-injuries-damages-in-mineral-wells-more-storms-and-flood-risks-expected-101777465516974.html",
-      "source": "",
-      "language": "English",
-      "published_at": "20260429T140000Z",
-      "domain": "hindustantimes.com"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Legacy Yen Tu MGallery review : A tranquil Vietnam hotel near a sacred mountain",
-      "url": "https://www.theage.com.au/traveller/reviews-and-advice/asian-mountain-resort-is-the-ultimate-place-to-find-tranquillity-20260417-p5zovp.html",
-      "source": "",
-      "language": "English",
-      "published_at": "20260429T220000Z",
-      "domain": "theage.com.au"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Trùng tu nhà tưởng niệm thi nhân Đông Hồ - Mộng Tuyết",
-      "url": "https://baomoi.com/trung-tu-nha-tuong-niem-thi-nhan-dong-ho-mong-tuyet-c54993827.epi",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260422T034500Z",
-      "domain": "baomoi.com"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "10 Essential Revenge Thrillers You May Have Missed",
-      "url": "https://www.flickeringmyth.com/10-essential-revenge-thrillers-you-may-have-missed/",
-      "source": "",
-      "language": "English",
-      "published_at": "20260512T230000Z",
-      "domain": "flickeringmyth.com"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Hủy show phút chót của Anyma tại Coachella : Cái giá của những show diễn công nghệ cao",
-      "url": "https://tuoitre.vn/huy-show-phut-chot-cua-anyma-tai-coachella-cai-gia-cua-nhung-show-dien-cong-nghe-cao-20260414094334078.htm",
-      "source": "",
-      "language": "Vietnamese",
-      "published_at": "20260414T051500Z",
-      "domain": "tuoitre.vn"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Chulalongkorn University Engineering Prepares For  SMR -- Newer , Safer Small Nuclear Power Plants For Clean Energy In Thailand",
-      "url": "https://www.poweronline.com/doc/chulalongkorn-university-s-engineering-prepares-smrs-newer-safer-small-nuclear-power-plants-clean-0001",
-      "source": "",
-      "language": "English",
-      "published_at": "20260428T074500Z",
-      "domain": "poweronline.com"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Chulalongkorn University Engineering Prepares for",
-      "url": "http://www.australiannews.net/news/279003747/chulalongkorn-university-engineering-prepares-for-smrs-newer-safer-small-nuclear-power-plants-for-clean-energy-in-thailand",
-      "source": "",
-      "language": "English",
-      "published_at": "20260422T084500Z",
-      "domain": "australiannews.net"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Chulalongkorn University Engineering Prepares for",
-      "url": "http://www.vietnamtribune.com/news/279003747/chulalongkorn-university-engineering-prepares-for-smrs-newer-safer-small-nuclear-power-plants-for-clean-energy-in-thailand",
-      "source": "",
-      "language": "English",
-      "published_at": "20260422T093000Z",
-      "domain": "vietnamtribune.com"
-    },
-    {
-      "query": "\"Vietnam\" \"power outage\"",
-      "title": "Chulalongkorn University Engineering Prepares for",
-      "url": "http://www.malaysiasun.com/news/279003747/chulalongkorn-university-engineering-prepares-for-smrs-newer-safer-small-nuclear-power-plants-for-clean-energy-in-thailand",
-      "source": "",
-      "language": "English",
-      "published_at": "20260422T093000Z",
-      "domain": "malaysiasun.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "ভারত – মিয়ানমার সীমান্তে ভূমিকম্প",
-      "url": "https://www.arthosuchak.com/archives/955226/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-2/",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "কিউবার সার্বভৌমত্ব রক্ষায় একাট্টা মেক্সিকো , স্পেন ও ব্রাজিল",
+      "url": "https://dailyinqilab.com/international/news/885646",
       "source": "",
       "language": "Bengali",
-      "published_at": "20260421T083000Z",
-      "domain": "arthosuchak.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "দেশে ভূমিকম্প অনুভূত , উৎপত্তি কোথায়",
-      "url": "https://dailynayadiganta.com/bangladesh/national/rUDLFxXH06MG",
-      "source": "",
-      "language": "Bengali",
-      "published_at": "20260509T114500Z",
-      "domain": "dailynayadiganta.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "પૂર્વોત્તર ભારતમાં ભૂકંપનો જોરદાર આંચકો : 5 રાજ્યોની ધરા ધ્રુજી , રિક્ટર સ્કેલ પર 5 . 2ની તીવ્રતા નોંધાઈ",
-      "url": "https://www.gujaratsamachar.com/news/national/5-2-magnitude-earthquake-hits-northeast-india-tremors-felt-in-5-states-67322156599.html",
-      "source": "",
-      "language": "Gujarati",
-      "published_at": "20260421T024500Z",
-      "domain": "gujaratsamachar.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "সাতসকালে ভূমিকম্পে কেঁপে উঠল রাজধানীসহ দেশের বিভিন্ন স্থান",
-      "url": "https://www.jugantor.com/national/1091785",
-      "source": "",
-      "language": "Bengali",
-      "published_at": "20260421T050000Z",
-      "domain": "jugantor.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "ভোরে ৫ . ১ মাত্রার ভূমিকম্পে কেঁপে উঠল ঢাকাসহ দেশের বিভিন্ন অঞ্চল",
-      "url": "https://www.dhakatimes24.com/2026/04/21/404907",
-      "source": "",
-      "language": "Bengali",
-      "published_at": "20260421T043000Z",
-      "domain": "dhakatimes24.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "আবারও ভূমিকম্প উৎপত্তিস্থল কোথায় , মাত্রা কত ? ",
-      "url": "https://www.jugantor.com/national/1091789",
-      "source": "",
-      "language": "Bengali",
-      "published_at": "20260421T050000Z",
-      "domain": "jugantor.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "ಲಡಾಖ್ ನಲ್ಲಿ 4 . 1 ತೀವ್ರತೆಯ ಭೂಕಂಪ : ಲೇಹ್ ಕೇಂದ್ರಬಿಂದು | Udayavani - Latest Kannada News , Udayavani Newspaper",
-      "url": "https://udayavani.com/national-news/ladakh-shaken-by-41-magnitude-earthquake-epicentre-in-leh-521303",
-      "source": "",
-      "language": "Kannada",
-      "published_at": "20260430T063000Z",
-      "domain": "udayavani.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "মধ্যরাতে ভূমিকম্প , মিয়ানমারের সঙ্গে কেঁপে উঠল বাংলাদেশও",
-      "url": "https://www.jugantor.com/national/1100242",
-      "source": "",
-      "language": "Bengali",
-      "published_at": "20260511T050000Z",
-      "domain": "jugantor.com"
-    },
-    {
-      "query": "\"India\" \"earthquake\"",
-      "title": "মিয়ানমারে ৫ মাত্রার ভূমিকম্প , কেঁপে উঠল চট্টগ্রাম",
-      "url": "https://dailyinqilab.com/international/news/893341",
-      "source": "",
-      "language": "Bengali",
-      "published_at": "20260511T034500Z",
+      "published_at": "20260420T060000Z",
       "domain": "dailyinqilab.com"
     },
     {
-      "query": "\"India\" \"earthquake\"",
-      "title": "Землетрясение силой 5 , 2 произошло на востоке Индии :: Новости дня / ВЗГЛЯД",
-      "url": "https://vz.ru/news/2026/4/21/1412519.html",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Toman y liberan Campus UAZ Siglo XXI - El Sol de Zacatecas | Noticias Locales , Policiacas , sobre México , Zacatecas y el Mundo",
+      "url": "https://oem.com.mx:443/elsoldezacatecas/local/toman-y-liberan-campus-uaz-siglo-xxi-29837566",
       "source": "",
-      "language": "Russian",
-      "published_at": "20260421T054500Z",
-      "domain": "vz.ru"
+      "language": "Spanish",
+      "published_at": "20260506T154500Z",
+      "domain": "oem.com.mx"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "Bank Strike : 2 दिन की बैंक हड़ताल का ऐलान , SBI की बैंकिंग सेवाओं पर पड़ेगा असर , नोटिस जारी - two day bank strike announced sbi banking services to be affected",
-      "url": "https://www.punjabkesari.in/business/news/two-day-bank-strike-announced-sbi-banking-services-to-be-affected-2329640",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Productores de frijol protestan en Tacoaleche por precio de garantía - El Sol de Zacatecas | Noticias Locales , Policiacas , sobre México , Zacatecas y el Mundo",
+      "url": "https://oem.com.mx:443/elsoldezacatecas/local/productores-de-frijol-protestan-en-tacoaleche-por-precio-de-garantia-29840239",
       "source": "",
-      "language": "Hindi",
-      "published_at": "20260502T140000Z",
-      "domain": "punjabkesari.in"
+      "language": "Spanish",
+      "published_at": "20260506T194500Z",
+      "domain": "oem.com.mx"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "બ્રહ્મોસના પ્રહારથી આજે પણ ધ્રૂજે છે પાકિસ્તાન : ઓપરેશન સિંદૂર બાદ ભારતના આ 3 હથિયારોનો દુનિયામાં વાગ્યો ડંકો",
-      "url": "https://www.gujaratsamachar.com/news/national/operation-sindoor-how-india-s-brahmos-akash-and-pinaka-reshaped-global-defense-17138230512.html",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "No te alarmes : Sonará alerta en celulares por simulacro nacional - El Sol de Zacatecas | Noticias Locales , Policiacas , sobre México , Zacatecas y el Mundo",
+      "url": "https://oem.com.mx:443/elsoldezacatecas/local/no-te-alarmes-sonara-alerta-en-celulares-por-simulacro-nacional-29830148",
       "source": "",
-      "language": "Gujarati",
-      "published_at": "20260507T111500Z",
-      "domain": "gujaratsamachar.com"
+      "language": "Spanish",
+      "published_at": "20260506T021500Z",
+      "domain": "oem.com.mx"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "India restricts Bay of Bengal airspace from May 6 – 9 amid possible missile test buzz",
-      "url": "https://economictimes.indiatimes.com/news/india/india-restricts-bay-of-bengal-airspace-from-may-69-amid-possible-missile-test-buzz/articleshow/130893899.cms",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Maestros de Zacatecas irán a paro nacional indefinido - El Sol de Zacatecas | Noticias Locales , Policiacas , sobre México , Zacatecas y el Mundo",
+      "url": "https://oem.com.mx:443/elsoldezacatecas/local/maestros-de-zacatecas-iran-a-paro-nacional-indefinido-29845084",
       "source": "",
-      "language": "English",
-      "published_at": "20260507T124500Z",
-      "domain": "economictimes.indiatimes.com"
+      "language": "Spanish",
+      "published_at": "20260507T074500Z",
+      "domain": "oem.com.mx"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "Pakistan tests  Taimoor  cruise missile , sends message in Arabia Sea : Can it really match India naval power ? ",
-      "url": "https://www.moneycontrol.com/world/pakistan-tests-taimoor-cruise-missile-sends-message-in-arabia-sea-can-it-really-match-india-s-naval-power-article-13896524.html",
-      "source": "",
-      "language": "English",
-      "published_at": "20260422T131500Z",
-      "domain": "moneycontrol.com"
-    },
-    {
-      "query": "\"India\" \"strike\"",
-      "title": "Mission Divyastra : Why India advanced Agni MIRV missile test is a major breakthrough",
-      "url": "https://www.businesstoday.in/india/story/mission-divyastra-why-indias-advanced-agni-mirv-missile-test-is-a-major-breakthrough-530675-2026-05-09",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Padres hitters looking forward to some altitude therapy this week",
+      "url": "https://www.sandiegouniontribune.com/2026/04/21/padres-hitters-looking-forward-to-some-altitude-therapy-this-week/",
       "source": "",
       "language": "English",
-      "published_at": "20260509T173000Z",
-      "domain": "businesstoday.in"
+      "published_at": "20260421T150000Z",
+      "domain": "sandiegouniontribune.com"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "Advanced Agni missile successfully tested by India , can hit multiple targets",
-      "url": "https://www.moneycontrol.com/news/india/india-successfully-tests-advanced-agni-missile-capable-of-hitting-multiple-targets-13913801.html",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Corky : Part II an often requested tale , still with no embellishments",
+      "url": "https://www.ocregister.com/2026/04/25/corky-part-ii-an-often-requested-tale-still-with-no-embellishments/",
       "source": "",
       "language": "English",
-      "published_at": "20260509T123000Z",
-      "domain": "moneycontrol.com"
+      "published_at": "20260425T173000Z",
+      "domain": "ocregister.com"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "SBI Staff Strike May 25 - 26 : Services May Halt for 16 Demands",
-      "url": "https://divyamarathi.bhaskar.com/business/news/sbi-staff-strike-may-25-26-16-demands-137862618.html",
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Living Off - Grid Vs . in a Van , From Someone Who Did Both",
+      "url": "https://www.businessinsider.com/living-off-grid-vs-van-life-pros-cons-benefits-2026-5",
+      "source": "",
+      "language": "English",
+      "published_at": "20260510T144500Z",
+      "domain": "businessinsider.com"
+    },
+    {
+      "query": "\"Mexico\" \"power outage\"",
+      "title": "Arizona Diamondbacks Gameday Thread , # 23 : 4 / 21 vs . White Sox",
+      "url": "https://www.azsnakepit.com/arizona-diamondbacks-discussion/91356/arizona-diamondbacks-gameday-thread-23-4-21-vs-white-sox",
+      "source": "",
+      "language": "English",
+      "published_at": "20260422T034500Z",
+      "domain": "azsnakepit.com"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "200萬人小心 ！「 1主食 」 吃多會傷腎 害人尿毒症亡 | 祝你健康 | 三立新聞網 HEALTH . SETN . COM",
+      "url": "https://health.setn.com/news/1837797",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260513T043000Z",
+      "domain": "health.setn.com"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "김용범 , 삼성전자 노사 문제에  대화로 해결 바란다  ",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=07655526645419072&mediaCodeNo=257",
+      "source": "",
+      "language": "Korean",
+      "published_at": "20260423T151500Z",
+      "domain": "edaily.co.kr"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "极越汽车关联公司进入破产程序",
+      "url": "https://tech.ifeng.com/c/8sj3Wqp9mYZ",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260429T231500Z",
+      "domain": "tech.ifeng.com"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "藍營 「 副主席 」 屢出包 ！ 吳思瑤 ： 鄭麗文人事紅統內鬥 、 走向一言堂 - 政治",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5424105",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260503T104500Z",
+      "domain": "news.ltn.com.tw"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "藍營 「 副主席 」 屢出包 ！ 吳思瑤 ： 鄭麗文人事紅統內鬥 、 走向一言堂 - 臺北市",
+      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5424105",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260503T104500Z",
+      "domain": "news.ltn.com.tw"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "自由廣場 》﹙ 鏗鏘集 ﹚ 南韓北朝兩國論 東亞開啟新歷史",
+      "url": "https://talk.ltn.com.tw/article/paper/1754643",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260512T234500Z",
+      "domain": "talk.ltn.com.tw"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": " [ QUIZ ] Ngày Quốc tế Lao động đầu tiên ở Việt Nam được tổ chức khi nào ? ",
+      "url": "https://baohatinh.vn/quiz-ngay-quoc-te-lao-dong-dau-tien-o-viet-nam-duoc-to-chuc-khi-nao-post309232.html",
+      "source": "",
+      "language": "Vietnamese",
+      "published_at": "20260430T223000Z",
+      "domain": "baohatinh.vn"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": " [ QUIZ ] Ngày Quốc tế Lao động được tổ chức đầu tiên ở Việt Nam khi nào ? ",
+      "url": "https://baohatinh.vn/quiz-ngay-quoc-te-lao-dong-duoc-to-chuc-dau-tien-o-viet-nam-khi-nao-post309232.html",
+      "source": "",
+      "language": "Vietnamese",
+      "published_at": "20260501T030000Z",
+      "domain": "baohatinh.vn"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "中越海警2026年第一次北部湾联合巡逻圆满结束",
+      "url": "http://www.legaldaily.com.cn/index/content/2026-04/27/content_9380221.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260427T060000Z",
+      "domain": "legaldaily.com.cn"
+    },
+    {
+      "query": "\"Vietnam\" \"strike\"",
+      "title": "协作机器人卖到全球第一后 ， 越疆为什么说  场景才是具身智能的未来 ？_ 深圳新闻网",
+      "url": "https://www.sznews.com/news/content/2026-04/24/content_32027332.htm",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260424T113000Z",
+      "domain": "sznews.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "印度移工引社會反彈 洪孟楷轟民進黨甩鍋在野 ： 藍白沒有拿刀逼你簽MOU | 蕭宥宸 | 新聞",
+      "url": "https://www.storm.mg/article/11121218",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260414T153000Z",
+      "domain": "storm.mg"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "移工訴求全面納勞保 、 勞退 勞長洪申翰 ： 審慎評估中 | 財經焦點 | 產經",
+      "url": "https://udn.com/news/story/7238/9472107",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260429T091500Z",
+      "domain": "udn.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "印度移工引進爭議 藍反對 、 要求配套 | 印度 | 國民黨 | 反對",
+      "url": "http://www.epochtimes.com.tw/n500435/%E5%8D%B0%E5%BA%A6%E7%A7%BB%E5%B7%A5%E5%BC%95%E9%80%B2%E7%88%AD%E8%AD%B0-%E8%97%8D%E5%8F%8D%E5%B0%8D%E3%80%81%E8%A6%81%E6%B1%82%E9%85%8D%E5%A5%97.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260413T204500Z",
+      "domain": "epochtimes.com.tw"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "洪孟楷倡鞭刑打詐 韓國瑜 ： 亂世用重典 深受感動 | 綜合 | 要聞",
+      "url": "https://udn.com/news/story/7314/9461706",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260424T033000Z",
+      "domain": "udn.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "India - Nepal Draft Roadmap for Flood Control and Irrigation Cooperation",
+      "url": "https://dailypioneer.com/news/india-nepal-draft-a-roadmap-for-flood-control-and-irrigation-cooperation",
+      "source": "",
+      "language": "English",
+      "published_at": "20260503T130000Z",
+      "domain": "dailypioneer.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "拍劇狠勒太太梁諾妍脖子 洪永城不憐香惜玉惹熱議 - 娛樂",
+      "url": "https://www.wenweipo.com/a/202605/08/AP69fcb880e4b0b49ad1b9f169.html",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260507T174500Z",
+      "domain": "wenweipo.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "India is vital to global AI ; AGI requires further breakthroughs , says Google chief scientist",
+      "url": "https://www.livemint.com/companies/news/india-global-ai-google-chief-scientist-anthropic-openai-tech-giant-sundar-pichai-airtel-agriculture-11777197978808.html",
+      "source": "",
+      "language": "English",
+      "published_at": "20260427T031500Z",
+      "domain": "livemint.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "印度移工還沒來就炸鍋 ! 網路投票6成民眾一面倒 最新結果是 ..... | 政治",
+      "url": "https://newtalk.tw/news/view/2026-04-15/1029916",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260415T080000Z",
+      "domain": "newtalk.tw"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "庆大法洪传34周年 马来西亚法轮功学员谢师恩 | 世界法轮大法日 | 法轮大法洪传世界34周年",
+      "url": "https://www.epochtimes.com/gb/26/5/10/n14760876.htm",
+      "source": "",
+      "language": "Chinese",
+      "published_at": "20260511T010000Z",
+      "domain": "epochtimes.com"
+    },
+    {
+      "query": "\"India\" \"flood\"",
+      "title": "Amit Shah calls for integrated forecasting system at Centre , state",
+      "url": "https://aninews.in/news/national/general-news/amit-shah-calls-for-integrated-forecasting-system-at-centre-state20260510203829/",
+      "source": "",
+      "language": "English",
+      "published_at": "20260510T163000Z",
+      "domain": "aninews.in"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": "Indijos fejerverkų gamykloje kilus gaisrui žuvo 20 žmonių",
+      "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2903101/indijos-fejerverku-gamykloje-kilus-gaisrui-zuvo-20-zmoniu",
+      "source": "",
+      "language": "Lithuanian",
+      "published_at": "20260419T164500Z",
+      "domain": "lrt.lt"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": "प्रासंगिक – अग्नी सुरक्षा : सार्वत्रिक जबाबदारी",
+      "url": "https://www.saamana.com/article-prasngik-on-fire-safety-a-collective-responsibility/",
       "source": "",
       "language": "Marathi",
-      "published_at": "20260505T124500Z",
+      "published_at": "20260414T030000Z",
+      "domain": "saamana.com"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": "China Fireworks Factory Burns In Flames : What Behind Deadly Fire That Killed 21 And Injured 61",
+      "url": "https://www.newsx.com/world/china-fireworks-factory-burns-in-flames-whats-behind-deadly-fire-that-killed-21-and-injured-61-hunan-province-212298/",
+      "source": "",
+      "language": "English",
+      "published_at": "20260505T100000Z",
+      "domain": "newsx.com"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": "Welding Fire Safety Tips Marathi | वेल्डिंगमुळे लागणारी आग कशी रोखायची ? ",
+      "url": "https://www.loksatta.com/vasturang/welding-safety-tips-fire-hazards-electrical-short-circuit-prevention-marathi-vasturang-ocd-94-5856992/",
+      "source": "",
+      "language": "Marathi",
+      "published_at": "20260425T050000Z",
+      "domain": "loksatta.com"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": "기아 , 외형 성장에도 수익성 급락 … 관세 · 유럽 경쟁 영향",
+      "url": "https://zdnet.co.kr/view/?no=20260424154450",
+      "source": "",
+      "language": "Korean",
+      "published_at": "20260424T090000Z",
+      "domain": "zdnet.co.kr"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": "Iran - Pakistan Officials Meeting Ahead of April 21 ; US - Iran Peace Deal Nears",
+      "url": "https://divyamarathi.bhaskar.com/international/news/iran-pakistan-delegation-talks-us-iran-peace-deal-close-137709142.html",
+      "source": "",
+      "language": "Marathi",
+      "published_at": "20260416T051500Z",
       "domain": "divyamarathi.bhaskar.com"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "Lessons from labour struggles - The Tribune",
-      "url": "https://www.tribuneindia.com/news/comment/lessons-from-labour-struggles/",
+      "query": "\"India\" \"factory fire\"",
+      "title": "Pakistan New Geographic Designation Brings Complications",
+      "url": "https://foreignpolicy.com/2026/04/29/pakistan-world-bank-imf-middle-east-saudi-arabia-india-south-asia/?tpcc=recirc_trending062921",
       "source": "",
       "language": "English",
-      "published_at": "20260510T224500Z",
-      "domain": "tribuneindia.com"
+      "published_at": "20260429T231500Z",
+      "domain": "foreignpolicy.com"
     },
     {
-      "query": "\"India\" \"strike\"",
-      "title": "莫迪所屬人民黨橫掃地方大選 ： 反對派全面式微 ， 印度為何走向 「 一黨獨大 」？ - TNL The News Lens 關鍵評論網",
-      "url": "https://www.thenewslens.com/article/267440",
+      "query": "\"India\" \"factory fire\"",
+      "title": "Pakistan New Geographic Designation Brings Complications",
+      "url": "https://foreignpolicy.com/2026/04/29/pakistan-world-bank-imf-middle-east-saudi-arabia-india-south-asia/",
+      "source": "",
+      "language": "English",
+      "published_at": "20260430T011500Z",
+      "domain": "foreignpolicy.com"
+    },
+    {
+      "query": "\"India\" \"factory fire\"",
+      "title": " 【 新聞第一線 】 驚爆美對古巴軍事計劃 美航母封鎖錄音曝光",
+      "url": "https://www.ntdtv.com/b5/2026/04/15/a104087041.html",
       "source": "",
       "language": "Chinese",
-      "published_at": "20260507T073000Z",
-      "domain": "thenewslens.com"
-    },
-    {
-      "query": "\"India\" \"strike\"",
-      "title": "SBI Banks may remain closed for 4 consecutive days in May 2026 , employees preparing for strike बैंक ग्राहकों के लिए अलर्ट ! मई में लगातार 4 दिन ठप रहेगा काम , इन मांगों को लेकर हड़ताल की तैयारी , Business Hindi News",
-      "url": "https://www.livehindustan.com/business/sbi-banks-may-remain-closed-for-4-consecutive-days-in-may-2026-employees-preparing-for-strike-201777975086510.html",
-      "source": "",
-      "language": "Hindi",
-      "published_at": "20260505T110000Z",
-      "domain": "livehindustan.com"
+      "published_at": "20260416T001500Z",
+      "domain": "ntdtv.com"
     }
   ]
 }
