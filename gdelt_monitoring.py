@@ -1,261 +1,134 @@
 import requests
+import pandas as pd
 import json
-import time
 from datetime import datetime
+from urllib.parse import quote
+import time
 
 # =========================
-# 국가 설정
+# 1. 검색할 국가
 # =========================
-
-COUNTRIES = {
-    "China": {"local": "中国", "lang": "chinese"},
-    "Germany": {"local": "Deutschland", "lang": "german"},
-    "Portugal": {"local": "Portugal", "lang": "portuguese"},
-    "Japan": {"local": "日本", "lang": "japanese"},
-    "Spain": {"local": "España", "lang": "spanish"},
-    "Romania": {"local": "România", "lang": "romanian"},
-    "Thailand": {"local": "ประเทศไทย", "lang": "thai"},
-    "South Korea": {"local": "한국", "lang": "korean"}
-}
-
-# =========================
-# 리스크 설정
-# =========================
-
-RISKS = {
-
-    "earthquake": {
-        "China": ["地震"],
-        "Germany": ["Erdbeben"],
-        "Portugal": ["terremoto"],
-        "Japan": ["地震"],
-        "Spain": ["terremoto"],
-        "Romania": ["cutremur"],
-        "Thailand": ["แผ่นดินไหว"],
-        "South Korea": ["지진"]
-    },
-
-    "flood": {
-        "China": ["洪水"],
-        "Germany": ["Überschwemmung"],
-        "Portugal": ["inundação"],
-        "Japan": ["洪水"],
-        "Spain": ["inundación"],
-        "Romania": ["inundație"],
-        "Thailand": ["น้ำท่วม"],
-        "South Korea": ["홍수"]
-    },
-
-    "factory_fire": {
-        "China": ["工厂火灾"],
-        "Germany": ["Fabrikbrand"],
-        "Portugal": ["incêndio"],
-        "Japan": ["工場火災"],
-        "Spain": ["incendio"],
-        "Romania": ["incendiu"],
-        "Thailand": ["ไฟไหม้โรงงาน"],
-        "South Korea": ["공장 화재"]
-    },
-
-    "strike": {
-        "China": ["罢工"],
-        "Germany": ["Streik"],
-        "Portugal": ["greve"],
-        "Japan": ["ストライキ"],
-        "Spain": ["huelga"],
-        "Romania": ["grevă"],
-        "Thailand": ["หยุดงาน"],
-        "South Korea": ["파업"]
-    },
-
-    "power_outage": {
-        "China": ["停电"],
-        "Germany": ["Stromausfall"],
-        "Portugal": ["apagão"],
-        "Japan": ["停電"],
-        "Spain": ["apagón"],
-        "Romania": ["pană de curent"],
-        "Thailand": ["ไฟฟ้าดับ"],
-        "South Korea": ["정전"]
-    },
-
-    "production_shutdown": {
-        "China": ["停产"],
-        "Germany": ["Produktionsstopp"],
-        "Portugal": ["paralisação"],
-        "Japan": ["生産停止"],
-        "Spain": ["parada de producción"],
-        "Romania": ["oprire producție"],
-        "Thailand": ["หยุดการผลิต"],
-        "South Korea": ["생산중단"]
-    },
-
-    "port_disruption": {
-        "China": ["港口拥堵"],
-        "Germany": ["Hafenstörung"],
-        "Portugal": ["congestionamento portuário"],
-        "Japan": ["港湾混雑"],
-        "Spain": ["congestión portuaria"],
-        "Romania": ["congestie portuară"],
-        "Thailand": ["ท่าเรือแออัด"],
-        "South Korea": ["항만 차질"]
-    }
-}
-
+countries = [
+    "Japan",
+    "China",
+    "South Korea",
+    "Germany",
+    "United States",
+    "Mexico",
+    "Vietnam",
+    "India"
+]
 
 # =========================
-# 쿼리 생성
+# 2. 공급망 리스크 키워드
+# 처음에는 너무 복잡하게 하지 말고 2단어 조합 위주
 # =========================
+risk_keywords = [
+    "earthquake",
+    "flood",
+    "factory fire",
+    "strike",
+    "power outage",
+    "production halt",
+    "port disruption"
+]
 
-def build_query(country, risk):
+# =========================
+# 3. GDELT 검색 함수
+# =========================
+def search_gdelt(query, max_records=10):
+    encoded_query = quote(query)
 
-    local_country = COUNTRIES[country]["local"]
-    language = COUNTRIES[country]["lang"]
-
-    risk_keywords = RISKS[risk][country]
-
-    risk_query = " OR ".join(
-        [f'"{x}"' for x in risk_keywords]
+    url = (
+        "https://api.gdeltproject.org/api/v2/doc/doc?"
+        f"query={encoded_query}"
+        "&mode=artlist"
+        "&format=json"
+        f"&maxrecords={max_records}"
+        "&sort=hybridrel"
+        "&timespan=30d"
     )
 
-    # AND 넣지 말 것 (GDELT 오류 방지)
-    query = f'("{local_country}" OR "{country}") ({risk_query}) sourcelang:{language}'
+    try:
+        response = requests.get(url, timeout=20)
 
-    return query
+        if response.status_code != 200:
+            print(f"[ERROR] {query} | status code: {response.status_code}")
+            return []
 
+        data = response.json()
+        articles = data.get("articles", [])
 
-# =========================
-# GDELT 검색
-# =========================
+        results = []
 
-def search_gdelt(query):
+        for article in articles:
+            results.append({
+                "query": query,
+                "title": article.get("title", ""),
+                "url": article.get("url", ""),
+                "source": article.get("sourceCountry", ""),
+                "language": article.get("language", ""),
+                "published_at": article.get("seendate", ""),
+                "domain": article.get("domain", "")
+            })
 
-    url = "https://api.gdeltproject.org/api/v2/doc/doc"
+        return results
 
-    params = {
-        "query": query,
-        "mode": "artlist",
-        "format": "json",
-        "maxrecords": 10,
-        "timespan": "7d",
-        "sort": "datedesc"
-    }
-
-    for retry in range(3):
-
-        try:
-
-            response = requests.get(
-                url,
-                params=params,
-                timeout=20
-            )
-
-            # 요청 많으면 대기
-            if response.status_code == 429:
-
-                wait_time = 10 * (retry + 1)
-
-                print(f"429 발생 → {wait_time}초 대기")
-
-                time.sleep(wait_time)
-
-                continue
-
-            if response.status_code != 200:
-
-                print("HTTP ERROR:", response.status_code)
-
-                return []
-
-            try:
-                data = response.json()
-
-            except:
-                print("JSON 파싱 실패")
-                print(response.text[:300])
-                return []
-
-            return data.get("articles", [])
-
-        except Exception as e:
-
-            print("요청 실패:", e)
-
-            time.sleep(5)
-
-    return []
+    except Exception as e:
+        print(f"[ERROR] {query} | {e}")
+        return []
 
 
 # =========================
-# 전체 실행
+# 4. 전체 쿼리 실행
 # =========================
+all_results = []
 
-def run_monitoring():
+for country in countries:
+    for risk in risk_keywords:
+        query = f'"{country}" "{risk}"'
+        print(f"Searching: {query}")
 
-    all_results = []
+        results = search_gdelt(query)
 
-    for country in COUNTRIES:
+        all_results.extend(results)
 
-        for risk in RISKS:
-
-            print(f"\n검색 중: {country} / {risk}")
-
-            query = build_query(country, risk)
-
-            print(query)
-
-            articles = search_gdelt(query)
-
-            for article in articles:
-
-                all_results.append({
-
-                    "country": country,
-                    "risk_type": risk,
-                    "query": query,
-
-                    "title": article.get("title"),
-                    "url": article.get("url"),
-                    "domain": article.get("domain"),
-                    "seendate": article.get("seendate")
-                })
-
-            # rate limit 방지
-            time.sleep(5)
-
-    return all_results
+        time.sleep(1)  # GDELT 서버 부담 줄이기
 
 
 # =========================
-# JSON 저장
+# 5. 중복 제거
 # =========================
+unique_results = []
+seen_urls = set()
 
-if __name__ == "__main__":
+for item in all_results:
+    url = item.get("url")
 
-    results = run_monitoring()
+    if url and url not in seen_urls:
+        unique_results.append(item)
+        seen_urls.add(url)
 
-    output = {
 
-        "created_at": datetime.now().isoformat(),
+# =========================
+# 6. JSON 저장
+# =========================
+json_output = {
+    "created_at": datetime.utcnow().isoformat(),
+    "total_count": len(unique_results),
+    "results": unique_results
+}
 
-        "total_count": len(results),
+with open("gdelt_results.json", "w", encoding="utf-8") as f:
+    json.dump(json_output, f, ensure_ascii=False, indent=2)
 
-        "results": results
-    }
 
-    with open(
-        "gdelt_results.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
+# =========================
+# 7. CSV 저장
+# =========================
+df = pd.DataFrame(unique_results)
+df.to_csv("gdelt_monitoring.csv", index=False, encoding="utf-8-sig")
 
-        json.dump(
-            output,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
 
-    print("\n완료")
-    print(f"총 기사 수: {len(results)}")
+print("Done.")
+print(f"Total articles: {len(unique_results)}")
