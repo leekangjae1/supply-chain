@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-14T08:54:01.603924",
+  "updated_at": "2026-05-14T14:38:23.866572",
   "selected_group": "policy_regulation",
   "timespan": "3d",
   "new_count": 6,
-  "total_count": 370,
+  "total_count": 376,
   "results": [
     {
       "query": "\"Japan\" \"flood\"",
@@ -4106,6 +4106,84 @@
       "source_country": "",
       "published_at": "20260513T044500Z",
       "collected_at": "2026-05-14T08:52:18.130000"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Japan",
+      "keyword": "export control",
+      "query": "\"Japan\" \"export control\"",
+      "title": "美中各懷盤算 日專家解析川習會3大焦點 - 政治圈",
+      "url": "https://www.chinatimes.com/realtimenews/20260514002580-260408",
+      "domain": "chinatimes.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260514T054500Z",
+      "collected_at": "2026-05-14T14:31:23.722053"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Japan",
+      "keyword": "export control",
+      "query": "\"Japan\" \"export control\"",
+      "title": "在特朗普访华之前 ： 在韩国将讨论关税 、 出口管制和芬太尼问题",
+      "url": "https://sputniknews.cn/20260512/1071204573.html",
+      "domain": "sputniknews.cn",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260512T061500Z",
+      "collected_at": "2026-05-14T14:31:23.722066"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "South Korea",
+      "keyword": "tariff",
+      "query": "\"South Korea\" \"tariff\"",
+      "title": " [ 논현논단 ] 좌초된  트럼프 관세 , 301條 리스크 대비해야",
+      "url": "https://www.etoday.co.kr/news/view/2584240",
+      "domain": "etoday.co.kr",
+      "language": "Korean",
+      "source_country": "",
+      "published_at": "20260513T233000Z",
+      "collected_at": "2026-05-14T14:33:27.608049"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "South Korea",
+      "keyword": "tariff",
+      "query": "\"South Korea\" \"tariff\"",
+      "title": "米中首脳会談 、 関税は 「 休戦 」 貿易拡大へ議論 AI対話の枠組みも [ トランプ再来 ][ AIの時代 ]： 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV5C51V7V5CUHBI01SM.html",
+      "domain": "asahi.com",
+      "language": "Japanese",
+      "source_country": "",
+      "published_at": "20260511T223000Z",
+      "collected_at": "2026-05-14T14:33:27.608078"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Mexico",
+      "keyword": "energy policy",
+      "query": "\"Mexico\" \"energy policy\"",
+      "title": "S & P cambia a negativa perspectiva de calificación crediticia de las mexicanas Pemex y CFE - Mundo",
+      "url": "https://www.abc.com.py/internacionales/2026/05/13/sp-cambia-a-negativa-perspectiva-de-calificacion-crediticia-de-las-mexicanas-pemex-y-cfe/",
+      "domain": "abc.com.py",
+      "language": "Spanish",
+      "source_country": "",
+      "published_at": "20260513T223000Z",
+      "collected_at": "2026-05-14T14:36:49.988634"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Mexico",
+      "keyword": "energy policy",
+      "query": "\"Mexico\" \"energy policy\"",
+      "title": "S & P cambia a negativa perspectiva de calificación crediticia de Pemex y CFE",
+      "url": "https://aristeguinoticias.com/1305/dinero-y-economia/sp-cambia-a-negativa-perspectiva-de-calificacion-crediticia-de-pemex-y-cfe/",
+      "domain": "aristeguinoticias.com",
+      "language": "Spanish",
+      "source_country": "",
+      "published_at": "20260514T033000Z",
+      "collected_at": "2026-05-14T14:36:49.988647"
     }
   ]
 }
