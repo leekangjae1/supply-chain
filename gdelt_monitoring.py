@@ -36,19 +36,16 @@ risk_groups = {
         "tariff",
         "trade restriction",
         "energy policy",
-        "carbon regulation",
         "labor law",
         "customs regulation"
     ]
 }
 
 
-# 실행할 때마다 한 카테고리만 선택
 group_names = list(risk_groups.keys())
-hour = datetime.utcnow().hour
-selected_group = group_names[hour % len(group_names)]
+selected_group = group_names[datetime.utcnow().hour % len(group_names)]
 
-print(f"Selected risk group: {selected_group}")
+print(f"Selected group: {selected_group}")
 
 
 existing_results = []
@@ -61,27 +58,28 @@ if os.path.exists("gdelt_results.json"):
             existing_results = old_data.get("results", [])
 
         for item in existing_results:
-            if item.get("url"):
-                existing_urls.add(item["url"])
+            url = item.get("url")
+            if url:
+                existing_urls.add(url)
 
     except Exception:
         existing_results = []
         existing_urls = set()
 
 
-def search_gdelt(query, risk_type, country, keyword, max_records=3):
+def search_gdelt(query, risk_type, country, keyword):
     url = (
         "https://api.gdeltproject.org/api/v2/doc/doc?"
         f"query={quote(query)}"
         "&mode=artlist"
         "&format=json"
-        f"&maxrecords={max_records}"
+        "&maxrecords=2"
         "&sort=hybridrel"
         "&timespan=3d"
     )
 
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=8)
 
         if response.status_code != 200:
             print(f"[ERROR] {query} | status: {response.status_code}")
@@ -139,7 +137,7 @@ for country in countries:
                 new_results.append(item)
                 existing_urls.add(url)
 
-        time.sleep(0.2)
+        time.sleep(0.1)
 
 
 all_results = existing_results + new_results
