@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-14T04:15:25.993034",
+  "updated_at": "2026-05-14T05:12:17.124393",
   "timespan": "7d",
   "selected_group": "disaster",
-  "new_count": 20,
-  "total_count": 354,
+  "new_count": 2,
+  "total_count": 356,
   "results": [
     {
       "query": "\"Japan\" \"flood\"",
@@ -3898,6 +3898,32 @@
       "source_country": "",
       "published_at": "20260514T030000Z",
       "collected_at": "2026-05-14T04:13:49.982721"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Mexico",
+      "keyword": "typhoon",
+      "query": "\"Mexico\" \"typhoon\"",
+      "title": "国际油价大涨 ！ 伊朗提谈判先决条件 ， 特朗普称  不着急 ， 英国将强化霍尔木兹海峡军事 - 期货 - 金融界",
+      "url": "https://futures.jrj.com.cn/2026/05/13073257077973.shtml",
+      "domain": "futures.jrj.com.cn",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260513T001500Z",
+      "collected_at": "2026-05-14T05:08:06.664748"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Vietnam",
+      "keyword": "typhoon",
+      "query": "\"Vietnam\" \"typhoon\"",
+      "title": "土耳其首次公開洲際導彈 ， 劍指何方 ？ ",
+      "url": "https://portal.sina.com.hk/news-intl/sina/2026/05/14/1764898/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%A6%96%E6%AC%A1%E5%85%AC%E9%96%8B%E6%B4%B2%E9%9A%9B%E5%B0%8E%E5%BD%88%EF%BC%8C%E5%8A%8D%E6%8C%87%E4%BD%95%E6%96%B9%EF%BC%9F/",
+      "domain": "portal.sina.com.hk",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260514T041500Z",
+      "collected_at": "2026-05-14T05:09:52.445861"
     }
   ]
 }
