@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-gdelt:
     runs-on: ubuntu-latest
@@ -16,6 +19,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,6 +39,9 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+
           git add gdelt_results.json gdelt_monitoring.csv
-          git commit -m "Update GDELT monitoring results" || echo "No changes to commit"
-          git push
+          git commit -m "Update GDELT monitoring results (${{ matrix.risk_group }})" || echo "No changes to commit"
+
+          git pull --rebase origin main
+          git push origin main
