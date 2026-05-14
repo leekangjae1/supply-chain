@@ -8,13 +8,13 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: gdelt-monitoring
+  cancel-in-progress: false
+
 jobs:
   run-gdelt:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        risk_group: [disaster, operation, policy_regulation]
 
     steps:
       - name: Checkout repository
@@ -31,8 +31,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run GDELT monitoring
-        env:
-          RISK_GROUP: ${{ matrix.risk_group }}
         run: python gdelt_monitoring.py
 
       - name: Commit results
@@ -40,8 +38,9 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add gdelt_results.json gdelt_monitoring.csv
-          git commit -m "Update GDELT monitoring results (${{ matrix.risk_group }})" || echo "No changes to commit"
-
           git pull --rebase origin main
+
+          git add gdelt_results.json gdelt_monitoring.csv
+          git commit -m "Update GDELT monitoring results" || echo "No changes to commit"
+
           git push origin main
