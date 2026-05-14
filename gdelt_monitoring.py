@@ -19,29 +19,33 @@ countries = [
 ]
 
 
-risk_groups = {
+RISK_GROUPS = {
     "disaster": [
         "earthquake",
         "flood",
-        "typhoon"
+        "typhoon",
+        "tsunami",
+        "wildfire",
+        "hurricane",
     ],
     "operation": [
-        "factory fire",
-        "strike",
+        "factory fire",     # Resilinc 2024 1위, 6년 연속
+        "strike",           # Resilinc 2024 2위, +47% YoY
+        "port strike",      # port disruption보다 뉴스 노출 빈도 높음
+        "port closure",
         "power outage",
-        "port disruption"
+        "plant shutdown",
     ],
     "policy_regulation": [
-        "export control",
-        "tariff",
+        "tariff",           # McKinsey: 82%사 영향, 2025 최대 이슈
+        "sanctions",        # geopolitical alert +123% 반영
+        "import ban",
+        "export ban",
         "trade restriction",
-        "energy policy",
         "labor law",
-        "customs regulation"
-    ]
+        "customs regulation",
+    ],
 }
-
-
 group_names = list(risk_groups.keys())
 selected_group = group_names[datetime.utcnow().hour % len(group_names)]
 
