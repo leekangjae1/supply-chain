@@ -19,7 +19,7 @@ countries = [
 ]
 
 
-RISK_GROUPS = {
+risk_groups = {
     "disaster": [
         "earthquake",
         "flood",
