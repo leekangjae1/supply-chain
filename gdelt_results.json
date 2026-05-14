@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-14T15:09:41.655461",
-  "selected_group": "disaster",
+  "updated_at": "2026-05-14T20:02:09.715246",
+  "selected_group": "operation",
   "timespan": "3d",
-  "new_count": 16,
-  "total_count": 16,
+  "new_count": 4,
+  "total_count": 20,
   "results": [
     {
       "risk_type": "disaster",
@@ -212,6 +212,58 @@
       "source_country": "",
       "published_at": "20260513T054500Z",
       "collected_at": "2026-05-14T15:09:15.254276"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" \"strike\"",
+      "title": "노조리스크 K반도체  시계 제로 … 무노조 TSMC는  파업 제로  ",
+      "url": "https://www.munhwa.com:443/article/11588909",
+      "domain": "munhwa.com",
+      "language": "Korean",
+      "source_country": "",
+      "published_at": "20260514T033000Z",
+      "collected_at": "2026-05-14T19:56:52.176517"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" \"strike\"",
+      "title": "파업에 메모리 공급난까지 … 빈틈  파고드는 차이나파워",
+      "url": "https://biz.heraldcorp.com/article/10737802",
+      "domain": "biz.heraldcorp.com",
+      "language": "Korean",
+      "source_country": "",
+      "published_at": "20260514T024500Z",
+      "collected_at": "2026-05-14T19:56:52.176532"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" \"strike\"",
+      "title": "泓德能源成立十周年聚焦AI算力用電商機 以五層架構打造成長動能 | 產業綜合 | 產經",
+      "url": "https://udn.com/news/story/7241/9500925",
+      "domain": "udn.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260513T151500Z",
+      "collected_at": "2026-05-14T19:58:46.641022"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" \"strike\"",
+      "title": "1956 : Deutschlands längster Streik - der Aufstand der Mutigen",
+      "url": "https://www.ndr.de/geschichte/chronologie/1956-deutschlands-laengster-streik-der-aufstand-der-mutigen,metallarbeiterstreik100.html",
+      "domain": "ndr.de",
+      "language": "German",
+      "source_country": "",
+      "published_at": "20260513T043000Z",
+      "collected_at": "2026-05-14T19:58:46.641035"
     }
   ]
 }
