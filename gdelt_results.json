@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-14T05:12:17.124393",
-  "timespan": "7d",
-  "selected_group": "disaster",
-  "new_count": 2,
-  "total_count": 356,
+  "updated_at": "2026-05-14T05:51:08.888254",
+  "selected_group": "policy_regulation",
+  "timespan": "3d",
+  "new_count": 8,
+  "total_count": 364,
   "results": [
     {
       "query": "\"Japan\" \"flood\"",
@@ -3924,6 +3924,110 @@
       "source_country": "",
       "published_at": "20260514T041500Z",
       "collected_at": "2026-05-14T05:09:52.445861"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Japan",
+      "keyword": "tariff",
+      "query": "\"Japan\" \"tariff\"",
+      "title": "뚜렷한 상승세 보인 오늘 금가격 ( 금값 ) ... 국제 금시세 하락에도 치솟는 이유",
+      "url": "https://www.wikitree.co.kr/articles/1136302",
+      "domain": "wikitree.co.kr",
+      "language": "Korean",
+      "source_country": "",
+      "published_at": "20260513T074500Z",
+      "collected_at": "2026-05-14T05:46:10.530467"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Japan",
+      "keyword": "tariff",
+      "query": "\"Japan\" \"tariff\"",
+      "title": "관세 50 % 뚫고  성장 가도 … K철강 , 대미 수출  쑥  ",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1300785",
+      "domain": "newstomato.com",
+      "language": "Korean",
+      "source_country": "",
+      "published_at": "20260513T073000Z",
+      "collected_at": "2026-05-14T05:46:10.530480"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Germany",
+      "keyword": "tariff",
+      "query": "\"Germany\" \"tariff\"",
+      "title": "En una semana del acuerdo Mercosur - UE 50 exportaciones de Mendoza accedieron a pagar menos aranceles",
+      "url": "https://www.diariouno.com.ar/economia/en-una-semana-del-acuerdo-mercosur-ue-50-exportaciones-mendoza-accedieron-pagar-menos-aranceles-n1554418",
+      "domain": "diariouno.com.ar",
+      "language": "Spanish",
+      "source_country": "",
+      "published_at": "20260514T011500Z",
+      "collected_at": "2026-05-14T05:47:19.125106"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Germany",
+      "keyword": "tariff",
+      "query": "\"Germany\" \"tariff\"",
+      "title": "Why China new duty - free access is a lifeline for South African exporters",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3353101/why-chinas-new-duty-free-access-lifeline-south-african-exporters",
+      "domain": "scmp.com",
+      "language": "English",
+      "source_country": "",
+      "published_at": "20260511T083000Z",
+      "collected_at": "2026-05-14T05:47:19.125119"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Vietnam",
+      "keyword": "energy policy",
+      "query": "\"Vietnam\" \"energy policy\"",
+      "title": "Tác động việc làm từ các dự án điện hạt nhân",
+      "url": "https://baomoi.com/tac-dong-viec-lam-tu-cac-du-an-dien-hat-nhan-c55133205.epi",
+      "domain": "baomoi.com",
+      "language": "Vietnamese",
+      "source_country": "",
+      "published_at": "20260511T123000Z",
+      "collected_at": "2026-05-14T05:50:15.946364"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Vietnam",
+      "keyword": "energy policy",
+      "query": "\"Vietnam\" \"energy policy\"",
+      "title": "名家論壇 》 單厚之 ／ 台電改字體不如改八字 | 名家論壇 | 要聞",
+      "url": "https://www.nownews.com/news/6834107",
+      "domain": "nownews.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260511T160000Z",
+      "collected_at": "2026-05-14T05:50:15.946376"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "India",
+      "keyword": "export control",
+      "query": "\"India\" \"export control\"",
+      "title": "The Software Layer of China - US Tech Diplomacy",
+      "url": "https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/",
+      "domain": "thediplomat.com",
+      "language": "English",
+      "source_country": "",
+      "published_at": "20260511T154500Z",
+      "collected_at": "2026-05-14T05:50:38.098860"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "India",
+      "keyword": "export control",
+      "query": "\"India\" \"export control\"",
+      "title": "新股消息 | 菲仕技术二次递表港交所 为中国工业控制领域第三大专用电驱动解决方案供应商 _ 新股要闻 _ 新股 _ 中金在线",
+      "url": "http://xg.stock.cnfol.com/xinguyaowen/20260513/32221676.shtml",
+      "domain": "xg.stock.cnfol.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260513T133000Z",
+      "collected_at": "2026-05-14T05:50:38.098873"
     }
   ]
 }
