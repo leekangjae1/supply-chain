@@ -18,7 +18,6 @@ countries = [
     "India"
 ]
 
-
 risk_groups = {
     "disaster": [
         "earthquake",
@@ -29,16 +28,16 @@ risk_groups = {
         "hurricane",
     ],
     "operation": [
-        "factory fire",     # Resilinc 2024 1위, 6년 연속
-        "strike",           # Resilinc 2024 2위, +47% YoY
-        "port strike",      # port disruption보다 뉴스 노출 빈도 높음
+        "factory fire",
+        "strike",
+        "port strike",
         "port closure",
         "power outage",
         "plant shutdown",
     ],
     "policy_regulation": [
-        "tariff",           # McKinsey: 82%사 영향, 2025 최대 이슈
-        "sanctions",        # geopolitical alert +123% 반영
+        "tariff",
+        "sanctions",
         "import ban",
         "export ban",
         "trade restriction",
@@ -46,11 +45,11 @@ risk_groups = {
         "customs regulation",
     ],
 }
+
 group_names = list(risk_groups.keys())
 selected_group = group_names[datetime.utcnow().hour % len(group_names)]
 
 print(f"Selected group: {selected_group}")
-
 
 existing_results = []
 existing_urls = set()
@@ -71,22 +70,44 @@ if os.path.exists("gdelt_results.json"):
         existing_urls = set()
 
 
+def build_query(country: str, keyword: str) -> str:
+    """
+    쿼리 완화 전략:
+    - 국가명: 따옴표 유지 (exact match) → 국가 특정성 보장
+    - 키워드: 따옴표 제거 (soft match)
+        - 단일 단어: 그대로 사용         예) earthquake
+        - 복합 단어: near1 연산자 적용   예) factory near1 fire
+          → 두 단어가 인접해있으면 매칭, 어순 무관
+          → "factory fire" exact보다 훨씬 많은 기사 포착
+    """
+    words = keyword.split()
+
+    if len(words) == 1:
+        # 단일 단어: soft match
+        keyword_expr = keyword
+    else:
+        # 복합 단어: near1 연산자로 인접 매칭
+        keyword_expr = f"{words[0]} near1 {' '.join(words[1:])}"
+
+    return f'"{country}" {keyword_expr}'
+
+
 def search_gdelt(query, risk_type, country, keyword):
     url = (
         "https://api.gdeltproject.org/api/v2/doc/doc?"
         f"query={quote(query)}"
         "&mode=artlist"
         "&format=json"
-        "&maxrecords=2"
+        "&maxrecords=50"
         "&sort=hybridrel"
         "&timespan=3d"
     )
 
     try:
-        response = requests.get(url, timeout=8)
+        response = requests.get(url, timeout=10)
 
         if response.status_code != 200:
-            print(f"[ERROR] {query} | status: {response.status_code}")
+            print(f"  [ERROR] status {response.status_code} | {query}")
             return []
 
         data = response.json()
@@ -117,7 +138,7 @@ def search_gdelt(query, risk_type, country, keyword):
         return results
 
     except Exception as e:
-        print(f"[ERROR] {query} | {e}")
+        print(f"  [ERROR] {query} | {e}")
         return []
 
 
@@ -125,7 +146,7 @@ new_results = []
 
 for country in countries:
     for keyword in risk_groups[selected_group]:
-        query = f'"{country}" "{keyword}"'
+        query = build_query(country, keyword)
         print(f"Searching: {query}")
 
         results = search_gdelt(
@@ -135,13 +156,16 @@ for country in countries:
             keyword=keyword
         )
 
+        added = 0
         for item in results:
             url = item.get("url")
             if url and url not in existing_urls:
                 new_results.append(item)
                 existing_urls.add(url)
+                added += 1
 
-        time.sleep(0.1)
+        print(f"  → {len(results)}건 수신 / {added}건 신규")
+        time.sleep(0.3)
 
 
 all_results = existing_results + new_results
@@ -161,7 +185,7 @@ with open("gdelt_results.json", "w", encoding="utf-8") as f:
 df = pd.DataFrame(all_results)
 df.to_csv("gdelt_monitoring.csv", index=False, encoding="utf-8-sig")
 
-print("Done.")
-print(f"Selected group: {selected_group}")
-print(f"New articles: {len(new_results)}")
-print(f"Total articles: {len(all_results)}")
+print("\nDone.")
+print(f"Selected group : {selected_group}")
+print(f"New articles   : {len(new_results)}")
+print(f"Total articles : {len(all_results)}")
