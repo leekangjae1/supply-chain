@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-17T08:34:57.348686",
-  "selected_group": "policy_regulation",
+  "updated_at": "2026-05-17T13:53:33.341423",
+  "selected_group": "operation",
   "timespan": "3d",
-  "new_count": 137,
-  "total_count": 1487,
+  "new_count": 6,
+  "total_count": 1493,
   "results": [
     {
       "risk_type": "disaster",
@@ -19335,6 +19335,84 @@
       "source_country": "",
       "published_at": "20260517T070000Z",
       "collected_at": "2026-05-17T08:33:46.547294"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" strike",
+      "title": "赖清德重申  台独  意涵 ： 台湾不属大陆及两岸互不隶属",
+      "url": "https://www.zaobao.com.sg/news/china/story20260517-9062297",
+      "domain": "zaobao.com.sg",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260517T091500Z",
+      "collected_at": "2026-05-17T13:50:30.954527"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" strike",
+      "title": "赖清德重申  台独  意涵 ： 台湾不属大陆及两岸互不隶属光华日报 | 1910年创刊 创新每一天生活",
+      "url": "https://www.kwongwah.com.my/20260517/%E8%B5%96%E6%B8%85%E5%BE%B7%E9%87%8D%E7%94%B3%E5%8F%B0%E7%8B%AC%E6%84%8F%E6%B6%B5%EF%BC%9A%E5%8F%B0%E6%B9%BE%E4%B8%8D%E5%B1%9E%E5%A4%A7%E9%99%86%E5%8F%8A%E4%B8%A4%E5%B2%B8%E4%BA%92/",
+      "domain": "kwongwah.com.my",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260517T100000Z",
+      "collected_at": "2026-05-17T13:50:30.954533"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" strike",
+      "title": "岛内舆论 ： 特朗普警告  台独  给赖清德重重一击 _ 中国网",
+      "url": "http://news.china.com.cn/2026-05/17/content_118498282.shtml",
+      "domain": "news.china.com.cn",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260517T101500Z",
+      "collected_at": "2026-05-17T13:50:30.954549"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" strike",
+      "title": "谁的青春动了 ？ 德国队2006阵容20周年重聚 ， 巴拉克 、 卡恩 、 拉姆等出席",
+      "url": "https://www.163.com/dy/article/KT4OE6FK0549BAP0.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260517T053000Z",
+      "collected_at": "2026-05-17T13:50:30.954575"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" strike",
+      "title": "哥倫比亞總統大選將近 右翼候選人團隊兩人遇害 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202605170061.aspx",
+      "domain": "cna.com.tw",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260517T041500Z",
+      "collected_at": "2026-05-17T13:50:30.954584"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Germany",
+      "keyword": "strike",
+      "query": "\"Germany\" strike",
+      "title": "哥倫比亞總統大選將近 右翼候選人團隊兩人遇害 | 國際",
+      "url": "https://www.cna.com.tw:443/news/aopl/202605170061.aspx",
+      "domain": "cna.com.tw",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260517T054500Z",
+      "collected_at": "2026-05-17T13:50:30.954585"
     }
   ]
 }
