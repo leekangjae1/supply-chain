@@ -35,7 +35,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run GDELT monitoring
-        run: python gdelt_monitoring.py
+        run: python gdelt_monitoring.py      
+        
+      - name: Run CrewAI Monitoring
+        run: python crewai_monitoring.py
 
       - name: Commit results
         run: |
