@@ -104,7 +104,7 @@ def search_gdelt(query, risk_type, country, keyword):
     )
 
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=30)
 
         if response.status_code != 200:
             print(f"  [ERROR] status {response.status_code} | {query}")
@@ -165,7 +165,7 @@ for country in countries:
                 added += 1
 
         print(f"  → {len(results)}건 수신 / {added}건 신규")
-        time.sleep(0.3)
+        time.sleep(3)
 
 
 all_results = existing_results + new_results
