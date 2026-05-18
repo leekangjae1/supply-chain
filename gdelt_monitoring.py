@@ -102,9 +102,41 @@ def search_gdelt(query, risk_type, country, keyword):
         "&sort=hybridrel"
         "&timespan=3d"
     )
+def fetch_with_retry(url, query, max_retries=3):
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=40)
 
+            if response.status_code == 200:
+                return response.json()
+
+            if response.status_code == 429:
+                wait_time = 30 * (attempt + 1)
+
+                print(f"429 발생: {query}")
+                print(f"{wait_time}초 대기 후 재시도")
+
+                time.sleep(wait_time)
+                continue
+
+            print(f"Error: status {response.status_code}")
+            return None
+
+        except requests.exceptions.Timeout:
+            wait_time = 20 * (attempt + 1)
+
+            print(f"Timeout 발생: {query}")
+            print(f"{wait_time}초 대기 후 재시도")
+
+            time.sleep(wait_time)
+
+        except Exception as e:
+            print(f"Error: {query} | {e}")
+            return None
+
+    return None
     try:
-        response = requests.get(url, timeout=30)
+        data = fetch_with_retry(url, query)
 
         if response.status_code != 200:
             print(f"  [ERROR] status {response.status_code} | {query}")
