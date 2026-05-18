@@ -1,3 +1,7 @@
 feedparser
 pandas
 requests
+crewai
+openai
+python-dotenv
+trafilatura
