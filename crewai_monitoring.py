@@ -6,28 +6,29 @@ from datetime import datetime
 
 import trafilatura
 from dotenv import load_dotenv
-from crewai import Agent, Task, Crew, Process
-from crewai import LLM
+from crewai import Agent, Task, Crew, Process, LLM
 
 load_dotenv()
 
 INPUT_FILE = "gdelt_results.json"
 OUTPUT_FILE = "crewai_results.json"
 
+# LLM 설정
 llm = LLM(
     model="gpt-4o-mini",
     api_key=os.getenv("OPENAI_API_KEY"),
     temperature=0
 )
 
+# Agent 1 (Disruption Monitoring Agent) 설정 - 논문 Appendix A2 완벽 대응
 risk_analyzer = Agent(
-    role="Global Supply Chain Disruption Analyst",
-    goal="뉴스 기사를 분석하여 공급망 disruption 여부와 리스크 유형을 JSON으로 판단한다.",
+    role="Disruption Monitoring Agent",
+    goal="Systematically analyse news articles, identify the supply chain disruption type, extract affected entities, and formulate structured risk questions for Knowledge Graph traversal.",
     backstory="""
-    당신은 글로벌 공급망 리스크 분석 전문가입니다.
-    자연재해, 공장 화재, 파업, 항만 차질, 정전, 생산 중단,
-    관세, 제재, 수출통제, 물류 지연, 에너지 부족 등
-    공급망에 영향을 주는 사건을 분석합니다.
+    You are a top-tier expert in supply chain risk management, working in a company specialising in disruptions,
+    ripple effects, and industry interdependencies. You have extensive experience analyzing global events and mapping
+    disruptions to supply chains across tiers. Your task is to act as Agent 1 in the multi-agent pipeline, converting 
+    unstructured news articles into structured disruption intelligence and diagnostic queries for downstream Agent 2.
     """,
     llm=llm,
     verbose=True
@@ -35,6 +36,7 @@ risk_analyzer = Agent(
 
 
 def load_gdelt_results() -> list:
+    """GDELT 수집 결과 JSON을 로드합니다."""
     if not os.path.exists(INPUT_FILE):
         print(f"[ERROR] {INPUT_FILE} 파일이 없습니다.")
         return []
@@ -50,6 +52,7 @@ def load_gdelt_results() -> list:
 
 
 def extract_url(article: dict) -> str:
+    """기사 객체에서 URL을 추출합니다."""
     for key in ["url", "link", "source_url"]:
         if article.get(key):
             return article[key]
@@ -57,6 +60,7 @@ def extract_url(article: dict) -> str:
 
 
 def extract_title(article: dict) -> str:
+    """기사 객체에서 제목을 추출합니다."""
     for key in ["title", "headline"]:
         if article.get(key):
             return article[key]
@@ -64,6 +68,7 @@ def extract_title(article: dict) -> str:
 
 
 def extract_article_text(url: str) -> str:
+    """Trafilatura를 사용해 웹 페이지 본문을 추출합니다."""
     try:
         downloaded = trafilatura.fetch_url(url)
         if downloaded is None:
@@ -82,6 +87,7 @@ def extract_article_text(url: str) -> str:
 
 
 def parse_json_from_response(raw: str) -> dict | None:
+    """LLM의 응답에서 JSON 구조를 안전하게 추출합니다."""
     cleaned = re.sub(r"```(?:json)?", "", raw).replace("```", "").strip()
 
     try:
@@ -100,6 +106,7 @@ def parse_json_from_response(raw: str) -> dict | None:
 
 
 def analyze_article_with_crewai(article: dict) -> dict | None:
+    """논문 Agent 1 스키마 규격에 맞춰 뉴스 기사를 정밀 분석합니다."""
     title = extract_title(article)
     url = extract_url(article)
 
@@ -109,35 +116,44 @@ def analyze_article_with_crewai(article: dict) -> dict | None:
     body = extract_article_text(url) or title
     body = body[:4000]
 
+    # 논문 Appendix A2 및 Figure 4 / Figure 8 스키마 반영 프롬프트
     task = Task(
         description=f"""
-다음 뉴스 기사를 분석하세요.
+Carefully read and analyze the following news article from a supply chain risk management perspective.
 
-제목: {title}
+Article Title: {title}
 URL: {url}
-
-기사 본문:
+Content:
 {body}
 
-판단 기준:
-- 공급망 관련: 자연재해, 공장 화재, 파업, 항만 차질, 정전, 생산 중단, 관세, 제재, 수출통제, 물류 지연, 에너지 부족
-- 비관련: 단순 정치/사회 뉴스로 물류·공장·항만·생산·무역·에너지에 영향 없는 경우
+Instructions:
+1. Determine whether this article describes an actual supply chain disruption (is_supply_chain_disruption: true/false).
+2. Classify the disruption_type: "Geopolitical", "Trade Policy", "Natural Disaster", "Company Bankruptcy", "Operation", "Logistics", "Energy", or "Other".
+3. Extract all impacted elements into separate lists:
+   - companies_involved: Specific companies mentioned or directly impacted.
+   - industries_involved: Specific industries impacted (e.g., Automotive, Semiconductors, Energy, Mining).
+   - countries_involved: Specific countries or regions affected.
+4. Formulate logical, structured supply chain risk exposure check questions (risk_exposure_questions) for Agent 2 (Knowledge Graph Query Agent) to trace multi-tier supplier paths (e.g., "Which of Tier-1 suppliers are located in Russia or Ukraine?").
+5. Provide a clear reasoning statement and a concise 2-3 sentence summary.
 
-반드시 아래 JSON 형식만 반환하세요.
-마크다운, 코드블록, 설명 문장 없이 JSON만 출력하세요.
+Return ONLY a valid raw JSON object matching the exact format below, with NO markdown formatting or commentary:
 
 {{
   "is_supply_chain_disruption": true,
-  "risk_category": "disaster | operation | logistics | policy_regulation | energy | geopolitical | unknown",
-  "event_type": "구체적 사건 유형",
-  "affected_country": "영향 국가",
-  "affected_location": "영향 지역",
-  "severity_score": 3,
-  "reason": "공급망과 관련 있다고 판단한 이유",
-  "summary": "기사 요약 2-3문장"
+  "disruption_type": "Geopolitical | Natural Disaster | Trade Policy | Operation | Logistics | Energy | Other",
+  "event": "Specific event name (e.g., Russia-Ukraine War)",
+  "companies_involved": ["Company A", "Company B"],
+  "industries_involved": ["Industry A", "Industry B"],
+  "countries_involved": ["Country A", "Country B"],
+  "risk_exposure_questions": [
+    "Question for Knowledge Graph Query Agent 1",
+    "Question for Knowledge Graph Query Agent 2"
+  ],
+  "reason": "Detailed expert reasoning on why this impacts supply chains.",
+  "summary": "Executive summary of the article in 2-3 sentences."
 }}
 """,
-        expected_output="공급망 disruption 분석 결과 JSON",
+        expected_output="Paper-compliant Agent 1 Disruption Monitoring JSON Output",
         agent=risk_analyzer
     )
 
@@ -154,21 +170,24 @@ URL: {url}
 
         parsed = parse_json_from_response(raw_output)
 
+        # JSON 파싱 실패 시 적용할 Fallback (동일 논문 규격 스키마 유지)
         if parsed is None:
             print(f"[WARN] JSON 파싱 실패 → fallback 적용: {title}")
             return {
                 "title": title,
                 "url": url,
                 "is_supply_chain_disruption": False,
-                "risk_category": "unknown",
-                "event_type": "unknown",
-                "affected_country": "unknown",
-                "affected_location": "unknown",
-                "severity_score": 1,
-                "reason": "CrewAI 출력이 유효한 JSON이 아닙니다.",
+                "disruption_type": "Other",
+                "event": "unknown",
+                "companies_involved": [],
+                "industries_involved": [],
+                "countries_involved": [],
+                "risk_exposure_questions": [],
+                "reason": "CrewAI output was not valid JSON.",
                 "summary": raw_output[:500]
             }
 
+        # 메타데이터 추가
         parsed["title"] = title
         parsed["url"] = url
         return parsed
