@@ -1,0 +1,2121 @@
+{
+  "created_at": "2026-07-29T07:13:32.172710",
+  "input_file": "gdelt_results.json",
+  "total_input_articles": 99,
+  "total_analyzed_articles": 99,
+  "new_analyzed_articles": 99,
+  "results": [
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Public protests against nuclear policies in Taiwan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers are located in Taiwan?",
+        "What are the potential impacts on the energy supply chain due to public opposition to nuclear policies in Taiwan?"
+      ],
+      "reason": "The article discusses public protests in Taiwan against government actions related to nuclear energy, which can lead to regulatory changes, disruptions in energy supply, and impact companies involved in the energy sector. Such geopolitical tensions can create uncertainty in energy supply chains, affecting both local and international stakeholders.",
+      "summary": "The article reports on public protests in Taiwan against the government's involvement in nuclear energy policies, highlighting the citizens' strong opposition. This situation may lead to significant geopolitical implications for the energy sector in Taiwan.",
+      "title": "日本民众集会反对高市政府涉核言行 ： 不可接受",
+      "url": "https://baijiahao.baidu.com/s?id=1871675620196903644"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Imperial Policy Shift and Subsequent Downfall",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in Japan that may be affected by geopolitical instability?",
+        "What are the potential impacts on supply chains due to Japan's historical military expansion policies?"
+      ],
+      "reason": "The article discusses Japan's geopolitical strategies and their implications, particularly how aggressive foreign policies and internal governance changes can lead to instability, which directly affects supply chains. The historical context of Japan's imperial ambitions illustrates the potential for disruptions in trade and supply chains due to geopolitical tensions.",
+      "summary": "The article analyzes the historical trajectory of Japan's imperial policies leading to its downfall, focusing on the shifts in foreign and domestic strategies post-World War I. It highlights the interplay between aggressive expansionism and internal governance failures, suggesting that these factors contributed to Japan's eventual defeat and instability.",
+      "title": "由躁动到癫狂 ： 日本帝国转向败亡的深层社会病理分析",
+      "url": "http://www.81.cn/yd_208600/16476342.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Typhoon Haikui (白海豚)",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Japan are at risk due to Typhoon Haikui?",
+        "What are the contingency plans for companies operating in Japan during Typhoon Haikui?"
+      ],
+      "reason": "The article discusses the impending threat of Typhoon Haikui approaching Japan, which poses a risk to supply chains due to potential disruptions in logistics, operations, and infrastructure. Natural disasters like typhoons can lead to significant delays, damage to facilities, and interruptions in the supply chain.",
+      "summary": "The article reports on the intensifying Typhoon Haikui, which is projected to strengthen and head towards Japan. Meteorological experts warn of its potential impact, advising travelers to monitor the situation closely as it may affect activities and logistics in the region.",
+      "title": "最新Google AI預測 強大 「 白海豚 」 颱風游向日本 | ETtoday生活新聞",
+      "url": "https://www.ettoday.net/news/20260728/3208659.htm"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Military Exercises and Re-militarization",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Military"
+      ],
+      "countries_involved": [
+        "Japan",
+        "China",
+        "United States",
+        "Spain",
+        "Australia"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors are supplying Japan's military with advanced missile technology?",
+        "What are the supply chain implications for countries involved in joint military exercises with Japan?"
+      ],
+      "reason": "The article discusses Japan's increasing military capabilities and participation in joint military exercises, which could lead to geopolitical tensions and potential disruptions in defense supply chains. The focus on military readiness and collaboration with allies may affect the supply chain dynamics in the defense industry, particularly in the Asia-Pacific region.",
+      "summary": "The article highlights Japan's active participation in multinational military exercises, showcasing its advancements in offensive weaponry, which raises concerns in Beijing regarding Japan's re-militarization. Analysts suggest that these developments are part of a broader strategy to enhance military cooperation with allies, particularly in the context of U.S. geopolitical interests in the Indo-Pacific region.",
+      "title": "標準 - 2 、 12式飛彈都出籠 ! 日頻繁聯合軍演測 「 攻擊性 」 武器 北京緊張了 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-07-27/1049662"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Typhoon Dolphin",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Japan are at risk due to Typhoon Dolphin?",
+        "What contingency plans do Tier-1 suppliers in Japan have for natural disasters?"
+      ],
+      "reason": "The article discusses the impending Typhoon Dolphin, which is expected to impact Japan significantly. Such natural disasters can disrupt logistics, transportation, and supply chain operations, particularly for companies operating in or shipping to Japan.",
+      "summary": "Typhoon Dolphin has formed in the Pacific and is expected to strengthen before heading towards Japan. Experts warn travelers to monitor the situation closely as the typhoon could impact travel and logistics in the region.",
+      "title": "白海豚將 「 又強又大 」 專家示警 ： 下周這3天赴日注意 - 生活",
+      "url": "https://www.chinatimes.com/realtimenews/20260728001323-260405"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Militarization and Regional Tensions",
+      "companies_involved": [
+        "Defense.info"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Australia",
+        "Philippines",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Japan and are involved in defense manufacturing?",
+        "What are the potential impacts on supply chains for companies exporting to or importing from Japan due to increased militarization?"
+      ],
+      "reason": "The article discusses Japan's shift towards militarization and its implications for regional security, which can disrupt supply chains by affecting trade policies, defense contracts, and international relations. Increased military activity and potential conflicts can lead to supply chain interruptions, especially in the defense and aerospace sectors.",
+      "summary": "The article highlights Japan's recent moves towards militarization, including discussions on nuclear weapons and the establishment of a national intelligence agency. This shift raises concerns about regional stability and could have significant implications for supply chains, particularly in defense and related industries.",
+      "title": " 【 世界说 】 新型军国主义  多维冒头 ， 专守防卫  名存实亡 ： 日本一步步侵蚀战后和平基石 - 千龙网 · 中国首都网",
+      "url": "https://world.qianlong.com/2026/0728/8704108.shtml"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Rising Militarism in Japan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Japan and involved in defense manufacturing?",
+        "What are the potential impacts on global supply chains due to Japan's shift towards militarism?"
+      ],
+      "reason": "The article discusses Japan's increasing militarism and its implications for post-war peace, which can lead to geopolitical tensions affecting supply chains, particularly in defense and manufacturing sectors. Such shifts can disrupt trade routes, supplier relationships, and regulatory environments.",
+      "summary": "The article highlights Japan's gradual erosion of post-war peace principles through rising militarism, suggesting potential geopolitical tensions. This shift could have significant implications for supply chains, particularly in the defense and manufacturing industries.",
+      "title": " 「 世界说 」 新型军国主义  多维冒头 ， 专守防卫  名存实亡 ： 日本一步步侵蚀战后和平基石",
+      "url": "https://baijiahao.baidu.com/s?id=1871867289481631786"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Militarization and Regional Tensions",
+      "companies_involved": [
+        "N/A"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Australia",
+        "Philippines",
+        "Vietnam",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in Japan that provide defense-related products?",
+        "What are the potential impacts on supply chains for companies exporting to or importing from Japan due to increased militarization?"
+      ],
+      "reason": "The article discusses Japan's shift towards militarization and its implications for regional security, which can disrupt supply chains by affecting trade routes, increasing tariffs, or leading to sanctions. The geopolitical tensions may also impact defense manufacturing and related industries.",
+      "summary": "The article highlights Japan's recent moves towards militarization, including discussions on nuclear weapons and increased military spending, which have raised international concerns. It outlines Japan's military collaborations with countries like Australia and the Philippines, indicating a shift from its post-war pacifism and potential disruptions to regional stability.",
+      "title": " 【 世界说 】 新型军国主义  多维冒头 ， 专守防卫  名存实亡 ： 日本一步步侵蚀战后和平基石|战争|军事",
+      "url": "https://www.163.com/dy/article/L2SB2A850514R9KE.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Strikes at Hyundai and Kia",
+      "companies_involved": [
+        "Hyundai",
+        "Kia"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are affected by the labor strikes at Hyundai and Kia?",
+        "What are the potential impacts on the supply chain of parts manufacturers due to the ongoing strikes?"
+      ],
+      "reason": "The article discusses labor strikes at Hyundai and Kia, which are likely to disrupt production and supply chains in the automotive industry. Given the just-in-time (JIT) production model, any halt in assembly lines can lead to significant ripple effects across suppliers and manufacturers, impacting overall supply chain efficiency and competitiveness.",
+      "summary": "Hyundai and Kia are facing potential simultaneous labor strikes as negotiations between management and unions stall, raising concerns about production disruptions. The strikes could adversely affect the companies' performance and competitiveness, especially against increasing pressure from Chinese automotive manufacturers.",
+      "title": "중국차 질주 속 동시 파업 기로 … 현대차 · 기아  이중고  ",
+      "url": "https://www.etoday.co.kr/news/view/2608349"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Military Expansion and Nuclear Policy Shift",
+      "companies_involved": [
+        "N/A"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Australia",
+        "Philippines",
+        "Vietnam",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in Japan and involved in defense manufacturing?",
+        "What are the potential impacts on supply chains for companies exporting to or importing from Japan due to its military policy changes?"
+      ],
+      "reason": "The article discusses Japan's shift towards militarization and nuclear policy, which could lead to increased geopolitical tensions in the Asia-Pacific region. This shift may disrupt supply chains, particularly in defense and aerospace industries, as countries reassess their trade and security relationships with Japan.",
+      "summary": "The article highlights Japan's recent moves towards militarization and a potential shift in nuclear policy, raising international concerns. It details Japan's military expansions and collaborations with other nations, indicating a significant change in its post-war pacifist stance.",
+      "title": "日本一步步侵蚀战后和平基石 军国主义复燃引发警惕 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260727/49637117.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "BYD Racco Launch in Japan",
+      "companies_involved": [
+        "BYD",
+        "Honda",
+        "Nissan",
+        "Suzuki"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "What are the supply chain impacts of BYD's entry into the Japanese automotive market?",
+        "How might the competition from BYD affect the supply chains of Honda and Nissan?"
+      ],
+      "reason": "The article discusses the launch of a new electric vehicle by BYD in Japan, which introduces competition in the local automotive market. While this may affect market dynamics and pricing strategies, it does not indicate a disruption in the supply chain itself.",
+      "summary": "BYD has launched its first compact electric vehicle, the Racco, in Japan, targeting the kei-car segment traditionally dominated by local manufacturers like Honda and Nissan. The Racco offers competitive pricing and features, including a significant range for an electric vehicle, potentially reshaping the market landscape.",
+      "title": "BYD бросила вызов Honda и Nissan в Японии : компактный Racco стоимостью от 13 тыс . долларов имеет запас хода до 320 км",
+      "url": "https://itc.ua/news/byd-brosyla-vyzov-honda-y-nissan-v-yaponyy-kompaktnyj-racco-stoymostyu-ot-13-tys-dollarov-ymeet-zapas-hoda-do-320-km/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Military Exercises and Strategic Intentions in the Pacific",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Military"
+      ],
+      "countries_involved": [
+        "Japan",
+        "China",
+        "Philippines",
+        "United States",
+        "Spain",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in Japan or have contracts with the Japanese military?",
+        "What are the potential impacts on supply chains for companies operating in the Philippines due to increased military activity?"
+      ],
+      "reason": "The article discusses Japan's military exercises and strategic intentions, which indicate a potential escalation in geopolitical tensions in the Pacific region. Such tensions can disrupt supply chains by affecting trade routes, increasing military presence, and potentially leading to conflicts that could impact logistics and operations.",
+      "summary": "The article highlights Japan's recent military exercises in the Pacific, showcasing its increasing use of offensive weaponry and strategic positioning against China. Analysts interpret these actions as a significant shift in Japan's defense posture, potentially impacting regional stability and supply chain dynamics.",
+      "title": "日本借演试弹海上磨刀 对华封锁围堵意图明显 - 中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666726.shtml"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Kumamoto, Japan",
+      "companies_involved": [
+        "Kyushu Electric Power Company"
+      ],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Japan and may be affected by the earthquake?",
+        "What is the status of energy supply chains in the Kyushu region following the earthquake?"
+      ],
+      "reason": "The earthquake in Kumamoto, Japan, poses a risk to the energy supply chain, particularly affecting the operations of Kyushu Electric Power Company. Although no immediate disruptions were reported, the potential for future impacts exists, especially if aftershocks or tsunami threats materialize.",
+      "summary": "The article reports that Kyushu Electric Power Company has not detected any disruptions in the operation of its power units following a 7.1 magnitude earthquake in Kumamoto, Japan. The government has been urged to assess the situation and prioritize the safety of citizens amidst tsunami warnings.",
+      "title": "Оператор АЭС не выявили сбоев в работе энергоблоков после землетрясения в Японии",
+      "url": "http://govoritmoskva.ru/news/500258/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Strikes in Automotive and Steel Industries",
+      "companies_involved": [
+        "Hyundai Motor Company",
+        "Kia",
+        "POSCO",
+        "HD Hyundai Heavy Industries",
+        "Hyundai Steel"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Steel",
+        "Shipbuilding"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are affected by the labor strikes at Hyundai and Kia?",
+        "What are the potential impacts on the supply chain for steel components due to the ongoing negotiations at POSCO?"
+      ],
+      "reason": "The article highlights significant labor disputes in key industries such as automotive and steel, which are critical to South Korea's manufacturing sector. The strikes and negotiations can lead to production delays, affecting not only the companies involved but also their suppliers and the broader supply chain.",
+      "summary": "The article discusses escalating labor conflicts in South Korea's automotive and steel industries, with Hyundai and Kia facing partial strikes and POSCO potentially facing its first-ever strike. These disruptions raise concerns about production delays and their ripple effects on the supply chain, particularly for industries reliant on these sectors.",
+      "title": "자동차서 철강 · 조선까지 … 제조업  하투  기로",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1308292"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Kyushu, Japan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of supply routes that pass through the affected areas in Kyushu?"
+      ],
+      "reason": "The earthquake has caused significant infrastructure damage, including roads, bridges, and power outages, which can disrupt logistics and supply chains in the region. The impact on historical sites may also affect tourism and related industries.",
+      "summary": "A 7.1 magnitude earthquake struck Kyushu, Japan, causing severe infrastructure damage, including power outages and building collapses. Over 50 people were injured, and while a tsunami warning was issued, it was later canceled, indicating a significant natural disaster with potential ripple effects on local supply chains.",
+      "title": "Что известно о сильном землетрясении на юго - западе Японии",
+      "url": "https://www.metronews.ru/novosti/world/reviews/chto-izvestno-o-silnom-zemletryasenii-na-yugo-zapade-yaponii-2190557/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Kumamoto, Japan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Kumamoto region of Japan?",
+        "What are the potential impacts on logistics and transportation routes in the affected areas?"
+      ],
+      "reason": "The earthquake in Kumamoto, Japan, poses a significant risk to supply chains due to potential damage to infrastructure, disruption of logistics, and impacts on local industries. The tsunami alert further complicates the situation, potentially affecting maritime operations and trade.",
+      "summary": "A magnitude 7.1 earthquake struck Kumamoto, Japan, prompting a tsunami alert for the surrounding seas. The earthquake's intensity and depth indicate a serious risk to local infrastructure and supply chains.",
+      "title": "Un séisme de magnitude 7 , 1 frappe le sud - ouest du Japon , une alerte au tsunami émise - Xinhua",
+      "url": "http://french.xinhuanet.com/20260728/909c9eb2fbfe4b3ab1674a2d7cd16140/c.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Japan",
+      "companies_involved": [
+        "Automotive manufacturers",
+        "Electronics manufacturers"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Japan and are involved in automotive manufacturing?",
+        "What are the contingency plans for electronics manufacturers sourcing from Japan?"
+      ],
+      "reason": "The earthquake in Japan has caused significant damage to infrastructure, including bridges and roads, and has led to the shutdown of major automotive and electronics manufacturing facilities. This disruption can have cascading effects on global supply chains, particularly in industries reliant on just-in-time production and sourcing from Japan.",
+      "summary": "A strong earthquake with a magnitude of 7.1 struck Kyushu, Japan, resulting in casualties and extensive damage to infrastructure. Major automotive and electronics factories have halted operations, and further seismic activity is anticipated, raising concerns about ongoing supply chain disruptions.",
+      "title": "Сейсмологи прогнозируют в Японии в ближайшие дни новые сильные землетрясения . Новости . Первый канал",
+      "url": "https://www.1tv.ru/news/2026-07-28/548861"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "N/A",
+      "companies_involved": [
+        "日本ハム"
+      ],
+      "industries_involved": [
+        "Sports",
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and player performance, which does not indicate any supply chain disruption or risk. It focuses on individual achievements in baseball rather than any operational or logistical issues.",
+      "summary": "The article highlights the performance of Nippon Ham's player, Arizono Naoki, who hit his first professional home run during a game against Rakuten. It also features a light-hearted exchange between him and his senior teammate, Kiyomiya, regarding their training efforts.",
+      "title": "日本ハム  未来の大砲  有薗直輝 、 先輩 ・ 清宮幸に 「 もっと筋トレ頑張ってください 」 プロ1号は逆方向弾 （ スポニチ ） ",
+      "url": "https://mainichi.jp/articles/20260726/spp/sp0/001/264000c"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Political instability in Japan",
+      "companies_involved": [
+        "Nomura Securities",
+        "Mitsui Sumitomo Trust",
+        "Daiwa Securities"
+      ],
+      "industries_involved": [
+        "Finance",
+        "Government",
+        "Consumer Goods"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are affected by the potential fiscal policies in Japan?",
+        "What are the supply chain impacts of the declining Japanese yen on import-dependent industries?"
+      ],
+      "reason": "The political instability and declining support for the Japanese Prime Minister could lead to significant fiscal policy changes, impacting financial markets and consumer goods industries. This situation creates uncertainty in supply chains, particularly for companies reliant on stable economic conditions and currency stability.",
+      "summary": "The article discusses the declining support for Japanese Prime Minister Sanna Takashi due to rising living costs and a weak yen, prompting concerns about potential aggressive fiscal measures. Analysts warn that these changes could destabilize Japan's financial markets and impact investor confidence, leading to broader supply chain disruptions.",
+      "title": "机构警告 ： 高市支持率走低或令日本资产承压 ！ ",
+      "url": "https://stock.jrj.com.cn/2026/07/27193757911200.shtml"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Military Tensions",
+      "companies_involved": [
+        "Edwards Lifesciences",
+        "Kioxia",
+        "SoftBank",
+        "Fujikura",
+        "Furukawa Electric",
+        "Sumitomo Electric"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Transportation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in the United States or Iran?",
+        "What are the alternative suppliers for semiconductor components affected by geopolitical tensions?"
+      ],
+      "reason": "The article discusses the impact of US military decisions on oil prices and inflation, which in turn affects transportation costs and supply chain operations, particularly in Japan. The geopolitical tensions in the Middle East are causing disruptions in supply chains, especially in the energy and transportation sectors.",
+      "summary": "The article highlights the effects of US military actions in Iran on the Japanese economy, particularly through fluctuations in oil prices and inflation. It notes the mixed performance of semiconductor stocks in Japan and rising transportation costs due to supply chain disruptions linked to geopolitical tensions.",
+      "title": " 《 日股 》 不畏AI漏氣 日經漲0 . 5 % - 財經",
+      "url": "https://www.chinatimes.com/realtimenews/20260727003031-260410"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Kumamoto, Japan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of logistics operations in Japan following the earthquake?"
+      ],
+      "reason": "The earthquake in Kumamoto, Japan, poses a significant risk to supply chains due to potential disruptions in transportation, logistics, and the safety of personnel. The event can lead to delays in the movement of goods and services, impacting various industries reliant on this region.",
+      "summary": "A Russian tourist and others were stranded on a train during a powerful earthquake in Japan, which registered a magnitude of 7.1. The earthquake primarily affected the Kumamoto area, causing injuries to local residents but no harm to the tourists.",
+      "title": "Россиянин застрял в поезде в районе мощного землетрясения в Японии",
+      "url": "https://lenta.ru/news/2026/07/28/rossiyanin-zastryal-v-poezde-v-rayone-moschnogo-zemletryaseniya-v-yaponii/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Kyushu Earthquake",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the Kyushu region are at risk due to the earthquake?",
+        "What is the status of logistics operations in Japan following the earthquake?"
+      ],
+      "reason": "The earthquake in Kyushu, Japan, poses a significant risk to supply chains due to potential disruptions in transportation, manufacturing, and logistics operations in the affected region. Natural disasters can lead to immediate and cascading effects on supply chain networks, impacting various industries reliant on the region.",
+      "summary": "A powerful earthquake of magnitude 7.1 struck the southwest of Japan, specifically on the island of Kyushu. The earthquake reached the maximum intensity level on Japan's seismic scale, and while no immediate anomalies were reported at nearby nuclear facilities, the potential for tsunami and infrastructure damage raises concerns for supply chain disruptions.",
+      "title": "Japon : Un violent séisme frappe le sud du pays",
+      "url": "https://sana.sy/fr/international/2320873/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Kyushu, Japan",
+      "companies_involved": [
+        "TSMC"
+      ],
+      "industries_involved": [
+        "Semiconductors"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers of TSMC are located in Japan?",
+        "What are the contingency plans for semiconductor supply chains affected by the earthquake in Kyushu?"
+      ],
+      "reason": "The earthquake has caused significant damage to infrastructure, including commercial buildings and transportation networks, which can disrupt supply chains, particularly in the semiconductor industry where TSMC operates. The evacuation of personnel and potential operational halts can lead to delays in production and delivery.",
+      "summary": "A powerful earthquake of magnitude 7.1 struck the southwestern region of Japan, causing numerous casualties and extensive damage to buildings and infrastructure. The incident has led to power outages and the evacuation of personnel from TSMC's facilities, raising concerns about disruptions in the semiconductor supply chain.",
+      "title": "Japon  : Un violent séisme frappe le sud du pays , une alerte au tsunami émise",
+      "url": "https://www.20minutes.fr/monde/japon/4236644-20260728-japon-violent-seisme-frappe-sud-pays-alerte-tsunami-emise"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Heatwave in Japan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Healthcare",
+        "Agriculture",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "What are the supply chain impacts on healthcare providers in Japan due to increased hospitalizations from heat-related illnesses?",
+        "How are agricultural outputs in Japan affected by the extreme heat conditions?"
+      ],
+      "reason": "The extreme heatwave in Japan has led to a significant increase in hospitalizations and fatalities, which can strain healthcare resources and impact industries reliant on labor, such as agriculture and construction. This disruption can lead to delays in production and service delivery, affecting supply chains both locally and potentially globally.",
+      "summary": "A severe heatwave in Japan has resulted in over 18,000 people suffering from heat-related illnesses, with 45 fatalities reported. The extreme temperatures, exceeding 40 degrees Celsius, have raised concerns about public health and could have broader implications for various industries and supply chains.",
+      "title": "Более 18 тысяч человек пострадали от жары в Японии за неделю , 45 погибли",
+      "url": "https://vm.ru/news/1346077-bolee-18-tysyach-chelovek-postradali-ot-zhary-v-yaponii-za-nedelyu-45-pogibli"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Typhoon Dolphin",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in Japan that may be affected by Typhoon Dolphin?",
+        "What are the contingency plans for suppliers in Taiwan in response to Typhoon Dolphin?"
+      ],
+      "reason": "The article discusses the impending threat of Typhoon Dolphin, which is expected to strengthen and potentially impact Japan. Such natural disasters can disrupt supply chains by affecting transportation, logistics, and operations in the region.",
+      "summary": "The article warns of Typhoon Dolphin's rapid intensification and its projected path towards Japan, with meteorological experts advising caution for travelers. It highlights the presence of multiple typhoons in the region and the potential for severe weather conditions affecting local infrastructure.",
+      "title": "白海豚快速增強挑戰風王 ！ 專家曝 「 三颱並存 」 現況 示警 ： 去日本小心了 | 生活 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1879495"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Major Earthquake in Kyushu, Japan",
+      "companies_involved": [
+        "Kyushu Electric Power"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of supply routes for construction materials in Japan following the earthquake?"
+      ],
+      "reason": "The earthquake has caused significant infrastructure damage, including collapsed buildings and disrupted power supply, which can severely impact supply chains in the affected region. The energy sector is particularly affected due to power outages, and the construction industry may face delays and increased costs due to damaged infrastructure.",
+      "summary": "A major earthquake with a magnitude of 7.1 struck Kyushu, Japan, causing building collapses, fires, and power outages affecting approximately 45,000 households. The event has raised concerns about infrastructure damage and potential disruptions to supply chains in the region.",
+      "title": "Takaichi says injuries , buildings collapsed in major quake",
+      "url": "https://japantoday.com/category/national/japan-pm-says-injuries-buildings-collapsed-in-major-quake"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquakes in Kumamoto, Japan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of supply chains that rely on infrastructure in the affected areas of Kyushu?"
+      ],
+      "reason": "The series of earthquakes in Japan has caused injuries, infrastructure damage, and potential disruptions to local supply chains, particularly in construction, logistics, and emergency services. The risk of aftershocks and ongoing seismic activity may further complicate recovery efforts and impact supply chain operations.",
+      "summary": "A series of powerful earthquakes in Kumamoto, Japan, has resulted in over 50 injuries and significant damage to buildings and infrastructure. The government has activated crisis response measures, and there is a risk of further seismic activity in the coming week.",
+      "title": "Серия разрушительных землетрясений в Японии привела к десяткам пострадавших :: Новости дня / ВЗГЛЯД",
+      "url": "https://vz.ru/news/2026/7/28/1438314.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "6.8 Earthquake in Japan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Retail",
+        "Construction",
+        "Infrastructure"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of logistics operations for companies in the retail sector affected by the earthquake?"
+      ],
+      "reason": "The earthquake caused significant damage to infrastructure, including a shopping mall, which can disrupt retail operations and supply chains in the region. The loss of power and damaged roads further complicate logistics and distribution, impacting various industries reliant on timely deliveries and operational continuity.",
+      "summary": "A magnitude 6.8 earthquake struck southwestern Japan, causing a shopping mall to collapse and trapping shoppers inside. The event led to widespread evacuations, power outages, and infrastructure damage, raising concerns about aftershocks and the overall impact on local supply chains.",
+      "title": "6 . 8 earthquake traps shoppers as mall collapses in Japan ‬ here why the seismic event was unusual",
+      "url": "https://www.livescience.com/planet-earth/earthquakes/6-8-earthquake-traps-shoppers-as-mall-collapses-in-japan-heres-why-the-seismic-event-was-unusual"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "AI-driven historical misinformation campaign",
+      "companies_involved": [],
+      "industries_involved": [
+        "Media",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Japan",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on media companies in Japan due to the spread of AI-generated misinformation?",
+        "How might the technology sector in Japan be affected by the manipulation of AI training data with biased historical narratives?"
+      ],
+      "reason": "The article discusses the use of AI technology by Japanese right-wing groups to create and disseminate false historical narratives, which poses risks to the integrity of information and media industries. This geopolitical disruption can lead to misinformation affecting public perception and historical understanding, potentially impacting international relations and trade.",
+      "summary": "The article highlights the use of AI technology by Japanese right-wing factions to produce false historical narratives regarding Japan's actions in China, leading to domestic and international criticism. This manipulation of information poses risks to societal understanding and could influence future geopolitical relations.",
+      "title": "日本篡改历史又有新伎俩 AI技术批量造假 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260727/49634860.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "7.1 Magnitude Earthquake in Southern Japan",
+      "companies_involved": [
+        "Kyushu Electric Power"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of supply chains for companies dependent on construction materials in southern Japan?"
+      ],
+      "reason": "The earthquake has caused significant infrastructure damage, including power outages and collapsed buildings, which directly impacts supply chains in the affected region. The disruption of energy supply and transportation routes can lead to delays and increased costs for companies relying on these services.",
+      "summary": "A powerful 7.1 magnitude earthquake struck southern Japan, causing building collapses, fires, and power outages affecting approximately 45,000 households. The event has raised concerns about infrastructure damage and potential disruptions to supply chains in the region.",
+      "title": "Powerful 7 . 1 Magnitude Earthquake Strikes Southern Japan , Tsunami Warning Issued for Kyushu",
+      "url": "https://gulfnews.com/world/asia/many-people-trapped-in-damaged-shopping-mall-after-japan-quake-1.500622489"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Japan",
+      "companies_involved": [
+        "Nippon Paper Industries",
+        "Aeon"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Japan and may be affected by the earthquake?",
+        "What are the contingency plans for suppliers in the retail and manufacturing sectors in Japan?"
+      ],
+      "reason": "The earthquake in Japan has caused significant destruction, including fatalities and damage to infrastructure, which directly impacts supply chains in the affected regions. Companies like Nippon Paper Industries and Aeon are facing operational disruptions, which can ripple through their supply chains.",
+      "summary": "A powerful earthquake in Japan has resulted in multiple casualties and extensive damage, triggering secondary disasters such as explosions and structural collapses. Key companies, including Nippon Paper Industries and Aeon, are affected, leading to operational disruptions and potential supply chain impacts.",
+      "title": "Мощное землетрясение в Японии унесло жизни шести человек",
+      "url": "https://www.mk.ru/incident/2026/07/29/moshhnoe-zemletryasenie-v-yaponii-uneslo-zhizni-shesti-chelovek.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Japan's Historical Revisionism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Japan's historical revisionism and does not present any direct supply chain disruptions or impacts on specific companies or industries.",
+      "summary": "The article addresses Japan's attempts to revise historical narratives, highlighting concerns over the implications of such actions. It emphasizes the importance of maintaining historical accuracy and the potential consequences of misinformation.",
+      "title": "主播说联播丨日本篡改历史又有新伎俩 ！ 技术不容作恶 ， 历史不容  翻案  ",
+      "url": "https://baijiahao.baidu.com/s?id=1871791883779993319"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China's missile tests and Japan's security concerns",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan",
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Japan are affected by geopolitical tensions with China?",
+        "What are the potential impacts on supply chains in Japan due to increased military tensions in the region?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between Japan and China, particularly in the context of China's missile tests, which could lead to increased military spending and shifts in trade policies. Such geopolitical disruptions can significantly impact supply chains, especially in industries reliant on stability in the Asia-Pacific region.",
+      "summary": "The article highlights former Japanese Prime Minister Shigeru Ishiba's comments on China's missile tests and Japan's security strategy. He emphasizes the need for Japan to reassess its position amid rising tensions between the U.S. and China, reflecting on historical economic shifts and the complex relationship between Japan and China.",
+      "title": "石破茂称管不了中国试射导弹 呼吁换位思考 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260727/49635332.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China-Taiwan Military Tensions",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Taiwan",
+        "Japan",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in Taiwan that could be affected by military actions?",
+        "What are the potential impacts on logistics for companies operating in the Taiwan Strait region?"
+      ],
+      "reason": "The article discusses China's military preparations and simulations targeting Taiwan and U.S. military bases, indicating a significant geopolitical risk that could disrupt supply chains, particularly for companies operating in or reliant on the stability of the Taiwan Strait and surrounding regions.",
+      "summary": "The article reveals that China is constructing military models of key Taiwanese and U.S. military sites for training purposes, indicating heightened military tensions in the region. This development poses a potential risk to supply chains due to the geopolitical instability it creates, particularly for entities operating in Taiwan and nearby areas.",
+      "title": "中國沙漠驚現 「 台灣總統府 」！ 衛星曝共軍演練攻台 複製美日基地 | ETtoday國際新聞",
+      "url": "https://www.ettoday.net/news/20260727/3208136.htm"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical | Energy",
+      "event": "Geopolitical tensions affecting energy imports",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Russia",
+        "United States",
+        "European Union",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "South Korea",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Japan and are affected by the energy import restrictions?",
+        "What are the alternative energy sources for Japan in light of the geopolitical pressures from the US and EU?"
+      ],
+      "reason": "The article highlights Japan's ongoing trade deficit and the impact of geopolitical tensions on its energy imports, particularly from Russia. The rising costs of energy imports due to these tensions create significant risks for Japan's supply chain, especially given its reliance on foreign oil and gas.",
+      "summary": "Japan is facing a severe economic situation characterized by a continuous trade deficit and a depreciating yen, exacerbated by geopolitical pressures and rising energy costs. The country heavily relies on imported oil, particularly from the Middle East, and is under pressure from the US and EU to reduce imports from Russia, further straining its economy.",
+      "title": "日韩经济到底怎么了 贸易逆差与货币贬值双重夹击 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260729/49639604.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Nuclear Threats and Proxy Wars",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "India",
+        "Pakistan",
+        "Ukraine",
+        "Russia",
+        "North Korea",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in China or neighboring countries facing nuclear threats?",
+        "What contingency plans do suppliers in the Asia-Pacific region have in response to geopolitical tensions involving nuclear capabilities?"
+      ],
+      "reason": "The article discusses the evolving nature of nuclear threats and proxy wars, which can significantly impact supply chains by creating instability in affected regions, leading to disruptions in production, logistics, and trade. The potential for nuclear conflict or terrorism poses a direct risk to companies operating in or relying on these regions.",
+      "summary": "The article outlines the emerging threats posed by nuclear guerrilla warfare and proxy wars, highlighting how these developments undermine traditional nuclear deterrence and create complex security challenges for countries like China. It details various potential nuclear threats from neighboring countries and non-state actors, emphasizing the need for strategic responses to mitigate risks.",
+      "title": " 《 总体熵战 》 第七章 ： 论进攻 （ 之四 ） - 博客",
+      "url": "https://blog.wenxuecity.com/myblog/81044/202607/19246.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Kumamoto Earthquake",
+      "companies_involved": [
+        "Aeon Mall"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in the Kumamoto region of Japan?",
+        "What are the contingency plans for suppliers in the retail and healthcare sectors affected by the earthquake?"
+      ],
+      "reason": "The earthquake in Kumamoto Prefecture has caused significant structural damage, injuries, and disruptions to transportation and emergency services, impacting supply chains in the retail and healthcare sectors. The closure of roads and airports, along with the destruction of facilities, poses a risk to the continuity of operations and logistics.",
+      "summary": "A magnitude 7.1 earthquake struck Kumamoto Prefecture, Japan, causing building collapses, fires, and significant injuries. Emergency responders are working to rescue trapped individuals, while transportation services have been disrupted, impacting local businesses and healthcare facilities.",
+      "title": "  Many  people trapped inside shopping centre in southern Japan after earthquake",
+      "url": "https://www.thejournal.ie/many-people-trapped-japan-shopping-centre-earthquake-7115525-Jul2026/"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Conflict over Escalator Etiquette",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural misunderstanding regarding escalator etiquette in Japan, which does not directly impact supply chains or involve any specific companies or industries.",
+      "summary": "The article highlights a cultural clash in Japan regarding escalator etiquette, where a mother and daughter from the Tokai region faced verbal abuse for standing side by side on an escalator in the Kansai region. This incident sparked discussions about the differing practices and safety concerns related to escalator use across various regions in Japan.",
+      "title": "在日本搭電扶梯該站哪側 ？ 外地母女踩雷 關西人飆罵 ： 老太婆閃開 | 世界萬象 | 全球",
+      "url": "https://udn.com/news/story/6812/9654995"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Traffic congestion due to breakdowns",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Indonesia"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on logistics companies operating in Jakarta due to traffic congestion?",
+        "Which suppliers rely on the affected logistics routes in DKI Jakarta?"
+      ],
+      "reason": "The article discusses the preparation of free towing services for broken-down trucks to prevent traffic congestion on logistics routes in Jakarta. This indicates a logistical disruption that could affect the timely delivery of goods and services, impacting supply chains reliant on these routes.",
+      "summary": "The article highlights efforts by the DKI Jakarta transportation agency to mitigate traffic congestion on logistics routes by providing free towing services for trucks that break down. This initiative aims to ensure smoother logistics operations and prevent delays in the supply chain.",
+      "title": "Cegah Kemacetan di Jalur Logistik , Dishub DKI Siapkan Derek Gratis Khusus Truk Mogok",
+      "url": "https://wartakota.tribunnews.com/jakarta/896615/cegah-kemacetan-di-jalur-logistik-dishub-dki-siapkan-derek-gratis-khusus-truk-mogok"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Promotion of Taiwanese Cuisine Internationally",
+      "companies_involved": [],
+      "industries_involved": [
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "What are the supply chain pathways for Taiwanese food products being exported?",
+        "Which suppliers are involved in the international distribution of Taiwanese cuisine?"
+      ],
+      "reason": "The article discusses the promotion of Taiwanese cuisine on an international scale, which does not indicate a disruption but rather an initiative to enhance market presence. There are no specific disruptions or risks mentioned that would impact supply chains.",
+      "summary": "The article highlights efforts by Taiwan's commercial authorities to promote Taiwanese cuisine globally through initiatives that facilitate the entry of people, products, and stores into international markets. It emphasizes the strategic approach to enhance the visibility and reach of Taiwanese food products worldwide.",
+      "title": "好味道飄香全球 商業署以 「 人進 、 品出 、 店出 」 讓臺灣美食推向國際 ! ",
+      "url": "https://n.yam.com/Article/20260728765388"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Strikes in Shipbuilding Industry",
+      "companies_involved": [
+        "HD현대중공업",
+        "한화오션"
+      ],
+      "industries_involved": [
+        "Shipbuilding"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are affected by potential strikes in the South Korean shipbuilding industry?",
+        "What are the contingency plans for companies relying on HD현대중공업 and 한화오션 for their supply chain?"
+      ],
+      "reason": "The article discusses impending strikes by subcontractor unions in the South Korean shipbuilding industry, which could lead to significant production disruptions due to the high reliance on subcontracted labor. This situation poses a risk to supply chains as it may halt production and affect delivery timelines.",
+      "summary": "The article reports that HD현대중공업's subcontractor union is preparing to secure strike rights due to stalled negotiations with the parent company, following similar actions by 한화오션. The potential for widespread strikes in the shipbuilding sector raises concerns about significant operational disruptions, particularly given the industry's reliance on subcontracted labor.",
+      "title": " [ 단독 ] HD현대重 하청 , 내달 조정 신청 … 파업권 확보 나선다",
+      "url": "https://biz.heraldcorp.com/article/10823799"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Other",
+      "event": "UK Government Policy Changes",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Public Transport"
+      ],
+      "countries_involved": [
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on energy suppliers due to the VAT exemption on household electricity?",
+        "How might changes in public transport pricing affect logistics companies operating in the UK?"
+      ],
+      "reason": "The article discusses new government policies in the UK aimed at addressing cost of living issues, which could lead to changes in energy pricing and public transport operations. These policy changes can disrupt supply chains by altering cost structures and operational dynamics within affected industries.",
+      "summary": "The newly appointed UK Prime Minister Burnham is rapidly implementing policies to prioritize cost of living issues, including VAT exemptions on electricity and caps on bus fares. These measures are aimed at improving public support and addressing economic challenges faced by households.",
+      "title": "英首相 、 就任直後から新政策続々 実行力アピール 、「 生活費優先 」： 中日新聞Web",
+      "url": "https://www.chunichi.co.jp:443/article/1286821"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taiwan-Japan Educational Cooperation in Semiconductor Training",
+      "companies_involved": [],
+      "industries_involved": [
+        "Semiconductors",
+        "Education"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "What are the key educational institutions in Taiwan that are involved in semiconductor training?",
+        "Which companies in the semiconductor industry are collaborating with educational institutions in Taiwan?"
+      ],
+      "reason": "The article discusses a new educational collaboration between Taiwanese and Japanese institutions aimed at enhancing semiconductor talent development. While this initiative may strengthen the semiconductor supply chain in the long term, it does not indicate an immediate disruption.",
+      "summary": "The article reports on a memorandum of understanding signed between a Taiwanese vocational school and a Japanese technical college to enhance semiconductor talent development. This collaboration aims to facilitate student exchanges and deepen practical skills in the semiconductor industry, marking a significant step in international educational cooperation.",
+      "title": "新化高工攜日本八戶高專簽MOU 深化半導體人才培育 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202607270235.aspx"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "South China Sea Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Maritime"
+      ],
+      "countries_involved": [
+        "Philippines",
+        "China",
+        "United States",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors are supplying military equipment to the Philippines?",
+        "What are the supply chain impacts for maritime operations in the South China Sea due to geopolitical tensions?"
+      ],
+      "reason": "The article discusses heightened military tensions in the South China Sea involving the Philippines, China, the US, and Japan, which can disrupt maritime operations and defense supply chains in the region. The involvement of multiple nations in military exercises indicates potential risks to trade routes and regional stability, affecting logistics and operations.",
+      "summary": "The article highlights escalating tensions in the South China Sea as the Philippines conducts joint military exercises with the US and Japan, provoking a strong response from China. The situation raises concerns about regional stability and the implications for supply chains, particularly in defense and maritime industries.",
+      "title": "PLA Southern Theater Command slams Philippines for stirring up trouble in SCS , conducts routine South China Sea patrols amid trilateral US - Philippines - Japan drills",
+      "url": "https://www.globaltimes.cn/page/202607/1366848.shtml"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Japan's Space Operations Initiative",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Japan's ambitions in space operations but does not indicate any immediate supply chain disruptions or impacts on specific companies or industries.",
+      "summary": "The article explores Japan's intentions and strategies regarding its space operations initiative. It highlights the geopolitical implications of Japan's actions in the context of space exploration and military capabilities.",
+      "title": "视频丨啥是  宇宙作战集团 ？ 日本把手伸向太空意欲何为 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1871732430949191510"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-Iran Conflict and U.S.-China Tensions",
+      "companies_involved": [
+        "CoAspire"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in the United States that provide components for missile systems?",
+        "What are the potential impacts on supply chains for defense contractors in the context of U.S.-China tensions?"
+      ],
+      "reason": "The article discusses the U.S. Navy's procurement of low-cost cruise missiles to enhance military capabilities amid geopolitical tensions, particularly with Iran and China. This procurement strategy indicates a shift in defense supply chains, potentially affecting production capacities and timelines for allied nations.",
+      "summary": "The U.S. Navy has awarded a $70 million contract to CoAspire for the development of low-cost cruise missiles aimed at enhancing long-range strike capabilities for the U.S. fleet and its allies. This initiative is driven by recent conflicts that have depleted U.S. military stockpiles and the need to bolster defense capabilities in response to potential threats from China.",
+      "title": "美海軍砸7000萬美元採購低成本巡航飛彈 強化艦隊與盟友遠程海上打擊能力 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-07-27/1049592"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "NEET Protest in Delhi",
+      "companies_involved": [],
+      "industries_involved": [
+        "Entertainment",
+        "Education"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in India due to ongoing protests?",
+        "How might the political climate in India affect the supply chains of companies in the entertainment industry?"
+      ],
+      "reason": "The protests in Delhi, driven by student demands and political actions, can disrupt educational services and influence the entertainment industry, particularly as public figures engage in activism. This can lead to broader implications for supply chains linked to these sectors, especially if the unrest escalates or leads to policy changes.",
+      "summary": "The article discusses the NEET protests in Delhi, highlighting the involvement of actress Ranjini Haridas and the significant public support for the student movement. It notes the political ramifications of the protests, including the resignation of the Education Minister, and the backlash faced by Haridas for her support of the students.",
+      "title": "പണം വാങ്ങി ഡൽഹിയിലെത്തിയെന്ന് ആരോപണം : വിമർശകരുടെ വായടപ്പിച്ച് രഞ്ജിനി ഹരിദാസ് ;  എന്തായാലും അറിയിച്ചതിന് നന്ദി ! | Ranjini Slams Fake News Over NEET Protest",
+      "url": "https://www.madhyamam.com/entertainment/celebrities/ranjini-slams-fake-news-over-neet-protest-1541102"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Kumamoto Earthquake",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Kumamoto region of Japan?",
+        "What is the status of supply chains that rely on infrastructure in the affected areas of Kumamoto?"
+      ],
+      "reason": "The article discusses a significant earthquake in Kumamoto, Japan, which poses risks to local infrastructure and supply chains. Natural disasters like earthquakes can disrupt logistics, manufacturing, and distribution channels, leading to potential delays and increased costs for companies relying on the affected region.",
+      "summary": "A 7.1 magnitude earthquake struck Kumamoto, Japan, raising concerns about potential aftershocks and further seismic activity. Experts warn that this earthquake may be linked to previous seismic events and could impact the region's geological stability, necessitating caution for the local population and industries.",
+      "title": "熊本7 . 1強震是 「 前菜 」？ 恐由10年前斷裂斷層位移引起 不排除更強主震 | 日本熊本7 . 1強震 | 全球",
+      "url": "https://udn.com/news/story/124969/9657226"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Taiwan-China Tensions",
+      "companies_involved": [
+        "General Atomics",
+        "Kongsberg"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "United States",
+        "Norway",
+        "China",
+        "Australia",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are located in Taiwan or China?",
+        "What are the potential impacts on the supply chain for companies involved in defense contracts with Taiwan?"
+      ],
+      "reason": "The article discusses Taiwan's procurement of advanced military drones and missiles, which is directly linked to geopolitical tensions with China. This situation can lead to disruptions in the supply chain for defense contractors and related industries due to potential conflicts or trade restrictions.",
+      "summary": "The article highlights Taiwan's acquisition of MQ-9B drones integrated with Kongsberg's JSM missiles, enhancing its military capabilities against China. This development is significant in the context of regional security and may impact supply chains in the defense sector due to geopolitical tensions.",
+      "title": "MQ - 9B整合JSM飛彈 台若升級將獲長程打擊力 - 國際",
+      "url": "https://news.cts.com.tw/cts/international/202607/202607273060430.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political instability in Japan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a decline in political support for the Japanese government, which may lead to instability but does not directly indicate a supply chain disruption.",
+      "summary": "The article reports a significant drop in support for Prime Minister Takaiichi's cabinet, with approval ratings falling to their lowest since taking office. The decline is particularly pronounced among undecided voters, raising concerns about the government's stability and potential implications for policy-making.",
+      "title": "여왕 인정 논란 · 고물가에 日다카이치 지지율 급락",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04300086645518784&mediaCodeNo=257"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Protests in India and International Solidarity",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in India that may be affected by the ongoing protests?",
+        "What are the potential impacts on supply chains due to international solidarity movements supporting Indian students?"
+      ],
+      "reason": "The protests in India, supported by international figures like Greta Thunberg, indicate a geopolitical disruption that could affect supply chains, particularly in sectors reliant on stability and public order. The solidarity movements may influence global perceptions and policies, potentially impacting trade and operations.",
+      "summary": "Greta Thunberg participated in a protest in London supporting Indian students against the NEET exam irregularities, emphasizing the global solidarity for justice and democracy. Her involvement highlights the interconnectedness of social movements and their potential implications on geopolitical stability, which can affect supply chains.",
+      "title": "  ഇന്ത്യന്‍ യുവത അഭിമാനം , പ്രതീക്ഷ ; എസ്എഫ്ഐ പരിപാടിയില്‍ പങ്കെടുത്ത് ഗ്രേറ്റ ട്യുൻബെർഗ് | Greta Thunberg Joins SFI united kingdom Protest in London",
+      "url": "https://www.manoramanews.com/gulf-and-global/world/2026/07/27/greta-thunberg-attends-sfi-protest-london-supports-indian-students.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Jantar Mantar Student Protest 2026",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a student-led protest in India, which, while significant in a social and political context, does not directly indicate a disruption in supply chains or related industries.",
+      "summary": "The article highlights Neha Bora, a student leader who played a pivotal role in the historic 2026 Jantar Mantar protest against government actions. The protest, marked by student unity and resilience, aimed to address issues in the education sector and showcased the power of youth activism in India.",
+      "title": "Neha Bora : The Student Leader Who Led the Historic 2026 Jantar Mantar Protest | നേഹ ബോറ : ജന്തര്‍മന്തര്‍ സമരത്തിലെ വിദ്യാര്‍ഥി മുന്നേറ്റത്തിന്റെ മുഖം",
+      "url": "https://www.mathrubhumi.com/lifestyle/features/neha-bora-jantar-mantar-student-protest-2026-w4tgpw3e"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "National Education Scandal in India",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in India due to the recent scandal?",
+        "Which suppliers of educational materials and services are affected by the ongoing protests in India?"
+      ],
+      "reason": "The resignation of the Education Minister and the subsequent protests indicate a significant disruption in the education sector in India, which can affect various stakeholders including educational institutions, students, and related service providers. The scandal has led to a national crisis, impacting the stability and operations of the education system.",
+      "summary": "The Indian Education Minister resigned following a scandal involving leaked exam questions, leading to nationwide protests. The situation has raised concerns about accountability in the education system and has resulted in significant emotional distress among students, with tragic consequences reported.",
+      "title": "Menteri pendidikan India akhirnya mundur karena skandal ujian nasional",
+      "url": "https://www.antaranews.com/berita/5666509/menteri-pendidikan-india-akhirnya-mundur-karena-skandal-ujian-nasional"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Political Resignation in India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational supply chains in India following the resignation of the Education Minister?",
+        "Which suppliers in the education sector may be affected by political instability in India?"
+      ],
+      "reason": "The resignation of a key political figure, such as the Minister of Education, can lead to uncertainty and instability in the education sector, potentially affecting supply chains related to educational materials, technology, and services. This disruption can ripple through various suppliers and stakeholders in the industry.",
+      "summary": "The article reports on the resignation of India's Education Minister following protests. This political change may have implications for the education sector and its associated supply chains, particularly in terms of stability and policy direction.",
+      "title": "Menteri Pendidikan India Mundur Usai Diprotes",
+      "url": "https://www.tempo.co/internasional/menteri-pendidikan-india-mundur-usai-diprotes-2278344"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Correction of misinformation regarding AISA leadership",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not describe any supply chain disruption; it is a correction regarding the leadership of a student organization and does not impact supply chains.",
+      "summary": "The article clarifies that Neha Bora is the All India President of the All India Students’ Association (AISA), correcting a previous misstatement. It emphasizes the ongoing nature of the movement led by AISA, but does not relate to supply chain disruptions.",
+      "title": "Corrections and Clarifications July 28 , 2026",
+      "url": "https://www.thehindu.com/opinion/Readers-Editor/corrections-and-clarifications/corrections-and-clarifications-july-28-2026/article71273092.ece"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Attack on MV OMORFI",
+      "companies_involved": [],
+      "industries_involved": [
+        "Maritime",
+        "International Trade"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Black Sea region?",
+        "What are the contingency plans for maritime operations in Ukraine and India?"
+      ],
+      "reason": "The attack on the commercial vessel MV OMORFI raises significant concerns regarding maritime security and the safety of international shipping routes, which can disrupt trade flows and impact supply chains reliant on these routes.",
+      "summary": "The Indian Ministry of External Affairs summoned the Ukrainian ambassador following an attack on the commercial vessel MV OMORFI, resulting in the death of an Indian citizen. This incident highlights escalating security concerns in the Black Sea, which could adversely affect maritime trade and shipping operations.",
+      "title": "Посла Украины вызвали в МИД Индии из - за удара по торговому судну в районе Одессы",
+      "url": "https://rg.ru/2026/07/27/posla-ukrainy-vyzvali-v-mid-indii-iz-za-udara-po-sudnu.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Protests and Violence in Bihar, India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in Bihar due to ongoing protests?",
+        "Which suppliers are affected by disruptions in Bihar's logistics and transportation networks?"
+      ],
+      "reason": "The protests and violence in Bihar, including the use of firearms by police, create a significant risk to the stability of local supply chains, particularly in sectors reliant on transportation and public safety. The unrest can lead to disruptions in the movement of goods and services, affecting businesses and educational institutions.",
+      "summary": "The article reports on a viral video showing a police constable firing an AK-47 during protests in Bihar, India, leading to public outrage and the dismissal of the officer. The protests, part of a statewide strike, have resulted in injuries and raised concerns about law enforcement's response, prompting calls for accountability and investigations.",
+      "title": "ভারতে শিক্ষার্থীদের ওপর একে - ৪৭ চালানোর ভিডিও ঘিরে চাঞ্চল্য",
+      "url": "https://dailyinqilab.com/international/news/921259"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Attack on commercial shipping in the Black Sea",
+      "companies_involved": [
+        "MV OMORFI",
+        "MV AGN Ragnar"
+      ],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in India or involved in maritime shipping in the Black Sea region?",
+        "What are the contingency plans for companies operating in the maritime shipping industry affected by geopolitical tensions in the Black Sea?"
+      ],
+      "reason": "The attacks on commercial vessels in the Black Sea represent a significant geopolitical disruption that affects maritime shipping routes, leading to potential delays, increased costs, and risks to the safety of personnel and cargo. This incident highlights the vulnerability of supply chains to geopolitical events, particularly in regions critical for international trade.",
+      "summary": "India's Ministry of External Affairs condemned attacks on commercial shipping in the Black Sea following an incident that resulted in the death of an Indian sailor. The Indian government has expressed serious concern over the implications for maritime navigation and international trade, particularly in light of ongoing tensions in the region.",
+      "title": "Индия вызвала посла Украины после нападения на судно в Черном море",
+      "url": "https://korrespondent.net/world/4897627-yndyia-vyzvala-posla-ukrayny-posle-napadenyia-na-sudno-v-chernom-more"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Nationwide Protests Over Government Promises",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which educational institutions are affected by the protests in India?",
+        "What are the potential impacts on the supply chain of educational materials due to the protests?"
+      ],
+      "reason": "The article discusses impending nationwide protests in India due to broken government promises related to student rights and safety, which can disrupt educational operations and related supply chains. The protests may lead to disruptions in the delivery of educational services and materials, affecting the education sector's supply chain.",
+      "summary": "The CJP is preparing for nationwide protests in India over the government's failure to uphold promises made to students regarding the handling of FIRs related to a NEET paper leak. The protests, which have already seen significant police action, threaten to resume if the government does not comply with its commitments.",
+      "title": "CJP Threatens Nationwide Protests Over Broken Government Promises|  സർക്കാർ വാക്ക് പാലിക്കണം , അല്ലെങ്കിൽ തെരുവുകൾ വീണ്ടും കത്തും ; എഫ്‌ഐആറുകൾ പിൻവലിക്കാത്തതിൽ സിജെപി| Mathrubhumi",
+      "url": "https://www.mathrubhumi.com/news/india/supreme-court-order-paper-leak-protests-cjp-vtp4hkp1"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russia-Ukraine War",
+      "companies_involved": [
+        "MV OMORFI",
+        "MV Golden Leo"
+      ],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in Ukraine or Russia?",
+        "What are the contingency plans for shipping routes through the Black Sea?"
+      ],
+      "reason": "The article describes a significant geopolitical disruption affecting maritime shipping due to the ongoing conflict between Russia and Ukraine, which has resulted in attacks on commercial vessels. This situation poses risks to the safety of seafarers and the reliability of shipping routes, impacting supply chains reliant on maritime transport in the region.",
+      "summary": "The Indian government summoned the Ukrainian ambassador following the death of an Indian sailor in a strike on a commercial vessel in the Black Sea, amid escalating tensions from the Russia-Ukraine conflict. The situation has prompted advisories for Indian nationals regarding employment on commercial vessels in the region due to the deteriorating security conditions.",
+      "title": "India summons Ukrainian envoy after Indian sailor killed in Black Sea strike",
+      "url": "https://www.newindianexpress.com/india/2026/Jul/27/india-summons-ukrainian-envoy-after-indian-sailor-killed-in-black-sea-strike"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Black Sea Attack on MV OMORFI",
+      "companies_involved": [
+        "MV OMORFI"
+      ],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies have vessels operating in the Black Sea region?",
+        "What are the contingency plans for Indian shipping companies in response to geopolitical tensions in maritime routes?"
+      ],
+      "reason": "The attack on the MV OMORFI represents a significant geopolitical disruption affecting maritime shipping routes, particularly for Indian nationals involved in these operations. The incident raises concerns about the safety of commercial shipping in conflict zones, which can lead to broader implications for international trade and supply chain stability.",
+      "summary": "The article discusses India's diplomatic response following the death of an Indian sailor in a Black Sea attack on the commercial vessel MV OMORFI. The incident highlights the dangers faced by maritime navigation in conflict areas and the potential impact on international commerce.",
+      "title": "India Demands Answers From Ukrainian Envoy Over Sailor Killing In Black Sea Attack",
+      "url": "https://www.newsx.com/india/india-demands-answers-from-ukrainian-envoy-over-sailors-killing-in-black-sea-attack-253245/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India's Expansion of SSBN Fleet",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors are involved in India's SSBN fleet expansion?",
+        "What are the potential impacts on supply chains for defense industries in the region due to geopolitical tensions between India and Pakistan?"
+      ],
+      "reason": "The expansion of India's SSBN fleet represents a significant shift in the regional military balance, which can lead to increased geopolitical tensions. Such tensions can disrupt supply chains, particularly in the defense and aerospace industries, as countries may alter their procurement strategies or face sanctions.",
+      "summary": "The article discusses concerns from Pakistani analysts regarding India's expansion of its nuclear-powered submarine fleet, suggesting it will alter the strategic balance in South Asia. This development raises geopolitical tensions that could impact regional supply chains, particularly in defense-related sectors.",
+      "title": "Pakistani Analysts Warn India Expanding SSBN Fleet Will Transform Strategic Balance",
+      "url": "https://idrw.org/pakistani-analysts-warn-indias-expanding-ssbn-fleet-will-transform-strategic-balance/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Attacks on Civilian Vessels in the Black Sea",
+      "companies_involved": [
+        "Chevron"
+      ],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine",
+        "Iran",
+        "Kazakhstan",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in India or Ukraine?",
+        "What are the alternative shipping routes for oil exports from Kazakhstan?"
+      ],
+      "reason": "The attacks on civilian vessels in the Black Sea have significant implications for global supply chains, particularly in the energy sector, as they disrupt shipping routes and raise geopolitical tensions. The involvement of multiple countries and companies indicates a complex web of interdependencies that could lead to further disruptions.",
+      "summary": "The article discusses a series of attacks on commercial vessels in the Black Sea, resulting in casualties among Indian sailors and prompting diplomatic responses from India, Iran, and Kazakhstan. These incidents have raised concerns about the safety of maritime trade routes and the potential impact on oil exports from Kazakhstan, which are crucial for the global energy market.",
+      "title": "Атаки на гражданские суда : реакция Индии , Ирана и Казахстана",
+      "url": "https://www.kommersant.ru/doc/8845810"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Azadi Yatra Protests in Kochi",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on supply chains due to political protests in India?",
+        "Which suppliers may be affected by disruptions in Kerala due to the Azadi Yatra protests?"
+      ],
+      "reason": "The protests and subsequent police actions can lead to disruptions in local supply chains, affecting logistics and operations in the region. Political unrest can create uncertainty for businesses and may impact their ability to operate normally.",
+      "summary": "The article discusses the Azadi Yatra organized by rapper Vedan in Kochi, which has drawn police attention and legal action due to its unapproved nature. Vedan emphasizes that the event is a peaceful protest by students against perceived injustices, highlighting the political context and potential implications for local stability.",
+      "title": "കൊച്ചിയില്‍  ആസാദി യാത്ര ; കേസെടുത്തതില്‍ ആരെയും കുറ്റം പറഞ്ഞിട്ട് കാര്യമില്ലെന്ന് വേടന്‍",
+      "url": "https://www.sirajlive.com/kochi-azadi-yatra-controversy-rap-singer-vedan-statement-police-case.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Protests against the Indian government",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in India due to the recent protests?",
+        "How might the resignation of the Education Minister affect the supply chain of educational materials in India?"
+      ],
+      "reason": "The protests and subsequent resignation of the Education Minister indicate significant political unrest, which can disrupt the education sector and related supply chains, including the procurement of educational materials and services. The political instability may also affect the broader economic environment, impacting various industries reliant on a stable governance framework.",
+      "summary": "The resignation of India's Education Minister Dharmendra Pradhan followed a five-week protest led by the Hamamböceği Halk Partisi, sparked by allegations of corruption in medical entrance exams. This event reflects growing public discontent with the government and could have implications for the education sector and related supply chains in India.",
+      "title": "Hindistanda eğitim bakanı istifa etti ,  hamamböceği  protestosu sona erdi",
+      "url": "https://www.haberler.com/dunya/hindistan-da-egitim-bakani-istifa-etti-hamambocegi-20088875-haberi/"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Development of Nirbhay Cruise Missile",
+      "companies_involved": [
+        "Defence Research and Development Organisation (DRDO)"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the supply chain dependencies for missile technology in India?",
+        "Which suppliers are involved in the production of defense technologies in India?"
+      ],
+      "reason": "The article discusses the development of the Nirbhay cruise missile, which is a significant advancement in India's defense capabilities. However, it does not indicate any current supply chain disruptions but rather highlights a technological development that may influence future supply chain dynamics in the defense sector.",
+      "summary": "The article outlines the significance of the Nirbhay cruise missile in enhancing India's long-range strike capabilities. Developed by DRDO, this missile operates at low altitudes to evade detection, marking a crucial step in India's defense technology and reducing reliance on foreign systems.",
+      "title": "India long - range hunter : Why Nirbhay cruise missile matters",
+      "url": "https://www.moneycontrol.com/defence/india-s-long-range-hunter-why-nirbhay-cruise-missile-matters-article-13984747.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India-China Military Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "India",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors are supplying military equipment to India?",
+        "What are the logistics capabilities of suppliers in the region surrounding the Tibetan Plateau?"
+      ],
+      "reason": "The article discusses the strategic military advantages and limitations faced by India and China due to geographical and logistical factors, which can impact defense supply chains and military readiness. The geopolitical tensions can lead to disruptions in defense procurement and logistics operations.",
+      "summary": "The article analyzes the military capabilities of the Indian Air Force compared to the Chinese Air Force, emphasizing the geographical and logistical constraints posed by the Tibetan Plateau. It highlights India's strategic advantages in the region while acknowledging China's recent infrastructure developments, indicating ongoing geopolitical tensions that could affect supply chains.",
+      "title": "高原空战印度空军真的有优势吗 地理限制成关键因素 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260728/49639508.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Proposed India-US Trade Deal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Dairy"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the agriculture sector are located in India and may be affected by the proposed trade deal?",
+        "What are the potential impacts on dairy producers in India due to the entry of US products?"
+      ],
+      "reason": "The proposed India-US trade deal poses a risk to India's agriculture and dairy sectors by allowing cheaper imports, which could disrupt local markets and affect small farmers and producers. This geopolitical event can lead to significant shifts in supply chain dynamics, particularly for those reliant on domestic production.",
+      "summary": "The CGPC supports farmers protesting against the proposed India-US trade deal, claiming it threatens local agriculture and dairy sectors by introducing cheaper imports. Protesters demand legal guarantees for minimum support prices and express concerns over the government's alignment with US interests.",
+      "title": "CGPC backs farmer protest against India - US trade deal | Ranchi News",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/cgpc-backs-farmers-protest-against-india-us-trade-deal/articleshow/132665161.cms"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India's Rafale Fleet Expansion",
+      "companies_involved": [
+        "Dassault Aviation"
+      ],
+      "industries_involved": [
+        "Defense Manufacturing"
+      ],
+      "countries_involved": [
+        "India",
+        "France"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are involved in the Rafale manufacturing process in India?",
+        "What are the potential impacts on the supply chain if the Rafale deal is delayed or altered?"
+      ],
+      "reason": "The proposed expansion of the Rafale fleet by India indicates a significant shift in defense procurement strategy, which could affect supply chains related to defense manufacturing and international partnerships. The involvement of Dassault Aviation and the emphasis on local manufacturing underlines the geopolitical implications of defense procurement and its ripple effects on suppliers and industries.",
+      "summary": "India is looking to expand its Rafale fleet significantly, which is seen as a strategic move to modernize its air force amidst declining squadron strength. The deal emphasizes local manufacturing in partnership with Dassault Aviation, aligning with India's defense initiatives and potentially reshaping the defense supply chain landscape.",
+      "title": "India eyes 100+ more Rafale : Will the multi - role French fighter become IAF core fleet ? ",
+      "url": "https://www.moneycontrol.com/world/india-eyes-100-more-rafale-will-the-multi-role-french-fighter-become-iaf-s-core-fleet-article-13985687.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market fluctuations ahead of F&O expiry",
+      "companies_involved": [],
+      "industries_involved": [
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses market movements and technical indicators related to stock indices in India, particularly the Nifty 50 and Bank Nifty, but does not indicate any specific supply chain disruptions or risks that would affect the supply chain directly.",
+      "summary": "The Nifty 50 index rebounded after a five-day sell-off, supported by cooling oil prices and a decline in the India VIX, ahead of the monthly F&O contracts expiry. Key resistance and support levels were identified for both the Nifty 50 and Bank Nifty, indicating potential trading strategies but no direct supply chain disruptions.",
+      "title": "Trade Setup for July 28 : Top 15 things to know before the opening bell ahead of monthly F & O expiry",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-july-28-top-15-things-to-know-before-the-opening-bell-ahead-of-monthly-f-o-expiry-13984964.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Diplomatic tensions between Ukraine and India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Ukraine",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India are affected by diplomatic relations with Ukraine?",
+        "What are the potential impacts on trade routes between Ukraine and India due to this diplomatic incident?"
+      ],
+      "reason": "The article discusses the summoning of the Ukrainian ambassador in India following an incident involving a ship, indicating rising geopolitical tensions that could disrupt trade and diplomatic relations, potentially affecting supply chains between the two countries.",
+      "summary": "The article reports that the Ukrainian ambassador to India was summoned by the Indian Ministry of External Affairs on July 27, following an attack on a ship. This incident highlights increasing geopolitical tensions that could have implications for trade and supply chain operations between Ukraine and India.",
+      "title": "Посла Украины в Индии Полищука 27 июля вызвали в МИД | Новости Украины",
+      "url": "https://news.liga.net/politics/news/indiya-vyzvala-posla-ukrainy-posle-ataki-na-sudno"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Vaibhav Surya's Record-Breaking Performance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Zimbabwe"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and individual performance, which does not relate to supply chain disruptions or risks.",
+      "summary": "The article highlights Vaibhav Surya's impressive performance in a T-20 cricket match against Zimbabwe, where he scored 81 runs, breaking a record previously held by Chris Gayle. The Indian team is currently leading the series 2-0, showcasing strong performances from various players.",
+      "title": "Vaibhav Surya Breaks Chris Gayle Record | Bihar Batsman Performance",
+      "url": "https://www.bhaskar.com/g/local/bihar/patna/news/vaibhav-surya-breaks-chris-gayle-record-bihar-batsman-138546288.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Protests against the Indian government",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in India due to the recent protests?",
+        "How might the resignation of the Education Minister affect the supply chain of educational materials in India?"
+      ],
+      "reason": "The protests and subsequent resignation of the Education Minister indicate significant political unrest, which can disrupt the education sector and related supply chains, including the procurement of educational materials and resources. The public outcry and demands for reform may lead to changes in regulations affecting educational institutions and their suppliers.",
+      "summary": "The article discusses the resignation of India's Education Minister following protests over exam question leaks, which were seen as a significant expression of public discontent against the government. The protests, led by a group using a cockroach mascot, highlight broader issues within the education system and have implications for political stability in India.",
+      "title": "Hindistanda bakan istifa etti ,  hamamböceği  protestosu sona erdi",
+      "url": "https://www.bbc.com/turkce/articles/c5y3greyj4po"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Israel-Gaza Conflict",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Israel",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on supply chains for companies operating in the United States due to rising political tensions regarding Israel?",
+        "Which suppliers in the United States are at risk due to the geopolitical tensions surrounding the Israel-Gaza conflict?"
+      ],
+      "reason": "The ongoing geopolitical tensions between Israel and the United States, particularly in the context of the Gaza conflict, can lead to disruptions in trade, political relations, and public sentiment, which may affect companies and industries reliant on stable international relations.",
+      "summary": "Israeli Prime Minister Netanyahu faces political backlash from New York Mayor Mamdani over potential arrest during his visit to the UN, amid rising tensions regarding Israel's military actions in Gaza. The situation highlights growing divisions in U.S. support for Israel and the implications for Jewish communities, indicating potential geopolitical disruptions.",
+      "title": "  Fomenting hate : Netanyahu slams Mamdani arrest demand , calls ICC Gaza war charges  bogus  ",
+      "url": "https://www.livemint.com/news/world/fomenting-hate-netanyahu-slams-mamdani-s-arrest-demand-calls-icc-gaza-war-charges-bogus-11785094140557.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "US Intelligence Workforce Reduction",
+      "companies_involved": [],
+      "industries_involved": [
+        "Intelligence",
+        "Government"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on national security operations due to the 30% workforce reduction in the US intelligence community?",
+        "Which agencies within the US intelligence community are most affected by the current restructuring and workforce cuts?"
+      ],
+      "reason": "The significant reduction in workforce within the US intelligence community can disrupt operations related to national security, intelligence gathering, and analysis, potentially affecting supply chains reliant on government contracts and security assessments.",
+      "summary": "The article discusses a 30% workforce reduction in the US intelligence community announced by Acting DNI Bill Pulte, aimed at streamlining operations and refocusing on national security. This restructuring is part of broader efforts by the Trump administration to reshape federal agencies, raising concerns about the implications for national security and intelligence operations.",
+      "title": "US Intelligence layoffs : Acting DNI Bill Pulte says 30 % workforce reduction underway",
+      "url": "https://www.livemint.com/news/us-news/us-intelligence-overhaul-acting-dni-bill-pulte-says-30-workforce-reduction-underway-11785254081877.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Strait of Hormuz Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Oman",
+        "United States",
+        "Israel"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies are affected by the closure of the Strait of Hormuz?",
+        "What are the Tier-1 suppliers in the energy sector that rely on shipping routes through the Strait of Hormuz?"
+      ],
+      "reason": "The proposed deal and ongoing tensions in the Strait of Hormuz directly impact global shipping and energy supply chains, as this waterway is a critical chokepoint for oil and gas transportation. The geopolitical conflict raises risks for shipping companies and energy suppliers, potentially leading to increased costs and disruptions in supply.",
+      "summary": "Iran has proposed a temporary traffic management system for the Strait of Hormuz amid rising tensions with the U.S. and Israel, warning that the waterway will remain closed if Oman rejects the proposal. This situation poses significant risks to global shipping and energy supply chains, as the Strait is a vital route for commercial navigation.",
+      "title": "Iran proposes temporary Strait of Hormuz deal with Oman , warns waterway will remain shut if rejected",
+      "url": "https://www.livemint.com/news/world/iran-proposes-temporary-strait-of-hormuz-deal-with-oman-warns-waterway-will-remain-shut-if-rejected-11785269079734.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Salmonella Outbreak",
+      "companies_involved": [
+        "Midwest Poultry Services",
+        "Kroger",
+        "Brookshire's",
+        "Cal-Maine",
+        "Country Morning"
+      ],
+      "industries_involved": [
+        "Food and Beverage",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide raw materials to Midwest Poultry Services?",
+        "What are the alternative suppliers for egg production in the affected states?"
+      ],
+      "reason": "The Salmonella outbreak linked to eggs produced by Midwest Poultry Services has led to a significant recall and health alerts, impacting the supply chain for egg distribution and retail. This disruption affects multiple states and involves various retailers, indicating a ripple effect through the food supply chain.",
+      "summary": "A Salmonella outbreak linked to eggs from Midwest Poultry Services has resulted in a recall of 1.6 million cartons and affected nearly 100 individuals across 17 states. The CDC and FDA are investigating the outbreak, which has led to hospitalizations and prompted food safety alerts, impacting retailers like Kroger and Brookshire's.",
+      "title": "Egg - related Salmonella outbreak sickens nearly 100 in 17 US states",
+      "url": "https://www.cidrap.umn.edu/foodborne-disease/egg-related-salmonella-outbreak-sickens-nearly-100-17-us-states"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ebola outbreak in the Democratic Republic of the Congo",
+      "companies_involved": [
+        "Oxford Vaccine Group",
+        "Serum Institute of India"
+      ],
+      "industries_involved": [
+        "Healthcare",
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "Democratic Republic of the Congo",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which healthcare suppliers are located in the Democratic Republic of the Congo?",
+        "What are the supply chain impacts of the healthcare workers' strike on vaccine distribution in DRC?"
+      ],
+      "reason": "The ongoing Ebola outbreak and the strike of healthcare workers in DRC create significant disruptions in the healthcare supply chain, affecting vaccine trials and treatment efforts. The lack of payment for healthcare workers can lead to further operational challenges in managing the outbreak.",
+      "summary": "The article discusses the first vaccination in a trial for an Ebola vaccine targeting the Bundibugyo virus amidst a severe outbreak in the Democratic Republic of the Congo. Concurrently, healthcare workers at a treatment center have gone on strike due to unpaid bonuses, exacerbating the crisis as the outbreak continues to spread.",
+      "title": "First volunteer vaccinated in Ebola vaccine trial",
+      "url": "https://www.cidrap.umn.edu/ebola/first-volunteer-vaccinated-ebola-vaccine-trial"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-US Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Oman",
+        "Yemen"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the Strait of Hormuz region?",
+        "What are the potential impacts on energy supply chains due to the geopolitical tensions between the US and Iran?"
+      ],
+      "reason": "The ongoing geopolitical tensions between the US and Iran, particularly around the Strait of Hormuz, pose significant risks to global energy supply chains. The potential for military action and the enforcement of maritime restrictions can disrupt shipping routes and impact fuel prices, affecting various industries reliant on energy supplies.",
+      "summary": "The article discusses the diplomatic efforts between the US and Iran amid rising tensions, with US Ambassador Mike Waltz rejecting claims of a weapons shortage. The situation remains critical as negotiations continue, particularly concerning the Strait of Hormuz, a vital energy shipping route, which could lead to disruptions in global energy supplies.",
+      "title": "UN envoy Mike Waltz rejects reports of weapons shortage amid Iran war , says US remains  locked and loaded  ",
+      "url": "https://www.livemint.com/news/us-news/un-envoy-mike-waltz-rejects-reports-of-weapons-shortage-amid-iran-war-says-us-remains-locked-and-loaded-11785096233977.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural and Psychological Crisis",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the psychological impacts of cultural practices on supply chain stability in India?",
+        "How do cultural beliefs influence operational risks in funeral service industries in India?"
+      ],
+      "reason": "The article discusses a tragic incident driven by cultural and psychological factors rather than a direct supply chain disruption. While it highlights societal issues, it does not indicate disruptions in supply chains or industries.",
+      "summary": "The article reports on a distressing incident in India where a man jumped into a cremation furnace during his grandmother's funeral, driven by cultural pressures. This event reflects deeper societal issues related to beliefs about death and the afterlife in Hindu culture, rather than a supply chain disruption.",
+      "title": "印度男子在祖母火化时钻入焚尸炉 文化重压下的绝望仪式 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260727/49636234.html"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Protests against government policies",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political protest and hunger strike led by student organizations in India, which does not directly indicate a supply chain disruption but rather reflects social and political unrest.",
+      "summary": "The article covers a hunger strike by members of the All India Students Association (AISA) in protest against the Indian government, particularly focusing on the resignation of Union Education Minister Dharmendra Pradhan. The protest, which lasted 23 days, aimed to challenge governmental authority and mobilize youth against communal politics, highlighting the involvement of various leftist student organizations.",
+      "title": "Our hunger strike was a challenge to the government : AISA Delhi Secretary Neha",
+      "url": "https://www.thehindu.com/news/national/our-hunger-strike-was-a-challenge-to-the-government-aisa-delhi-secretary-neha/article71269818.ece"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Operation Sindoor",
+      "companies_involved": [
+        "DRDO"
+      ],
+      "industries_involved": [
+        "Defense"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which Tier-1 suppliers are involved in the production of defense equipment in India?",
+        "What are the potential impacts on the supply chain for companies supplying components to DRDO?"
+      ],
+      "reason": "The article discusses the operational debut of a military weapon, which indicates a significant geopolitical event that could affect defense supply chains, particularly in terms of production and procurement of military technology.",
+      "summary": "The article highlights the combat debut of the DRDO SAAW glide bomb during Operation Sindoor, marking a significant milestone for India's defense capabilities. This operational development may influence supply chains related to defense manufacturing and procurement.",
+      "title": "Operation Sindoor Marked Combat Debut of DRDO SAAW Glide Bomb , Says CAPSS Report",
+      "url": "https://idrw.org/operation-sindoor-marked-combat-debut-of-drdos-saaw-glide-bomb-says-capss-report/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ukraine-Russia Conflict",
+      "companies_involved": [],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine",
+        "Russia",
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies employ Indian crew members on vessels operating in conflict zones?",
+        "What are the contingency plans for maritime operations involving Indian crew in regions affected by geopolitical tensions?"
+      ],
+      "reason": "The article highlights a series of attacks on commercial vessels with Indian crew members, indicating a significant geopolitical risk that affects maritime shipping operations. The ongoing conflict in Ukraine and the involvement of multiple nations create a complex risk environment for supply chains reliant on maritime transport.",
+      "summary": "The article discusses the recent attacks on commercial vessels, including one that resulted in the death of an Indian crew member, amidst ongoing geopolitical tensions involving Ukraine, Russia, and the U.S. It highlights India's significant role in the global maritime workforce and the challenges faced by Indian nationals working on foreign-flagged ships in conflict zones.",
+      "title": "商船被炸印度究竟应该追究谁 ？ 特朗普一句话 ， 让莫迪吃哑巴亏 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260729/49640425.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Attack on students in India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in India due to political unrest?",
+        "Which suppliers are located in regions affected by political violence in India?"
+      ],
+      "reason": "The article discusses a significant political event involving an attack on students, which can lead to disruptions in educational services and potentially impact industries reliant on a stable workforce and educational institutions. Such geopolitical tensions can create ripple effects in supply chains, particularly in sectors dependent on human resources and stability.",
+      "summary": "The article reports on a heated debate in the Rajya Sabha where Congress leader Mallikarjun Kharge condemned an unprecedented attack on students using weapons during a peaceful protest. The discussion highlights the political unrest in India and its implications for governance and public safety.",
+      "title": "രാജ്യസഭയിൽ ആഞ്ഞടിച്ച് ഖാർഗെ ; വിദ്യാർഥികൾക്കെതിരെ നടത്തിയത് ചരിത്രത്തിൽ സംഭവിച്ചിട്ടില്ലാത്ത ആക്രമണം | Attack on students unprecedented in history Kharge lashes out in Rajya Sabha",
+      "url": "https://www.madhyamam.com/india/kharge-lashes-out-in-rajya-sabha-1541018"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Political Protests and Activism in India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on supply chains due to political instability in India?",
+        "Which suppliers in India are affected by the ongoing political protests and public dissent?"
+      ],
+      "reason": "The article discusses political protests led by Sonam Wangchuk, which reflect broader political tensions in India. Such geopolitical disruptions can lead to instability in supply chains, affecting operations, logistics, and overall business continuity in the region.",
+      "summary": "The article highlights Sonam Wangchuk's return to Ladakh after a hunger strike against political issues in India, expressing dissatisfaction with both major political parties. His wife, Gitanjali, emphasizes the need for a change in political culture, indicating potential unrest that could impact supply chains.",
+      "title": "Sonam Wangchuk , बीजेपी IT सेल ने चीनी एजेंट , कांग्रेस ट्रोल ने RSS - BJP का पिट्ठू , सोनम वांगचुक की पत्नी का गीतांजलि का छलका दर्द - sonam wangchuk wife gitanjali angmo unhappy over bjp it cell and congress supporters comments tagged pm modi rahul...",
+      "url": "https://navbharattimes.indiatimes.com/state/jammu-and-kashmir/srinagar/sonam-wangchuk-wife-gitanjali-angmo-unhappy-over-bjp-it-cell-and-congress-supporters-comments-tagged-pm-modi-rahul-gandhi-know-all/articleshow/132665098.cms"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Lightning Strikes in Madhya Pradesh",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which agricultural suppliers are located in Madhya Pradesh?",
+        "What is the impact on paddy supply chains due to lightning strikes in the region?"
+      ],
+      "reason": "The lightning strikes have resulted in fatalities and injuries among farmers, particularly those involved in paddy transplantation, which can disrupt agricultural production and supply chains in the region. This natural disaster poses risks to the agricultural sector, affecting both local supply and potentially broader markets reliant on these crops.",
+      "summary": "Recent lightning strikes in Madhya Pradesh have led to the deaths of six individuals and injuries to several others, primarily affecting farmers engaged in paddy transplantation. The incidents highlight the risks posed by natural disasters to agricultural activities and the potential for supply chain disruptions in the region.",
+      "title": "Lightning strikes kill 6 across MP as rain lashes state",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/lightning-strikes-kill-6-across-mp-as-rain-lashes-state/articleshow/132665489.cms"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China-India Military Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors are supplying components to the Indian Air Force?",
+        "What are the supply chain dependencies for aerospace manufacturing in India related to geopolitical tensions with China?"
+      ],
+      "reason": "The deployment of advanced military aircraft by China near the Indian border represents a significant geopolitical tension that could disrupt defense supply chains, particularly for India, which is currently reliant on foreign technology and aircraft. This situation may lead to increased military spending and urgency in defense procurement, impacting suppliers and manufacturers in the defense and aerospace industries.",
+      "summary": "China has deployed 11 J-20 Mighty Dragon stealth fighter jets near the Indian border, marking a significant military escalation. This poses a major security challenge for India, which currently lacks its own stealth aircraft and relies on foreign models like the Rafale. The situation underscores the need for India to modernize its air defense capabilities in response to China's advancements.",
+      "title": "ভারত সীমান্তে ১১টি  জে - ২০ মাইটি ড্রাগন  যুদ্ধবিমান মোতায়েন করেছে চীন",
+      "url": "https://www.jugantor.com/international/1132757"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Student Protests in Bihar",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Public Safety"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which educational institutions are located in Bihar and may be affected by the ongoing protests?",
+        "What are the potential impacts on supply chains for companies operating in Bihar due to civil unrest?"
+      ],
+      "reason": "The protests in Bihar, triggered by allegations of exam question leaks, have escalated into violent confrontations involving police and students. Such geopolitical disruptions can lead to significant impacts on local businesses, educational institutions, and public safety operations, affecting supply chains reliant on stability in the region.",
+      "summary": "The article reports on violent student protests in Bihar, India, against alleged exam question leaks, where a police constable was seen firing an AK-47 at demonstrators. The incident has led to widespread criticism, police investigations, and potential implications for local businesses and educational institutions due to the unrest.",
+      "title": "বিহারে ছাত্র বিক্ষোভের সময় একে - ৪৭ থেকে গুলি , বরখাস্ত পুলিশ কনস্টেবল",
+      "url": "https://www.ntvbd.com/world/news-1778485"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Youth Protests in India",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Government Services"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on the education sector supply chain in India due to the recent youth protests?",
+        "Which suppliers in the education technology industry may be affected by the political instability in India?"
+      ],
+      "reason": "The protests in India reflect significant political unrest, which can disrupt various sectors, particularly education and government services. The demand for accountability and change from the youth indicates a potential shift in policy and investment that could affect supply chains reliant on stable governance and economic growth.",
+      "summary": "The article discusses widespread protests by Indian youth demanding the resignation of the education minister over a leaked medical entrance exam. This political unrest is seen as a significant challenge to Modi's government, highlighting the growing discontent among young people regarding economic opportunities and government promises.",
+      "title": "印度政府让步了 ！ 蟑螂  青年的胜利 ， 击穿了莫迪的一个长期幻觉 青年不满爆发 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260728/49637489.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Black Sea Attack on Commercial Vessels",
+      "companies_involved": [
+        "MV OMORFI",
+        "MV Golden Leo"
+      ],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which of Tier-1 suppliers are located in the Black Sea region?",
+        "What are the contingency plans for shipping routes affected by geopolitical tensions in Ukraine and Russia?"
+      ],
+      "reason": "The attacks on commercial vessels in the Black Sea directly threaten maritime safety and disrupt international shipping routes, impacting supply chains reliant on these waterways. The involvement of Indian seafarers raises concerns about the safety and availability of maritime labor, which is critical for global commerce.",
+      "summary": "The article discusses India's diplomatic response to attacks on commercial vessels in the Black Sea, which resulted in the death of an Indian sailor. The incidents have raised serious concerns over the safety of maritime navigation and the implications for international trade amidst ongoing geopolitical tensions.",
+      "title": "Ukraine envoy summoned over Black Sea attack that killed Indian sailor",
+      "url": "https://www.tribuneindia.com/news/india/ukraine-envoy-summoned-over-black-sea-attack-that-killed-indian-sailor/"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Indus Water Treaty Dispute",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on water resource management companies operating in the Indus river basin?",
+        "Which suppliers are affected by geopolitical tensions between India and Pakistan regarding the Indus Water Treaty?"
+      ],
+      "reason": "The article discusses a geopolitical dispute between India and Pakistan over the legacy of the Indus Valley Civilization and the implications for the Indus Water Treaty. Such disputes can lead to significant disruptions in water resource management and related supply chains, affecting industries reliant on these resources.",
+      "summary": "India has rejected Pakistan's claims regarding the Indus Valley Civilization, emphasizing that Pakistan's history of promoting terrorism undermines its cultural claims. This dispute is linked to the Indus Water Treaty, which has been suspended, indicating potential geopolitical tensions that could disrupt regional supply chains.",
+      "title": "  Desperate , fake attempt : India rejects Pakistan claim on Indus Valley Civilisation legacy",
+      "url": "https://www.hindustantimes.com/india-news/desperate-fake-attempts-india-rejects-pakistans-claim-on-indus-valley-civilisation-legacy-101785243739179.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Easing Oil Prices",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "West Asia"
+      ],
+      "risk_exposure_questions": [
+        "Which companies in the energy sector are affected by fluctuations in oil prices?",
+        "What are the potential impacts on supply chains for industries reliant on oil from West Asia?"
+      ],
+      "reason": "The article discusses the easing of oil prices amid geopolitical tensions in West Asia, which can significantly impact supply chains, particularly in energy-dependent industries. Fluctuations in oil prices can lead to increased costs and affect logistics and operations across various sectors.",
+      "summary": "The article highlights the Nifty 50's performance amid easing oil prices and discusses key trading levels. It notes the impact of geopolitical developments in West Asia on market movements, particularly in the energy sector.",
+      "title": "Trade Setup for July 29 : Top 15 things to know before the opening bell amid easing oil prices",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-july-29-top-15-things-to-know-before-the-opening-bell-amid-easing-oil-prices-13986193.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical | Trade Policy",
+      "event": "Graham-Blumenthal Law",
+      "companies_involved": [
+        "Timchenko's companies",
+        "French companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Banking"
+      ],
+      "countries_involved": [
+        "Russia",
+        "China",
+        "India",
+        "USA"
+      ],
+      "risk_exposure_questions": [
+        "Which companies are Tier-1 suppliers to the energy sector in Russia?",
+        "What are the potential impacts on logistics providers operating between Russia and China?"
+      ],
+      "reason": "The article discusses the implications of the Graham-Blumenthal Law, which aims to restrict oil trade and liquefied gas exports from Russia, directly affecting supply chains in the energy sector and banking operations. The geopolitical tensions and trade policies outlined could lead to increased costs and operational challenges for companies involved.",
+      "summary": "The article analyzes the anticipated effects of the Graham-Blumenthal Law, which seeks to limit Russian oil trade with China and India, and impact liquefied gas exports. While the law is likely to be enacted, its effectiveness in disrupting Russian trade and banking operations remains questionable, suggesting limited immediate impact on supply chains.",
+      "title": "Вадим Денисенко : Санкции без иллюзий : что на самом деле изменит закон Грема - Блюменталя Блоги",
+      "url": "https://news.obozrevatel.com/abroad/sanktsii-bez-illyuzij-chto-na-samom-dele-izmenit-zakon-grema-blyumentalya.htm"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Protests against the Indian government over education corruption",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on educational institutions in India due to the protests?",
+        "Which suppliers of educational materials and services are affected by the political instability in India?"
+      ],
+      "reason": "The protests in India, driven by widespread dissatisfaction with the education system and government corruption, can disrupt the educational sector, affecting institutions, students, and related suppliers. This unrest may lead to changes in policies and operational disruptions within the education industry.",
+      "summary": "The article discusses the rise of a youth movement in India, the 'People's Party of Cockroaches', which mobilized mass protests against the government due to a scandal involving leaked exam questions. The protests resulted in the resignation of the Education Minister and highlighted significant issues such as corruption and inequity in access to education.",
+      "title": "Миймове , гняв и протести : Как „ хлебарките  победиха правителството на Моди",
+      "url": "https://www.vesti.bg/sviat/mijmove-gniav-i-protesti-kak-hlebarkite-pobediha-pravitelstvoto-na-modi-6265913"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Odesa Strike",
+      "companies_involved": [
+        "MV AGN Ragnar"
+      ],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies have vessels operating in the Black Sea region?",
+        "What are the contingency plans for maritime shipping routes affected by geopolitical tensions in Ukraine?"
+      ],
+      "reason": "The strike on the MV AGN Ragnar at the Port of Odesa represents a direct impact on maritime shipping operations, highlighting the risks associated with geopolitical conflicts. The ongoing conflict in Ukraine has led to increased threats to commercial shipping, which can disrupt supply chains reliant on these routes.",
+      "summary": "The Indian Embassy is monitoring the situation following a strike on the merchant vessel MV AGN Ragnar in Odesa, Ukraine, where four Indian nationals were onboard. While two crew members are confirmed safe, search operations continue for the remaining two, amidst ongoing threats to maritime trade in the region due to the conflict.",
+      "title": "Indian Embassy Monitors Odesa Strike ; Search Underway for Indian Nationals | India News",
+      "url": "https://timesofindia.indiatimes.com/india/indian-embassy-monitors-ukraines-odesa-strike-two-indians-safe-search-on-for-two-others/articleshow/132637510.cms"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Sanctions Bill on Russian Energy",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "India",
+        "China",
+        "Russia",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India are affected by potential 100% tariffs on imports from the US?",
+        "What are the alternative sourcing options for companies in the energy sector that rely on Russian oil and gas?"
+      ],
+      "reason": "The proposed sanctions and tariffs could significantly impact trade relationships and supply chains, particularly for countries like India and China that import Russian energy. This could lead to increased costs and supply shortages in the energy sector, affecting various industries reliant on these resources.",
+      "summary": "The US Senate has advanced a sanctions bill that could impose up to 100% tariffs on countries like India and China to deter their purchase of Russian oil and gas. This legislation, while aimed at reducing Russian revenues, raises concerns about increased import costs and potential disruptions in energy supply chains.",
+      "title": "100 % US tariffs incoming for India ? Russia sanctions bill authored by late Lindsey Graham clears first Senate hurdle",
+      "url": "https://www.livemint.com/news/us-news/100-us-tariffs-incoming-for-india-russia-sanctions-bill-authored-by-late-lindsey-graham-clears-first-senate-hurdle-11785288021067.html"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Protests against government actions in India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "What are the potential impacts on supply chains in India due to ongoing protests?",
+        "Which suppliers in India are at risk due to the political unrest and potential for renewed protests?"
+      ],
+      "reason": "The article discusses protests against the government in India, which can lead to disruptions in local supply chains due to potential violence, road blockages, and legal actions against participants. Such geopolitical unrest can affect the stability of operations and logistics in the region.",
+      "summary": "The Cockroach Janta Party (CJP) has launched a legal aid portal in response to government unfulfilled promises regarding student protests, warning of renewed demonstrations. Senior politician Kapil Sibal supports the initiative, emphasizing the need for legal assistance for protesters amid allegations of police brutality.",
+      "title": "സർക്കാർ ഉറപ്പ് പാലിച്ചില്ല : പ്രതിഷേധക്കാർക്ക് നിയമസഹായവുമായി സിജെപി , വെബ്‌സൈറ്റ് ആരംഭിച്ചു | CJP Launches Legal Aid Portal  Saakshi  Amid Broken Government Promises",
+      "url": "https://www.mathrubhumi.com/news/india/cjp-accuses-government-unfulfilled-fir-promises-kapil-sibal-supports-tfhirw59"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Public Discourse on Gender Violence",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a public controversy regarding statements made by a political figure, which does not directly relate to supply chain disruptions or impact specific companies or industries.",
+      "summary": "The article highlights a controversy involving T.G. Mohandas, who made inflammatory remarks about women and sexual violence, prompting a strong response from political leaders. P.K. Sreemathi criticized Mohandas for his comments, linking them to broader issues of hate speech and societal attitudes towards women in India.",
+      "title": "  ടി . ജി . മോഹൻദാസിന്റെ വീട്ടിൽ സ്ത്രീകളില്ലേ ? അയാൾക്ക് മക്കളില്ലേ ? മനസിന്റെ ഭീകരതയാണ് വ്യക്തമാകുന്നത്  - കൂട്ടബലാത്സംഗ പരാമർശത്തിൽ പൊട്ടിത്തെറിച്ച് പി . കെ ശ്രീമതി | Doesnt T . G . Mohandas have women at home ? His words show the horror of his mi...",
+      "url": "https://www.madhyamam.com/kerala/doesnt-tg-mohandas-have-women-at-home-his-words-show-the-horror-of-his-mind-pk-sreemathi-1541158"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China-India Military Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors are supplying components to the Indian Air Force?",
+        "What are the supply chain dependencies for aerospace manufacturers in the context of China-India military tensions?"
+      ],
+      "reason": "The article discusses military strategies and capabilities between China and India, indicating potential geopolitical tensions that could disrupt defense supply chains, particularly in aerospace and military equipment sectors. Such tensions can lead to increased scrutiny, trade restrictions, or shifts in procurement strategies.",
+      "summary": "The article analyzes the high-volume beyond-visual-range (BVR) warfare strategy of China's J-16 aircraft and questions whether India's Su-30MKI can adopt a similar approach. It highlights the implications of military capabilities on regional security and potential supply chain impacts in the defense sector.",
+      "title": "China J - 16 Shows High - Volume BVR Warfare Strategy : Can the Indian Su - 30MKI Do the Same ? ",
+      "url": "https://idrw.org/chinas-j-16-shows-high-volume-bvr-warfare-strategy-can-the-indian-su-30mki-do-the-same/"
+    }
+  ]
+}
