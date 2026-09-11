@@ -1,10 +1,9 @@
-```python
 import os
 import json
+import hashlib
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
-from dotenv import load_dotenv
 from neo4j import GraphDatabase
 
 
@@ -17,27 +16,71 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 INPUT_FILE = BASE_DIR / "agent1_results.json"
 OUTPUT_FILE = BASE_DIR / "agent2_results.json"
 
-# .env 로드
-load_dotenv(BASE_DIR / ".env")
-
 
 # ============================================================
-# 2. Neo4j 설정
+# 2. 환경변수
+#    GitHub Actions에서는 GitHub Secrets가 환경변수로 들어옴
 # ============================================================
 
 NEO4J_URI = os.getenv("NEO4J_URI")
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
-if not NEO4J_URI:
-    raise ValueError("NEO4J_URI가 .env에 설정되어 있지 않습니다.")
 
-if not NEO4J_USERNAME:
-    raise ValueError("NEO4J_USERNAME이 .env에 설정되어 있지 않습니다.")
+# ============================================================
+# 3. 환경변수 확인
+# ============================================================
 
-if not NEO4J_PASSWORD:
-    raise ValueError("NEO4J_PASSWORD가 .env에 설정되어 있지 않습니다.")
+required_env = {
+    "NEO4J_URI": NEO4J_URI,
+    "NEO4J_USERNAME": NEO4J_USERNAME,
+    "NEO4J_PASSWORD": NEO4J_PASSWORD,
+}
 
+missing_env = [key for key, value in required_env.items() if not value]
+
+if missing_env:
+    raise RuntimeError(
+        "다음 환경변수가 설정되지 않았습니다: "
+        + ", ".join(missing_env)
+    )
+
+
+# ============================================================
+# 4. Agent 1 결과 불러오기
+# ============================================================
+
+if not INPUT_FILE.exists():
+    raise FileNotFoundError(
+        f"Agent 1 결과 파일을 찾을 수 없습니다: {INPUT_FILE}"
+    )
+
+with open(INPUT_FILE, "r", encoding="utf-8") as f:
+    agent1_data = json.load(f)
+
+
+# ============================================================
+# 5. JSON 형식 정리
+# ============================================================
+
+if isinstance(agent1_data, dict):
+    # Agent 1 결과가 {"articles": [...]} 형태인 경우
+    if "articles" in agent1_data:
+        articles = agent1_data["articles"]
+    else:
+        # 단일 기사 결과인 경우
+        articles = [agent1_data]
+
+elif isinstance(agent1_data, list):
+    articles = agent1_data
+
+else:
+    raise ValueError("agent1_results.json의 형식을 확인해주세요.")
+
+
+# ============================================================
+# 6. Neo4j 연결
+# ============================================================
 
 driver = GraphDatabase.driver(
     NEO4J_URI,
@@ -46,62 +89,69 @@ driver = GraphDatabase.driver(
 
 
 # ============================================================
-# 3. Agent 1 JSON 읽기
+# 7. Event ID 생성
 # ============================================================
 
-def load_agent1_results():
+def create_event_id(article):
+    """
+    같은 뉴스가 다시 들어와도
+    같은 Event ID를 사용하도록 URL 기반 ID 생성
+    """
 
-    if not INPUT_FILE.exists():
-        raise FileNotFoundError(
-            f"Agent 1 결과 파일이 없습니다: {INPUT_FILE}"
+    url = article.get("url", "")
+
+    if not url:
+        base = (
+            article.get("event", "")
+            + article.get("title", "")
+            + article.get("summary", "")
         )
+    else:
+        base = url
 
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    hash_value = hashlib.sha256(
+        base.encode("utf-8")
+    ).hexdigest()[:16]
 
-    # Agent 1 결과가 리스트인 경우
-    if isinstance(data, list):
-        return data
-
-    # {"results": [...]} 형태인 경우
-    if isinstance(data, dict):
-        return data.get("results", [])
-
-    return []
+    return f"EVENT_{hash_value}"
 
 
 # ============================================================
-# 4. 문자열 정리
+# 8. 리스트 안전하게 처리
 # ============================================================
 
-def normalize_text(value):
-
+def safe_list(value):
     if value is None:
-        return ""
+        return []
 
-    return str(value).strip().lower()
+    if isinstance(value, list):
+        return value
+
+    return [value]
 
 
 # ============================================================
-# 5. 기업 이름으로 Neo4j Company 찾기
+# 9. Company 검색
 # ============================================================
 
 def find_company(tx, company_name):
+    """
+    기존 Neo4j KG에서 Company 노드를 찾는다.
+    """
 
     query = """
     MATCH (c:Entity)
     WHERE c.Type = 'Company'
       AND (
-          toLower(c.name) = toLower($company_name)
-          OR toLower(c.name) CONTAINS toLower($company_name)
-          OR toLower($company_name) CONTAINS toLower(c.name)
+        toLower(c.name) = toLower($company_name)
+        OR toLower(c.name) CONTAINS toLower($company_name)
+        OR toLower($company_name) CONTAINS toLower(c.name)
       )
     RETURN
         c.entity_id AS entity_id,
         c.name AS name,
-        c.Type AS type,
-        c.description AS description
-    LIMIT 10
+        c.Type AS type
+    LIMIT 5
     """
 
     result = tx.run(
@@ -113,377 +163,580 @@ def find_company(tx, company_name):
 
 
 # ============================================================
-# 6. Company → Tier 1 Supplier 찾기
+# 10. Event 생성
 # ============================================================
 
-def find_tier1_suppliers(tx, company_name):
+def create_event(tx, article, event_id):
+    """
+    Agent 1의 뉴스 분석 결과를 Neo4j Event 노드로 생성/업데이트
+    """
+
+    disruption_type = article.get(
+        "disruption_type",
+        "Other"
+    )
+
+    event_name = article.get(
+        "event",
+        "Unknown Event"
+    )
+
+    summary = article.get(
+        "summary",
+        ""
+    )
+
+    reason = article.get(
+        "reason",
+        ""
+    )
+
+    risk_questions = safe_list(
+        article.get("risk_exposure_questions")
+    )
+
+    countries = safe_list(
+        article.get("countries_involved")
+    )
+
+    industries = safe_list(
+        article.get("industries_involved")
+    )
+
+    companies = safe_list(
+        article.get("companies_involved")
+    )
+
+    title = article.get(
+        "title",
+        ""
+    )
+
+    url = article.get(
+        "url",
+        ""
+    )
+
+    created_at = datetime.now(
+        timezone.utc
+    ).isoformat()
+
+    query = """
+    MERGE (e:Entity {
+        entity_id: $event_id
+    })
+
+    SET
+        e.Type = 'Event',
+        e.name = $event_name,
+        e.disruption_type = $disruption_type,
+        e.title = $title,
+        e.url = $url,
+        e.summary = $summary,
+        e.reason = $reason,
+        e.risk_exposure_questions = $risk_questions,
+        e.countries_involved = $countries,
+        e.industries_involved = $industries,
+        e.companies_involved = $companies,
+        e.updated_at = $created_at
+
+    RETURN
+        e.entity_id AS entity_id,
+        e.name AS name
+    """
+
+    result = tx.run(
+        query,
+        event_id=event_id,
+        event_name=event_name,
+        disruption_type=disruption_type,
+        title=title,
+        url=url,
+        summary=summary,
+        reason=reason,
+        risk_questions=risk_questions,
+        countries=countries,
+        industries=industries,
+        companies=companies,
+        created_at=created_at
+    )
+
+    return result.single().data()
+
+
+# ============================================================
+# 11. Event → Company 관계 생성
+# ============================================================
+
+def connect_event_company(
+    tx,
+    event_id,
+    company_entity_id
+):
+    """
+    Event가 영향을 받는 Company와 연결된다.
+
+    Event -[KG_RELATION {type: 'Affected_By'}]-> Company
+    """
+
+    query = """
+    MATCH (e:Entity {entity_id: $event_id})
+    MATCH (c:Entity {entity_id: $company_entity_id})
+
+    MERGE (e)-[r:KG_RELATION {
+        relation_id: $relation_id
+    }]->(c)
+
+    SET
+        r.type = 'Affected_By',
+        r.source_type = 'Event',
+        r.target_type = 'Company',
+        r.source_name = e.name,
+        r.target_name = c.name,
+        r.confidence = 'Agent1',
+        r.source = 'Agent1 News Analysis'
+
+    RETURN
+        e.name AS event,
+        c.name AS company
+    """
+
+    relation_id = (
+        f"{event_id}_Affected_By_{company_entity_id}"
+    )
+
+    result = tx.run(
+        query,
+        event_id=event_id,
+        company_entity_id=company_entity_id,
+        relation_id=relation_id
+    )
+
+    record = result.single()
+
+    if record:
+        return record.data()
+
+    return None
+
+
+# ============================================================
+# 12. Company의 Tier 1 공급업체 찾기
+# ============================================================
+
+def find_tier1_suppliers(
+    tx,
+    company_entity_id
+):
 
     query = """
     MATCH (s:Entity)-[r:KG_RELATION]->(c:Entity)
-    WHERE c.Type = 'Company'
-      AND s.Type = 'Supplier'
+
+    WHERE s.Type = 'Supplier'
+      AND c.Type = 'Company'
+      AND c.entity_id = $company_entity_id
       AND r.type = 'Supplies'
       AND r.tier = '1'
-      AND (
-          toLower(c.name) = toLower($company_name)
-          OR toLower(c.name) CONTAINS toLower($company_name)
-          OR toLower($company_name) CONTAINS toLower(c.name)
-      )
 
     RETURN
-        s.entity_id AS supplier_id,
-        s.name AS supplier_name,
-        s.Type AS supplier_type,
-
-        c.entity_id AS company_id,
-        c.name AS company_name,
-
-        r.tier AS tier,
-        r.type AS relation_type,
-        r.confidence AS confidence,
-        r.evidence AS evidence,
-        r.notes AS notes,
-        r.relation_id AS relation_id
+        s.entity_id AS entity_id,
+        s.name AS name
     """
 
     result = tx.run(
         query,
-        company_name=company_name
+        company_entity_id=company_entity_id
     )
 
     return [record.data() for record in result]
 
 
 # ============================================================
-# 7. Tier 1 → Tier 2 Supplier 찾기
+# 13. Tier 1 → Tier 2 공급업체 찾기
 # ============================================================
 
-def find_tier2_suppliers(tx, tier1_name):
+def find_tier2_suppliers(
+    tx,
+    tier1_entity_id
+):
 
     query = """
     MATCH (s2:Entity)-[r:KG_RELATION]->(s1:Entity)
+
     WHERE s2.Type = 'Supplier'
       AND s1.Type = 'Supplier'
+      AND s1.entity_id = $tier1_entity_id
       AND r.type = 'Supplies'
       AND r.tier = '2'
-      AND (
-          toLower(s1.name) = toLower($tier1_name)
-          OR toLower(s1.name) CONTAINS toLower($tier1_name)
-          OR toLower($tier1_name) CONTAINS toLower(s1.name)
-      )
 
     RETURN
-        s2.entity_id AS supplier_id,
-        s2.name AS supplier_name,
-        s2.Type AS supplier_type,
-
-        s1.entity_id AS tier1_id,
-        s1.name AS tier1_name,
-
-        r.tier AS tier,
-        r.type AS relation_type,
-        r.confidence AS confidence,
-        r.evidence AS evidence,
-        r.notes AS notes,
-        r.relation_id AS relation_id
+        s2.entity_id AS entity_id,
+        s2.name AS name
     """
 
     result = tx.run(
         query,
-        tier1_name=tier1_name
+        tier1_entity_id=tier1_entity_id
     )
 
     return [record.data() for record in result]
 
 
 # ============================================================
-# 8. 공급망 경로 생성
+# 14. Event와 공급망 Path 연결
 # ============================================================
 
-def build_supply_chain_path(company, tier1, tier2):
+def connect_event_to_supplier_path(
+    tx,
+    event_id,
+    tier2_id,
+    tier1_id,
+    company_id
+):
+    """
+    기존 KG의 공급망 관계를 이용하여
 
-    return {
-        "company": company,
-        "tier1_supplier": tier1.get("supplier_name"),
-        "tier2_supplier": tier2.get("supplier_name"),
-        "path": [
-            tier2.get("supplier_name"),
-            tier1.get("supplier_name"),
-            company
-        ],
-        "tiers": {
-            "tier2": tier2.get("supplier_name"),
-            "tier1": tier1.get("supplier_name"),
-            "company": company
-        }
-    }
+    Event
+      ↓
+    Tier 2 Supplier
+      ↓
+    Tier 1 Supplier
+      ↓
+    Company
+
+    구조를 만든다.
+
+    기존 Supplies 관계는 수정하지 않는다.
+    """
+
+    query = """
+    MATCH (e:Entity {entity_id: $event_id})
+    MATCH (s2:Entity {entity_id: $tier2_id})
+    MATCH (s1:Entity {entity_id: $tier1_id})
+    MATCH (c:Entity {entity_id: $company_id})
+
+    MERGE (e)-[r:KG_RELATION {
+        relation_id: $relation_id
+    }]->(s2)
+
+    SET
+        r.type = 'Risk_Exposure',
+        r.source_type = 'Event',
+        r.target_type = 'Supplier',
+        r.tier = '2',
+        r.source_name = e.name,
+        r.target_name = s2.name,
+        r.notes = 'Agent 1 news event linked to existing Tier 2 supply chain path'
+
+    RETURN
+        e.name AS event,
+        s2.name AS tier2_supplier,
+        s1.name AS tier1_supplier,
+        c.name AS company
+    """
+
+    relation_id = (
+        f"{event_id}_Risk_Exposure_{tier2_id}"
+    )
+
+    result = tx.run(
+        query,
+        event_id=event_id,
+        tier2_id=tier2_id,
+        tier1_id=tier1_id,
+        company_id=company_id,
+        relation_id=relation_id
+    )
+
+    record = result.single()
+
+    if record:
+        return record.data()
+
+    return None
 
 
 # ============================================================
-# 9. Agent 1 한 건 처리
+# 15. Agent 2 실행
 # ============================================================
 
-def process_article(article):
+agent2_results = []
 
-    companies = article.get("companies_involved", [])
 
-    if not companies:
-        return {
-            "status": "no_company",
+with driver.session() as session:
+
+    for article in articles:
+
+        # ----------------------------------------------------
+        # 공급망 교란 뉴스인지 확인
+        # ----------------------------------------------------
+
+        if not article.get(
+            "is_supply_chain_disruption",
+            False
+        ):
+            continue
+
+        event_id = create_event_id(article)
+
+        print("\n" + "=" * 70)
+        print("Agent 2 처리 시작")
+        print("=" * 70)
+
+        print(
+            f"Event: {article.get('event', 'Unknown')}"
+        )
+
+        # ----------------------------------------------------
+        # 1. Event 생성
+        # ----------------------------------------------------
+
+        event_result = session.execute_write(
+            create_event,
+            article,
+            event_id
+        )
+
+        print(
+            f"✓ Event 생성/업데이트: "
+            f"{event_result['name']}"
+        )
+
+        # ----------------------------------------------------
+        # 2. Agent 1에서 회사 목록 가져오기
+        # ----------------------------------------------------
+
+        companies = safe_list(
+            article.get(
+                "companies_involved"
+            )
+        )
+
+        article_result = {
+            "event_id": event_id,
+            "event": article.get(
+                "event",
+                ""
+            ),
+            "disruption_type": article.get(
+                "disruption_type",
+                ""
+            ),
             "companies": [],
-            "tier1_suppliers": [],
-            "tier2_suppliers": [],
             "supply_chain_paths": []
         }
 
-    article_result = {
-        "status": "processed",
-        "companies": companies,
-        "countries": article.get("countries_involved", []),
-        "industries": article.get("industries_involved", []),
-        "disruption_type": article.get("disruption_type"),
-        "event": article.get("event"),
-        "risk_exposure_questions": article.get(
-            "risk_exposure_questions", []
-        ),
-
-        "matched_companies": [],
-        "tier1_suppliers": [],
-        "tier2_suppliers": [],
-        "supply_chain_paths": []
-    }
-
-    with driver.session() as session:
-
         # ----------------------------------------------------
-        # Company 검색
+        # 3. Company 검색
         # ----------------------------------------------------
 
         for company_name in companies:
 
-            company_matches = session.execute_read(
+            matched_companies = session.execute_read(
                 find_company,
                 company_name
             )
 
-            article_result["matched_companies"].extend(
-                company_matches
+            if not matched_companies:
+                print(
+                    f"⚠ Company 매칭 실패: "
+                    f"{company_name}"
+                )
+
+                article_result["companies"].append({
+                    "name": company_name,
+                    "matched": False,
+                    "tier1_suppliers": []
+                })
+
+                continue
+
+            # 첫 번째 매칭 Company 사용
+            company = matched_companies[0]
+
+            company_id = company["entity_id"]
+            company_real_name = company["name"]
+
+            print(
+                f"✓ Company 매칭: "
+                f"{company_real_name}"
             )
 
             # ------------------------------------------------
-            # Tier 1 검색
+            # 4. Event → Company 관계 생성
             # ------------------------------------------------
 
-            tier1_results = session.execute_read(
+            session.execute_write(
+                connect_event_company,
+                event_id,
+                company_id
+            )
+
+            # ------------------------------------------------
+            # 5. Tier 1 Supplier 검색
+            # ------------------------------------------------
+
+            tier1_suppliers = session.execute_read(
                 find_tier1_suppliers,
-                company_name
+                company_id
             )
 
-            article_result["tier1_suppliers"].extend(
-                tier1_results
+            print(
+                f"  Tier 1 Supplier: "
+                f"{len(tier1_suppliers)}개"
             )
 
+            company_result = {
+                "name": company_real_name,
+                "entity_id": company_id,
+                "matched": True,
+                "tier1_suppliers": []
+            }
+
             # ------------------------------------------------
-            # Tier 2 검색
+            # 6. Tier 1 → Tier 2 검색
             # ------------------------------------------------
 
-            for tier1 in tier1_results:
+            for tier1 in tier1_suppliers:
 
-                tier1_name = tier1.get("supplier_name")
+                tier1_id = tier1["entity_id"]
+                tier1_name = tier1["name"]
 
-                if not tier1_name:
-                    continue
-
-                tier2_results = session.execute_read(
+                tier2_suppliers = session.execute_read(
                     find_tier2_suppliers,
-                    tier1_name
+                    tier1_id
                 )
 
-                article_result["tier2_suppliers"].extend(
-                    tier2_results
-                )
+                tier1_result = {
+                    "name": tier1_name,
+                    "entity_id": tier1_id,
+                    "tier2_suppliers": []
+                }
 
                 # --------------------------------------------
-                # Tier 2 → Tier 1 → Company 경로
+                # 7. Tier 2 Path 저장
                 # --------------------------------------------
 
-                for tier2 in tier2_results:
+                for tier2 in tier2_suppliers:
 
-                    path = build_supply_chain_path(
-                        company_name,
-                        tier1,
-                        tier2
+                    tier2_id = tier2["entity_id"]
+                    tier2_name = tier2["name"]
+
+                    # Event → Tier2 연결
+                    path_result = session.execute_write(
+                        connect_event_to_supplier_path,
+                        event_id,
+                        tier2_id,
+                        tier1_id,
+                        company_id
                     )
 
-                    article_result["supply_chain_paths"].append(
-                        path
+                    path = {
+                        "tier2_supplier": tier2_name,
+                        "tier1_supplier": tier1_name,
+                        "company": company_real_name
+                    }
+
+                    tier1_result[
+                        "tier2_suppliers"
+                    ].append(path)
+
+                    article_result[
+                        "supply_chain_paths"
+                    ].append(path)
+
+                    print(
+                        f"  Path: "
+                        f"{tier2_name} "
+                        f"→ {tier1_name} "
+                        f"→ {company_real_name}"
                     )
 
-    # --------------------------------------------------------
-    # 중복 제거
-    # --------------------------------------------------------
+                company_result[
+                    "tier1_suppliers"
+                ].append(tier1_result)
 
-    article_result["matched_companies"] = remove_duplicates(
-        article_result["matched_companies"],
-        key_fields=["entity_id", "name"]
+            article_result[
+                "companies"
+            ].append(company_result)
+
+        agent2_results.append(
+            article_result
+        )
+
+
+# ============================================================
+# 16. Neo4j 연결 종료
+# ============================================================
+
+driver.close()
+
+
+# ============================================================
+# 17. Agent 2 결과 저장
+# ============================================================
+
+output_data = {
+    "generated_at": datetime.now(
+        timezone.utc
+    ).isoformat(),
+
+    "agent": "Agent 2",
+
+    "description": (
+        "Agent 1 news analysis results are used "
+        "to create/update Event nodes and connect "
+        "them to the existing supply chain knowledge graph."
+    ),
+
+    "results": agent2_results
+}
+
+
+with open(
+    OUTPUT_FILE,
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        output_data,
+        f,
+        ensure_ascii=False,
+        indent=2
     )
 
-    article_result["tier1_suppliers"] = remove_duplicates(
-        article_result["tier1_suppliers"],
-        key_fields=["supplier_id", "supplier_name"]
-    )
-
-    article_result["tier2_suppliers"] = remove_duplicates(
-        article_result["tier2_suppliers"],
-        key_fields=["supplier_id", "supplier_name", "tier1_id"]
-    )
-
-    article_result["supply_chain_paths"] = remove_duplicates(
-        article_result["supply_chain_paths"],
-        key_fields=[
-            "company",
-            "tier1_supplier",
-            "tier2_supplier"
-        ]
-    )
-
-    return article_result
-
 
 # ============================================================
-# 10. 중복 제거
+# 18. 완료
 # ============================================================
 
-def remove_duplicates(items, key_fields):
+print("\n" + "=" * 70)
+print("Agent 2 완료")
+print("=" * 70)
 
-    unique = []
-    seen = set()
+print(
+    f"처리된 Event: "
+    f"{len(agent2_results)}개"
+)
 
-    for item in items:
+print(
+    f"결과 파일: "
+    f"{OUTPUT_FILE}"
+)
 
-        key = tuple(
-            item.get(field)
-            for field in key_fields
-        )
+print(
+    "\nNeo4j KG에 다음 구조가 생성/연결되었습니다:"
+)
 
-        if key not in seen:
-            seen.add(key)
-            unique.append(item)
+print(
+    "Event → Company"
+)
 
-    return unique
+print(
+    "Event → Tier2 Supplier → Tier1 Supplier → Company"
+)
 
-
-# ============================================================
-# 11. 결과 저장
-# ============================================================
-
-def save_results(results):
-
-    output = {
-        "updated_at": datetime.utcnow().isoformat(),
-        "source": "agent1_results.json",
-        "agent": "Agent 2 - Knowledge Graph Builder",
-        "total_articles": len(results),
-        "results": results
-    }
-
-    with open(
-        OUTPUT_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(
-            output,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
-
-    print(f"\nAgent 2 결과 저장 완료:")
-    print(OUTPUT_FILE)
-
-
-# ============================================================
-# 12. 메인
-# ============================================================
-
-def main():
-
-    print("=" * 60)
-    print("Agent 2 - Knowledge Graph Builder")
-    print("=" * 60)
-
-    # Agent 1 결과 읽기
-    agent1_results = load_agent1_results()
-
-    print(
-        f"Agent 1 결과: {len(agent1_results)}건"
-    )
-
-    if not agent1_results:
-        print("처리할 Agent 1 결과가 없습니다.")
-        return
-
-    results = []
-
-    for index, article in enumerate(agent1_results, start=1):
-
-        print(
-            f"\n[{index}/{len(agent1_results)}] 처리 중..."
-        )
-
-        title = article.get(
-            "title",
-            article.get("event", "Unknown")
-        )
-
-        print(f"Event: {title}")
-
-        result = process_article(article)
-
-        print(
-            f"  Company: "
-            f"{len(result['matched_companies'])}"
-        )
-
-        print(
-            f"  Tier 1: "
-            f"{len(result['tier1_suppliers'])}"
-        )
-
-        print(
-            f"  Tier 2: "
-            f"{len(result['tier2_suppliers'])}"
-        )
-
-        print(
-            f"  Paths: "
-            f"{len(result['supply_chain_paths'])}"
-        )
-
-        results.append({
-            "article": article,
-            "kg_analysis": result
-        })
-
-    save_results(results)
-
-    print("\n" + "=" * 60)
-    print("Agent 2 완료")
-    print("=" * 60)
-
-
-# ============================================================
-# 13. 종료 처리
-# ============================================================
-
-if __name__ == "__main__":
-
-    try:
-        main()
-
-    finally:
-        driver.close()
-```
-
+print(
+    "\n기존 Tier 1 / Tier 2 Supplies 관계는 수정하지 않았습니다."
+)
