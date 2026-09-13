@@ -22,7 +22,7 @@ jobs:
 
       - name: Run Agent 5
         run: |
-          python agent5.py
+          python agent5_risk_score.py
 
       - name: Upload Agent 5 result
         uses: actions/upload-artifact@v4
