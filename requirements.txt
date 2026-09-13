@@ -6,3 +6,4 @@ openai
 python-dotenv
 trafilatura
 neo4j
+networkx
