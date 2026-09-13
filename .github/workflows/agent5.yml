@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: agent5-risk-assessment
-          path: data/agent5_risk_assessment.json
+          path: data/agent5_risk_score.json
