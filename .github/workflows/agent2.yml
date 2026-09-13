@@ -52,7 +52,7 @@ jobs:
 
       - name: Run Agent 2
         run: |
-          python agents/agent2_kg_builder.py
+          python agents/agent2_kg_analysis.py
 
 
       # ======================================================
