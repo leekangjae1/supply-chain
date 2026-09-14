@@ -1,4 +1,4 @@
-# Agent 2 input: crewai_results.json
+# Agent 2 input: agent1_results.json
 import os
 import json
 import hashlib
@@ -79,7 +79,7 @@ elif isinstance(agent1_data, list):
     articles = agent1_data
 
 else:
-    raise ValueError("crewai_results.json의 형식을 확인해주세요.")
+    raise ValueError("agent1_results.json의 형식을 확인해주세요.")
 
 
 # ============================================================
