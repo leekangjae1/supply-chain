@@ -50,7 +50,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: agent1-results
-          path: agent1_results.json
+          path: results/agent1_results.json
           if-no-files-found: error
 
       - name: Commit results
