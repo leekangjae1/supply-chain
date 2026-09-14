@@ -1,6 +1,10 @@
 name: Agent 2 - Knowledge Graph
 
 on:
+  workflow_run:
+    workflows: ["GDELT Monitoring"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -8,6 +12,10 @@ permissions:
 
 jobs:
   agent2:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+
     runs-on: ubuntu-latest
 
     env:
@@ -18,23 +26,35 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Agent 1 결과 다운로드 (다른 workflow에서 실행되어 업로드된 경우)
-      - name: Download Agent 1 result artifact
-        uses: actions/download-artifact@v4
         with:
-          name: agent1-results
-          path: .
-        continue-on-error: true
+          ref: main
 
       - name: Check Agent 1 result
         run: |
           echo "===== Check Agent 1 result ====="
-          if [ -f "agent1_results.json" ]; then
-            echo "agent1_results.json exists."
-            ls -lh agent1_results.json
-          else
+
+          if [ ! -f "agent1_results.json" ]; then
             echo "ERROR: agent1_results.json does not exist."
+            echo "Agent 1 must finish and commit its result before Agent 2 runs."
+            exit 1
+          fi
+
+          ls -lh agent1_results.json
+          python -m json.tool agent1_results.json > /dev/null
+          echo "Agent 1 JSON is valid."
+
+      - name: Check Neo4j secrets
+        run: |
+          if [ -z "$NEO4J_URI" ]; then
+            echo "ERROR: NEO4J_URI is not configured."
+            exit 1
+          fi
+          if [ -z "$NEO4J_USERNAME" ]; then
+            echo "ERROR: NEO4J_USERNAME is not configured."
+            exit 1
+          fi
+          if [ -z "$NEO4J_PASSWORD" ]; then
+            echo "ERROR: NEO4J_PASSWORD is not configured."
             exit 1
           fi
 
@@ -55,29 +75,15 @@ jobs:
       - name: Check Agent 2 result
         run: |
           echo "===== Agent 2 result ====="
+
+          if [ ! -f "agent2_results.json" ]; then
+            echo "ERROR: agent2_results.json does not exist."
+            exit 1
+          fi
+
           ls -lh agent2_results.json
-
-      - name: Upload Agent 2 result
-        uses: actions/upload-artifact@v4
-        with:
-          name: agent2-results
-          path: agent2_results.json
-          if-no-files-found: error        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run Agent 2
-        run: |
-          python agents/agent2_kg_analysis.py
-
-      - name: Check Agent 2 result
-        run: |
-          echo "===== Agent 2 result ====="
-          ls -lh agent2_results.json
+          python -m json.tool agent2_results.json > /dev/null
+          echo "Agent 2 JSON is valid."
 
       - name: Upload Agent 2 result
         uses: actions/upload-artifact@v4
@@ -85,4 +91,3 @@ jobs:
           name: agent2-results
           path: agent2_results.json
           if-no-files-found: error
-          
