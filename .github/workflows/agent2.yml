@@ -1,20 +1,14 @@
 name: Agent 2 - Knowledge Graph
 
 on:
-  workflow_run:
-    workflows: ["GDELT Monitoring"]
-    types:
-      - completed
-
   workflow_dispatch:
 
 permissions:
-  actions: read
   contents: read
+  actions: read
 
 jobs:
   agent2:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     env:
@@ -23,40 +17,60 @@ jobs:
       NEO4J_PASSWORD: ${{ secrets.NEO4J_PASSWORD }}
 
     steps:
-
+      # 1. GitHub Repository 가져오기
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download Agent 1 result
-        if: ${{ github.event_name == 'workflow_run' }}
-        uses: actions/download-artifact@v4
-        with:
-          name: agent1-results
-          path: .
-          run-id: ${{ github.event.workflow_run.id }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      # 2. Agent 1 결과 확인
+      - name: Prepare Agent 1 result
+        run: |
+          echo "===== Repository files ====="
+          ls -la
 
+          if [ -f "agent1_results.json" ]; then
+            echo "agent1_results.json already exists."
+          elif [ -f "crewai_results.json" ]; then
+            echo "crewai_results.json found."
+            cp crewai_results.json agent1_results.json
+            echo "Copied crewai_results.json -> agent1_results.json"
+          else
+            echo "ERROR: Agent 1 result file not found."
+            exit 1
+          fi
+
+      # 3. Agent 1 결과 확인
       - name: Check Agent 1 result
         run: |
           echo "===== Agent 1 result ====="
-          ls -la
-          test -f agent1_results.json
-          echo "agent1_results.json exists."
+          ls -lh agent1_results.json
+          echo "===== First part of result ====="
+          head -c 1000 agent1_results.json
+          echo
 
+      # 4. Python 설정
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # 5. 필요한 라이브러리 설치
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # 6. Agent 2 실행
       - name: Run Agent 2
         run: |
           python agents/agent2_kg_analysis.py
 
+      # 7. Agent 2 결과 확인
+      - name: Check Agent 2 result
+        run: |
+          echo "===== Agent 2 result ====="
+          ls -lh agent2_results.json
+
+      # 8. Agent 2 결과 저장
       - name: Upload Agent 2 result
         uses: actions/upload-artifact@v4
         with:
