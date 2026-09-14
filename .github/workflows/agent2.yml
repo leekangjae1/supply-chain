@@ -7,6 +7,10 @@ on:
       - completed
   workflow_dispatch:
 
+permissions:
+  actions: read
+  contents: read
+
 jobs:
   agent2:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
@@ -29,6 +33,18 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v4
+
+        
+      # ======================================================
+      # Agent 1 결과 다운로드
+      # ======================================================
+      - name: Download Agent 1 result
+        uses: actions/download-artifact@v4
+        with:
+          name: agent1-results
+          path: .
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
 
       # ======================================================
