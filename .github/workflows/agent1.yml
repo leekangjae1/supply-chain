@@ -58,6 +58,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add gdelt_results.json gdelt_monitoring.csv crewai_results.json
-          git commit -m "Update GDELT and CrewAI monitoring results" || echo "No changes to commit"
+          # agent1_results.json 파일도 git add에 포함
+          git add gdelt_results.json gdelt_monitoring.csv crewai_results.json agent1_results.json
+          git commit -m "Update GDELT and Agent 1 monitoring results" || echo "No changes to commit"
           git push origin main
