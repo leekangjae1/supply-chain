@@ -14,7 +14,7 @@ from neo4j import GraphDatabase
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "crewai_results.json"
+INPUT_FILE = BASE_DIR / "agent1_results.json"
 OUTPUT_FILE = BASE_DIR / "agent2_results.json"
 
 
