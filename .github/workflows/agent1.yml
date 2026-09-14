@@ -43,6 +43,16 @@ jobs:
       - name: Run CrewAI Monitoring
         run: python crewai_monitoring.py
 
+      # ======================================================
+      # Agent 1 결과를 Artifact로 저장
+      # ======================================================
+      - name: Upload Agent 1 result
+        uses: actions/upload-artifact@v4
+        with:
+          name: agent1-results
+          path: agent1_results.json
+          if-no-files-found: error
+
       - name: Commit results
         run: |
           git config --global user.name "github-actions"
