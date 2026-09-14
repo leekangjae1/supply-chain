@@ -13,7 +13,7 @@ from neo4j import GraphDatabase
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "agent1_results.json"
+INPUT_FILE = BASE_DIR / "crewai_results.json"
 OUTPUT_FILE = BASE_DIR / "agent2_results.json"
 
 
@@ -64,18 +64,21 @@ with open(INPUT_FILE, "r", encoding="utf-8") as f:
 # ============================================================
 
 if isinstance(agent1_data, dict):
-    # Agent 1 결과가 {"articles": [...]} 형태인 경우
-    if "articles" in agent1_data:
+
+    if "results" in agent1_data:
+        articles = agent1_data["results"]
+
+    elif "articles" in agent1_data:
         articles = agent1_data["articles"]
+
     else:
-        # 단일 기사 결과인 경우
         articles = [agent1_data]
 
 elif isinstance(agent1_data, list):
     articles = agent1_data
 
 else:
-    raise ValueError("agent1_results.json의 형식을 확인해주세요.")
+    raise ValueError("crewai_results.json의 형식을 확인해주세요.")
 
 
 # ============================================================
