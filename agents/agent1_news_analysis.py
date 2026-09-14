@@ -613,15 +613,18 @@ def main():
 
     print(f"GDELT articles: {len(gdelt_results)}")
 
-    if not gdelt_results:
-        print("[INFO] 분석할 뉴스가 없습니다.")
-        return
-
     # -----------------------------------------------------
     # 기존 Agent 1 결과
     # -----------------------------------------------------
 
     existing_results, existing_urls = load_existing_results()
+
+    if not gdelt_results:
+        print("[INFO] 분석할 뉴스가 없습니다.")
+        # downstream workflow가 사용할 결과 파일을 항상 유지
+        save_results(existing_results)
+        return
+
 
     print(
         f"Already analyzed: {len(existing_results)}"
@@ -651,6 +654,9 @@ def main():
 
     if not new_articles:
         print("[INFO] 새로 분석할 뉴스가 없습니다.")
+        # 새 뉴스가 없어도 기존 결과를 다시 저장
+        # -> agent1_results.json이 항상 존재하도록 보장
+        save_results(existing_results)
         return
 
     # -----------------------------------------------------
@@ -713,9 +719,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-output_file = "agent1_results.json"
-
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(results, f, ensure_ascii=False, indent=2)
-
-print(f"Agent 1 result saved: {output_file}")
