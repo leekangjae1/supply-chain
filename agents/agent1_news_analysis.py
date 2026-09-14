@@ -712,3 +712,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+output_file = "agent1_results.json"
+
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+
+print(f"Agent 1 result saved: {output_file}")
