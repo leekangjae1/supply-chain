@@ -1,3 +1,4 @@
+# Agent 2 input: crewai_results.json
 import os
 import json
 import hashlib
