@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T06:38:19Z",
-  "total_count": 1956,
+  "updated_at": "2026-09-15T13:46:37Z",
+  "total_count": 2058,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -53246,6 +53246,3289 @@
       "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20260912T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Middle East geopolitical tensions affecting energy prices",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Finance"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Gulf countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by geopolitical tensions in the Middle East?",
+        "Which manufacturing facilities depend on energy supplies from the affected region?",
+        "Which countries or regions create exposure for companies reliant on Middle Eastern oil?",
+        "Which supply-chain dependencies could transmit disruptions from rising energy prices?",
+        "Which downstream companies in the energy sector may be exposed to fluctuations in oil prices?"
+      ],
+      "reason": "The article discusses geopolitical developments in the Middle East that threaten oil supply, which can significantly impact energy prices and, consequently, various supply chain activities related to energy sourcing and logistics.",
+      "summary": "Geopolitical tensions in the Middle East are influencing energy prices, which could disrupt supply chains reliant on oil. The potential for increased energy costs poses risks to various industries, particularly in finance and energy sectors.",
+      "title": "Piyasalar Fedin faiz kararına odaklandı ! ",
+      "url": "https://bigpara.hurriyet.com.tr/haberler/piyasa-haberleri/piyasalar-fedin-faiz-kararina-odaklandi_ID102246843/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China-India Relations Improvement Talks",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Logistics",
+        "Trade"
+      ],
+      "countries_involved": [
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in China-India relations?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions between China and India?",
+        "Which countries or regions create exposure for companies operating in China and India?",
+        "Which supply-chain dependencies could transmit disruptions due to geopolitical changes in the region?",
+        "Which downstream companies may be exposed to risks stemming from improved or deteriorated China-India relations?"
+      ],
+      "reason": "The article discusses the geopolitical dynamics between China and India, which can significantly impact trade, manufacturing, and logistics operations in the region, thus representing a potential supply chain disruption.",
+      "summary": "The recent talks between China and India during the BRICS summit indicate a potential thaw in relations that could affect supply chains in manufacturing and trade. However, ongoing geopolitical tensions and strategic alliances may still pose risks to supply chain stability in the region.",
+      "title": "習近平氏が7年ぶり訪印 BRICSで中印関係改善探るも 、 警戒なお ： 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV9D3HFTV9DUHBI01DM.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cybersecurity Vulnerabilities in Software",
+      "companies_involved": [],
+      "industries_involved": [
+        "Telecommunications",
+        "Finance",
+        "Retail"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses cybersecurity vulnerabilities and incidents affecting various sectors, but it does not directly indicate a disruption in supply chain activities such as production, logistics, or trade. The focus is on security measures and responses rather than supply chain impacts.",
+      "summary": "The article highlights ongoing cybersecurity issues in South Korea across multiple industries, including telecommunications and finance. It emphasizes the need for improved security measures and the challenges companies face in addressing vulnerabilities, but does not indicate a direct supply chain disruption.",
+      "title": " [ ET시론 ] 침해  예방  의 가치 , 제대로 매겨져 있는가",
+      "url": "https://www.etnews.com/20260911000171",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Formation of G3 Alliance",
+      "companies_involved": [
+        "United States Government",
+        "Russian Government",
+        "Chinese Government"
+      ],
+      "industries_involved": [
+        "International Relations",
+        "Defense",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential sanctions or trade policies resulting from the G3 alliance?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions among the G3 countries?",
+        "Which countries or regions create exposure due to the shifting alliances and potential trade agreements?",
+        "Which supply-chain dependencies could transmit disruptions from the G3 discussions?",
+        "Which downstream companies or operations may be exposed to changes in trade policies or tariffs?"
+      ],
+      "reason": "The article discusses the potential formation of a G3 alliance between the US, Russia, and China, which could lead to significant geopolitical shifts affecting trade policies, tariffs, and international relations, thereby impacting global supply chains.",
+      "summary": "The potential formation of a G3 alliance among the US, Russia, and China could lead to significant geopolitical changes that may disrupt global supply chains. This includes potential trade policy shifts and increased tensions that could affect various industries and countries involved.",
+      "title": "can america form a g3 together with russia and china",
+      "url": "https://www.prabhasakshi.com/column/can-america-form-a-g3-together-with-russia-and-china",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit and New Delhi Declaration",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Energy",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Russia",
+        "Brazil",
+        "South Africa",
+        "Iran",
+        "UAE",
+        "Egypt",
+        "Ethiopia",
+        "Indonesia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade policies among BRICS countries?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in BRICS?",
+        "Which supply-chain dependencies could transmit disruptions from BRICS discussions?",
+        "Which downstream companies may be exposed to changes in cross-border payment systems?"
+      ],
+      "reason": "The article discusses the geopolitical dynamics and trade policies among BRICS nations, which could impact supply chains through changes in trade agreements, tariffs, and payment systems.",
+      "summary": "The BRICS summit highlights the shifting geopolitical landscape and the potential for new trade policies that could affect global supply chains. The focus on cross-border payments and cooperation among member countries suggests significant implications for manufacturing and trade activities.",
+      "title": "The Modi - Xi - Putin picture and the rise of a multipolar world trying to remake global power",
+      "url": "https://economictimes.indiatimes.com/news/india/the-modi-xi-putin-picture-and-the-rise-of-a-multipolar-world-trying-to-remake-global-power/articleshow/134128231.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ongoing conflict between Russia and Ukraine",
+      "companies_involved": [
+        "US military suppliers",
+        "Oil companies"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States",
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US military equipment are affected by the ongoing conflict?",
+        "Which energy companies are exposed to geopolitical tensions in the Middle East?",
+        "Which countries are dependent on oil supplies from the affected regions?",
+        "Which downstream companies rely on energy imports from the impacted countries?",
+        "What manufacturing operations could be disrupted due to the geopolitical situation?"
+      ],
+      "reason": "The ongoing conflict between Russia and Ukraine, along with tensions involving Iran and Saudi Arabia, poses significant risks to supply chains, particularly in the defense and energy sectors, affecting production, logistics, and trade.",
+      "summary": "The article highlights ongoing geopolitical tensions, particularly the conflict between Russia and Ukraine, which could disrupt supply chains in the defense and energy industries. Additionally, the situation in the Middle East further complicates global supply chain dynamics.",
+      "title": "Cold News Keeps the World Hot while Rich Nations Continue Ignoring Worsening Global Conditions",
+      "url": "https://thevoiceslu.com/2026/09/cold-news-keeps-the-world-hot-while-rich-nations-continue-ignoring-worsening-global-conditions/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit and Trade Policy Discussions",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Russia",
+        "Brazil",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by unilateral trade restrictions discussed at the summit?",
+        "Which manufacturing or production relationships may be impacted by changes in international trade policies?",
+        "Which countries or regions create exposure due to geopolitical tensions discussed at the summit?",
+        "Which supply-chain dependencies could transmit disruptions from BRICS member countries?",
+        "Which downstream companies may be exposed to changes in cross-border payment systems?"
+      ],
+      "reason": "The discussions at the BRICS Summit regarding trade restrictions and geopolitical tensions have the potential to impact international trade and supply chain operations among member countries, thus representing a supply chain disruption.",
+      "summary": "The BRICS Summit in New Delhi addressed significant geopolitical tensions and trade policy concerns that could disrupt international commerce. The discussions on unilateral trade restrictions and cross-border payment systems highlight potential risks for supply chains involving member countries.",
+      "title": "BRICS Summit Opens in New Delhi , With Focus on Diplomacy , Trade and Global Reform",
+      "url": "https://www.reviewnepal.com/brics-summit-opens-in-new-delhi-with-focus-on-diplomacy-trade-and-global-reform/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Chinese PHEV Market Expansion in Europe and Korea",
+      "companies_involved": [
+        "BYD",
+        "Hyundai",
+        "Kia"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "China",
+        "South Korea",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of BYD operate in the affected regions?",
+        "How might Hyundai and Kia's production schedules be impacted by increased competition from Chinese PHEVs?",
+        "Which countries are key markets for Hyundai and Kia that could be affected by this trade policy?",
+        "What supply-chain dependencies exist between Chinese PHEV manufacturers and their suppliers?",
+        "Which downstream companies in South Korea may be exposed to the competitive pressures from Chinese PHEVs?"
+      ],
+      "reason": "The article discusses the impact of Chinese PHEV manufacturers entering the European and South Korean markets, which could disrupt the competitive landscape for local manufacturers like Hyundai and Kia, affecting their supply chains and market strategies.",
+      "summary": "Chinese PHEV manufacturers are expanding their market presence in Europe and South Korea, leveraging favorable trade policies. This poses a competitive threat to local automotive companies, potentially impacting their supply chains and market strategies.",
+      "title": "전기차 관세 비껴간 중국 PHEV … 유럽 찍고 한국까지 위협한다",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02236966645579792&mediaCodeNo=257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Economic Decoupling",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Southeast Asian countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the US-China decoupling?",
+        "Which manufacturing or production relationships may be impacted due to the severing of trade ties?",
+        "Which countries or regions create exposure for companies involved in US-China trade?",
+        "Which supply-chain dependencies could transmit the disruption from the US and China to other countries?",
+        "Which downstream companies may be exposed to risks from changes in trade dynamics between the US and China?"
+      ],
+      "reason": "The potential severing of trade ties between the US and China could lead to significant shifts in global supply chains, affecting manufacturing and trade activities in various countries, particularly in Southeast Asia.",
+      "summary": "The article discusses a study suggesting that a complete economic decoupling between the US and China could disrupt existing trade relationships, potentially benefiting other nations. This scenario highlights the geopolitical risks associated with supply chain dependencies between these two superpowers.",
+      "title": "US - China decoupling could benefit other countries , China trade war game suggests",
+      "url": "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit and Middle East Conflict",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Diplomacy"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Russia",
+        "Middle Eastern countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure for companies involved in BRICS?",
+        "Which supply-chain dependencies could be impacted by the BRICS nations' diplomatic efforts?",
+        "Which downstream companies may be exposed to trade disruptions resulting from the Middle East conflict?"
+      ],
+      "reason": "The article discusses the geopolitical dynamics and potential trade implications stemming from the BRICS nations' involvement in conflict resolution, which could affect international trade and supply chains.",
+      "summary": "The BRICS Summit highlights the geopolitical role of member nations in addressing conflicts in the Middle East. This could lead to potential disruptions in international trade and supply chains, particularly for companies engaged in or reliant on these regions.",
+      "title": "Xi Jinping calls on BRICS nations to take on peacemaker role amid West Asia conflict",
+      "url": "https://www.tribuneindia.com/news/world/brics-summit-2026-xi-jinping-calls-on-brics-nations-to-take-on-peace-maker-role-amid-west-asia-conflict/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "BRICS Call for WTO Reform",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade"
+      ],
+      "countries_involved": [
+        "BRICS Nations",
+        "Ethiopia",
+        "Iran",
+        "China",
+        "African Countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by new trade policies proposed by BRICS nations?",
+        "Which manufacturing or production relationships may be impacted by changes in WTO dispute settlement mechanisms?",
+        "Which countries or regions create exposure due to increased trade-restrictive measures?",
+        "Which supply-chain dependencies could transmit disruptions from the WTO reforms?",
+        "Which downstream companies may be exposed to risks from the proposed changes in international trade regulations?"
+      ],
+      "reason": "The call for WTO reform and concerns over trade-restrictive measures indicate potential disruptions in international trade, which can affect supply chains globally, particularly for countries involved in BRICS and those seeking WTO membership.",
+      "summary": "BRICS nations are advocating for the restoration of the WTO dispute settlement mechanism to enhance global trade stability. This push highlights concerns over trade-restrictive measures that could disrupt supply chains and international economic activities.",
+      "title": "BRICS calls for immediate restoration of WTO dispute settlement mechanism",
+      "url": "https://news.webindia123.com/news/Articles/Business/20260912/4497946.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Restoration of WTO Dispute Settlement Mechanism",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade"
+      ],
+      "countries_involved": [
+        "BRICS Nations"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade policies among BRICS nations?",
+        "Which manufacturing or production relationships may be impacted by the restoration of the WTO dispute mechanism?",
+        "Which countries or regions create exposure due to trade disputes?",
+        "Which supply-chain dependencies could transmit disruptions related to trade policy changes?",
+        "Which downstream companies may be exposed to risks from trade disputes involving BRICS nations?"
+      ],
+      "reason": "The call for the restoration of the WTO dispute settlement mechanism indicates potential changes in trade policies that could affect international trade dynamics, impacting supply chains across various industries.",
+      "summary": "The BRICS nations are advocating for the immediate restoration of the WTO dispute settlement mechanism, which could influence international trade policies. This event has implications for supply chains, particularly in how trade disputes are resolved among member countries.",
+      "title": "BRICS calls for immediate restoration of WTO dispute settlement mechanism",
+      "url": "https://aninews.in/news/business/brics-calls-for-immediate-restoration-of-wto-dispute-settlement-mechanism20260912202338/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Middle East Tensions",
+      "companies_involved": [
+        "United Arab Emirates",
+        "Iran"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the energy sector may be affected by the geopolitical tensions?",
+        "Which manufacturing or production relationships may be impacted by sanctions against Iran?",
+        "Which countries or regions create exposure for companies involved in trade with Iran and the UAE?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East to global markets?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses escalating geopolitical tensions in the Middle East, which could impact trade and energy supply chains, particularly involving Iran and the UAE. The mention of unilateral tariffs and sanctions further indicates potential disruptions in trade flows.",
+      "summary": "The BRICS declaration highlights rising tensions in the Middle East, particularly between the US and Iran, which could lead to significant supply chain disruptions in energy and trade. The geopolitical landscape is increasingly volatile, affecting companies and industries connected to these regions.",
+      "title": "BRICS adopts joint declaration , urges  maximum restraint  in Mideast",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/12/brics-adopts-joint-declaration-urges-maximum-restraint-in-mideast",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Declaration on Conflict Prevention and Trade Restrictions",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Ukraine",
+        "Palestine",
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Indonesia",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the geopolitical tensions in Iran and Ukraine?",
+        "Which manufacturing or production relationships may be impacted by trade restrictions discussed at the BRICS summit?",
+        "Which countries or regions create exposure due to the potential for increased tariffs or trade barriers?",
+        "Which supply-chain dependencies could transmit disruptions from the geopolitical conflicts in the Middle East?",
+        "Which downstream companies may be exposed to risks from unilateral trade measures mentioned in the declaration?"
+      ],
+      "reason": "The article discusses geopolitical tensions and trade policy concerns raised by BRICS leaders, which could lead to disruptions in international trade and supply chains, particularly in relation to energy and goods affected by tariffs and sanctions.",
+      "summary": "The BRICS leaders' declaration highlights concerns over geopolitical conflicts and trade restrictions that could impact global supply chains. The emphasis on conflict prevention and the condemnation of unilateral trade measures suggest potential disruptions in trade and energy sectors.",
+      "title": "BRICS leaders oppose forced displacement of Palestinians from Gaza , urge conflict prevention amid wars in Iran , Ukraine",
+      "url": "https://tribune.com.pk/story/2628925/brics-leaders-oppose-forced-displacement-of-palestinians-from-gaza-urge-conflict-prevention",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of tensions in the Middle East",
+      "companies_involved": [
+        "U.S. companies",
+        "Iranian companies",
+        "UAE companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. companies may be affected by sanctions against Iran?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure for companies involved in trade with Iran and the UAE?",
+        "Which supply-chain dependencies could transmit disruptions due to the escalation of tensions?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses geopolitical tensions that could lead to trade restrictions and impact energy supply chains, affecting companies and industries involved in these sectors.",
+      "summary": "The BRICS nations have expressed concern over escalating tensions in the Middle East, particularly between the U.S. and Iran. This situation poses potential risks to supply chains, especially in energy and trade, due to possible sanctions and disruptions in logistics.",
+      "title": "BRICS adopts joint declaration , urges  maximum restraint  in the Middle East",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/12/brics-adopts-joint-declaration-urges-039maximum-restraint039-in-the-middle-east",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of tensions in the Middle East",
+      "companies_involved": [
+        "United Arab Emirates",
+        "Iran"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the energy sector may be affected by the geopolitical tensions?",
+        "Which manufacturing or production relationships may be impacted by sanctions against Iran?",
+        "Which countries or regions create exposure for companies trading with Iran or the UAE?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East to global markets?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East, which can lead to disruptions in trade and energy supply chains, particularly affecting countries involved in the conflict and their trading partners.",
+      "summary": "The BRICS nations have expressed concern over escalating tensions in the Middle East, which could impact global trade and energy supply chains. The situation involves key players like Iran and the UAE, raising potential risks for companies operating in these regions.",
+      "title": "BRICS adopts joint declaration , urges  maximum restraint  in Mideast",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/12/brics-adopts-joint-declaration-urges-maximum-restraint-in-mideast",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Diplomatic Tensions",
+      "companies_involved": [
+        "U.S. companies in the UAE"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. companies in the UAE may be affected by geopolitical tensions?",
+        "Which manufacturing relationships in the Middle East could be impacted by the conflict?",
+        "What countries or regions create exposure for companies operating in the BRICS nations?",
+        "Which supply-chain dependencies could transmit disruptions from the Middle East conflict?",
+        "Which downstream companies rely on products sourced from the affected regions?"
+      ],
+      "reason": "The ongoing geopolitical tensions and the potential for conflict in the Middle East, as discussed at the BRICS summit, could disrupt trade and supply chains involving countries like the UAE and Iran, which are significant for U.S. companies.",
+      "summary": "The BRICS summit highlighted escalating geopolitical tensions in the Middle East, particularly involving Iran and the UAE. This situation poses potential risks to supply chains, especially for U.S. companies operating in the region.",
+      "title": "Xi Jinping casts China as a peacemaker at BRICS summit",
+      "url": "http://www.washingtonexaminer.com/news/world/4725049/xi-jinping-china-peacemaker-brics-summit/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of tensions in the Middle East",
+      "companies_involved": [
+        "United Arab Emirates",
+        "Iran"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the energy sector may be affected by the geopolitical tensions?",
+        "Which manufacturing or production relationships may be impacted by sanctions against Iran?",
+        "Which countries or regions create exposure for companies involved in trade with the Middle East?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East to other regions?",
+        "Which downstream companies depend on energy supplies from the affected countries?"
+      ],
+      "reason": "The article discusses escalating geopolitical tensions in the Middle East, which can lead to disruptions in trade and energy supply chains, particularly affecting countries involved in the BRICS group and their trading partners.",
+      "summary": "The BRICS nations have expressed concern over escalating tensions in the Middle East, which could impact trade and energy supply chains. The situation involves key players like Iran and the United Arab Emirates, raising potential risks for companies operating in these regions.",
+      "title": "BRICS adopts joint declaration , urges  maximum restraint  in Mideast",
+      "url": "https://www.al-monitor.com/originals/2026/09/brics-adopts-joint-declaration-urges-maximum-restraint-mideast",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Middle East Tensions",
+      "companies_involved": [
+        "U.S. companies with trade ties to Iran",
+        "Companies in the UAE affected by sanctions"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. companies operate in Iran or the UAE?",
+        "Which manufacturing or production relationships may be affected by U.S. sanctions?",
+        "Which countries or regions create exposure for companies trading with Iran?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The ongoing geopolitical tensions in the Middle East, particularly involving Iran and the U.S., could lead to disruptions in trade and energy supply chains, impacting companies and industries connected to these regions.",
+      "summary": "The BRICS nations have expressed concern over escalating tensions in the Middle East, which could lead to significant supply chain disruptions, particularly in energy and trade. The situation may affect companies operating in or trading with Iran and the UAE due to potential sanctions and geopolitical instability.",
+      "title": "BRICS adopts joint declaration , urges  maximum restraint  in Mideast",
+      "url": "https://www.omanobserver.om/article/1196003/world/asia/brics-adopts-joint-declaration-urges-maximum-restraint-in-mideast",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "BRICS statement on Gaza conflict",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Gaza",
+        "BRICS member countries"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a geopolitical stance taken by BRICS regarding the Gaza conflict, but it does not provide any specific information about supply chain activities, disruptions, or impacts on logistics, trade, or production.",
+      "summary": "The article reports on BRICS's support for peaceful conflict resolution in Gaza, rejecting the war. It does not indicate any direct supply chain disruptions or impacts on companies or industries.",
+      "title": "BRICS backs peaceful conflict resolution , rejects Gaza war",
+      "url": "https://www.pakistantoday.com.pk/2026/09/12/brics-backs-peaceful-conflict-resolution-rejects-gaza-displacement",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Diplomatic Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "India",
+        "Iran",
+        "Saudi Arabia",
+        "UAE",
+        "China",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the geopolitical tensions in the Middle East?",
+        "Which manufacturing or production relationships may be impacted by sanctions on Iran and Russia?",
+        "Which countries or regions create exposure due to the ongoing conflicts in the Persian Gulf?",
+        "Which supply-chain dependencies could transmit disruptions from the BRICS nations?",
+        "Which downstream companies may be exposed to changes in oil prices due to geopolitical events?"
+      ],
+      "reason": "The article discusses geopolitical tensions and their potential impact on trade and energy supply, particularly in relation to sanctions and conflicts affecting key oil-producing countries.",
+      "summary": "The BRICS summit highlighted significant geopolitical tensions among member countries, particularly regarding Iran and Saudi Arabia. These tensions could disrupt trade and energy supply chains, especially in the context of rising oil prices and sanctions.",
+      "title": "BRICS 2026 : India cracks the code in a divided room with 4 AM talks & diplomatic heavy lifting",
+      "url": "https://economictimes.indiatimes.com/news/india/brics-2026-india-cracks-the-code-in-a-divided-room-with-4-am-talks-diplomatic-heavy-lifting/articleshow/134183728.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "BRICS Declaration on Tariffs and Sanctions",
+      "companies_involved": [
+        "US Government",
+        "European Union",
+        "Russia",
+        "India",
+        "China"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "European Union",
+        "Russia",
+        "India",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy products may be affected by the tariffs imposed by the US and EU?",
+        "Which manufacturing facilities in India and China depend on exports to the EU that could be impacted by the carbon border adjustment mechanism?",
+        "What are the potential impacts on trade relationships between BRICS countries and the US due to the sanctions?",
+        "Which downstream companies in the energy sector may face increased costs due to the tariffs?",
+        "How might the proposed cross-border payment systems affect trade flows among BRICS nations?"
+      ],
+      "reason": "The article discusses the implications of tariffs and sanctions imposed by the US and EU, which directly threaten global trade and supply chains, particularly in energy and manufacturing sectors.",
+      "summary": "The BRICS declaration highlights concerns over rising tariffs and sanctions that could disrupt global supply chains and trade. The potential for increased costs and trade restrictions may significantly impact countries involved, particularly in energy and manufacturing industries.",
+      "title": "BRICS backs local currency transfers , flags  indiscriminate  tariffs and sanctions",
+      "url": "https://www.hindustantimes.com/india-news/brics-summit-2026-new-delhi-bharat-mandapam-de-dollarisation-global-trade-economy-sanctions-tariffs-101789238015760.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Rasuwa Natural Disaster Impact",
+      "companies_involved": [
+        "Hydropower Projects",
+        "Automobile Importers"
+      ],
+      "industries_involved": [
+        "Construction",
+        "Automotive",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Nepal",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of automobile importers operate in the affected region?",
+        "Which hydropower projects are impacted by the infrastructure damage?",
+        "Which manufacturing facilities depend on transportation routes through Rasuwa?",
+        "What are the dependencies of construction companies on the affected infrastructure?",
+        "Which downstream companies rely on the transportation of goods through the affected area?"
+      ],
+      "reason": "The article discusses significant infrastructure damage due to natural disasters in Rasuwa, which directly impacts transportation, logistics, and supply chain activities in the region, particularly affecting the import of automobiles and energy production.",
+      "summary": "The recent natural disaster in Rasuwa has caused extensive damage to infrastructure, including roads and bridges, which poses a risk to supply chains involving transportation and energy sectors. This event highlights the need for reassessment of logistics and transportation policies in light of recurring natural disasters.",
+      "title": "रसुवा विनाशले हाम्रो कर प्रणालीलाई के सिकायो ? ",
+      "url": "https://www.onlinekhabar.com/2026/09/2015751/what-did-the-rasuwa-disaster-teach-our-tax-system",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Xi Jinping's Visit to India and BRICS Summit",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Diplomacy"
+      ],
+      "countries_involved": [
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in China may be affected by the geopolitical tensions with India?",
+        "How might changes in diplomatic relations between India and China impact trade agreements?",
+        "Which manufacturing operations in India rely on components sourced from China?",
+        "What are the potential impacts on logistics and transportation routes between India and China?",
+        "Which downstream companies in India depend on trade with Chinese suppliers?"
+      ],
+      "reason": "The article discusses the diplomatic relations between China and India, which can significantly impact trade and supply chain activities between the two countries. The geopolitical tensions and potential for changes in trade policy could disrupt supply chains reliant on these nations.",
+      "summary": "The visit of Xi Jinping to India and the discussions at the BRICS summit highlight the evolving diplomatic relations between China and India. These geopolitical dynamics could have significant implications for international trade and supply chain operations involving both countries.",
+      "title": "Xi Jinping India Visit ; BRICS Summit & PM Modi Bilateral Meet",
+      "url": "https://www.divyabhaskar.co.in/bhaskar-khaas/bhaskar-explainer/news/xi-jinping-india-visit-brics-summit-delhi-diplomatic-ties-139009089.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Concerns Over Unilateral Tariffs",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "India",
+        "Brazil",
+        "China",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the rise of unilateral tariffs?",
+        "Which manufacturing relationships could be impacted by changes in trade policy?",
+        "Which countries or regions create exposure due to unilateral tariff measures?",
+        "Which supply-chain dependencies could transmit the disruption from tariff changes?",
+        "Which downstream companies may be exposed to increased costs from tariffs?"
+      ],
+      "reason": "The article discusses concerns over unilateral tariffs that distort trade and threaten global supply chains, indicating a potential disruption in international trade and manufacturing activities.",
+      "summary": "The BRICS declaration highlights concerns over unilateral tariffs that could disrupt global supply chains and trade. This situation may impact various industries and countries involved in international trade, particularly India and Brazil.",
+      "title": "BRICS Declaration Backs India UNSC Aspirations , Condemns J & K Terror Attack ; Voices Concern Over Unilateral Tariffs",
+      "url": "https://www.dailyexcelsior.com/brics-declaration-backs-indias-unsc-aspirations-condemns-j-voices-concern-over-unilateral-tariffs/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Middle East War Concerns",
+      "companies_involved": [
+        "Iranian Companies",
+        "UAE Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the energy sector are located in the affected region?",
+        "Which manufacturing facilities may be impacted by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure for companies involved in trade with Iran or the UAE?",
+        "Which supply-chain dependencies could transmit disruptions from the Middle East conflict?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The ongoing conflict in the Middle East, particularly involving Iran and the US, poses risks to energy supply chains and trade routes, potentially affecting logistics and manufacturing operations in the region.",
+      "summary": "The BRICS group's concern over the escalating Middle East war highlights potential geopolitical disruptions that could impact energy supply chains and trade. Companies involved in these regions may face increased risks due to the conflict and associated sanctions.",
+      "title": "BRICS expresses  deep concern  over Middle East war",
+      "url": "https://www.canberratimes.com.au/story/9348964/brics-expresses-deep-concern-over-middle-east-war/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "BRICS Currency Discussions and Trade in Local Currencies",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Ethiopia",
+        "Iran",
+        "African countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade policies among BRICS nations?",
+        "Which manufacturing or production relationships may be impacted by the adoption of local currencies?",
+        "Which countries or regions create exposure due to the proposed trade in local currencies?",
+        "Which supply-chain dependencies could transmit disruptions from changes in the BRICS trade framework?",
+        "Which downstream companies may be exposed to risks from the BRICS nations' trade discussions?"
+      ],
+      "reason": "The discussions on trade in local currencies and the potential for a BRICS currency could significantly impact international trade dynamics, affecting transaction costs and trade relationships among member countries, which are critical to supply chain operations.",
+      "summary": "The BRICS nations are discussing trade in local currencies, which could alter transaction costs and trade relationships. This has implications for international trade and supply chain operations among the member countries.",
+      "title": "No proposal for BRICS currency  as of now : MEA",
+      "url": "https://www.prokerala.com/news/articles/a1811561.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T141500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Decline in Lululemon's Sales and Market Position",
+      "companies_involved": [
+        "Lululemon",
+        "Alo Yoga",
+        "Vuori",
+        "Fabletics",
+        "Athleta"
+      ],
+      "industries_involved": [
+        "Athleisure",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lululemon may be affected by the decline in sales?",
+        "Which manufacturing facilities are impacted by the drop in women's leggings sales?",
+        "What regions are critical for Lululemon's supply chain that could be affected by market changes?",
+        "Which competitors' supply chains could influence Lululemon's market position?",
+        "Which downstream retailers depend on Lululemon's products?"
+      ],
+      "reason": "The article discusses significant declines in Lululemon's sales and market share due to increased competition and changing consumer preferences, which can impact their supply chain operations and relationships with suppliers and manufacturers.",
+      "summary": "Lululemon is facing a substantial decline in sales and market position due to increased competition in the athleisure market. This operational disruption could affect their supply chain dynamics, including supplier relationships and production strategies.",
+      "title": "Jim Cramer : Lululemon Is a  Thoroughly Broken Stock . I Cant Give You a Good Reason to Buy It  ",
+      "url": "https://www.aol.com/articles/jim-cramer-lululemon-thoroughly-broken-160751000.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Delhi Declaration Supporting India's Role in UNSC",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Relations",
+        "Trade"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Russia",
+        "Brazil"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in international trade policies resulting from the BRICS declaration?",
+        "How might India's increased role in the UNSC impact trade relationships with other countries?",
+        "Which countries or regions may create exposure due to geopolitical shifts in the BRICS alliance?",
+        "What supply-chain dependencies could be affected by potential regulatory changes advocated by BRICS?",
+        "Which downstream companies may be exposed to risks from changes in global trade dynamics?"
+      ],
+      "reason": "The BRICS declaration emphasizes the need for reforms in global governance and trade policies, which could impact international supply chains and trade relationships, particularly for countries involved.",
+      "summary": "The BRICS Delhi Declaration highlights support for India's role in the UNSC and calls for reforms in global governance. This geopolitical shift may influence international trade dynamics and supply chain relationships among the member countries.",
+      "title": "ब्रिक्स घोषणा : भारत के लिए साथ आए चीन और रूस",
+      "url": "https://www.prabhatkhabar.com/national/brics-delhi-declaration-china-russia-back-indias-big-role-in-unsc",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "BRICS Summit on Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Russia",
+        "Brazil",
+        "China",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political declaration against terrorism and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The BRICS summit focused on a united front against terrorism and funding, condemning a specific attack. However, there is no indication of a direct impact on supply chain operations or activities.",
+      "title": "BRICS New Delhi declaration : आतंकवाद के खिलाफ BRICS देश एकजुट , आतंकियों की फंडिंग रोकने पर सहमति ; पहलगाम हमले की निंदा की - brics summit condemns pahalgam attack backs joint action against terrorism",
+      "url": "https://hindi.business-standard.com/india-news/brics-summit-condemns-pahalgam-attack-backs-joint-action-against-terrorism-id-551609/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Uncertain Tariff Environment",
+      "companies_involved": [
+        "Caleres",
+        "Stuart Weitzman"
+      ],
+      "industries_involved": [
+        "Footwear",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Caleres may be affected by the new tariffs?",
+        "Which manufacturing facilities are impacted by the tariff changes?",
+        "Which countries or regions create exposure for Caleres due to tariff changes?",
+        "Which supply-chain dependencies could transmit the disruption from the tariff environment?",
+        "Which downstream companies depend on products from Caleres or its brands?"
+      ],
+      "reason": "The article discusses the impact of an uncertain tariff environment on Caleres, which could affect their supply chain operations, including sourcing and pricing strategies.",
+      "summary": "Caleres is facing challenges due to an uncertain tariff environment that may impact its supply chain and pricing strategies. The company's performance varies significantly across its brand portfolio, with potential implications for suppliers and logistics.",
+      "title": "Caleres ( CAL ) Stock Lags Behind Its Brand Portfolio Surge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T123000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Lululemon Guidance Cut Due to Tariff Refund Impact",
+      "companies_involved": [
+        "Lululemon Athletica Inc."
+      ],
+      "industries_involved": [
+        "Retail",
+        "Apparel"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lululemon operate in the U.S. and China?",
+        "Which manufacturing facilities are affected by the decline in leggings sales?",
+        "What trade policies could impact Lululemon's sourcing from China?",
+        "Which downstream companies depend on Lululemon's products?",
+        "How might changes in consumer traffic in the U.S. and China affect Lululemon's supply chain?"
+      ],
+      "reason": "The article discusses Lululemon's guidance cut primarily due to a tariff refund, indicating a direct connection to trade policy and its impact on financial performance, which can affect supply chain operations.",
+      "summary": "Lululemon Athletica Inc. has cut its guidance for the second time this year, attributing part of its earnings to a tariff refund rather than strong business performance. The decline in sales and traffic in key markets like the U.S. and China raises concerns about potential supply chain disruptions.",
+      "title": "Lululemon Guidance Cut Sent Shares Down 18 %, Was It An Overreaction ? ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-guidance-cut-sent-shares-201133412.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Launch of AI Computing and Token Services",
+      "companies_involved": [
+        "China Unicom"
+      ],
+      "industries_involved": [
+        "Telecommunications",
+        "Information Technology",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide technology or infrastructure to China Unicom for its AI services?",
+        "What manufacturing capabilities are required to support the new AI computing platform?",
+        "Which regions in China are critical for the deployment of the new services?",
+        "What dependencies exist between China Unicom and other technology firms in the AI sector?",
+        "Which downstream companies may rely on the AI computing and Token services provided by China Unicom?"
+      ],
+      "reason": "The article discusses the launch of new technology platforms by China Unicom, which may enhance operational capabilities but does not indicate any immediate disruption to supply chains.",
+      "summary": "China Unicom has announced the launch of advanced AI computing and Token services aimed at supporting digital transformation across various industries. While this development may impact future supply chain dynamics, it does not currently represent a disruption.",
+      "title": "中国联通服贸会发布  星罗  算力平台焕新与  京元  Token服务两大成果 ， 助推千行百业数智化转型 _ 中华网",
+      "url": "https://tech.china.com/articles/20260912/202609121959291.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential Opening of US Market to Chinese Automakers",
+      "companies_involved": [
+        "BYD",
+        "Geely",
+        "General Motors",
+        "Ford"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of BYD and Geely operate in the United States?",
+        "What manufacturing facilities are impacted by potential changes in US trade policy?",
+        "Which countries or regions create exposure for US automotive manufacturers due to this policy shift?",
+        "What supply-chain dependencies could transmit disruptions if Chinese automakers enter the US market?",
+        "Which downstream companies depend on products from BYD and Geely if they establish manufacturing in the US?"
+      ],
+      "reason": "The article discusses a potential shift in US trade policy that could allow Chinese automakers to establish manufacturing in the US, impacting supply chains related to automotive production, sourcing, and labor dynamics.",
+      "summary": "The article highlights a potential change in US trade policy that may allow Chinese automakers to build factories in the US, which could significantly impact the automotive supply chain. This situation presents both opportunities and challenges for companies involved in the automotive industry.",
+      "title": "特朗普突然松口 ： 中国车企可以来美国造车 ！ 但有一个前提",
+      "url": "https://k.sina.com.cn/article_7879923852_1d5ae188c02001mlc6.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Uncertain Tariff Environment",
+      "companies_involved": [
+        "Caleres",
+        "Stuart Weitzman"
+      ],
+      "industries_involved": [
+        "Footwear",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Caleres are affected by the new tariff environment?",
+        "Which manufacturing facilities are impacted by the tariff changes?",
+        "What countries are the primary sources for Caleres' imported goods?",
+        "Which downstream retailers depend on products from Caleres?",
+        "How might changes in tariffs affect the pricing strategy for Stuart Weitzman products?"
+      ],
+      "reason": "The article discusses the impact of an uncertain tariff environment on Caleres, which could affect their supply chain costs and pricing strategies, particularly in relation to their international operations and acquisitions.",
+      "summary": "Caleres is facing challenges due to an uncertain tariff environment that could impact its supply chain operations. The company's performance is mixed, with growth in its brand portfolio but declining sales in its Famous Footwear segment, highlighting potential vulnerabilities in its supply chain.",
+      "title": "Caleres ( CAL ) Stock Lags Behind Its Brand Portfolio Surge",
+      "url": "https://www.insidermonkey.com/blog/caleres-cal-stock-lags-behind-its-brand-portfolios-surge-1836484/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "UN Statement on Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a UN statement on terrorism and does not provide any specific information related to supply chain activities, such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article reports on a UN call regarding the global fight against terrorism. It does not indicate any direct impact on supply chain activities or related sectors.",
+      "title": "UN calls terrorism scourge with no borders , stresses  no double standards  in fight against terror",
+      "url": "https://aninews.in/news/world/asia/un-calls-terrorism-scourge-with-no-borders-stresses-no-double-standards-in-fight-against-terror20260912212049/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "BRICS Summit Joint Declaration",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Russia",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a diplomatic event and a joint declaration regarding terrorism and trade policies but does not indicate any direct impact on supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article reports on a diplomatic victory for India at the BRICS Summit, where member countries condemned terrorism and discussed trade policies. However, it does not present any direct supply chain disruptions or impacts on logistics or production.",
+      "title": "India Diplomatic Victory at BRICS Summit : Joint Declaration Condemns Pahalgam Attack , Delhi News in Hindi",
+      "url": "https://www.khaskhabar.com/local/delhi-ncr/delhi-news/news-india-diplomatic-victory-at-brics-summit--joint-declaration-condemns-pahalgam-attack-news-hindi-1-844325-KKN.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions in the Middle East involving Iran",
+      "companies_involved": [
+        "China",
+        "Russia",
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "China",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies operate in the affected region?",
+        "Which manufacturing or production relationships may be affected by the geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in trade with Iran?",
+        "Which supply-chain dependencies could transmit the disruption from Iran to other regions?",
+        "Which downstream companies depend on products from suppliers in the affected countries?"
+      ],
+      "reason": "The ongoing geopolitical tensions in the Middle East, particularly involving Iran and the UAE, can disrupt trade routes, energy supplies, and logistics operations, impacting global supply chains.",
+      "summary": "The BRICS nations have expressed concerns over escalating tensions in the Middle East, particularly involving Iran and the UAE. This geopolitical situation poses risks to trade and energy supply chains, potentially affecting multiple industries and countries.",
+      "title": "Guerre en Iran : les BRICS se prononcent officiellement et appellent à la retenue",
+      "url": "https://lanouvelletribune.info/2026/09/guerre-en-iran-les-brics-se-prononcent-officiellement-et-appellent-a-la-retenue/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Canadian Boycott of US Products",
+      "companies_involved": [
+        "Vince’s Market",
+        "Loblaw Cos",
+        "Metro"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "Canada",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Vince’s Market are affected by the shift towards Canadian products?",
+        "How might Loblaw's sourcing strategies change in response to consumer preferences?",
+        "Which downstream retailers depend on products imported from the United States?",
+        "What impact will the boycott have on the logistics of fresh produce distribution in Canada?",
+        "Which Canadian suppliers could benefit from the increased demand for local products?"
+      ],
+      "reason": "The article discusses a consumer-driven boycott of US products in Canada, leading to significant changes in sourcing and supply chain strategies for Canadian supermarkets, which directly impacts trade and logistics.",
+      "summary": "A consumer boycott in Canada against US products is forcing supermarkets to seek new local suppliers, significantly altering their supply chains. This shift is a response to ongoing trade tensions and tariffs imposed by the US, impacting sourcing and logistics in the food retail industry.",
+      "title": "Boicot canadiense a productos de EU obliga a supermercados a buscar nuevas fuentes de suministro – Periódico Zócalo | Noticias de Saltillo , Torreón , Piedras Negras , Monclova , Acuña",
+      "url": "https://www.zocalo.com.mx/boicot-canadiense-a-productos-de-eu-obliga-a-supermercados-a-buscar-nuevas-fuentes-de-suministro/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "T-MEC Negotiations and Tariff Disputes",
+      "companies_involved": [],
+      "industries_involved": [
+        "Automotive",
+        "Steel",
+        "Aluminum",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "Mexico",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of automotive parts are affected by the T-MEC negotiations?",
+        "Which manufacturing facilities in Mexico depend on U.S. steel and aluminum imports?",
+        "What are the potential impacts on agricultural exports from Mexico to the U.S. due to tariff changes?",
+        "Which companies in the U.S. rely on products from Canadian suppliers that are facing tariffs?",
+        "How might changes in trade policy affect supply chain costs for companies operating in North America?"
+      ],
+      "reason": "The ongoing negotiations and potential changes to the T-MEC agreement, along with tariff disputes, directly impact trade relationships and supply chain dynamics between the U.S., Mexico, and Canada, affecting various industries.",
+      "summary": "The article discusses the ongoing negotiations regarding the T-MEC agreement and the implications of tariff disputes between the U.S. and Canada. These developments could significantly impact supply chains, particularly in the automotive, steel, and agricultural sectors.",
+      "title": "Trump descarta ruptura con México en plena revisión del T - MEC :  Tendremos una excelente relación  ",
+      "url": "https://www.omnia.com.mx/noticia/441869/trump-descarta-ruptura-con-mexico-en-plena-revision-del-t-mec-tendremos-una-exce",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T214500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Insurance Cost Increases for Seniors",
+      "companies_involved": [],
+      "industries_involved": [
+        "Insurance",
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses issues related to health insurance for seniors in Mexico, focusing on rising costs and regulatory proposals. However, it does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses the challenges faced by seniors in Mexico regarding health insurance costs and the proposed reforms to alleviate these issues. It highlights the financial pressures on the healthcare system but does not indicate a supply chain disruption.",
+      "title": "Propuestas benéficas en seguros de gastos médicos para adultos mayores",
+      "url": "https://www.tiempo.com.mx/opinion/achef-columna-fiscal-seguros-de-gastos-medicos-para-adultos-mayores-septiembre-2026/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalating conflict affecting oil prices",
+      "companies_involved": [
+        "Pemex"
+      ],
+      "industries_involved": [
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States",
+        "Iran",
+        "Venezuela"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Pemex may be affected by the geopolitical tensions in the Middle East?",
+        "Which production facilities in Mexico depend on stable oil prices?",
+        "How might the conflict between the United States and Iran impact oil supply chains globally?",
+        "Which downstream companies rely on crude oil exports from Mexico?",
+        "What are the potential impacts on logistics and transportation routes due to tensions in the Strait of Hormuz?"
+      ],
+      "reason": "The article discusses the impact of geopolitical tensions, particularly between the U.S. and Iran, on oil prices and supply, which directly affects the oil and gas supply chain.",
+      "summary": "The article highlights the rising prices of Mexican crude oil due to geopolitical tensions, particularly the conflict involving Iran. This situation poses risks to the oil supply chain, affecting production, logistics, and trade relationships.",
+      "title": "Barril mexicano , a 103 . 07 dólares - La Jornada San Luis",
+      "url": "https://lajornadasanluis.com.mx/barril-mexicano-a-103-07-dolares/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Tariff Policy Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the tariff policies?",
+        "Which manufacturing or production relationships may be impacted by changes in trade policy?",
+        "Which countries or regions create exposure due to tariff implementations?",
+        "Which supply-chain dependencies could transmit the disruption from tariff changes?",
+        "Which downstream companies or operations may be exposed to increased costs due to tariffs?"
+      ],
+      "reason": "The article discusses the potential continuation of tariffs as a trade policy tool, which can significantly impact supply chain costs and relationships between countries, particularly affecting trade and manufacturing sectors.",
+      "summary": "The article highlights the ongoing use of tariffs as a trade policy by the U.S. government, which could disrupt supply chains by increasing costs and affecting trade relationships, particularly between the U.S. and Canada.",
+      "title": "x | Windsor Star",
+      "url": "https://windsorstar.com/opinion/editorials/randy-essex-trump-wont-give-up-on-tariffs-as-his-favourite-weapon",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Continuation of Tariffs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the continuation of tariffs?",
+        "Which manufacturing or production relationships may be impacted by trade policy changes?",
+        "Which countries or regions create exposure due to tariff implementations?",
+        "Which supply-chain dependencies could transmit the disruption from tariffs?",
+        "Which downstream companies or operations may be exposed to increased costs due to tariffs?"
+      ],
+      "reason": "The article discusses the potential continuation of tariffs as a trade policy tool, which can significantly impact supply chain costs, sourcing decisions, and trade relationships between countries.",
+      "summary": "The article highlights the ongoing use of tariffs as a trade policy by the U.S. government, which could disrupt supply chains by increasing costs and affecting trade relationships, particularly with Canada. This situation necessitates monitoring for potential impacts on manufacturing and logistics operations.",
+      "title": "x | Windsor Star",
+      "url": "https://windsorstar.com:443/opinion/editorials/randy-essex-trump-wont-give-up-on-tariffs-as-his-favourite-weapon",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Tensions",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. dairy imports?",
+        "What are the potential impacts on U.S. automotive manufacturers due to tariffs on Canadian products?",
+        "Which regions in Canada are most affected by U.S. trade policies?",
+        "Which downstream companies in the U.S. rely on Canadian dairy products?"
+      ],
+      "reason": "The article discusses escalating trade tensions between the U.S. and Canada, including tariffs that directly impact the dairy industry and potentially other sectors, indicating a significant disruption in trade relations that affects supply chains.",
+      "summary": "The article outlines increasing trade tensions between the U.S. and Canada, marked by tariffs imposed by both countries on various products. This situation poses risks to supply chains, particularly in the dairy and automotive industries, due to potential disruptions in trade flows.",
+      "title": "Why Canada ? America northern neighbor seems an unlikely target for a trade war",
+      "url": "https://www.messenger-inquirer.com/news/national/why-canada-americas-northern-neighbor-seems-an-unlikely-target-for-a-trade-war/article_55834b7c-3d72-53f1-b37f-b1e31044cc76.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Tensions",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. dairy imports?",
+        "What are the potential impacts on logistics for dairy products between the U.S. and Canada?",
+        "Which downstream companies in the U.S. rely on Canadian dairy products?",
+        "How might changes in trade policy affect sourcing strategies for dairy producers in both countries?"
+      ],
+      "reason": "The article discusses escalating trade tensions between the U.S. and Canada, specifically regarding tariffs on dairy products, which directly impacts supply chain activities related to trade and sourcing in the dairy industry.",
+      "summary": "The article highlights increasing trade tensions between the U.S. and Canada, particularly concerning tariffs on dairy products. This situation poses potential disruptions to supply chains in the dairy and agriculture sectors, affecting both countries' producers and consumers.",
+      "title": "Why Canada ? America northern neighbor seems an unlikely target for a trade war",
+      "url": "https://www.wdio.com/ap-top-news/ap-top-news-business/why-canada-americas-northern-neighbor-seems-an-unlikely-target-for-a-trade-war/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T194500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Canada Trade War",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Automotive",
+        "Alcoholic Beverages"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. dairy imports?",
+        "What are the potential impacts on U.S. automotive manufacturers due to tariffs?",
+        "Which regions in Canada are most affected by the trade policies?",
+        "Which downstream companies in the U.S. rely on Canadian dairy products?"
+      ],
+      "reason": "The article discusses the imposition of tariffs and trade restrictions between the U.S. and Canada, which directly impacts the supply chain activities related to dairy and automotive industries, affecting production, sourcing, and trade relationships.",
+      "summary": "The article outlines the escalating trade tensions between the U.S. and Canada, particularly focusing on tariffs imposed on dairy and automotive products. This trade war poses significant risks to supply chains in both countries, affecting various industries and their operations.",
+      "title": "Why Canada is caught in a US trade war , from dairy to oil",
+      "url": "https://www.wokv.com/news/business/why-canada-americas/NXVVZVOYUY3MNPXWINIUSKHWCQ/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Tensions",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. dairy imports?",
+        "What are the potential impacts on logistics for dairy exports between the U.S. and Canada?",
+        "Which downstream companies in the dairy industry may be exposed to increased costs due to tariffs?",
+        "How might changes in trade policy affect sourcing strategies for dairy products in both countries?"
+      ],
+      "reason": "The article discusses escalating trade tensions between the U.S. and Canada, specifically regarding tariffs on dairy products, which directly impacts supply chain activities related to trade and sourcing in the dairy industry.",
+      "summary": "The article highlights rising trade tensions between the U.S. and Canada, particularly concerning tariffs on dairy products. This situation poses potential disruptions to supply chains in the dairy and agriculture sectors, affecting both countries' producers and exporters.",
+      "title": "Why Canada ? America northern neighbor seems an unlikely target for a trade war",
+      "url": "https://www.kxl.com/why-canada-americas-northern-neighbor-seems-an-unlikely-target-for-a-trade-war/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Tensions",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers",
+        "U.S. Auto Manufacturers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers are affected by the new tariffs?",
+        "Which manufacturing facilities in the U.S. depend on Canadian dairy imports?",
+        "What are the potential impacts on U.S. auto manufacturers due to tariffs on Canadian products?",
+        "Which downstream companies in Canada rely on U.S. dairy exports?",
+        "How might changes in trade policy affect logistics operations between the U.S. and Canada?"
+      ],
+      "reason": "The article discusses escalating trade tensions between the U.S. and Canada, including tariffs that directly impact the dairy and automotive industries, which are critical components of the supply chain.",
+      "summary": "The article highlights increasing trade tensions between the U.S. and Canada, with significant tariffs imposed on Canadian products. This situation poses potential disruptions to supply chains, particularly in the dairy and automotive sectors.",
+      "title": "Why Canada ? America northern neighbor seems an unlikely target for a trade war",
+      "url": "https://toronto.citynews.ca/2026/09/12/why-canada-americas-northern-neighbor-seems-an-unlikely-target-for-a-trade-war/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Tensions and Tariffs",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers",
+        "U.S. Auto Manufacturers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in the U.S. depend on Canadian dairy imports?",
+        "What are the potential impacts on U.S. auto manufacturers due to Canadian tariffs?",
+        "Which downstream companies in Canada rely on U.S. dairy products?",
+        "How might changes in trade policy affect logistics operations between the U.S. and Canada?"
+      ],
+      "reason": "The article discusses escalating trade tensions and tariffs between the U.S. and Canada, which directly impact trade flows, production, and sourcing in the dairy and automotive industries, indicating a significant supply chain disruption.",
+      "summary": "The article highlights increasing trade tensions between the U.S. and Canada, marked by tariffs imposed by both countries on various products. This situation poses risks to supply chains, particularly in the dairy and automotive sectors, due to potential disruptions in trade and sourcing relationships.",
+      "title": "Why Canada ? America northern neighbor seems an unlikely target for a trade war",
+      "url": "https://www.elpasoinc.com/news/ap_wire/why-canada-americas-northern-neighbor-seems-an-unlikely-target-for-a-trade-war/article_b8886708-012d-52ad-b87d-43a5706c2307.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Tensions",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers",
+        "U.S. Oil Refineries"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Oil and Gas",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. dairy exports?",
+        "What are the potential impacts on U.S. oil refineries that rely on Canadian crude oil?",
+        "Which downstream companies in the automotive industry may be exposed to changes in trade policy?",
+        "How might retaliatory tariffs affect the supply chain for Canadian products in the U.S.?"
+      ],
+      "reason": "The article discusses escalating trade tensions between the U.S. and Canada, including tariffs that could disrupt trade flows, impacting suppliers, manufacturers, and logistics in both countries.",
+      "summary": "The ongoing trade tensions between the U.S. and Canada, marked by tariffs and retaliatory measures, pose a significant risk to supply chains in the dairy, oil, and automotive industries. These developments could disrupt trade relationships and affect production and sourcing strategies for companies in both nations.",
+      "title": "Why Canada ? America northern neighbor seems an unlikely target for a trade war",
+      "url": "http://www.gazettextra.com/news/nation_world/why-canada-americas-northern-neighbor-seems-an-unlikely-target-for-a-trade-war/article_0fc87c82-0956-5b0c-828b-f5514a67e435.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Canada Trade War",
+      "companies_involved": [
+        "U.S. Dairy Producers",
+        "Canadian Dairy Producers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Automotive",
+        "Alcoholic Beverages"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. dairy producers may be affected by the tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. dairy imports?",
+        "What are the potential impacts on Canadian automotive manufacturers due to U.S. tariffs?",
+        "Which downstream companies in the U.S. rely on Canadian dairy products?",
+        "How might changes in trade policy affect logistics operations between the U.S. and Canada?"
+      ],
+      "reason": "The article discusses the imposition of tariffs and trade restrictions between the U.S. and Canada, which directly impacts trade flows, production, and supply chain activities in the dairy and automotive industries.",
+      "summary": "The ongoing trade war between the U.S. and Canada, marked by tariffs on dairy and automotive products, poses significant risks to supply chains in both countries. This situation could disrupt trade relationships and affect various industries reliant on cross-border commerce.",
+      "title": "Why Canada is caught in a US trade war , from dairy to oil",
+      "url": "https://www.wgauradio.com/news/business/why-canada-americas/NXVVZVOYUY3MNPXWINIUSKHWCQ/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T150000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses political opinions and social issues without any meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article contains letters to the editor discussing political and social issues in Idaho, with no relevant information regarding supply chain disruptions.",
+      "title": "LETTERS TO THE EDITOR : Climate change , SAVE Act and reproductive freedom",
+      "url": "http://www.idahopress.com/opinion/letters_to_editor/idaho-press-letters-to-the-editor/article_bce6a7ae-a6a8-4ff3-a8eb-4e5efac03095.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Changes in China's International Balance of Payments",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses changes in China's international balance of payments and economic factors but does not directly indicate a disruption in supply chain activities such as manufacturing, logistics, or trade that would impact specific companies or industries.",
+      "summary": "The article analyzes significant changes in China's international balance of payments, highlighting shifts in trade surpluses and investment patterns. While it provides insights into economic trends, it does not present a direct supply chain disruption.",
+      "title": "张明 ： 中国国际收支结构的重大变化 特征事实 、 驱动因素与政策涵义",
+      "url": "https://www.163.com/dy/article/L6MQ5RP40519IGF7.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Shift towards Canadian sourcing due to US tariffs",
+      "companies_involved": [
+        "Vince's Market",
+        "Loblaw Cos",
+        "Metro"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "Canada",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Vince's Market are affected by the shift to Canadian sourcing?",
+        "How might the tariffs impact Loblaw's supply chain relationships with US suppliers?",
+        "Which Canadian producers could benefit from the increased demand for local products?",
+        "What logistics challenges might arise from sourcing more products domestically?",
+        "Which downstream retailers may be affected by changes in sourcing policies?"
+      ],
+      "reason": "The article discusses a significant shift in consumer behavior and sourcing strategies in Canada due to trade tensions with the US, which directly impacts supply chain activities related to sourcing and logistics.",
+      "summary": "Canadian supermarkets are increasingly sourcing local products in response to consumer pressure and US tariffs, leading to a notable shift in supply chain dynamics. This change is prompting retailers to seek new suppliers and adjust their sourcing strategies, indicating a potential disruption in the supply chain.",
+      "title": "Canadá da la espalda a productos de Estados Unidos : supermercados buscan nuevas fuentes de suministro",
+      "url": "https://www.omnia.com.mx/noticia/441859/canada-da-la-espalda-a-productos-de-estados-unidos-supermercados-buscan-nuevas-f",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T214500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS New Delhi Declaration",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Energy",
+        "Technology"
+      ],
+      "countries_involved": [
+        "India",
+        "Brazil",
+        "Russia",
+        "China",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade policies among BRICS countries?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure due to the emphasis on global trade flow maintenance?",
+        "Which supply-chain dependencies could transmit disruptions from tariff and non-tariff measures?",
+        "Which downstream companies may be exposed to changes in cooperation among BRICS nations?"
+      ],
+      "reason": "The BRICS declaration emphasizes the importance of maintaining global trade flows and expresses concerns about unilateral trade measures that could disrupt supply chains, indicating potential impacts on trade and logistics.",
+      "summary": "The BRICS summit resulted in a declaration that highlights the need for cooperation among emerging economies and addresses concerns about global trade disruptions. This geopolitical event could impact supply chains, particularly in trade and energy sectors, due to the emphasis on maintaining trade flows and addressing tariff measures.",
+      "title": "BRICS thông qua Tuyên bố New Delhi",
+      "url": "http://vov.vn/the-gioi/brics-thong-qua-tuyen-bo-new-delhi-dat-dong-thuan-nhieu-van-de-quan-trong-post1332100.vov",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Finalization of Duties on Solar Imports",
+      "companies_involved": [
+        "First Solar",
+        "Hanwha Qcells",
+        "Mission Solar Energy"
+      ],
+      "industries_involved": [
+        "Solar Energy",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "India",
+        "Indonesia",
+        "Laos"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of First Solar operate in India, Indonesia, or Laos?",
+        "Which manufacturing facilities depend on solar components imported from the affected countries?",
+        "How might the new duties impact the pricing and availability of solar products in the U.S. market?",
+        "Which downstream companies rely on solar products from First Solar, Hanwha Qcells, or Mission Solar Energy?",
+        "What alternative sourcing strategies could be employed to mitigate the impact of these duties?"
+      ],
+      "reason": "The imposition of steep duties on solar imports from specific countries directly affects trade and sourcing activities, potentially disrupting supply chains for U.S. solar manufacturers and their suppliers.",
+      "summary": "The U.S. Commerce Department has finalized significant duties on solar imports from India, Indonesia, and Laos, impacting domestic solar manufacturers. This trade policy change may disrupt supply chains and alter sourcing strategies for companies involved in solar energy production.",
+      "title": "Commerce Department Finalizes Steep Duties on Solar Imports From India , Indonesia , Laos",
+      "url": "https://www.theepochtimes.com/us/commerce-department-finalizes-steep-duties-on-solar-imports-from-india-indonesia-laos-6086561",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Declaration on Multilateralism and Trade",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Energy",
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "Brazil",
+        "China",
+        "India",
+        "Russia",
+        "South Africa",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the proposed changes in trade policies?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure due to the rejection of unilateral economic measures?",
+        "Which supply-chain dependencies could transmit disruptions from the BRICS countries?",
+        "Which downstream companies may be exposed to changes in international trade dynamics?"
+      ],
+      "reason": "The BRICS declaration addresses geopolitical tensions and trade policies that could impact international trade and supply chains, particularly in relation to sanctions and tariffs.",
+      "summary": "The BRICS leaders' declaration emphasizes multilateralism and expresses concerns over geopolitical tensions, particularly in the Middle East. This could lead to potential disruptions in international trade and supply chains, especially for countries involved in the BRICS bloc.",
+      "title": "BRICS aprova Declarao de Nova Déli e reforça defesa da paz e do multilateralismo",
+      "url": "https://www.brasil247.com/brics/brics-aprova-declaracao-de-nova-deli-e-reforca-defesa-do-multilateralismo/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T210000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "ASEAN-India Trade Agreement Development",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "India",
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Singapore",
+        "Thailand",
+        "Brunei",
+        "Vietnam",
+        "Laos",
+        "Myanmar",
+        "Cambodia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in ASEAN countries may be affected by the trade agreement with India?",
+        "Which manufacturing facilities in India depend on imports from ASEAN countries?",
+        "What are the potential impacts on logistics and transportation between India and ASEAN nations?",
+        "Which downstream companies in India rely on products sourced from ASEAN countries?",
+        "How might changes in trade policy affect sourcing strategies for companies operating in the region?"
+      ],
+      "reason": "The article discusses the potential for a free trade agreement between ASEAN and India, which could significantly impact trade flows, manufacturing, and sourcing strategies in the region.",
+      "summary": "The article highlights the growing economic relationship between ASEAN and India, focusing on the potential development of a free trade agreement. This could lead to significant changes in trade dynamics, impacting various industries and supply chain activities across the involved countries.",
+      "title": "India trading arrangements with ASEAN –  Deepening ASEAN - India Alliance  Part I By Hemant K Batra",
+      "url": "https://www.legallyindia.com/Blogs/indiaa-s-trading-arrangements-with-asean-a-a-deepening-asean-india-alliancea-part-i-by-hemant-k-batra-html/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Concerns over trade-restrictive measures",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Brazil",
+        "Russia",
+        "China",
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Iran",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Indonesia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the rise in tariffs and non-tariff measures?",
+        "Which manufacturing or production relationships may be impacted by trade restrictions?",
+        "Which countries or regions create exposure due to unilateral trade measures?",
+        "Which supply-chain dependencies could transmit the disruption caused by trade policy changes?",
+        "Which downstream companies or operations may be exposed to the effects of increased trade barriers?"
+      ],
+      "reason": "The article discusses the rise of trade-restrictive measures that could distort trade and disrupt global supply chains, indicating a potential impact on various supply chain activities.",
+      "summary": "BRICS has raised concerns about unilateral trade measures that threaten to disrupt global supply chains and reduce international trade. The declaration emphasizes the need for a responsive multilateral trading system to address these challenges.",
+      "title": "BRICS expresses concern over trade - restrictive measures",
+      "url": "https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Speech at BRICS Summit",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any information related to supply chain activities or disruptions; it is primarily a speech without context on supply chain impacts.",
+      "summary": "The article discusses a speech by Xi Jinping at the BRICS summit but does not mention any specific supply chain disruptions or impacts. Therefore, it does not qualify as a supply chain disruption event.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ） ",
+      "url": "https://baijiahao.baidu.com/s?id=1876197666042751158",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Supply Chain Stability Initiatives",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the proposed trade and investment initiatives?",
+        "Which manufacturing relationships could be impacted by geopolitical tensions among BRICS nations?",
+        "Which countries or regions create exposure for companies involved in BRICS cooperation?",
+        "What supply-chain dependencies could transmit disruptions from BRICS initiatives?",
+        "Which downstream companies may be exposed to changes in trade policies discussed in the meeting?"
+      ],
+      "reason": "The article discusses initiatives aimed at enhancing cooperation among BRICS nations, which could impact international trade, manufacturing, and supply chain stability due to geopolitical dynamics.",
+      "summary": "The BRICS summit emphasizes cooperation among member countries to stabilize supply chains and enhance trade relations. This geopolitical event could influence various industries and create risks for companies involved in international trade and manufacturing.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ）_ 腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260913A06HVM00",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Supply Chain Stability",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the proposed trade and investment initiatives?",
+        "Which manufacturing or production relationships may be impacted by geopolitical changes in BRICS countries?",
+        "Which countries or regions create exposure due to the proposed reforms in international trade rules?",
+        "Which supply-chain dependencies could transmit disruptions from BRICS cooperation efforts?",
+        "Which downstream companies may be exposed to changes in trade policies among BRICS nations?"
+      ],
+      "reason": "The article discusses initiatives aimed at enhancing cooperation among BRICS nations, which could impact international trade, manufacturing, and supply chain stability, thus representing a potential supply chain disruption.",
+      "summary": "The speech by President Xi Jinping at the BRICS summit emphasizes the need for cooperation among member countries to stabilize supply chains and enhance trade. This geopolitical event could have significant implications for international trade and manufacturing activities within the BRICS nations.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ）-- 时政 -- 人民网",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c1024-40797843.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Supply Chain Stability",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in BRICS cooperation?",
+        "Which manufacturing relationships could be impacted by geopolitical tensions among BRICS nations?",
+        "Which countries or regions create exposure for companies involved in BRICS trade?",
+        "What supply-chain dependencies exist between BRICS countries that could transmit disruptions?",
+        "Which downstream companies may be exposed to changes in trade policies among BRICS nations?"
+      ],
+      "reason": "The article discusses the importance of cooperation among BRICS nations to maintain supply chain stability and address geopolitical challenges, indicating potential impacts on international trade and manufacturing.",
+      "summary": "The speech by President Xi Jinping emphasizes the need for BRICS nations to collaborate on supply chain stability amidst global challenges. This cooperation could influence international trade dynamics and manufacturing relationships among member countries.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ） ",
+      "url": "http://news.china.com.cn/2026-09/13/content_118693650.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Supply Chain Stability",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the BRICS countries may be affected by geopolitical changes?",
+        "Which manufacturing facilities in the BRICS nations depend on cross-border trade?",
+        "What are the potential impacts on logistics networks connecting BRICS countries?",
+        "Which countries are most exposed to changes in BRICS trade policies?",
+        "Which downstream companies rely on products sourced from BRICS nations?"
+      ],
+      "reason": "The article discusses the importance of cooperation among BRICS nations to maintain supply chain stability amidst geopolitical challenges, indicating potential impacts on trade and logistics.",
+      "summary": "The speech by President Xi Jinping emphasizes the need for BRICS nations to collaborate on supply chain stability in the face of geopolitical challenges. This cooperation is crucial for maintaining trade and manufacturing relationships among these countries.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ）_ 南方网",
+      "url": "https://www.southcn.com/node_07e973c1a3/1adc6b9bab.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Global Supply Chain Stability",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in international trade policies proposed by BRICS countries?",
+        "Which manufacturing relationships could be impacted by geopolitical tensions among BRICS nations?",
+        "Which countries or regions create exposure for companies involved in BRICS cooperation initiatives?",
+        "What supply-chain dependencies could transmit disruptions from BRICS countries to global markets?",
+        "Which downstream companies may be exposed to risks from the proposed initiatives in the BRICS summit?"
+      ],
+      "reason": "The article discusses initiatives aimed at enhancing cooperation among BRICS nations, which could impact international trade, manufacturing, and supply chain stability due to geopolitical dynamics.",
+      "summary": "The BRICS summit emphasizes cooperation among member countries to stabilize supply chains and enhance trade. This geopolitical event could influence global supply chain dynamics, particularly in manufacturing and technology sectors.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ）_ 大陆 _ 国内新闻 _ 新闻 _ 齐鲁网",
+      "url": "https://news.iqilu.com/china/gedi/2026/0913/5944112.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Supply Chain Stability",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in international trade policies proposed by BRICS countries?",
+        "Which manufacturing relationships could be impacted by geopolitical tensions among BRICS nations?",
+        "Which countries or regions create exposure for companies involved in BRICS cooperation?",
+        "What supply-chain dependencies could transmit disruptions from BRICS initiatives?",
+        "Which downstream companies may be exposed to changes in trade agreements among BRICS members?"
+      ],
+      "reason": "The article discusses the importance of cooperation among BRICS nations to maintain supply chain stability and address geopolitical challenges, indicating potential impacts on international trade and manufacturing.",
+      "summary": "The speech by President Xi Jinping at the BRICS summit emphasizes the need for cooperation among member countries to ensure supply chain stability amidst geopolitical challenges. This could lead to changes in trade policies and manufacturing practices that may affect global supply chains.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ）- 南海网",
+      "url": "https://www.hinews.cn/page?n=2842122&m=1&s=1044",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Cooperation and Global Supply Chain Stability",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the BRICS countries may be affected by geopolitical changes?",
+        "Which manufacturing facilities in the BRICS nations depend on cross-border trade?",
+        "What are the potential impacts on logistics networks connecting BRICS countries?",
+        "Which countries are most exposed to changes in BRICS trade policies?",
+        "Which downstream companies rely on products sourced from BRICS nations?"
+      ],
+      "reason": "The article discusses the importance of cooperation among BRICS nations to maintain supply chain stability amidst geopolitical challenges, indicating potential impacts on international trade and manufacturing.",
+      "summary": "The speech emphasizes the need for BRICS nations to collaborate on trade and supply chain stability in the face of global challenges. This cooperation could significantly impact international trade dynamics and manufacturing operations within these countries.",
+      "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话 （ 全文 ） ",
+      "url": "http://qstheory.cn/20260913/16350a0dd3e64814bcf03e162c5baf84/c.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260913T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cinematic portrayal of potential US-Iran conflict",
+      "companies_involved": [
+        "Universal Pictures"
+      ],
+      "industries_involved": [
+        "Film and Entertainment"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the cinematic representation of potential conflicts and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article explores how Hollywood may portray the complexities of a potential US-Iran conflict through film. It does not present any direct supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "سينما اليوم التالى بعد انتهاء حرب واشنطن - طهران - بوابة الشروق",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=12092026&id=8ef4a6f3-c37a-40b0-bbfd-780847d10ce0",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit 2026 Trade Discussions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Logistics",
+        "Aviation"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Russia",
+        "Brazil",
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Iran",
+        "UAE",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the trade discussions at the BRICS Summit?",
+        "Which manufacturing or production relationships may be impacted by the geopolitical tensions discussed?",
+        "Which countries or regions create exposure due to the outcomes of the BRICS Summit?",
+        "Which supply-chain dependencies could transmit disruptions from the BRICS member countries?",
+        "Which downstream companies depend on trade agreements or policies established during the BRICS Summit?"
+      ],
+      "reason": "The BRICS Summit involves discussions on trade and cooperation among member countries, which can influence supply chain dynamics, particularly in terms of trade policies and logistics.",
+      "summary": "The BRICS Summit 2026 in New Delhi focuses on trade cooperation and geopolitical discussions among member countries. The outcomes of this summit may impact supply chains, particularly in trade and logistics sectors, due to the emphasis on addressing structural trade imbalances and supply chain issues.",
+      "title": "BRICS Summit Day 1 Highlights : India steers BRICS to consensus on trade , coercive measures amid West Asia rift",
+      "url": "https://www.thehindubusinessline.com/news/brics-summit-2026-new-delhi-day-1-highlights/article71459080.ece",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of conflict in the Middle East",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "UAE",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the conflict in the Middle East?",
+        "Which energy companies have operations in Iran, UAE, or Saudi Arabia?",
+        "Which countries are dependent on energy supplies from the affected region?",
+        "Which trade routes could be impacted by the escalation of conflict?",
+        "Which downstream companies rely on energy imports from the Middle East?"
+      ],
+      "reason": "The declaration from BRICS highlights concerns over escalating tensions in the Middle East, which could disrupt energy supplies and trade routes, impacting global supply chains.",
+      "summary": "The BRICS declaration expresses concern over escalating conflicts in the Middle East, particularly involving Iran, UAE, and Saudi Arabia. This geopolitical tension poses risks to energy supplies and trade, potentially disrupting global supply chains.",
+      "title": "BRICS declaration urges  maximum restraint  in Middle East",
+      "url": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "China's Trade Expansion with Developing Economies",
+      "companies_involved": [
+        "Chery"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "South Africa",
+        "Vietnam",
+        "Cambodia",
+        "Laos",
+        "African countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Chery operate in the affected regions?",
+        "Which manufacturing facilities depend on imports from China?",
+        "Which countries are most impacted by China's trade policies?",
+        "What supply-chain dependencies exist between Chinese companies and local manufacturers in Africa?",
+        "Which downstream companies depend on products from Chery's new plant in South Africa?"
+      ],
+      "reason": "The article discusses China's expanding trade relationships and investments in developing economies, which can significantly impact supply chains, particularly in manufacturing and automotive sectors.",
+      "summary": "China's trade policies and investments are reshaping global supply chains, particularly benefiting developing economies. The establishment of Chery's manufacturing plant in South Africa exemplifies this trend, creating new supply chain dynamics and opportunities.",
+      "title": "News Analysis : China rising tide lifts more than its own boats",
+      "url": "http://www.nepalnational.com/news/279295722/news-analysis-china-rising-tide-lifts-more-than-its-own-boats",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS condemnation of unilateral sanctions",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "BRICS countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in BRICS countries may be affected by the sanctions?",
+        "How might the sanctions impact trade relationships with BRICS countries?",
+        "Which industries in BRICS countries are most vulnerable to unilateral sanctions?",
+        "What supply-chain dependencies exist between companies in BRICS countries and those affected by the sanctions?",
+        "Which downstream companies rely on imports from BRICS countries that could be impacted by these sanctions?"
+      ],
+      "reason": "The article discusses the geopolitical implications of unilateral sanctions, which can affect trade and supply chain dynamics among BRICS countries.",
+      "summary": "The BRICS nations have condemned the introduction of unilateral sanctions, which could lead to significant geopolitical tensions. This situation may disrupt trade and supply chain activities involving these countries.",
+      "title": "Страны БРИКС осудили введение односторонних санкций | Москва",
+      "url": "https://fedpress.ru/news/77/policy/3451543",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Rising tensions in the Middle East and sanctions concerns",
+      "companies_involved": [
+        "Iranian companies",
+        "Russian companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "United States",
+        "Israel",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Iranian companies may be affected by the geopolitical tensions?",
+        "Which manufacturing facilities in Iran are at risk due to potential military actions?",
+        "Which countries or regions create exposure for companies involved in energy supply from Iran?",
+        "Which supply-chain dependencies could transmit disruptions from sanctions on Russia?",
+        "Which downstream companies depend on energy products from the affected regions?"
+      ],
+      "reason": "The article discusses rising geopolitical tensions in the Middle East, particularly involving Iran, which could lead to disruptions in energy supply chains and logistics due to sanctions and military actions.",
+      "summary": "The Brics leaders' meeting highlights rising tensions in the Middle East, particularly concerning Iran, which may impact global supply chains, especially in energy and logistics. The condemnation of unilateral sanctions suggests potential disruptions in trade and sourcing for companies involved in these regions.",
+      "title": "Brics leaders voice concern over Middle East and condemn unilateral sanctions",
+      "url": "https://www.salisburyjournal.co.uk/news/national/26545020.brics-leaders-voice-concern-middle-east-condemn-unilateral-sanctions/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalating tensions in West Asia",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "India",
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies in India may be affected by sanctions on Iran?",
+        "Which manufacturing operations in India depend on imports from Iran?",
+        "What are the potential impacts on trade routes due to U.S. airstrikes in the region?",
+        "Which countries or regions create exposure for companies sourcing from Iran?",
+        "Which downstream companies in India rely on energy supplies from Iran?"
+      ],
+      "reason": "The article discusses escalating geopolitical tensions that could impact trade and energy supply chains, particularly involving Iran and the U.S., which may lead to disruptions in sourcing and logistics.",
+      "summary": "The meeting between Indian President Murmu and Iranian President Pezeshkian highlights escalating geopolitical tensions in West Asia, particularly due to U.S. airstrikes and sanctions on Iran. This situation poses potential risks to supply chains, especially in the energy and manufacturing sectors.",
+      "title": "Conflicts be resolved through dialogue , diplomacy : President Murmu in meeting with Iran Pezeshkian",
+      "url": "https://www.thehindu.com/news/national/conflicts-be-resolved-through-dialogue-diplomacy-president-murmu-in-meeting-with-irans-pezeshkian/article71460915.ece",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Rising tensions in the Middle East and sanctions concerns",
+      "companies_involved": [
+        "Iranian nuclear facilities",
+        "Brics member countries"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "China",
+        "India",
+        "Saudi Arabia",
+        "United States",
+        "Israel"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources are affected by the geopolitical tensions in the Middle East?",
+        "Which manufacturing facilities depend on energy supplies from the affected regions?",
+        "Which countries or regions create exposure for companies involved in the Brics alliance?",
+        "Which supply-chain dependencies could transmit disruptions from the Iran conflict?",
+        "Which downstream companies depend on products from the affected suppliers in the Middle East?"
+      ],
+      "reason": "The article discusses rising geopolitical tensions in the Middle East, particularly concerning Iran, which could impact energy supply chains and logistics due to potential sanctions and military actions.",
+      "summary": "The Brics leaders expressed concerns over escalating tensions in the Middle East and the implications of unilateral sanctions, which could disrupt supply chains, particularly in energy and logistics. The geopolitical landscape is shifting, potentially affecting trade and manufacturing relationships among member countries.",
+      "title": "Brics leaders voice concern over Middle East and condemn unilateral sanctions",
+      "url": "https://www.swindonadvertiser.co.uk/news/national/26545020.brics-leaders-voice-concern-middle-east-condemn-unilateral-sanctions/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Formation to Counter US Sanctions",
+      "companies_involved": [
+        "Indian companies investing in Chabahar"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Logistics",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian companies are affected by US sanctions?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in West Asia?",
+        "Which countries or regions create exposure for companies involved in the Chabahar project?",
+        "Which supply-chain dependencies could transmit disruptions due to the BRICS geopolitical stance?",
+        "Which downstream companies depend on trade routes through Iran?"
+      ],
+      "reason": "The formation of BRICS and the emphasis on countering US sanctions indicate potential disruptions in trade and logistics, particularly for countries involved in the BRICS alliance and those affected by US sanctions.",
+      "summary": "The BRICS grouping aims to counter US sanctions, which could lead to significant changes in trade and logistics dynamics in the region. This geopolitical shift may impact companies and industries involved in trade and energy, particularly those connected to Iran and India.",
+      "title": "BRICS formed to end US sanctions , break totalitarianism : Iranian President Pezeshkian",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/brics-formed-to-end-us-sanctions-break-totalitarianism-iranian-president-pezeshkian/articleshow/134144603.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Addressing Middle East Tensions and Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "China",
+        "India",
+        "United States",
+        "Israel",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by sanctions imposed on Iran?",
+        "Which energy companies have operations in the Middle East that could be impacted by escalating tensions?",
+        "Which logistics companies operate in regions affected by the geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in trade with Iran?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East and the implications of sanctions, which can disrupt trade, energy supply, and logistics operations, thereby impacting global supply chains.",
+      "summary": "The BRICS summit highlighted concerns over rising tensions in the Middle East and the impact of unilateral sanctions, particularly on Iran. These geopolitical issues pose risks to energy supply chains and international trade, necessitating close monitoring of affected industries and countries.",
+      "title": "BRICS leaders voice concern over Middle East , condemn unilateral sanctions at India summit",
+      "url": "http://www.dailyadvance.com/news/world/brics-leaders-voice-concern-over-middle-east-condemn-unilateral-sanctions-at-india-summit/article_6cdc9be2-15c3-5a92-8124-85454961f42d.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Statement on Middle East Tensions",
+      "companies_involved": [
+        "Iran",
+        "Russia",
+        "United States"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "United States",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by sanctions on Iran and Russia?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure for companies involved in trade with Iran and Russia?",
+        "Which supply-chain dependencies could transmit the disruption from geopolitical tensions?",
+        "Which downstream companies depend on energy supplies from the affected regions?"
+      ],
+      "reason": "The statement from BRICS highlights concerns over geopolitical tensions in the Middle East, which can lead to trade disruptions and impact energy supply chains due to sanctions and military actions.",
+      "summary": "The BRICS nations expressed deep concern over the escalating conflict in the Middle East, particularly between the U.S. and Iran. This geopolitical tension poses risks to international trade and energy supply chains, especially for countries involved in the BRICS coalition.",
+      "title": "BRICS - maat saivat aikaan yhteisen julkilausuman Lähi - idän tilanteesta",
+      "url": "https://yle.fi/a/74-20245991",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS vs G7 Economic Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Finance"
+      ],
+      "countries_involved": [
+        "Russia",
+        "India",
+        "South Africa",
+        "Iran",
+        "Western countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by sanctions imposed on Russia?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions between BRICS and G7 countries?",
+        "Which countries or regions create exposure due to the ongoing sanctions against Russia?",
+        "Which supply-chain dependencies could transmit the disruption from BRICS countries to Western markets?",
+        "Which downstream companies may be exposed to trade restrictions resulting from geopolitical conflicts?"
+      ],
+      "reason": "The article discusses geopolitical tensions and sanctions that could disrupt trade and economic relationships, particularly affecting countries involved in the BRICS alliance and their interactions with G7 nations.",
+      "summary": "The article highlights the geopolitical tensions between BRICS nations and the G7, emphasizing the impact of sanctions on trade and economic relationships. This situation poses potential risks to supply chains, particularly in trade and finance sectors.",
+      "title": "全场鼓掌 ！ 普京嘲讽 ： 不明白G7为啥还有脸自称大国",
+      "url": "https://news.sina.com.cn/w/2026-09-12/doc-inirqfie6541338.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T150000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS vs G7 Economic Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Finance"
+      ],
+      "countries_involved": [
+        "Russia",
+        "India",
+        "South Africa",
+        "Iran",
+        "Western countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by sanctions imposed by Western countries?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions between BRICS and G7?",
+        "Which countries or regions create exposure due to the ongoing sanctions against Russia?",
+        "Which supply-chain dependencies could transmit the disruption from BRICS countries to Western markets?",
+        "Which downstream companies may be exposed to trade restrictions resulting from geopolitical conflicts?"
+      ],
+      "reason": "The article discusses geopolitical tensions and sanctions that could disrupt trade and economic relationships, particularly affecting countries involved in the BRICS alliance and their interactions with G7 nations.",
+      "summary": "The article highlights geopolitical tensions between BRICS nations and the G7, emphasizing the impact of sanctions on trade and economic relationships. This situation poses potential risks to supply chains, particularly in trade and finance sectors.",
+      "title": "全场鼓掌 ！ 普京嘲讽 ： 不明白G7为啥还有脸自称大国",
+      "url": "https://news.ifeng.com/c/8wMXb6MdkQ9",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Re-emergence of RIC axis and BRICS influence",
+      "companies_involved": [
+        "Russia",
+        "India",
+        "China"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Arms",
+        "Trade"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy and arms in India may be affected by geopolitical tensions?",
+        "Which manufacturing or production relationships in India are influenced by trade dynamics with China and Russia?",
+        "Which countries or regions create exposure for companies involved in BRICS?",
+        "Which supply-chain dependencies could transmit disruptions from geopolitical shifts in the RIC axis?",
+        "Which downstream companies in India depend on products from Russian and Chinese suppliers?"
+      ],
+      "reason": "The article discusses the geopolitical dynamics between India, China, and Russia, which can significantly impact trade, energy supply, and manufacturing relationships, thus representing a potential supply chain disruption.",
+      "summary": "The re-emergence of the RIC axis and the influence of BRICS may reshape trade and energy dynamics among India, China, and Russia. This geopolitical shift could lead to disruptions in supply chains, particularly in energy and arms industries.",
+      "title": "BRICS New Delhi chapter , re - emergence of RIC axis despite rifts",
+      "url": "https://www.siasat.com/brics-new-delhi-chapter-re-emergence-of-ric-axis-despite-rifts-3541132/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T203000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Addressing Middle East Tensions and Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics",
+        "Maritime"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "China",
+        "India",
+        "Saudi Arabia",
+        "Yemen",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by sanctions imposed on Iran?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in the Middle East?",
+        "Which countries or regions create exposure for companies involved in energy supply from the Middle East?",
+        "Which supply-chain dependencies could transmit disruptions from the ongoing conflicts in the Middle East?",
+        "Which downstream companies or operations may be exposed to risks from maritime trade disruptions due to the Iran conflict?"
+      ],
+      "reason": "The article discusses rising tensions in the Middle East and the implications of unilateral sanctions, which can significantly impact trade, energy supply, and logistics operations in the region, thus representing a supply chain disruption.",
+      "summary": "The BRICS summit highlighted concerns over escalating tensions in the Middle East and the impact of unilateral sanctions, particularly on Iran. These geopolitical issues pose risks to energy supply chains and maritime logistics, affecting multiple countries and industries.",
+      "title": "BRICS leaders voice concern over Middle East , condemn unilateral sanctions at India summit",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20260913/5393274f87a16461b195d13f324e747a",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit and Middle East Tensions",
+      "companies_involved": [
+        "Iranian Nuclear Facilities",
+        "BRICS Member Countries"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "China",
+        "India",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by sanctions or geopolitical tensions?",
+        "Which manufacturing facilities depend on energy supplies from the Middle East?",
+        "Which countries or regions create exposure for companies involved in BRICS?",
+        "Which supply-chain dependencies could transmit disruptions from the Middle East conflicts?",
+        "Which downstream companies depend on products from the affected regions or suppliers?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East and the implications of sanctions, which can directly impact energy supply chains, manufacturing, and logistics for countries involved in BRICS.",
+      "summary": "The BRICS summit highlighted rising tensions in the Middle East and the condemnation of unilateral sanctions, which could disrupt energy supplies and logistics. The geopolitical landscape may affect supply chains for member countries and their industries.",
+      "title": "BRICS leaders voice concern over Middle East , condemn unilateral sanctions at India summit",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260913/5393274f87a16461b195d13f324e747a",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Rising tensions in the Middle East and sanctions concerns",
+      "companies_involved": [
+        "Iranian nuclear facilities",
+        "Brics member countries"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "United States",
+        "Israel",
+        "Saudi Arabia",
+        "Yemen",
+        "India",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies operate in the affected regions?",
+        "Which manufacturing facilities depend on energy supplies from Iran?",
+        "Which logistics companies are impacted by the geopolitical tensions in the Middle East?",
+        "Which countries are most affected by the sanctions imposed on Iran?",
+        "Which downstream companies rely on products sourced from the affected regions?"
+      ],
+      "reason": "The article discusses rising geopolitical tensions in the Middle East, particularly concerning Iran, which could impact energy supply chains, manufacturing, and logistics due to potential sanctions and military actions.",
+      "summary": "The Brics leaders expressed concerns over escalating tensions in the Middle East and the implications of unilateral sanctions, particularly affecting Iran. This situation poses risks to global supply chains, especially in energy and logistics sectors.",
+      "title": "Brics leaders voice concern over Middle East and condemn unilateral sanctions",
+      "url": "https://www.yorkpress.co.uk/news/national/26545020.brics-leaders-voice-concern-middle-east-condemn-unilateral-sanctions/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Resurgence of RIC Axis and BRICS Influence",
+      "companies_involved": [
+        "Russia",
+        "India",
+        "China"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Arms",
+        "Trade"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy and arms may be affected by the geopolitical tensions between India, China, and Russia?",
+        "Which manufacturing or production relationships may be impacted by the evolving BRICS dynamics?",
+        "Which countries or regions create exposure for companies involved in trade with India, China, and Russia?",
+        "Which supply-chain dependencies could transmit disruptions stemming from the geopolitical tensions in South Asia?",
+        "Which downstream companies or operations may be exposed to changes in trade policies influenced by BRICS?"
+      ],
+      "reason": "The article discusses the geopolitical dynamics and potential trade implications of the BRICS summit, which could affect supply chains through changes in trade relationships and energy supplies among the involved countries.",
+      "summary": "The resurgence of the RIC axis and the influence of BRICS may lead to significant geopolitical shifts affecting trade and energy supply chains among India, China, and Russia. This could create both opportunities and risks for companies operating in these regions.",
+      "title": "BRICS New Delhi chapter and re - emergence of RIC axis despite inherent contradictions",
+      "url": "https://www.prokerala.com/news/articles/a1811624.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Middle East Conflict",
+      "companies_involved": [
+        "Saudi Arabia",
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Logistics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Russia",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies operate in the affected region?",
+        "Which manufacturing facilities depend on logistics routes through the Middle East?",
+        "Which countries or regions create exposure for companies operating in the Gulf?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East conflict?",
+        "Which downstream companies depend on energy supplies from the affected countries?"
+      ],
+      "reason": "The escalation of conflict in the Middle East, particularly involving Iran, Saudi Arabia, and the UAE, poses significant risks to energy supply chains, logistics, and trade routes, which can disrupt operations and sourcing for companies in these regions.",
+      "summary": "The BRICS group's call for restraint amid escalating tensions in the Middle East highlights potential geopolitical disruptions that could impact energy supply chains and logistics. Companies operating in or reliant on the Gulf region may face increased risks due to the ongoing conflict.",
+      "title": "ROUNDUP : Brics - Gruppe fordert maximale Zurückhaltung im Nahost - Konflikt",
+      "url": "https://www.finanzen.net/nachricht/aktien/roundup-brics-gruppe-fordert-maximale-zurueckhaltung-im-nahost-konflikt-15931542",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit and Energy Security Discussions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Finance",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Russia",
+        "China",
+        "India",
+        "Brazil",
+        "South Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the energy sector may be affected by the geopolitical decisions made at the BRICS summit?",
+        "Which manufacturing facilities in the BRICS countries depend on energy supplies that could be impacted by new policies?",
+        "Which countries are most exposed to changes in trade policies resulting from BRICS discussions?",
+        "Which supply-chain dependencies could be affected by the stance against unilateral sanctions?",
+        "Which downstream companies in the BRICS nations rely on energy imports that may be influenced by the summit outcomes?"
+      ],
+      "reason": "The discussions at the BRICS summit regarding energy security and geopolitical cooperation could lead to changes in trade policies and energy supply chains, impacting various industries and countries involved.",
+      "summary": "The BRICS summit highlights significant geopolitical discussions that may influence energy security and trade policies among member countries. This could lead to potential disruptions in supply chains related to energy and manufacturing sectors.",
+      "title": "Путин : БРИКС стал одним из главных центров глобальных решений",
+      "url": "https://tvzvezda.ru/news/20269121622-ZAMQD.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran's Call for BRICS Secretariat Formation",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Trade",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Iran",
+        "India",
+        "BRICS member countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by geopolitical tensions involving BRICS countries?",
+        "Which manufacturing or production relationships may be impacted by changes in BRICS cooperation?",
+        "Which countries or regions create exposure due to sanctions or geopolitical shifts?",
+        "Which supply-chain dependencies could transmit disruptions from BRICS member countries?",
+        "Which downstream companies may be exposed to changes in trade policies among BRICS nations?"
+      ],
+      "reason": "The call for a permanent BRICS secretariat and the rejection of unilateral sanctions could lead to shifts in trade policies and geopolitical relations, impacting supply chains across member countries, particularly in energy and technology sectors.",
+      "summary": "Iran's President has urged BRICS nations to form a permanent secretariat to enhance cooperation and reject unilateral sanctions. This geopolitical move could influence trade and supply chain dynamics among BRICS member countries.",
+      "title": "Iran dorong BRICS bentuk sekretariat permanen tingkatkan efektivitas",
+      "url": "https://www.antaranews.com/berita/5738184/iran-dorong-brics-bentuk-sekretariat-permanen-tingkatkan-efektivitas",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS countries' response to US sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Food Security",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Iran",
+        "India",
+        "BRICS countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the energy sector may be affected by geopolitical tensions?",
+        "Which countries are most impacted by the sanctions imposed on Iran?",
+        "Which manufacturing relationships in the technology sector could be disrupted due to these geopolitical events?",
+        "Which downstream companies rely on food security initiatives in the affected regions?",
+        "What supply-chain dependencies exist between BRICS countries and those under US sanctions?"
+      ],
+      "reason": "The article discusses the geopolitical implications of US sanctions on Iran and the BRICS countries' response, which could impact trade, energy supply, and international relations, thereby affecting supply chains.",
+      "summary": "The article highlights the challenges posed by US sanctions on Iran and the BRICS countries' commitment to addressing these issues. This geopolitical situation has the potential to disrupt supply chains, particularly in energy and food security sectors.",
+      "title": "Pezeşkiyan ; İnsanlık dışı yaptırımlarla mücadele BRICS ülkelerinin önceliğidir",
+      "url": "https://www.haksozhaber.net/pezeskiyan-insanlik-disi-yaptirimlarla-mucadele-brics-ulkelerinin-onceligidir-260477h.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS New Delhi Declaration on Trade and Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India",
+        "Russia",
+        "China",
+        "Brazil",
+        "South Africa",
+        "Iran",
+        "UAE",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the sanctions mentioned in the BRICS declaration?",
+        "Which countries or regions create exposure due to the geopolitical tensions highlighted in the declaration?",
+        "Which companies in the finance industry may be impacted by changes in international trade policies?",
+        "Which downstream companies depend on trade relationships with BRICS nations?",
+        "What manufacturing or production relationships may be affected by the call for reforms in global institutions?"
+      ],
+      "reason": "The BRICS declaration addresses unilateral economic sanctions and trade policies that could significantly impact international trade and supply chains among member countries, creating potential disruptions in logistics and sourcing.",
+      "summary": "The BRICS Summit's New Delhi Declaration emphasizes the need for cooperation among member countries while condemning unilateral sanctions that could disrupt international trade. This geopolitical event has implications for supply chains, particularly in the context of trade policies and economic relations among the involved nations.",
+      "title": "On Day 1 , BRICS unanimously adopts New Delhi Declaration",
+      "url": "https://www.siasat.com/brics-adopts-new-delhi-declaration-amid-conflicts-tariff-rows-3541014/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Call for Restraint in the Middle East",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by increased tensions in the Middle East?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions involving Iran and the UAE?",
+        "Which countries or regions create exposure due to sanctions or trade restrictions?",
+        "Which supply-chain dependencies could transmit disruptions from the Middle East conflict?",
+        "Which downstream companies may be exposed to trade disruptions resulting from geopolitical tensions?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East and their potential impact on trade and energy supply, which can disrupt supply chains.",
+      "summary": "BRICS countries have called for restraint in the Middle East amid rising tensions, expressing concerns over the impact of geopolitical conflicts on trade and energy. This situation could lead to disruptions in supply chains, particularly affecting countries involved in the conflict.",
+      "title": "BRICS ülkelerinden Orta Doğuda  azami itidal  çağrısı",
+      "url": "https://www.haberler.com/politika/brics-ulkelerinden-orta-dogu-da-azami-itidal-20231453-haberi/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Concerns Over Middle East Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics",
+        "Maritime"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "China",
+        "India",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by sanctions related to the Middle East tensions?",
+        "Which energy companies have operations in the affected regions?",
+        "Which logistics providers are impacted by potential disruptions in maritime trade due to the conflict?",
+        "Which countries or regions create exposure for companies involved in trade with Iran or affected by sanctions?",
+        "Which downstream companies depend on energy supplies from the Middle East?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East and the implications of sanctions, which can disrupt trade, energy supply, and logistics operations, thereby affecting global supply chains.",
+      "summary": "The BRICS summit highlighted concerns over rising tensions in the Middle East and the impact of unilateral sanctions, which could disrupt energy supplies and logistics. The geopolitical landscape poses risks to supply chains, particularly for countries and companies involved in trade with the affected regions.",
+      "title": "BRICS leaders voice concern over Middle East , condemn unilateral sanctions at India summit",
+      "url": "http://www.idahopress.com/news/world/brics-leaders-voice-concern-over-middle-east-condemn-unilateral-sanctions-at-india-summit/article_9e497bdd-d9a2-5843-b47f-77a2d11b5ad9.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Rising tensions in the Middle East and sanctions concerns",
+      "companies_involved": [
+        "Iranian companies",
+        "Russian companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Russia",
+        "United States",
+        "Israel",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Iranian companies may be affected by sanctions?",
+        "Which manufacturing facilities in Russia depend on trade with Iran?",
+        "Which countries are most impacted by the geopolitical tensions in the Middle East?",
+        "Which supply-chain dependencies could be disrupted by sanctions against Iran?",
+        "Which downstream companies rely on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses rising geopolitical tensions and the potential for sanctions, which can directly impact trade, energy supply, and logistics in the affected regions.",
+      "summary": "The Brics leaders' meeting highlights concerns over geopolitical tensions in the Middle East and the implications of unilateral sanctions. This situation poses risks to supply chains, particularly in energy and logistics, affecting countries like Iran and Russia.",
+      "title": "Brics leaders voice concern over Middle East and condemn unilateral sanctions",
+      "url": "https://www.oxfordmail.co.uk/news/national/26545020.brics-leaders-voice-concern-middle-east-condemn-unilateral-sanctions/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India-Malaysia Semiconductor Cooperation",
+      "companies_involved": [
+        "International Holding Company"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Aluminium"
+      ],
+      "countries_involved": [
+        "India",
+        "UAE",
+        "Malaysia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of International Holding Company operate in India or Malaysia?",
+        "Which manufacturing facilities in the semiconductor industry may be affected by this cooperation?",
+        "What are the potential impacts on trade routes between India and Malaysia?",
+        "Which supply-chain dependencies exist between the semiconductor sectors of India and Malaysia?",
+        "Which downstream companies in the semiconductor industry may be exposed to changes in this geopolitical cooperation?"
+      ],
+      "reason": "The discussions between India and Malaysia regarding semiconductor cooperation and the investment in an aluminium project indicate potential changes in supply chain dynamics, particularly in the semiconductor and aluminium industries, which could affect production and trade.",
+      "summary": "The article highlights discussions between India and Malaysia on enhancing cooperation in the semiconductor sector, alongside a significant investment by the UAE in an aluminium project in India. This geopolitical engagement may influence supply chain activities in both countries, particularly in manufacturing and trade.",
+      "title": "PM Modi , UAE Crown Prince discuss new sovereign fund LImad , strategic cooperation ; Malaysia ties reviewed",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modi-uae-crown-prince-discuss-new-sovereign-fund-limad-strategic-cooperation-malaysia-ties-reviewed/articleshow/134148366.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Call for Lifting Sanctions on Cuba",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "United States",
+        "BRICS countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the sanctions on Cuba?",
+        "Which energy companies are impacted by the restrictions on oil imports to Cuba?",
+        "Which countries or regions create exposure for companies trading with Cuba?",
+        "Which supply-chain dependencies could transmit the disruption due to the sanctions?",
+        "Which downstream companies depend on products or resources from Cuba?"
+      ],
+      "reason": "The call for lifting economic and trade sanctions against Cuba indicates potential changes in trade policies that could affect supply chains, particularly in energy and trade sectors.",
+      "summary": "The BRICS leaders have called for the lifting of economic and trade sanctions against Cuba, highlighting concerns over the impact of these sanctions on Cuba's economy and energy supply. This geopolitical event could lead to significant changes in trade relationships and supply chain dynamics involving Cuba.",
+      "title": "Pemimpin BRICS serukan pencabutan sanksi ekonomi dan perdagangan Kuba",
+      "url": "https://www.antaranews.com/berita/5738164/pemimpin-brics-serukan-pencabutan-sanksi-ekonomi-dan-perdagangan-kuba",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "BRICS Summit Discussion on UN Security Council Reform",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Russia",
+        "India",
+        "Kazakhstan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical discussions and calls for reform of the UN Security Council, but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article covers Vladimir Putin's call for the expansion of the UN Security Council to include countries from the Global South during the BRICS summit. It highlights geopolitical tensions and discussions on sanctions but does not indicate any immediate supply chain disruptions.",
+      "title": "Владимир Путин призвал к расширению состава Совбеза ООН за счет стран глобального Юга",
+      "url": "https://expert.ru/news/vladimir-putin-prizval-k-rasshireniyu-sostava-sovbeza-oon-za-schet-stran-globalnogo-yuga",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Summit Geopolitical Tensions",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Russia",
+        "Iran",
+        "Egypt",
+        "United Arab Emirates",
+        "Saudi Arabia",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by geopolitical tensions in the BRICS countries?",
+        "Which manufacturing or production relationships may be impacted by the outcomes of the BRICS summit?",
+        "Which countries or regions create exposure due to the geopolitical discussions at the BRICS summit?",
+        "Which supply-chain dependencies could transmit disruptions stemming from the BRICS summit?",
+        "Which downstream companies or operations may be exposed to changes in trade policies resulting from the BRICS summit?"
+      ],
+      "reason": "The BRICS summit involves discussions on geopolitical tensions and sanctions, which could impact trade and supply chain activities among member countries.",
+      "summary": "The BRICS summit highlights geopolitical tensions and calls for cooperation among member nations, which could lead to potential disruptions in trade and supply chains. The discussions on sanctions and international cooperation may affect various industries and countries involved.",
+      "title": "BRICS Zirvesinde  sorumluluk  mesajı - Son Dakika Haberleri Milliyet",
+      "url": "https://www.milliyet.com.tr/dunya/brics-zirvesinde-sorumluluk-mesaji-7659244",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "BRICS Declaration on Middle East Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Russia",
+        "China",
+        "India",
+        "Brazil",
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Indonesia",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the geopolitical tensions in the Middle East?",
+        "Which manufacturing or production relationships may be impacted by sanctions against Iran and Russia?",
+        "Which countries or regions create exposure due to the ongoing conflicts?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East to other regions?",
+        "Which downstream companies may be exposed to trade restrictions resulting from the BRICS declaration?"
+      ],
+      "reason": "The declaration highlights concerns over escalating tensions and unilateral trade measures, which can disrupt trade flows and supply chains, particularly in energy and commodities.",
+      "summary": "The BRICS nations have expressed deep concern over the escalating tensions in the Middle East, particularly regarding the impacts of U.S. sanctions on Iran and Russia. This geopolitical situation poses potential risks to global trade and supply chains, especially in the energy sector.",
+      "title": "Putinov i Xijev savez donio deklaraciju o situaciji na Bliskom istoku",
+      "url": "https://www.index.hr/vijesti/clanak/putinov-i-xijev-savez-donio-deklaraciju-o-situaciji-na-bliskom-istoku/2833741.aspx",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of tensions in the Middle East",
+      "companies_involved": [
+        "U.S. companies",
+        "Iranian companies",
+        "Russian companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Russia",
+        "China",
+        "Brazil",
+        "India",
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Indonesia",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. companies operate in the affected region?",
+        "Which manufacturing facilities depend on trade with Iran or Russia?",
+        "What are the potential impacts on energy supply chains due to geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in BRICS?",
+        "Which downstream companies depend on products from suppliers in the affected countries?"
+      ],
+      "reason": "The article discusses escalating geopolitical tensions in the Middle East, which could lead to disruptions in trade and energy supply chains, particularly affecting countries involved in BRICS and their economic relationships.",
+      "summary": "The BRICS nations have expressed deep concern over escalating tensions in the Middle East, particularly between the U.S. and Iran. This situation poses potential risks to global supply chains, especially in energy and trade sectors.",
+      "title": "BRICS poziva na  maksimalnu suzdržanost  na Bliskom istoku",
+      "url": "https://www.24sata.hr/news/brics-poziva-na-maksimalnu-suzdrzanost-na-bliskom-istoku-1153774",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of tensions in the Middle East",
+      "companies_involved": [
+        "U.S. companies",
+        "Iranian companies",
+        "Russian companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Russia",
+        "India",
+        "China",
+        "Brazil",
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Indonesia",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. companies may be affected by sanctions against Iran?",
+        "Which manufacturing facilities in Iran are at risk due to geopolitical tensions?",
+        "Which countries are most impacted by the escalation of tensions in the Middle East?",
+        "What supply-chain dependencies exist between U.S. and Iranian companies?",
+        "Which downstream companies rely on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East, which can lead to trade disruptions, sanctions, and impacts on energy supply chains, thus affecting various industries and companies involved in international trade and energy.",
+      "summary": "The BRICS declaration highlights concerns over escalating tensions in the Middle East, particularly between the U.S. and Iran. This geopolitical situation poses risks to trade and energy supply chains, potentially impacting multiple countries and industries.",
+      "title": "BRICS u deklaraciji poziva na  maksimalnu suzdržanost  na Bliskom istoku",
+      "url": "https://www.novilist.hr/novosti/svijet/brics-u-deklaraciji-poziva-na-maksimalnu-suzdrzanost-na-bliskom-istoku/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260912T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Middle East Conflict",
+      "companies_involved": [
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Iran"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Logistics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Iran",
+        "Russia",
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies in Saudi Arabia and the UAE may be affected by the conflict?",
+        "Which manufacturing facilities in the region depend on stable geopolitical conditions?",
+        "What logistics routes are impacted by the escalation of tensions in the Middle East?",
+        "Which countries or regions create exposure for companies operating in the affected areas?",
+        "Which downstream companies rely on energy supplies from the affected countries?"
+      ],
+      "reason": "The article discusses the escalation of conflict in the Middle East, which can significantly impact energy supply chains, logistics, and trade routes, particularly for countries like Saudi Arabia and the UAE that are directly involved.",
+      "summary": "The BRICS group has expressed concern over the escalating conflict in the Middle East, particularly involving Iran, Saudi Arabia, and the UAE. This geopolitical tension poses risks to energy supply chains and logistics operations in the region.",
+      "title": "ROUNDUP : Brics - Gruppe fordert maximale Zurückhaltung im Nahost - Konflikt",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69562920-roundup-brics-gruppe-fordert-maximale-zurueckhaltung-im-nahost-konflikt-016.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260913T081500Z"
     }
   ]
 }
