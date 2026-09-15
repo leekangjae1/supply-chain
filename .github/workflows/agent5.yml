@@ -20,21 +20,54 @@ jobs:
         uses: actions/checkout@v4
 
       # ==========================================
-      # 2. Agent 2 결과 다운로드
+      # 2. Agent 2의 최신 성공 실행 찾기
       # ==========================================
-      - name: Download Agent 2 result
-        uses: actions/download-artifact@v4
-        with:
-          name: agent2-results
-          path: data
+      - name: Find latest Agent 2 run
+        id: agent2_run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "===== Finding latest Agent 2 run ====="
+
+          RUN_ID=$(gh run list \
+            --workflow "agent2.yml" \
+            --status success \
+            --limit 1 \
+            --json databaseId \
+            --jq '.[0].databaseId')
+
+          if [ -z "$RUN_ID" ]; then
+            echo "ERROR: No successful Agent 2 workflow found."
+            exit 1
+          fi
+
+          echo "Agent 2 Run ID: $RUN_ID"
+
+          echo "run_id=$RUN_ID" >> "$GITHUB_OUTPUT"
 
       # ==========================================
-      # 3. Agent 2 결과 확인
+      # 3. Agent 2 Artifact 다운로드
+      # ==========================================
+      - name: Download Agent 2 result
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "===== Downloading Agent 2 result ====="
+
+          mkdir -p data
+
+          gh run download \
+            ${{ steps.agent2_run.outputs.run_id }} \
+            --name agent2-results \
+            --dir data
+
+      # ==========================================
+      # 4. Agent 2 결과 확인
       # ==========================================
       - name: Check Agent 2 result
         run: |
           echo "===== Agent 2 result ====="
-          echo "Current directory:"
+
           pwd
 
           echo "===== data directory ====="
@@ -48,7 +81,7 @@ jobs:
           fi
 
       # ==========================================
-      # 4. Agent 5 입력 파일 준비
+      # 5. Agent 5 입력 파일 준비
       # ==========================================
       - name: Prepare Agent 5 input
         run: |
@@ -58,7 +91,7 @@ jobs:
           ls -lh data/agent2_kg.json
 
       # ==========================================
-      # 5. Python 설정
+      # 6. Python 설정
       # ==========================================
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -66,7 +99,7 @@ jobs:
           python-version: "3.11"
 
       # ==========================================
-      # 6. 패키지 설치
+      # 7. 패키지 설치
       # ==========================================
       - name: Install dependencies
         run: |
@@ -74,22 +107,29 @@ jobs:
           pip install -r requirements.txt
 
       # ==========================================
-      # 7. Agent 5 실행
+      # 8. Agent 5 실행
       # ==========================================
       - name: Run Agent 5
         run: |
           python agents/agent5_risk_score.py
 
       # ==========================================
-      # 8. Agent 5 결과 확인
+      # 9. Agent 5 결과 확인
       # ==========================================
       - name: Check Agent 5 result
         run: |
           echo "===== Agent 5 result ====="
           ls -lah data/
 
+          if [ -f "data/agent5_risk_assessment.json" ]; then
+            echo "SUCCESS: Agent 5 result exists."
+          else
+            echo "ERROR: Agent 5 result does not exist."
+            exit 1
+          fi
+
       # ==========================================
-      # 9. 결과 업로드
+      # 10. 결과 업로드
       # ==========================================
       - name: Upload Agent 5 result
         uses: actions/upload-artifact@v4
