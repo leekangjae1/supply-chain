@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T18:47:47Z",
-  "total_count": 2138,
+  "updated_at": "2026-09-15T23:04:42Z",
+  "total_count": 2180,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -58407,6 +58407,1061 @@
       "gdelt_country": "Germany",
       "gdelt_keyword": "strike",
       "published_at": "20260913T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake Preparedness in Chiayi",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential earthquakes in the Chiayi region?",
+        "Which manufacturing or production relationships may be impacted by natural disasters in Taiwan?",
+        "Which countries or regions create exposure for companies operating near active fault lines?",
+        "Which supply-chain dependencies could transmit disruptions from natural disasters in Taiwan?",
+        "Which downstream companies or operations may be exposed to risks from earthquakes in the affected area?"
+      ],
+      "reason": "The article discusses earthquake preparedness in a region with active fault lines, indicating potential risks to supply chain operations due to natural disasters.",
+      "summary": "The article highlights the need for preparedness against earthquakes in Chiayi, Taiwan, due to its proximity to active fault lines. This poses potential risks to supply chain activities in the region.",
+      "title": "嘉義鄰近5大活動斷層 ！ 黃敏惠開箱避難包籲 「 震前有準備 」 ",
+      "url": "https://n.yam.com/Article/20260913517991",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20260913T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Héctor Méndez's return to Ground Zero",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily focuses on a personal story and does not provide any information related to supply chain activities, disruptions, or impacts on logistics, production, or trade.",
+      "summary": "The article recounts the return of Héctor Méndez to Ground Zero, reflecting on his past experiences as a rescuer. It does not indicate any supply chain disruptions or impacts on related industries or companies.",
+      "title": "recuerda héctor - Noticias de San Luis Potosí",
+      "url": "https://sanluispotosi.quadratin.com.mx/mundo/recuerda-hector-mendez-el-9-11-5-dias-sin-dormir-en-la-zona-cero/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20260913T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nuclear Safety Exercise with Drone Delivery",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide medical supplies that could be affected by nuclear safety operations?",
+        "Which logistics companies are involved in the transportation of medical supplies in the affected region?",
+        "What are the potential impacts on healthcare operations in the event of a nuclear disaster?",
+        "Which downstream healthcare facilities depend on the logistics services provided during the exercise?"
+      ],
+      "reason": "The article discusses a nuclear safety exercise involving drone delivery of medical supplies, which indicates a potential operational disruption in logistics and healthcare supply chains in the event of a nuclear incident.",
+      "summary": "The article highlights a nuclear safety exercise in Keelung, Taiwan, where drones were used to deliver medical supplies. This operation could impact logistics and healthcare supply chains in the region, particularly in the context of emergency response to nuclear incidents.",
+      "title": "基隆核安演習首度無人機送藥 海陸空協力運補驗證核災應變",
+      "url": "https://n.yam.com/Article/20260913268990",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20260913T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Colombian Earthquake Response",
+      "companies_involved": [],
+      "industries_involved": [
+        "Emergency Services",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Colombia",
+        "Venezuela"
+      ],
+      "risk_exposure_questions": [
+        "Which emergency service providers are involved in the response to the earthquake?",
+        "Which logistics companies are responsible for transporting rescue teams and supplies to the affected areas?",
+        "Which suppliers of emergency equipment are located in the affected regions?",
+        "Which countries may provide additional support or resources in response to the disaster?",
+        "Which downstream operations depend on the logistics of emergency response in Colombia and Venezuela?"
+      ],
+      "reason": "The article discusses the response to a significant earthquake in Colombia, which has direct implications for emergency services and logistics operations in the region, thus representing a supply chain disruption.",
+      "summary": "The article highlights the response efforts to a recent earthquake in Colombia, led by emergency services and rescue teams. This situation creates potential disruptions in logistics and emergency supply chains as resources are mobilized to assist affected areas.",
+      "title": "Silvia Ballén , la voz serena que salva vidas",
+      "url": "https://elpais.com/america-colombia/branded/los-lideres-de-colombia/2026-09-13/silvia-ballen-la-voz-serena-que-salva-vidas.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20260913T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "N/A",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses the crowdfunding platform Vaki and its impact on social causes, without any direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights Nicolás Contreras and the crowdfunding platform Vaki, which has successfully raised funds for various social projects. However, it does not present any information that indicates a supply chain disruption.",
+      "title": "Nicolás Contreras , el hombre que le ense a Colombia a hacer  vaca  por internet | Nuevos líderes de Colombia",
+      "url": "https://elpais.com/america-colombia/branded/los-lideres-de-colombia/2026-09-13/nicolas-contreras-el-hombre-que-le-enseno-a-colombia-a-hacer-vaca-por-internet.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20260913T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on an interview with Alain Vigneau discussing personal and social themes related to laughter and human connection, with no mention of supply chain activities or disruptions.",
+      "summary": "The article features an interview with actor Alain Vigneau about the therapeutic effects of laughter and personal experiences. It does not relate to any supply chain disruptions or activities.",
+      "title": "  La risa compartida resucita el tejido social destruido : Alain Vigneau , actor y pedagogo francés",
+      "url": "https://www.eltiempo.com/cultura/gente/la-risa-compartida-resucita-el-tejido-social-destruido-alain-vigneau-actor-y-pedagogo-frances-3585374",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20260913T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Rescinding the Roadless Rule",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the potential environmental and regulatory impacts of rescinding the Roadless Rule, but it does not directly connect to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article expresses concerns about the potential rescinding of the Roadless Rule and its implications for public lands in New Mexico. However, it does not present a direct supply chain disruption related to suppliers, manufacturing, or logistics.",
+      "title": "OPINION : Rescinding the Roadless Rule would put NM public lands at risk",
+      "url": "https://www.abqjournal.com/opinion/opinion-rescinding-the-roadless-rule-would-put-nm-public-lands-at-risk/3118033",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20260913T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Air Quality Monitoring",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses air quality conditions and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the air quality in Saltillo, Mexico, indicating it is acceptable for outdoor activities. There are no connections to supply chain disruptions or impacts on industries or companies.",
+      "title": "Calidad del aire hoy 12 de septiembre a las 21 : 00 horas es buena para realizar actividades – Periódico Zócalo | Noticias de Saltillo , Torreón , Piedras Negras , Monclova , Acuña",
+      "url": "https://www.zocalo.com.mx/calidad-del-aire-hoy-12-de-septiembre-a-las-2100-horas-es-buena-para-realizar-actividades/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20260913T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Investigation of Epstein Ranch Management",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "New Zealand"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses interviews related to a state investigation into Jeffrey Epstein's activities and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details interviews with former managers of Jeffrey Epstein's ranch as part of a state investigation. It does not present any information that would indicate a supply chain disruption.",
+      "title": "In 2023 interview with state investigators , Epstein ranch managers deny seeing wrongdoing",
+      "url": "https://www.santafenewmexican.com/news/epstein/in-2023-interview-with-state-investigators-epstein-ranch-managers-deny-seeing-wrongdoing/article_daf6971e-1cae-4179-8f83-e5ca46951f49.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20260913T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural and social commentary on Acapulco",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses social and cultural issues in Acapulco without any direct connection to supply chain activities such as logistics, production, or trade.",
+      "summary": "The article provides a cultural and social critique of Acapulco, highlighting the disparities between tourists and local residents. It does not present any information that indicates a supply chain disruption.",
+      "title": "  Acapulco es un paraíso a costa de la gente que vive en las periferias : Brenda Ríos",
+      "url": "https://www.eluniversal.com.mx/cultura/confabulario/acapulco-es-un-paraiso-a-costa-de-la-gente-que-vive-en-las-periferias-brenda-rios/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Rising Cost of Living",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses personal experiences related to rising costs and economic frustrations but does not provide a direct connection to supply chain activities or disruptions.",
+      "summary": "The article focuses on an individual's perspective regarding the rising cost of living and economic dissatisfaction. It does not indicate any specific supply chain disruption or impact on supply chain activities.",
+      "title": "He raged against the American Dream . His audience wanted more . ",
+      "url": "https://www.texarkanagazette.com/news/2026/sep/12/he-raged-against-the-american-dream-his-audience/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20260912T233000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Tropical Depression Approaching Central Vietnam",
+      "companies_involved": [
+        "Công ty TNHH MTV Thông tin điện tử Hàng hải Việt Nam"
+      ],
+      "industries_involved": [
+        "Maritime",
+        "Construction",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of maritime companies operate in the affected region?",
+        "Which transportation routes may be impacted by flooding or landslides?",
+        "Which construction projects are located in the areas at risk of severe weather?",
+        "Which downstream companies depend on maritime logistics in the affected areas?",
+        "What contingency plans do companies have for operations during severe weather events?"
+      ],
+      "reason": "The article discusses a tropical depression that poses risks to maritime operations, transportation, and construction activities in Central Vietnam, indicating potential disruptions in supply chain activities.",
+      "summary": "A tropical depression is approaching Central Vietnam, prompting the Ministry of Construction to direct local authorities to prepare for severe weather impacts. This situation may disrupt maritime and transportation operations, affecting supply chains in the region.",
+      "title": "Áp thấp nhiệt đới áp sát miền Trung , Bộ Xây dựng chỉ đạo  nóng  ",
+      "url": "https://baomoi.com/ap-thap-nhiet-doi-ap-sat-mien-trung-bo-xay-dung-chi-dao-nong-c56039603.epi",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Establishment of Weekend Urgent Care Centers",
+      "companies_involved": [],
+      "industries_involved": [
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the establishment of urgent care centers to alleviate congestion in emergency departments, which does not directly impact supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines plans by Taiwan's Ministry of Health to establish weekend urgent care centers to reduce emergency room congestion at National Taiwan University Hospital. This initiative is focused on healthcare service delivery and does not indicate a supply chain disruption.",
+      "title": "台大醫院盼 「 華山市場UCC 」 緩解急診壅塞 擬開平日服務 | ETtoday健康雲",
+      "url": "https://health.ettoday.net/news/3236560",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Community Support for Orphaned Children",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a charitable event and the construction of a home for orphaned children, which does not have a meaningful connection to supply chain activities.",
+      "summary": "The article highlights a charitable initiative that resulted in the construction of a new home for four orphaned children in Lâm Đồng, Vietnam. It discusses community support and fundraising efforts but does not relate to supply chain disruptions.",
+      "title": "Từ nhà kho lụp xụp đến mái ấm mơ ước của 4 chị em ở Lâm Đồng",
+      "url": "https://dantri.com.vn/tam-long-nhan-ai/tu-nha-kho-lup-xup-den-mai-am-mo-uoc-cua-4-chi-em-o-lam-dong-20260912223609122.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Tropical Depression Response",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which construction projects in Vietnam may be affected by the tropical depression?",
+        "Which logistics operations are vulnerable to disruptions due to the weather conditions?",
+        "Which suppliers of construction materials may face delays due to the storm?",
+        "Which regions in Vietnam are most exposed to the impacts of the tropical depression?",
+        "Which downstream companies rely on construction activities in the affected areas?"
+      ],
+      "reason": "The article discusses a tropical depression that could impact construction and logistics operations in Vietnam, indicating potential disruptions in supply chain activities related to these sectors.",
+      "summary": "The Vietnamese Ministry of Construction has called for proactive measures in response to a tropical depression in the South China Sea. This weather event poses risks to construction and logistics operations in the region, potentially disrupting supply chains.",
+      "title": "Bộ Xây dựng yêu cầu chủ động ứng phó áp thấp nhiệt đới trên Biển Đông",
+      "url": "https://baomoi.com/bo-xay-dung-yeu-cau-chu-dong-ung-pho-ap-thap-nhiet-doi-tren-bien-dong-c56039581.epi",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Popularity of Puning Tofu",
+      "companies_involved": [],
+      "industries_involved": [
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "China",
+        "Vietnam",
+        "Thailand",
+        "Singapore"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the popularity and cultural significance of Puning Tofu but does not indicate any disruptions in supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the cultural significance and popularity of Puning Tofu in various regions, including Southeast Asia. However, it does not present any information that indicates a supply chain disruption.",
+      "title": "潮汕特色小吃  普宁豆干  圈粉海内外宾客 - 中新网",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-13/10695565.shtml",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "AI Chip Material Development Collaboration",
+      "companies_involved": [
+        "Qnity",
+        "NVIDIA",
+        "長興",
+        "新應材",
+        "台光電",
+        "中砂"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Qnity are involved in the development of AI chip materials?",
+        "Which manufacturing facilities are affected by the new material specifications for AI chips?",
+        "Which countries supply raw materials for semiconductor manufacturing that may be impacted?",
+        "What dependencies exist between Qnity and NVIDIA regarding material development?",
+        "Which downstream companies rely on the new AI chip materials being developed?"
+      ],
+      "reason": "The article discusses the collaboration between Qnity and NVIDIA on AI chip materials, which indicates a significant shift in semiconductor manufacturing processes and could impact supply chain dynamics in the semiconductor industry.",
+      "summary": "The article highlights a collaboration between Qnity and NVIDIA aimed at developing advanced materials for AI chips, indicating potential changes in semiconductor supply chains. This collaboration may affect suppliers, manufacturing processes, and the overall semiconductor industry in Taiwan.",
+      "title": "算力瓶頸有解 ？ 晶片與材料共同設計玩真的 | 雜誌",
+      "url": "https://udn.com/news/story/6848/9746744",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Tropical Depression Impacting Central Vietnam",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which construction projects in Central Vietnam may be delayed due to the tropical depression?",
+        "Which logistics companies operate in the affected region and may face disruptions?",
+        "What suppliers of construction materials are located in the impacted areas?",
+        "Which downstream operations depend on the timely delivery of materials from the affected region?"
+      ],
+      "reason": "The article discusses a tropical depression that is expected to make landfall in Central Vietnam, which could disrupt construction and logistics operations in the area.",
+      "summary": "A tropical depression is approaching Central Vietnam, potentially impacting construction and logistics operations. This weather event may cause delays and disruptions in supply chains related to these industries.",
+      "title": "Chân dung tiền vệ Việt kiều của SHB Đà Nẵng vừa xé lưới Thép xanh Nam Định",
+      "url": "https://danviet.vn/chan-dung-tien-ve-viet-kieu-cua-shb-da-nang-vua-xe-luoi-thep-xanh-nam-dinh-d1458959.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "N/A",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses agricultural achievements and does not present any information related to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article highlights the accomplishments of Vietnamese farmers and agricultural initiatives but does not indicate any supply chain disruptions or risks.",
+      "title": "Nông dân Việt Nam xuất sắc 40 năm Đổi mới ở Lào Cai , gần 30 năm ăn  và giữ những giống hồng cổ",
+      "url": "https://danviet.vn/nong-dan-viet-nam-xuat-sac-40-nam-doi-moi-o-lao-cai-gan-30-nam-san-va-giu-nhung-giong-hong-co-d1458222.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses cultural and social events, along with some political updates, without any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article does not present any information related to supply chain disruptions. It focuses on cultural events and political updates without implications for supply chain activities.",
+      "title": "Hành trình trở thành gương điển hình sản xuất kinh doanh giỏi của nông dân Hoàng Thị Tuyết",
+      "url": "https://danviet.vn/hanh-trinh-tro-thanh-guong-dien-hinh-san-xuat-kinh-doanh-gioi-cua-nong-dan-hoang-thi-tuyet-d1458979.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Tropical Depression Impacting Hainan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Tourism",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "China",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which transportation companies operate in Hainan and may be affected by road closures?",
+        "Which agricultural suppliers in Hainan could face disruptions due to flooding?",
+        "Which tourism companies rely on access to the affected areas in Hainan?",
+        "What logistics operations are dependent on the transportation routes impacted by the storm?",
+        "Which downstream companies depend on products from suppliers in the affected regions?"
+      ],
+      "reason": "The article describes severe weather conditions due to a tropical depression, leading to significant rainfall and flooding in Hainan, which can disrupt transportation, agriculture, and tourism operations in the region.",
+      "summary": "Hainan is expected to experience heavy rainfall and strong winds due to a tropical depression, leading to potential disruptions in transportation and agriculture. The severe weather may impact logistics and tourism operations in the affected areas.",
+      "title": "受南海热带低压影响 ， 海南未来三天强降雨将持续 - 南海网",
+      "url": "https://www.hinews.cn/page?n=2842094&m=1&s=1044",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Gia Lai Province",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products are located in the affected region?",
+        "Which logistics companies operate in the flooded areas?",
+        "What impact does the flooding have on transportation routes for agricultural goods?",
+        "Which downstream companies depend on agricultural products from the affected region?"
+      ],
+      "reason": "The flooding in Gia Lai Province poses a risk to agricultural production and logistics operations, potentially disrupting supply chains in these sectors.",
+      "summary": "Severe flooding in Gia Lai Province, Vietnam, has led to the evacuation of residents and the mobilization of local authorities to ensure safety. This natural disaster could disrupt agricultural production and logistics in the region, impacting supply chains.",
+      "title": "  Diễn đàn Bộ Công an - T . Ư Hội ND Việt Nam lắng nghe Nông dân nói : Từ giúp dân trong mưa lũ đến giữ bình yên xóm làng",
+      "url": "https://danviet.vn/dien-dan-bo-cong-an-tu-hoi-nd-viet-nam-lang-nghe-nong-dan-noi-tu-giup-dan-trong-mua-lu-den-giu-binh-yen-xom-lang-d1458800.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Tropical Depression Impacting Quang Tri and Hue",
+      "companies_involved": [],
+      "industries_involved": [
+        "Fishing",
+        "Transportation",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which fishing companies operate in the affected coastal regions?",
+        "Which transportation companies rely on routes through the impacted areas?",
+        "What tourism operators are affected by the weather conditions in Quang Tri and Hue?",
+        "Which suppliers of goods may be disrupted due to flooding and road closures?",
+        "Which downstream companies depend on the fishing and tourism industries in the affected regions?"
+      ],
+      "reason": "The article describes a tropical depression causing severe weather conditions that can disrupt fishing, transportation, and tourism activities in the affected regions, leading to potential supply chain impacts.",
+      "summary": "A tropical depression is impacting the coastal regions of Quang Tri and Hue in Vietnam, causing strong winds, high waves, and heavy rainfall. This weather event poses risks to fishing, transportation, and tourism operations, potentially disrupting supply chains in these sectors.",
+      "title": "Áp thấp nhiệt đới giữ cường độ , di chuyển nhanh trên vùng biển Quảng Trị - Huế",
+      "url": "https://baocantho.com.vn/ap-thap-nhiet-doi-giu-cuong-do-di-chuyen-nhanh-tren-vu-ng-bie-n-qua-ng-tri-hue-a215170.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flood Relief Support to Nepal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are located in the affected region of Nepal?",
+        "Which logistics companies are involved in the transportation of relief materials to Nepal?",
+        "Which downstream operations depend on the construction of the Bailey bridge in Nepal?",
+        "What are the potential impacts on suppliers of bridge components due to the ongoing humanitarian efforts?",
+        "Which countries or regions may be affected by similar natural disasters that could disrupt supply chains?"
+      ],
+      "reason": "The article discusses India's humanitarian support to Nepal following devastating floods, which directly impacts logistics and construction activities related to restoring infrastructure.",
+      "summary": "India is providing significant humanitarian assistance to Nepal in the wake of severe flooding, including the delivery of bridge components to restore connectivity. This event highlights the logistical and construction challenges posed by natural disasters and their impact on supply chains.",
+      "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
+      "url": "https://www.hindustantimes.com/world-news/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal-101789281861659.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flood Relief Support to Nepal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics",
+        "Humanitarian Aid"
+      ],
+      "countries_involved": [
+        "India",
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are located in the affected region of Nepal?",
+        "Which logistics companies are involved in the transportation of relief materials to Nepal?",
+        "Which humanitarian organizations are dependent on the timely delivery of supplies to the affected areas?",
+        "What are the potential impacts on construction projects in Nepal due to the ongoing flood recovery efforts?",
+        "Which downstream operations in India may be affected by the increased demand for construction materials for flood relief?"
+      ],
+      "reason": "The article discusses India's provision of bridge components and humanitarian aid to Nepal following devastating floods, indicating a direct connection to logistics and construction supply chains impacted by the natural disaster.",
+      "summary": "India is providing critical support to Nepal in the form of bridge components and humanitarian aid following severe flooding. This assistance is essential for restoring connectivity and addressing the immediate needs of the affected population.",
+      "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
+      "url": "https://www.thehindu.com/news/international/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal/article71462807.ece",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flood Relief Support to Nepal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are involved in the bridge assembly?",
+        "Which logistics companies are responsible for transporting the bridge components?",
+        "Which downstream operations in Nepal depend on the restored connectivity?",
+        "What are the potential impacts on suppliers of relief materials in the affected region?",
+        "Which companies are involved in the humanitarian support efforts in Nepal?"
+      ],
+      "reason": "The event involves the transportation of bridge components to aid recovery from a natural disaster, which directly impacts logistics and construction supply chains.",
+      "summary": "India is providing humanitarian support to Nepal by sending bridge components to restore connectivity in flood-affected areas. This assistance involves logistics and construction industries, highlighting the supply chain implications of natural disaster recovery efforts.",
+      "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
+      "url": "https://www.thehindubusinessline.com/news/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal/article71462785.ece",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flood Relief Support to Nepal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics",
+        "Humanitarian Aid"
+      ],
+      "countries_involved": [
+        "India",
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are located in the affected region of Nepal?",
+        "Which logistics companies are involved in the transportation of relief supplies to Nepal?",
+        "What are the dependencies of humanitarian aid organizations on suppliers in the region?",
+        "Which downstream operations may be affected by the ongoing flood recovery efforts in Nepal?"
+      ],
+      "reason": "The article discusses India's humanitarian support to Nepal following devastating floods, which impacts logistics and construction activities related to restoring infrastructure and connectivity.",
+      "summary": "India is providing significant humanitarian assistance to Nepal in the wake of severe flooding, including the delivery of bridge components to restore connectivity. This situation creates potential supply chain disruptions in construction and logistics sectors due to the ongoing recovery efforts.",
+      "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
+      "url": "https://economictimes.indiatimes.com/news/india/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal/articleshow/134186123.cms",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Moradabad",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which agricultural suppliers may be affected by the flooding in Moradabad?",
+        "Which downstream companies depend on crops produced in the affected region?",
+        "What is the impact on logistics for transporting agricultural products from the affected area?",
+        "Which regions supply agricultural inputs to the affected farmers?",
+        "How might the flooding affect the supply chain for mango production in India?"
+      ],
+      "reason": "The flooding in Moradabad has caused significant damage to agricultural land and crops, which directly impacts the supply chain for agricultural products and logistics in the region.",
+      "summary": "Severe flooding in Moradabad, India, has forced families to abandon homes and has caused extensive damage to agricultural land, particularly affecting mango orchards. This natural disaster poses a risk to the agricultural supply chain in the region, impacting production and logistics.",
+      "title": "  We have locked up our houses : Flooding forces families to abandon homes in Moradabad",
+      "url": "https://news.webindia123.com/news/Articles/India/20260913/4498091.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Katihar, Bihar",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Logistics",
+        "Construction"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products may be affected by the flooding in Katihar?",
+        "Which logistics companies operate in the affected region and may face disruptions?",
+        "Which construction projects in Bihar could be delayed due to the flooding?",
+        "Which downstream companies depend on agricultural products sourced from the affected area?",
+        "What is the impact on transportation routes due to the flooding in Katihar?"
+      ],
+      "reason": "The flooding in Katihar poses a risk to agricultural production, logistics operations, and construction activities in the region, which can disrupt supply chains.",
+      "summary": "The flooding in Katihar, Bihar, has led to local protests regarding inadequate relief measures. This natural disaster could significantly impact agricultural production and logistics in the area, potentially disrupting supply chains.",
+      "title": "Bihar : Flood - hit Katihar locals protest minister visit , allege lack of relief measures",
+      "url": "https://aninews.in/news/national/general-news/bihar-flood-hit-katihar-locals-protest-minister8217s-visit-allege-lack-of-relief-measures16020260913102113/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding and Dam Construction Issues in Feni",
+      "companies_involved": [
+        "Water Development Board"
+      ],
+      "industries_involved": [
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Bangladesh",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are located in the affected region?",
+        "Which agricultural producers may be impacted by flooding in the Feni area?",
+        "What logistics companies operate in the region that may be affected by infrastructure damage?",
+        "Which downstream agricultural operations depend on the affected farmers?",
+        "How might the construction delays impact supply chains reliant on the dam's completion?"
+      ],
+      "reason": "The article discusses the impact of flooding on local agriculture and the construction of a dam, which directly affects supply chain activities related to agriculture and construction logistics.",
+      "summary": "The article highlights significant flooding issues in Feni, Bangladesh, affecting local agriculture and raising concerns about the construction of a new dam. The potential delays and quality issues in the dam project could disrupt supply chains related to agriculture and construction in the region.",
+      "title": "১ , ৫৪২ কোটি টাকার বাঁধ , টিকবে কিনা সংশয়",
+      "url": "https://www.dailynayadiganta.com/printed-edition/DDiF5olprYAc",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Madhya Pradesh and Uttar Pradesh",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Retail"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Madhya Pradesh and Uttar Pradesh?",
+        "Which transportation routes are impacted by the flooding?",
+        "Which downstream companies rely on logistics services in the affected areas?",
+        "What manufacturing facilities are located near the flooded regions?",
+        "Which retail operations may face supply shortages due to the flooding?"
+      ],
+      "reason": "The flooding in Madhya Pradesh and Uttar Pradesh is causing significant disruptions to transportation and logistics, affecting the movement of goods and potentially leading to supply shortages.",
+      "summary": "Severe flooding in Madhya Pradesh and Uttar Pradesh is impacting logistics and transportation, affecting the supply chain operations in these regions. The situation poses risks to suppliers and downstream companies reliant on these logistics networks.",
+      "title": "Madhya Pradesh & Uttar Pradesh Flood Alert ; Mandakini River Level Rising",
+      "url": "https://divyamarathi.bhaskar.com/national/news/madhya-pradesh-uttar-pradesh-flood-alert-mandakini-river-overflow-139015061.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Nepal Flash Floods Impacting Hydropower Projects",
+      "companies_involved": [
+        "Chilime Hydropower Company",
+        "Upper Trishuli-3B Hydropower Project"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Nepal",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Chilime Hydropower Company operate in the affected region?",
+        "Which manufacturing facilities depend on energy supply from the affected hydropower projects?",
+        "Which downstream companies depend on electricity generated by the affected hydropower projects?",
+        "What are the logistics implications for transporting equipment to the affected hydropower sites?",
+        "Which regions are most vulnerable to similar natural disasters that could impact energy supply?"
+      ],
+      "reason": "The flash floods have caused significant damage to hydropower projects in Nepal, affecting energy production and potentially disrupting supply chains reliant on this energy source.",
+      "summary": "Flash floods in Nepal have severely impacted hydropower projects, trapping workers and damaging infrastructure. This natural disaster poses risks to energy supply and related supply chain activities in the region.",
+      "title": "Nepal flash floods : Rescue teams clear 70 metres of debris in tunnel as they close in on six trapped workers",
+      "url": "https://www.thehindu.com/news/international/nepal-flash-floods-rescue-teams-clear-70-metres-of-debris-in-tunnel-as-they-close-in-on-six-trapped-workers/article71462802.ece",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flash Floods in Nepal",
+      "companies_involved": [
+        "Indian Government"
+      ],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of bridge components are located in the affected region?",
+        "Which construction companies are involved in the assembly and installation of the bridge?",
+        "Which logistics providers are responsible for transporting materials to the affected area?",
+        "What are the dependencies of local businesses on the restored transport links?",
+        "Which downstream operations may be impacted by the delays in reconstruction efforts?"
+      ],
+      "reason": "The delivery of bridge components to Nepal is a direct response to the disruption caused by the flash floods, which severely impacted infrastructure and logistics in the region.",
+      "summary": "India's delivery of bridge components to Nepal is a critical response to restore connectivity after devastating flash floods. This event highlights the impact of natural disasters on supply chain activities, particularly in construction and logistics.",
+      "title": "India hands over first components of 70 - metre",
+      "url": "http://www.japanherald.com/news/279303419/india-hands-over-first-components-of-70-metre-bailey-bridge-to-nepal-for-flood-hit-areas",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flash Floods in Nepal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are affected by the floods in Nepal?",
+        "Which logistics companies are involved in the transportation of bridge components to Nepal?",
+        "What are the dependencies of Nepal's infrastructure on Indian support?",
+        "Which downstream operations in Nepal rely on the restored transport links?",
+        "How might future floods impact ongoing construction projects in the region?"
+      ],
+      "reason": "The article discusses the delivery of bridge components to Nepal in response to significant flooding, which has disrupted transportation and logistics in the affected areas, thus representing a supply chain disruption.",
+      "summary": "India has delivered bridge components to Nepal to aid recovery from severe flooding that disrupted vital transport links. This assistance highlights the impact of natural disasters on supply chain activities, particularly in construction and logistics.",
+      "title": "India hands over first components of 70 - metre",
+      "url": "http://www.beijingbulletin.com/news/279303419/india-hands-over-first-components-of-70-metre-bailey-bridge-to-nepal-for-flood-hit-areas",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Punjab Farmers Protest",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural inputs may be affected by the protests?",
+        "Which production schedules could be disrupted due to the farmers' demands?",
+        "Which logistics operations are impacted by the protests in Punjab?",
+        "Which downstream companies rely on agricultural products from Punjab?",
+        "What are the potential impacts on trade routes due to the protests?"
+      ],
+      "reason": "The farmers' protests in Punjab are directly linked to agricultural supply chain activities, including the supply of electricity and fertilizers, which can disrupt production and logistics in the region.",
+      "summary": "Farmers in Punjab are staging protests against the state government, demanding better support for agricultural inputs and policies. This unrest poses a risk to agricultural production and logistics in the region, potentially impacting supply chains reliant on these resources.",
+      "title": "Punjab Farmers Protest : ਕਿਸਾਨ ਮਜ਼ਦੂਰ ਮੋਰਚਾ ਵੱਲੋਂ ਮੰਤਰੀਆਂ ਤੇ ਸਪੀਕਰ ਦੀਆਂ ਰਿਹਾਇਸ਼ਾਂ ਅੱਗੇ 5 ਰੋਜ਼ਾ ਧਰਨੇ ਦਾ ਐਲਾਨ",
+      "url": "https://www.punjabitribuneonline.com/news/chandigarh/punjab-farmers-protest-kisan-mazdoor-morcha-announces-5-day-dharna-in-front-of-the-residences-of-ministers-and-speaker/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Revamp of Munak Canal",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a government project to revamp a canal, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The Delhi government is set to begin work on rejuvenating a dry section of the Munak canal, focusing on infrastructure improvements. This project is primarily related to urban development and does not indicate a supply chain disruption.",
+      "title": "Delhi govt set to revamp 5 . 5km dry section of Munak canal",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-govt-set-to-revamp-5-5km-dry-section-of-munak-canal-101789235792141.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Katihar, Bihar",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the flood-affected areas of Bihar?",
+        "Which transportation routes are impacted by the flooding in Katihar?",
+        "Which suppliers may face delays due to disrupted road connectivity in the region?",
+        "Which downstream companies rely on transportation routes affected by the floods?",
+        "What are the potential impacts on supply chains due to the flooding in Bihar?"
+      ],
+      "reason": "The severe flooding in Katihar has disrupted road connectivity and transportation, which can significantly impact logistics and supply chain operations in the region.",
+      "summary": "The flooding in Katihar, Bihar, has caused significant disruptions to road connectivity and transportation, affecting logistics operations. This natural disaster poses risks to supply chains reliant on the affected transportation routes.",
+      "title": "Bihar : Flood - hit Katihar locals protest minister visit , allege lack of relief measures",
+      "url": "http://www.calcuttanews.net/news/279304178/bihar-flood-hit-katihar-locals-protest-minister-visit-allege-lack-of-relief-measures",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Katihar, Bihar",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the flood-affected areas of Bihar?",
+        "Which transportation routes are impacted by the flooding in Katihar?",
+        "Which suppliers may face delays due to disrupted road connectivity in the region?",
+        "Which downstream companies depend on transportation routes affected by the floods?"
+      ],
+      "reason": "The severe flooding in Katihar has disrupted road connectivity and movement across the region, impacting logistics and transportation activities.",
+      "summary": "The flooding in Katihar, Bihar, has led to significant disruptions in logistics and transportation due to inundated roadways. This natural disaster poses risks to supply chain operations in the affected areas.",
+      "title": "Bihar : Flood - hit Katihar locals protest minister visit , allege lack of relief measures",
+      "url": "http://www.milwaukeesun.com/news/279304178/bihar-flood-hit-katihar-locals-protest-minister-visit-allege-lack-of-relief-measures",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Katihar, Bihar",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the flood-affected areas of Bihar?",
+        "Which transportation routes are impacted by the flooding in Katihar?",
+        "Which suppliers may face delays due to disrupted road connectivity in the region?",
+        "Which downstream companies rely on transportation routes affected by the floods?",
+        "What contingency plans do companies have in place for natural disasters in Bihar?"
+      ],
+      "reason": "The severe flooding in Katihar has disrupted road connectivity and movement across the region, impacting logistics and transportation activities, which are critical components of the supply chain.",
+      "summary": "The flooding in Katihar, Bihar, has led to significant disruptions in logistics and transportation due to inundated roadways. This natural disaster poses risks to supply chain operations in the affected areas.",
+      "title": "Bihar : Flood - hit Katihar locals protest minister visit , allege lack of relief measures",
+      "url": "http://www.pakistantelegraph.com/news/279304178/bihar-flood-hit-katihar-locals-protest-minister-visit-allege-lack-of-relief-measures",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Community Engagement and Cultural Preservation",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a community engagement and cultural preservation initiative by university students in a specific region, with no direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a university's social practice initiative in a Yao ethnic community, focusing on cultural heritage and community development. It does not present any supply chain disruptions or risks related to supply chain activities.",
+      "title": "瑶乡五日 ， 装满了没说尽的故事 西北工业大学化学与化工学院  三下乡  暑期社会实践活动 _ 中华网",
+      "url": "https://digi.china.com/articles/20260913/202609131959356.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "HIV/AIDS Awareness Campaign",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a health awareness campaign and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a health awareness campaign launched in Tinsukia, Assam, focusing on HIV/AIDS. It does not indicate any supply chain disruptions or impacts on supply chain activities.",
+      "title": "Assam : Intensified IEC campaign on HIV / AIDS launched in Tinsukia",
+      "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-intensified-iec-campaign-on-hivaids-launched-in-tinsukia",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Nepal-Tibet border area",
+      "companies_involved": [
+        "Isha Foundation"
+      ],
+      "industries_involved": [
+        "Non-profit",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Nepal",
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Isha Foundation may be affected by the flooding?",
+        "Which tourism operations in the affected region could be disrupted?",
+        "What logistics routes are impacted by the flooding in the Nepal-Tibet border area?",
+        "Which downstream organizations depend on the Isha Foundation for support in the region?",
+        "How might the flooding affect the supply of services or goods in the tourism industry in Nepal?"
+      ],
+      "reason": "The sudden flooding in the Nepal-Tibet border area has led to the disappearance of participants and volunteers, impacting rescue operations and potentially affecting tourism and logistics in the region.",
+      "summary": "The flooding at the Nepal-Tibet border has resulted in the disappearance of 77 participants and 3 volunteers from the Isha Foundation, prompting significant rescue efforts. This natural disaster poses risks to tourism and logistics operations in the affected area.",
+      "title": "77 participants and 3 volunteers from the Kailash Mansarovar Yatra remain missing ; Isha Foundation in contact with Nepali officials ., Delhi News in Hindi",
+      "url": "https://www.khaskhabar.com/local/delhi-ncr/delhi-news/news-77-participants-and-3-volunteers-from-the-kailash-mansarovar-yatra-remain-missing-isha-foundation-in-contact-with-nepali-officials-news-hindi-1-844374-KKN.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20260913T080000Z"
     }
   ]
 }
