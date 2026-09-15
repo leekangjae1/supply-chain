@@ -12,21 +12,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ----------------------------------------
+
+      # =====================================================
       # 1. Repository checkout
-      # ----------------------------------------
+      # =====================================================
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ----------------------------------------
+
+      # =====================================================
       # 2. Find latest successful Agent 2 run
-      # ----------------------------------------
+      # =====================================================
+
       - name: Find latest Agent 2 run
         id: agent2_run
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          echo "Finding latest successful Agent 2 workflow..."
+
+          echo "=========================================="
+          echo "Finding latest successful Agent 2 run"
+          echo "=========================================="
 
           RUN_ID=$(gh run list \
             --workflow "agent2.yml" \
@@ -40,233 +47,105 @@ jobs:
             exit 1
           fi
 
-          echo "Latest Agent 2 RUN_ID = $RUN_ID"
-          echo "run_id=$RUN_ID" >> "$GITHUB_OUTPUT"
-
-      # ----------------------------------------
-      # 3. Download Agent 2 artifact
-      # ----------------------------------------
-      - name: Download Agent 2 artifact
-        env:
-          GH_TOKEN: ${{ github.token }}
-          RUN_ID: ${{ steps.agent2_run.outputs.run_id }}
-        run: |
-          echo "Downloading Agent 2 artifact..."
-          
-          mkdir -p data
-
-          gh run download "$RUN_ID" \
-            --name agent2-results \
-            --dir data
-
-          echo "Downloaded files:"
-          find data -maxdepth 2 -type f -print
-
-      # ----------------------------------------
-      # 4. Check Agent 2 result
-      # ----------------------------------------
-      - name: Check Agent 2 result
-        run: |
-          echo "Checking Agent 2 output..."
-
-          if [ ! -f "data/agent2_results.json" ]; then
-            echo "ERROR: data/agent2_results.json not found."
-            echo "Current data directory:"
-            find data -maxdepth 2 -type f -print
-            exit 1
-          fi
-
-          echo "Agent 2 result found:"
-          ls -lh data/agent2_results.json
-
-      # ----------------------------------------
-      # 5. Copy Agent 2 result for Agent 5
-      # ----------------------------------------
-      - name: Prepare Agent 5 input
-        run: |
-          cp data/agent2_results.json data/agent2_kg.json
-
-          echo "Agent 5 input prepared:"
-          ls -lh data/agent2_kg.json
-
-      # ----------------------------------------
-      # 6. Setup Python
-      # ----------------------------------------
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      # ----------------------------------------
-      # 7. Install dependencies
-      # ----------------------------------------
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      # ----------------------------------------
-      # 8. Run Agent 5
-      # ----------------------------------------
-      - name: Run Agent 5
-        run: |
-          echo "======================================"
-          echo "Running Agent 5"
-          echo "======================================"
-
-          python agents/agent5_risk_score.py
-
-      # ----------------------------------------
-      # 9. Check Agent 5 result
-      # ----------------------------------------
-      - name: Check Agent 5 result
-        run: |
-          if [ ! -f "data/agent5_risk_assessment.json" ]; then
-            echo "ERROR: Agent 5 result not found."
-            exit 1
-          fi
-
-          echo "Agent 5 result created:"
-          ls -lh data/agent5_risk_assessment.json
-
-      # ----------------------------------------
-      # 10. Upload Agent 5 result
-      # ----------------------------------------
-      - name: Upload Agent 5 result
-        uses: actions/upload-artifact@v4
-        with:
-          name: agent5-risk-assessment
-          path: data/agent5_risk_assessment.json          echo "=========================================="
-          echo "Finding latest successful Agent 2 run"
-          echo "=========================================="
-
-          RUN_ID=$(gh run list \
-            --workflow "agent2.yml" \
-            --status success \
-            --limit 1 \
-            --json databaseId \
-            --jq '.[0].databaseId')
-
-
-          if [ -z "$RUN_ID" ]; then
-
-            echo "ERROR:"
-            echo "No successful Agent 2 workflow found."
-
-            exit 1
-
-          fi
-
-
           echo "Agent 2 Run ID: $RUN_ID"
-
 
           echo "run_id=$RUN_ID" >> "$GITHUB_OUTPUT"
 
 
       # =====================================================
-      # 3. Agent 2 Artifact 다운로드
+      # 3. Download Agent 2 artifact
       # =====================================================
 
       - name: Download Agent 2 result
         env:
           GH_TOKEN: ${{ github.token }}
-
         run: |
 
           echo "=========================================="
           echo "Downloading Agent 2 result"
           echo "=========================================="
 
-
           mkdir -p data
-
 
           gh run download \
             "${{ steps.agent2_run.outputs.run_id }}" \
             --name agent2-results \
             --dir data
 
+          echo ""
+          echo "Downloaded files:"
+          find data -maxdepth 2 -type f -print
+
 
       # =====================================================
-      # 4. Agent 2 결과 확인
+      # 4. Check Agent 2 result
       # =====================================================
 
       - name: Check Agent 2 result
-
         run: |
 
           echo "=========================================="
           echo "Checking Agent 2 result"
           echo "=========================================="
 
-
           echo "Current directory:"
           pwd
 
-
           echo ""
-          echo "data directory:"
+          echo "Data directory:"
           ls -lah data/
 
-
-          if [ -f "data/agent2_results.json" ]; then
-
+          if [ ! -f "data/agent2_results.json" ]; then
             echo ""
-            echo "SUCCESS:"
-            echo "agent2_results.json exists."
-
-          else
-
+            echo "ERROR: agent2_results.json does not exist."
             echo ""
-            echo "ERROR:"
-            echo "agent2_results.json does not exist."
-
+            echo "Files currently inside data:"
+            find data -maxdepth 2 -type f -print
             exit 1
-
           fi
+
+          echo ""
+          echo "SUCCESS:"
+          echo "agent2_results.json exists."
+
+          ls -lh data/agent2_results.json
 
 
       # =====================================================
-      # 5. Agent 5 입력 파일 생성
+      # 5. Prepare Agent 5 input
       # =====================================================
 
       - name: Prepare Agent 5 input
-
         run: |
 
           echo "=========================================="
           echo "Preparing Agent 5 input"
           echo "=========================================="
 
-
           cp \
             data/agent2_results.json \
             data/agent2_kg.json
 
-
           echo ""
-          echo "Agent 5 input:"
+          echo "Agent 5 input created:"
           ls -lh data/agent2_kg.json
 
 
       # =====================================================
-      # 6. Python 설치
+      # 6. Set up Python
       # =====================================================
 
       - name: Set up Python
         uses: actions/setup-python@v5
-
         with:
           python-version: "3.11"
 
 
       # =====================================================
-      # 7. Dependencies
+      # 7. Install dependencies
       # =====================================================
 
       - name: Install dependencies
-
         run: |
 
           python -m pip install --upgrade pip
@@ -275,66 +154,52 @@ jobs:
 
 
       # =====================================================
-      # 8. Agent 5 실행
+      # 8. Run Agent 5
       # =====================================================
 
       - name: Run Agent 5
-
         run: |
 
           echo "=========================================="
           echo "Running Agent 5"
           echo "=========================================="
 
-
           python agents/agent5_risk_score.py
 
 
       # =====================================================
-      # 9. 결과 확인
+      # 9. Check Agent 5 result
       # =====================================================
 
       - name: Check Agent 5 result
-
         run: |
 
           echo "=========================================="
           echo "Checking Agent 5 result"
           echo "=========================================="
 
-
           ls -lah data/
 
-
-          if [ -f "data/agent5_risk_assessment.json" ]; then
-
+          if [ ! -f "data/agent5_risk_assessment.json" ]; then
             echo ""
-            echo "SUCCESS:"
-            echo "agent5_risk_assessment.json exists."
-
-          else
-
-            echo ""
-            echo "ERROR:"
-            echo "agent5_risk_assessment.json does not exist."
-
+            echo "ERROR: agent5_risk_assessment.json does not exist."
             exit 1
-
           fi
+
+          echo ""
+          echo "SUCCESS:"
+          echo "agent5_risk_assessment.json exists."
+
+          ls -lh data/agent5_risk_assessment.json
 
 
       # =====================================================
-      # 10. Agent 5 결과 Artifact 업로드
+      # 10. Upload Agent 5 result
       # =====================================================
 
       - name: Upload Agent 5 result
-
         uses: actions/upload-artifact@v4
-
         with:
-
           name: agent5-risk-assessment
-
           path: data/agent5_risk_assessment.json
-
           if-no-files-found: error
