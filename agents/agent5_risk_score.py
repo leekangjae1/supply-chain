@@ -24,18 +24,18 @@ OUTPUT_PATH = os.getenv(
 # 2. Risk Score 가중치
 # ============================================================
 #
-# 기존 설정:
+# 기존 설정
 #
 # Breadth       = 35%
 # Dependency    = 25%
-# Downstream    = 20%  → 현재 사용하지 않음
+# Downstream    = 20% → 현재 사용하지 않음
 # Centrality    = 10%
 # Depth         = 10%
 #
 # Downstream Criticality 20%를 제외하고
 # 나머지 80%를 100%로 재정규화
 #
-# 최종:
+# 최종
 # Breadth       = 43.75%
 # Dependency    = 31.25%
 # Centrality    = 12.50%
@@ -65,7 +65,6 @@ def load_kg(path):
     print(f"[INFO] Loading Agent 2 result: {path}")
 
     if not os.path.exists(path):
-
         raise FileNotFoundError(
             f"Agent 2 결과 파일이 없습니다: {path}"
         )
@@ -75,7 +74,6 @@ def load_kg(path):
         "r",
         encoding="utf-8"
     ) as f:
-
         return json.load(f)
 
 
@@ -86,12 +84,13 @@ def load_kg(path):
 def extract_agent2_relations(data):
 
     """
-    현재 Agent 2 결과 구조:
+    Agent 2 결과 구조
 
     {
       "generated_at": "...",
       "agent": "Agent 2",
       "description": "...",
+
       "results": [
         {
           "event_id": "...",
@@ -120,21 +119,24 @@ def extract_agent2_relations(data):
       ]
     }
 
-    Agent 5에서 사용할 관계:
 
-        Tier-1 Supplier
-              ↓
-           Company
+    Agent 5 관계
 
-        Tier-2 Supplier
-              ↓
-        Tier-1 Supplier
+    Tier-1 Supplier
+          ↓
+       Company
 
+    Tier-2 Supplier
+          ↓
+       Tier-1 Supplier
     """
 
     relations = []
-
     events = []
+
+    # --------------------------------------------------------
+    # Agent 2 results 가져오기
+    # --------------------------------------------------------
 
     if isinstance(data, dict):
 
@@ -156,9 +158,9 @@ def extract_agent2_relations(data):
         results = [results]
 
 
-    # ========================================================
-    # Event 단위 처리
-    # ========================================================
+    # --------------------------------------------------------
+    # Event 처리
+    # --------------------------------------------------------
 
     for event_result in results:
 
@@ -185,21 +187,23 @@ def extract_agent2_relations(data):
         )
 
 
+        # Event 저장
         events.append({
 
-            "event_id": event_id,
+            "event_id":
+                event_id,
 
-            "event": event_name,
+            "event":
+                event_name,
 
             "disruption_type":
                 disruption_type
-
         })
 
 
-        # ====================================================
+        # ----------------------------------------------------
         # Companies
-        # ====================================================
+        # ----------------------------------------------------
 
         companies = event_result.get(
             "companies",
@@ -222,7 +226,10 @@ def extract_agent2_relations(data):
                 continue
 
 
-            # Company 매칭 실패 제외
+            # ------------------------------------------------
+            # matched = false인 Company 제외
+            # ------------------------------------------------
+
             if company.get(
                 "matched"
             ) is False:
@@ -239,9 +246,9 @@ def extract_agent2_relations(data):
                 continue
 
 
-            # =================================================
-            # Tier 1
-            # =================================================
+            # ------------------------------------------------
+            # Tier-1 Suppliers
+            # ------------------------------------------------
 
             tier1_suppliers = company.get(
                 "tier1_suppliers",
@@ -273,9 +280,9 @@ def extract_agent2_relations(data):
                     continue
 
 
-                # ---------------------------------------------
+                # ============================================
                 # Tier-1 Supplier → Company
-                # ---------------------------------------------
+                # ============================================
 
                 relations.append({
 
@@ -305,13 +312,12 @@ def extract_agent2_relations(data):
 
                     "disruption_type":
                         disruption_type
-
                 })
 
 
-                # =================================================
-                # Tier 2
-                # =================================================
+                # ============================================
+                # Tier-2 Suppliers
+                # ============================================
 
                 tier2_suppliers = tier1.get(
                     "tier2_suppliers",
@@ -343,9 +349,9 @@ def extract_agent2_relations(data):
                         continue
 
 
-                    # ---------------------------------------------
+                    # ========================================
                     # Tier-2 Supplier → Tier-1 Supplier
-                    # ---------------------------------------------
+                    # ========================================
 
                     relations.append({
 
@@ -375,22 +381,42 @@ def extract_agent2_relations(data):
 
                         "disruption_type":
                             disruption_type
-
                     })
 
+
+    # --------------------------------------------------------
+    # 진단 로그
+    # --------------------------------------------------------
 
     print(
         "[INFO] Input format: Agent 2 results"
     )
 
     print(
-        f"[INFO] Events found: {len(events)}"
+        f"[INFO] Events found: "
+        f"{len(events)}"
     )
 
     print(
         f"[INFO] Relations extracted: "
         f"{len(relations)}"
     )
+
+
+    # --------------------------------------------------------
+    # 관계가 하나도 없는 경우 상세 확인
+    # --------------------------------------------------------
+
+    if len(relations) == 0:
+
+        print(
+            "[WARNING] No supply chain relations were extracted."
+        )
+
+        print(
+            "[WARNING] Check Agent 2 JSON structure."
+        )
+
 
     return relations, events
 
@@ -402,7 +428,7 @@ def extract_agent2_relations(data):
 def extract_neo4j_relations(data):
 
     """
-    기존 Neo4j export 형식:
+    기존 Neo4j export 형식
 
     [
       {
@@ -411,7 +437,6 @@ def extract_neo4j_relations(data):
         "t": {...}
       }
     ]
-
     """
 
     relations = []
@@ -435,9 +460,7 @@ def extract_neo4j_relations(data):
 
 
         s = row.get("s")
-
         r = row.get("r")
-
         t = row.get("t")
 
 
@@ -469,7 +492,6 @@ def extract_neo4j_relations(data):
             or r_props.get(
                 "source_name"
             )
-
         )
 
 
@@ -480,7 +502,6 @@ def extract_neo4j_relations(data):
             or r_props.get(
                 "target_name"
             )
-
         )
 
 
@@ -491,7 +512,6 @@ def extract_neo4j_relations(data):
             or r_props.get(
                 "source_type"
             )
-
         )
 
 
@@ -502,7 +522,6 @@ def extract_neo4j_relations(data):
             or r_props.get(
                 "target_type"
             )
-
         )
 
 
@@ -555,7 +574,6 @@ def extract_neo4j_relations(data):
                 r_props.get(
                     "evidence"
                 )
-
         })
 
 
@@ -568,6 +586,7 @@ def extract_neo4j_relations(data):
         f"{len(relations)}"
     )
 
+
     return relations, []
 
 
@@ -577,7 +596,10 @@ def extract_neo4j_relations(data):
 
 def extract_relations(data):
 
+    # --------------------------------------------------------
     # Agent 2 결과
+    # --------------------------------------------------------
+
     if (
         isinstance(data, dict)
         and "results" in data
@@ -588,7 +610,10 @@ def extract_relations(data):
         )
 
 
+    # --------------------------------------------------------
     # 기존 Neo4j export
+    # --------------------------------------------------------
+
     if isinstance(
         data,
         list
@@ -654,9 +679,9 @@ def build_supply_graph(
         )
 
 
-        # =====================================================
+        # ----------------------------------------------------
         # Source Node
-        # =====================================================
+        # ----------------------------------------------------
 
         if source not in G:
 
@@ -671,12 +696,11 @@ def build_supply_graph(
                     if source_type == "Supplier"
                     else None
                 )
-
             )
 
         else:
 
-            # Supplier인데 기존 Tier가 없으면 보완
+            # Supplier Tier 정보 보완
             if (
                 source_type == "Supplier"
                 and not G.nodes[source].get(
@@ -687,9 +711,9 @@ def build_supply_graph(
                 G.nodes[source]["Tier"] = tier
 
 
-        # =====================================================
+        # ----------------------------------------------------
         # Target Node
-        # =====================================================
+        # ----------------------------------------------------
 
         if target not in G:
 
@@ -700,13 +724,12 @@ def build_supply_graph(
                 Type=target_type,
 
                 Tier=None
-
             )
 
 
-        # =====================================================
+        # ----------------------------------------------------
         # Edge
-        # =====================================================
+        # ----------------------------------------------------
 
         G.add_edge(
 
@@ -727,7 +750,6 @@ def build_supply_graph(
             disruption_type=rel.get(
                 "disruption_type"
             )
-
         )
 
 
@@ -744,11 +766,11 @@ def get_suppliers(
 ):
 
     """
-    Agent 2 결과에서는 relation의 tier가
-    가장 확실한 기준이다.
+    최종 Risk Assessment 대상은
+    Tier-1 Supplier이다.
 
-    따라서 Tier-1 relation의 source를
-    최종 Risk Assessment 대상으로 사용한다.
+    가장 확실한 기준은
+    Tier-1 관계의 source이다.
     """
 
     suppliers = set()
@@ -759,7 +781,10 @@ def get_suppliers(
         if (
             rel.get("tier")
             == "Tier-1"
-            and rel.get("source_type")
+
+            and
+
+            rel.get("source_type")
             == "Supplier"
         ):
 
@@ -789,10 +814,11 @@ def calculate_breadth(
 ):
 
     """
-    Supplier가 downstream으로
-    몇 개의 Company에 연결되는지 계산.
+    Supplier에서 downstream으로 도달 가능한
+    Company 수를 계산.
 
-    최대 Company 수를 1로 정규화.
+    가장 많은 Company에 연결된 Supplier를
+    1.0으로 정규화.
     """
 
     company_counts = {}
@@ -850,8 +876,14 @@ def calculate_breadth(
         else:
 
             breadth[supplier] = (
-                company_counts[supplier]
-                / max_count
+
+                company_counts[
+                    supplier
+                ]
+
+                /
+
+                max_count
             )
 
 
@@ -869,14 +901,13 @@ def calculate_dependency(
 
     """
     직접 연결된 downstream node를 기준으로
-    Company 연결 여부를 계산한다.
+    Company 연결 여부를 계산.
 
     Tier-1:
         Supplier → Company
 
     Tier-2:
         Supplier → Tier-1 Supplier → Company
-
     """
 
     dependency = {}
@@ -893,7 +924,9 @@ def calculate_dependency(
 
         if not direct_targets:
 
-            dependency[supplier] = 0.0
+            dependency[
+                supplier
+            ] = 0.0
 
             continue
 
@@ -905,21 +938,23 @@ def calculate_dependency(
 
             target_type = G.nodes[
                 target
-            ].get("Type")
+            ].get(
+                "Type"
+            )
 
 
-            # ----------------------------------------------
+            # ------------------------------------------------
             # Supplier → Company
-            # ----------------------------------------------
+            # ------------------------------------------------
 
             if target_type == "Company":
 
                 company_connections += 1
 
 
-            # ----------------------------------------------
+            # ------------------------------------------------
             # Supplier → Supplier → Company
-            # ----------------------------------------------
+            # ------------------------------------------------
 
             elif target_type == "Supplier":
 
@@ -937,21 +972,21 @@ def calculate_dependency(
                     )
                     == "Company"
 
-                    for x
-                    in second_targets
-
+                    for x in second_targets
                 ):
 
                     company_connections += 1
 
 
-        dependency[supplier] = min(
+        dependency[
+            supplier
+        ] = min(
 
             company_connections
-            / len(direct_targets),
+            /
+            len(direct_targets),
 
             1.0
-
         )
 
 
@@ -970,7 +1005,9 @@ def calculate_centrality(
     if len(G) == 0:
 
         return {
+
             supplier: 0.0
+
             for supplier in suppliers
         }
 
@@ -981,11 +1018,8 @@ def calculate_centrality(
 
 
     max_centrality = max(
-
         centrality_all.values(),
-
         default=0
-
     )
 
 
@@ -1003,12 +1037,16 @@ def calculate_centrality(
         if max_centrality > 0:
 
             value = (
+
                 value
-                / max_centrality
+                /
+                max_centrality
             )
 
 
-        result[supplier] = min(
+        result[
+            supplier
+        ] = min(
             value,
             1.0
         )
@@ -1027,14 +1065,17 @@ def calculate_depth(
 ):
 
     """
-    Supplier → Company의
+    Supplier에서 Company까지의
     shortest path 최대값.
 
-    Tier 구조:
-        Tier-1 → Company = 1
-        Tier-2 → Tier-1 → Company = 2
+    Tier-1 → Company
+        = 1
 
-    최대 Tier-4를 1.0으로 정규화.
+    Tier-2 → Tier-1 → Company
+        = 2
+
+    Tier-4까지 고려하여
+    4를 기준으로 정규화.
     """
 
     depth = {}
@@ -1070,7 +1111,9 @@ def calculate_depth(
                 ):
 
                     max_depth = max(
+
                         max_depth,
+
                         distance
                     )
 
@@ -1085,11 +1128,12 @@ def calculate_depth(
             max_depth / 4.0,
 
             1.0
-
         )
 
 
-        depth[supplier] = normalized
+        depth[
+            supplier
+        ] = normalized
 
 
     return depth
@@ -1100,15 +1144,10 @@ def calculate_depth(
 # ============================================================
 
 def calculate_risk_score(
-
     breadth,
-
     dependency,
-
     centrality,
-
     depth
-
 ):
 
     score = (
@@ -1130,7 +1169,6 @@ def calculate_risk_score(
 
         WEIGHT_DEPTH
         * depth
-
     )
 
 
@@ -1142,7 +1180,6 @@ def calculate_risk_score(
         ),
 
         1.0
-
     )
 
 
@@ -1193,11 +1230,10 @@ def run_agent5():
     # Step 2. 관계 추출
     # ========================================================
 
-    (
-        relations,
-        events
-    ) = extract_relations(
-        data
+    relations, events = (
+        extract_relations(
+            data
+        )
     )
 
 
@@ -1245,13 +1281,37 @@ def run_agent5():
 
 
     # ========================================================
-    # Supplier가 없는 경우
+    # 진단용 Supplier 출력
+    # ========================================================
+
+    if suppliers:
+
+        print()
+        print(
+            "[INFO] Tier-1 Supplier list:"
+        )
+
+        for supplier in suppliers:
+
+            print(
+                f"  - {supplier}"
+            )
+
+
+    # ========================================================
+    # Step 4-1. Supplier가 없는 경우
     # ========================================================
 
     if not suppliers:
 
+        print()
         print(
-            "[WARNING] No Tier-1 Supplier found."
+            "[ERROR] No Tier-1 Supplier found."
+        )
+
+        print(
+            "[ERROR] Agent 2 결과의 "
+            "companies/tier1_suppliers 구조를 확인하세요."
         )
 
 
@@ -1262,6 +1322,9 @@ def run_agent5():
 
             "description":
                 "Supply Chain Risk Assessment",
+
+            "input":
+                INPUT_PATH,
 
             "events":
                 events,
@@ -1291,7 +1354,6 @@ def run_agent5():
                         WEIGHT_DEPTH,
                         4
                     )
-
             },
 
             "thresholds": {
@@ -1304,11 +1366,10 @@ def run_agent5():
 
                 "LOW":
                     0.0
-
             },
 
-            "results": []
-
+            "results":
+                []
         }
 
 
@@ -1324,13 +1385,9 @@ def run_agent5():
 
 
         with open(
-
             output_path,
-
             "w",
-
             encoding="utf-8"
-
         ) as f:
 
             json.dump(
@@ -1342,7 +1399,6 @@ def run_agent5():
                 ensure_ascii=False,
 
                 indent=2
-
             )
 
 
@@ -1370,7 +1426,6 @@ def run_agent5():
         G,
 
         suppliers
-
     )
 
 
@@ -1383,7 +1438,6 @@ def run_agent5():
         G,
 
         suppliers
-
     )
 
 
@@ -1396,7 +1450,6 @@ def run_agent5():
         G,
 
         suppliers
-
     )
 
 
@@ -1411,14 +1464,21 @@ def run_agent5():
 
         score = calculate_risk_score(
 
-            breadth[supplier],
+            breadth[
+                supplier
+            ],
 
-            dependency[supplier],
+            dependency[
+                supplier
+            ],
 
-            centrality[supplier],
+            centrality[
+                supplier
+            ],
 
-            depth[supplier]
-
+            depth[
+                supplier
+            ]
         )
 
 
@@ -1470,12 +1530,11 @@ def run_agent5():
                     supplier,
                     0
                 )
-
         })
 
 
     # ========================================================
-    # Step 10. 위험도 높은 순 정렬
+    # Step 10. Risk Score 높은 순 정렬
     # ========================================================
 
     results.sort(
@@ -1484,7 +1543,6 @@ def run_agent5():
             x["risk_score"],
 
         reverse=True
-
     )
 
 
@@ -1531,7 +1589,6 @@ def run_agent5():
                     WEIGHT_DEPTH,
                     4
                 )
-
         },
 
         "thresholds": {
@@ -1544,12 +1601,10 @@ def run_agent5():
 
             "LOW":
                 0.0
-
         },
 
         "results":
             results
-
     }
 
 
@@ -1569,13 +1624,9 @@ def run_agent5():
 
 
     with open(
-
         output_path,
-
         "w",
-
         encoding="utf-8"
-
     ) as f:
 
         json.dump(
@@ -1587,18 +1638,15 @@ def run_agent5():
             ensure_ascii=False,
 
             indent=2
-
         )
 
 
     # ========================================================
-    # Step 13. 로그
+    # Step 13. 성공 로그
     # ========================================================
 
     print()
-    print(
-        "=" * 60
-    )
+    print("=" * 60)
 
     print(
         "[SUCCESS] Agent 5 completed."
@@ -1614,10 +1662,12 @@ def run_agent5():
         f"{len(results)}"
     )
 
-    print(
-        "=" * 60
-    )
+    print("=" * 60)
 
+
+    # ========================================================
+    # Step 14. Risk 결과 출력
+    # ========================================================
 
     print()
     print(
@@ -1639,8 +1689,19 @@ def run_agent5():
             f"{result['risk_score']:.4f} | "
 
             f"Level: "
-            f"{result['risk_level']}"
+            f"{result['risk_level']} | "
 
+            f"Breadth: "
+            f"{result['exposure_breadth']:.4f} | "
+
+            f"Dependency: "
+            f"{result['dependency_ratio']:.4f} | "
+
+            f"Centrality: "
+            f"{result['centrality']:.4f} | "
+
+            f"Depth: "
+            f"{result['exposure_depth']:.4f}"
         )
 
 
