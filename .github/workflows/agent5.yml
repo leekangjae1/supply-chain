@@ -67,9 +67,9 @@ jobs:
           mkdir -p data
 
           gh run download \
-          "${{ steps.agent2_run.outputs.run_id }}" \
-          --name agent2-results  # ← Agent 2의 정확한 artifact 이름으로 변경
-          --dir data
+            "${{ steps.agent2_run.outputs.run_id }}" \
+            --name agent2-results  # ← Agent 2의 정확한 artifact 이름으로 변경
+            --dir data
 
           echo ""
           echo "Downloaded files:"
