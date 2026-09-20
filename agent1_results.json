@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T06:44:20Z",
-  "total_count": 2286,
+  "updated_at": "2026-09-20T13:31:33Z",
+  "total_count": 2362,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -62454,6 +62454,2085 @@
       "gdelt_country": "United States",
       "gdelt_keyword": "strike",
       "published_at": "20260920T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Dispute at Tesla in Sweden",
+      "companies_involved": [
+        "Tesla",
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Sweden",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Tesla operate in Sweden?",
+        "How might Tesla's labor model impact Volkswagen's production strategies?",
+        "Which manufacturing facilities in Germany could be affected by labor disputes in Sweden?",
+        "What are the potential impacts on logistics for Tesla's operations in Europe?",
+        "Which downstream companies depend on products from Tesla's Swedish operations?"
+      ],
+      "reason": "The article discusses a labor dispute involving Tesla in Sweden, which could impact production and operational strategies for both Tesla and potentially Volkswagen, indicating a disruption in supply chain activities related to labor relations.",
+      "summary": "Tesla's ongoing labor dispute in Sweden, where it operates without a collective bargaining agreement, raises questions about its operational model and potential implications for other automotive manufacturers like Volkswagen. This situation highlights the risks associated with labor relations in the automotive industry, particularly in Europe.",
+      "title": "Tesla ohne Tarifvertrag – kann Volkswagen ähnlich handeln ? ",
+      "url": "https://www.epochtimes.de/wirtschaft/tesla-ohne-tarifvertrag-kann-volkswagen-aehnlich-handeln-a5612763.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Ambulance Cost Comparison",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "South Korea",
+        "Japan",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the costs of ambulance services in various countries but does not indicate any disruptions to supply chains, logistics, or production activities.",
+      "summary": "The article provides a comparison of ambulance service costs across different countries, highlighting variations in pricing and coverage. However, it does not present any information related to supply chain disruptions.",
+      "title": "Cât costă să chemi ambulanța în diferite țări ale lumii . Diferențele sunt uriașe : unde serviciul este gratuit",
+      "url": "https://a1.ro/news/cat-costa-sa-chemi-ambulanta-in-diferite-tari-ale-lumii-diferentele-sunt-uriase-unde-serviciul-este-gratuit-id1162570.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Apple One Promotion",
+      "companies_involved": [
+        "Apple"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Consumer Electronics"
+      ],
+      "countries_involved": [
+        "France",
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "Canada",
+        "Japan",
+        "Australia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a promotional offer by Apple related to its services and products, but it does not indicate any disruption in supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "Apple has launched a promotional offer for its Apple One service with the purchase of new devices. This promotion is limited to certain customers and does not indicate any supply chain disruption.",
+      "title": "Apple One : trois mois offerts avec un nouvel iPhone , iPad ou Mac",
+      "url": "https://iphoneaddict.fr/post/news-435829-apple-one-trois-mois-offerts-nouvel-iphone-ipad-mac",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "N/A",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses mobile phone plans and services offered by Happy SIM, with no meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article promotes Happy SIM's mobile phone services and pricing plans. It does not indicate any supply chain disruption or impact on supply chain activities.",
+      "title": "Happy SIM : Handytarife zu Top - Konditionen",
+      "url": "https://www.happy-sim.de/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Canada-EU Associate Membership Proposal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Canada",
+        "European Union",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Canada may be affected by changes in trade agreements with the EU?",
+        "Which manufacturing sectors in Canada could be impacted by potential tariffs from the US?",
+        "What are the dependencies of Canadian agricultural exports on EU markets?",
+        "Which downstream companies in the EU rely on Canadian raw materials?",
+        "How might changes in trade policy affect logistics operations between Canada and the EU?"
+      ],
+      "reason": "The proposed associate membership of Canada in the EU could lead to significant changes in trade policies, impacting supply chains related to agriculture and manufacturing, especially in the context of existing tariff battles with the US.",
+      "summary": "The article discusses Canada's potential associate membership in the EU, which could reshape trade relations and impact supply chains, particularly in agriculture and manufacturing. The proposal raises concerns about tariffs and trade dependencies, especially with the US.",
+      "title": "Mark Carney and Canada made EU plenary interesting for once",
+      "url": "https://www.heraldscotland.com/politics/viewpoint/26564202.mark-carney-canada-made-eu-plenary-interesting/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical Water Supply Development in Beijing",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the historical development of the water supply system in Beijing and does not present any current or potential disruptions to supply chains.",
+      "summary": "The article provides a historical overview of the development of the water supply system in Beijing, detailing the transition from well water to modern piped water. It does not indicate any current supply chain disruptions or risks.",
+      "title": "穿越回1908 ， 这里藏着北京城  第一滴自来水 - 千龙网 · 中国首都网",
+      "url": "https://beijing.qianlong.com/2026/0920/8729740.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Trump - Xi Jinping Showdown",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential trade restrictions between the US and China?",
+        "Which manufacturing relationships could be impacted by geopolitical tensions?",
+        "What countries or regions are at risk due to the US-China trade dynamics?",
+        "Which supply-chain dependencies could transmit the disruption from the US to China?",
+        "Which downstream companies may be exposed to changes in trade policy between the US and China?"
+      ],
+      "reason": "The article discusses a geopolitical event that could lead to trade restrictions, impacting supply chains between the US and China, which are significant players in global trade and manufacturing.",
+      "summary": "The ongoing tensions between Trump and Xi Jinping may lead to trade disruptions that could affect global supply chains. This geopolitical showdown poses risks to industries reliant on trade between the United States and China.",
+      "title": "Trump - Xi Jinping showdown casts a shadow over global economy , trade",
+      "url": "https://www.business-standard.com/world-news/trump-xi-jinping-showdown-casts-a-shadow-over-global-economy-trade-126092000250_1.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Increased German Investment in China Amidst Economic Challenges",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Germany",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of German companies operate in China?",
+        "How might changes in trade policy between Germany and China affect manufacturing operations?",
+        "Which German companies are most reliant on energy imports that could be affected by geopolitical tensions?",
+        "What are the potential impacts on logistics for German companies investing in China?",
+        "Which downstream companies in Germany depend on products sourced from China?"
+      ],
+      "reason": "The article discusses the implications of increased German investments in China amidst economic challenges in Germany, highlighting potential shifts in manufacturing and trade dynamics that could impact supply chains.",
+      "summary": "The article outlines the growing investment of German companies in China despite economic difficulties at home, suggesting a complex relationship that could influence supply chain dynamics. It raises concerns about trade policies and energy costs that may affect future operations.",
+      "title": "Le « Made in China » injustement mis en cause pour les problèmes du « Made in Germany » ",
+      "url": "http://french.peopledaily.com.cn/Horizon/n3/2026/0916/c31362-20500312.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical narrative with no current supply chain impact",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article is a historical narrative and does not describe any current or potential supply chain disruptions.",
+      "summary": "The article recounts historical events and personal stories without any connection to current supply chain activities or disruptions.",
+      "title": "通往自由繁荣之路 - 博客",
+      "url": "https://blog.wenxuecity.com/myblog/84197/202609/15367.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Events and Publications",
+      "companies_involved": [],
+      "industries_involved": [
+        "Publishing",
+        "Cultural Events"
+      ],
+      "countries_involved": [
+        "Sudan",
+        "United Kingdom",
+        "Algeria",
+        "Guinea",
+        "Mali",
+        "Morocco",
+        "Cameroon",
+        "Senegal",
+        "Ivory Coast",
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses cultural events and publications without any direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article highlights cultural events and the publication of a book focused on African history. It does not present any information that indicates a supply chain disruption or impact on supply chain activities.",
+      "title": "Notre semaine culturelle : Dee Dee Bridgewater , Souad Massi , Richard Bona , Mamani Keïta , Zeinab Badawi … | PlaneteAfrique",
+      "url": "https://planeteafrique.com/Actualites/index.asp?affiche=News_Display.asp&ID=17827",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Germany's Military Expansion Plans",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources may be affected by Germany's potential resumption of Russian energy imports?",
+        "Which defense contractors may be impacted by changes in Germany's military spending?",
+        "Which countries or regions may face supply chain disruptions due to geopolitical tensions arising from Germany's military expansion?",
+        "Which downstream companies in the EU rely on German defense contracts?",
+        "What are the potential impacts on logistics and transportation routes due to changes in military and energy policies?"
+      ],
+      "reason": "The article discusses Germany's plans to significantly increase its military capabilities, which could lead to changes in energy sourcing and geopolitical tensions affecting supply chains in the defense and energy sectors.",
+      "summary": "Germany's plans to enhance its military strength are causing concern within the EU, particularly regarding potential shifts in energy sourcing and geopolitical dynamics. This situation may disrupt supply chains related to defense and energy sectors across Europe.",
+      "title": "  Это революция . Дерзкое решение Германии вызвало панику в ЕС",
+      "url": "https://ria.ru/20260920/germaniya-2118869087.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalating Russia-NATO tensions and Iran war implications",
+      "companies_involved": [
+        "Elon Musk's companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "Iran",
+        "Israel",
+        "NATO countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Elon Musk's companies may be affected by geopolitical tensions?",
+        "Which manufacturing or production relationships may be impacted by sanctions against Russia?",
+        "Which countries or regions create exposure for companies involved in energy supply?",
+        "Which supply-chain dependencies could transmit disruptions from the escalating tensions?",
+        "Which downstream companies depend on products from suppliers affected by the Iran war?"
+      ],
+      "reason": "The article discusses rising geopolitical tensions that could lead to sanctions and military actions, impacting trade and energy supply chains, particularly involving Russia and Iran.",
+      "summary": "The article highlights escalating tensions between Russia and NATO amid the backdrop of the Iran war, which could lead to significant supply chain disruptions in energy and defense sectors. Companies involved in these industries may face risks due to potential sanctions and military actions.",
+      "title": "Why did Trump leave Camp David early ? Details as Russia - NATO tensions mount in the backdrop of Iran war",
+      "url": "https://www.hindustantimes.com/world-news/us-news/why-did-trump-leave-camp-david-early-details-as-russia-nato-tension-mount-in-the-backdrop-of-iran-war-101789864292543.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ukrainian Drone Attacks on Russian Infrastructure",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by the attacks on oil refineries?",
+        "Which logistics companies operate in the affected regions of Ukraine and Russia?",
+        "What are the potential impacts on energy supply chains due to the attacks?",
+        "Which downstream companies depend on energy supplies from the affected regions?",
+        "Which suppliers of critical infrastructure are exposed to the ongoing conflict?"
+      ],
+      "reason": "The article discusses drone attacks that target critical infrastructure, including oil refineries, which can disrupt energy supply chains and logistics operations in the region.",
+      "summary": "The article reports on significant drone attacks in Ukraine that have targeted critical infrastructure, including oil refineries. This geopolitical event poses risks to energy supply chains and logistics operations in both Ukraine and Russia.",
+      "title": " „ Bespielloser Angriff : Moskau meldet massive ukrainische Drohnenattacken – auch Ölraffinerie getroffen",
+      "url": "https://www.tagesspiegel.de/internationales/liveblog/bespieloser-angriff-moskau-meldet-massive-ukrainische-drohnenattacken--auch-olraffinerie-getroffen-4309180.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T094500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Military Withdrawal from Iraq",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Trade",
+        "Finance"
+      ],
+      "countries_involved": [
+        "Iraq",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential sanctions against Iraq?",
+        "Which manufacturing or production relationships may be impacted by the geopolitical instability in Iraq?",
+        "Which countries or regions create exposure for companies operating in Iraq?",
+        "Which supply-chain dependencies could transmit the disruption from Iraq to other regions?",
+        "Which downstream companies may be exposed to risks associated with the Iraqi market?"
+      ],
+      "reason": "The withdrawal of US forces from Iraq raises concerns about potential sanctions and geopolitical instability, which could disrupt trade and financial markets, impacting supply chains connected to Iraq.",
+      "summary": "The upcoming withdrawal of US forces from Iraq is causing market instability and fears of potential sanctions, which could disrupt trade and supply chains. The situation highlights the geopolitical risks that may affect various industries operating in or connected to Iraq.",
+      "title": "US Withdrawal Fears Grip Baghdad",
+      "url": "https://english.aawsat.com/arab-world/5320327-us-withdrawal-fears-grip-baghdad",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian seizure of French and European assets",
+      "companies_involved": [
+        "Auchan",
+        "Nestlé"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "France",
+        "Russia",
+        "Switzerland"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Auchan and Nestlé operate in Russia?",
+        "What manufacturing facilities are affected by the seizure of assets in Russia?",
+        "Which countries are involved in the supply chain of Auchan and Nestlé that may be impacted by this geopolitical event?",
+        "What supply-chain dependencies exist between French companies and their operations in Russia?",
+        "Which downstream companies rely on products from Auchan and Nestlé that may be affected by this disruption?"
+      ],
+      "reason": "The seizure of assets belonging to French and European companies in Russia represents a direct threat to their operations and supply chains, potentially disrupting their ability to conduct business in the region.",
+      "summary": "The article discusses a geopolitical event where Russia has placed French and European companies' assets under temporary management, which could disrupt their operations and supply chains. This action is a response to sanctions and poses risks to the affected companies' interests in Russia.",
+      "title": "一向主张对俄对话 ， 勒庞这次也罕见谴责",
+      "url": "https://news.ifeng.com/c/8wZTEGy5s9l",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Rumors about Chinese leadership",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses rumors and misinformation regarding Chinese political figures, which do not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses false rumors about Chinese political leaders, specifically Huawei's CEO and China's President. These rumors do not indicate any actual or potential supply chain disruptions.",
+      "title": "大陸近來 「 假消息滿天飛 」？ 3大傳言一次拆解 - 兩岸",
+      "url": "https://www.chinatimes.com/realtimenews/20260919002715-260409",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Driving without a license incident",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a legal issue involving an individual driving without a license, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on an incident where an 18-year-old was stopped by police for driving without a license in Varel, Germany. This event does not relate to supply chain disruptions or activities.",
+      "title": "Fahren ohne Führerschein in Varel : Polizei stoppt 18 - Jährigen",
+      "url": "https://www.nwzonline.de/friesland/fahren-ohne-fuehrerschein-in-varel-polizei-stoppt-18-jaehrigen_a_4,3,1859690985.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Gold Reserve Reallocation by European Central Banks",
+      "companies_involved": [
+        "De Nederlandsche Bank",
+        "Banque de France"
+      ],
+      "industries_involved": [
+        "Banking",
+        "Precious Metals"
+      ],
+      "countries_involved": [
+        "Netherlands",
+        "France",
+        "United States",
+        "Germany",
+        "Italy"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of gold to central banks may be affected by the reallocation of reserves?",
+        "Which banking operations depend on gold reserves stored in the United States?",
+        "How might geopolitical tensions between the US and Europe impact gold trading operations?",
+        "Which countries or regions are most affected by the changes in gold storage locations?",
+        "Which downstream financial institutions rely on the liquidity of gold reserves held in the US?"
+      ],
+      "reason": "The reallocation of gold reserves by European central banks in response to geopolitical tensions indicates a potential disruption in the supply chain of precious metals, affecting logistics, trade, and financial operations.",
+      "summary": "European central banks are relocating their gold reserves from the United States to Europe due to rising geopolitical tensions. This shift may impact the logistics and trading of gold, highlighting vulnerabilities in the supply chain of precious metals.",
+      "title": "Evropa premešta zlato iz SAD : Holandija prebacila 86 tona , Francuska povukla 129 tona iz Njujorka",
+      "url": "https://informer.rs/planeta/vesti/1151738/zlato-evropa-centralna-banka-amerika",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "German Elections Impact",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political elections in Germany and their potential impact on the political landscape, but it does not provide a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the upcoming elections in Germany and their implications for political parties and leadership. It does not indicate any direct supply chain disruptions or impacts on supply chain activities.",
+      "title": "Выборы в Германии : каким будет исход , почему они грозят Мерцу , что известно о партиях",
+      "url": "https://ura.news/articles/1053128937",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political statement regarding Russia",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "France",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political statement made by a public figure regarding Russia, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers a political statement by Marine Le Pen concerning Russia's actions in Europe. It does not indicate any direct supply chain disruptions or impacts on logistics, trade, or production.",
+      "title": "Что Марин Ле Пен говорит о России – новое заявление после угроз в Европе | Новости Украины",
+      "url": "https://news.liga.net/politics/news/le-pen-prokommentirovala-deistviya-moskvy-posle-izyatiya-rossiei-aktivov-i-ataki-dronov-v-leiptsige",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Introduction of S-71K Kowjor Precision Weapon",
+      "companies_involved": [
+        "United Aircraft Corporation"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "Egypt",
+        "USA",
+        "China",
+        "Switzerland",
+        "Japan",
+        "Germany",
+        "Taiwan",
+        "Ireland"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide components for the S-71K that may be affected by geopolitical tensions?",
+        "Which manufacturing facilities are involved in the production of the S-71K and its components?",
+        "Which countries are critical for sourcing parts for the S-71K and how might sanctions affect them?",
+        "What supply-chain dependencies exist between the United Aircraft Corporation and its international suppliers?",
+        "Which downstream defense contractors rely on the S-71K for their operations?"
+      ],
+      "reason": "The article discusses the development and international sourcing of components for a new Russian precision weapon, which indicates potential supply chain disruptions due to geopolitical tensions and reliance on foreign parts.",
+      "summary": "The introduction of Russia's S-71K precision weapon, with components sourced from multiple countries, highlights potential supply chain vulnerabilities amid ongoing geopolitical conflicts. This situation could impact defense manufacturing and logistics across involved nations.",
+      "title": "S - 71K „ Kowjor : Russlands neue Präzisionswaffe wurde erstmals in Ägypten gesichtet",
+      "url": "https://www.focus.de/politik/ausland/s-71k-kowjor-russlands-neue-praezisionswaffe-wurde-erstmals-in-aegypten-gesichtet_b7d3b947-354d-4075-99a8-78c9ef63f114.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Limousine Speed Violations on Highway",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses traffic violations by limousine services on a highway, which does not have a meaningful connection to supply chain activities such as logistics, transportation, or production.",
+      "summary": "The article highlights concerns about limousine vehicles violating speed regulations on the Hanoi-Haiphong highway. However, it does not indicate any direct impact on supply chain activities or operations.",
+      "title": "Xe cá nhân khó thoát , tại sao limousine  bay  trên cao tốc vẫn lộng hành ? ",
+      "url": "https://dantri.com.vn/ban-doc/xe-ca-nhan-kho-thoat-tai-sao-limousine-bay-tren-cao-toc-van-long-hanh-20260919115901082.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Potential Assassination Plot",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a potential assassination plot involving Russian intelligence on US soil, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights a potential change in the operational landscape for Russian dissidents in the US due to alleged assassination plots by Russian intelligence. However, it does not indicate any direct impact on supply chain activities.",
+      "title": "  The rules have changed : has Russia begun to order assassinations on US soil ? | Russia",
+      "url": "https://www.theguardian.com/world/2026/sep/20/the-rules-have-changed-has-russia-begun-to-order-assassinations-on-us-soil",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Potential Assassination Plot",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a potential assassination plot involving Russian intelligence on US soil, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a potential change in the geopolitical landscape regarding Russian operations in the US, specifically concerning assassination plots. However, it does not indicate any direct impact on supply chain activities.",
+      "title": "  The rules have changed : has Russia begun to order assassinations on US soil ? ",
+      "url": "https://www.aol.co.uk/articles/rules-changed-russia-begun-order-040005000.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased military tensions in Ukraine",
+      "companies_involved": [
+        "Wildberries",
+        "Ozon"
+      ],
+      "industries_involved": [
+        "E-commerce",
+        "Retail"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "Germany",
+        "Norway"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Wildberries and Ozon operate in the affected region?",
+        "Which manufacturing facilities depend on suppliers located in Ukraine or Russia?",
+        "How might increased military tensions affect logistics and transportation routes in the region?",
+        "Which downstream companies depend on products from Wildberries and Ozon?",
+        "What regulatory changes may impact trade between these countries?"
+      ],
+      "reason": "The article discusses military actions and geopolitical tensions that could disrupt supply chains, particularly in the e-commerce and retail sectors, due to potential impacts on logistics, trade, and operations in Ukraine and Russia.",
+      "summary": "The article highlights escalating military tensions in Ukraine, which could lead to significant disruptions in supply chains, particularly for companies like Wildberries and Ozon. The geopolitical situation may affect logistics, trade, and operational capabilities in the region.",
+      "title": "10 хороших новин 19 вересня | Новости надзвичайны в Харькове , Украине . Весь Харьков",
+      "url": "http://allkharkov.ua/news/pro/10-horoshih-novin-19-veresnia_2.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Taiwan Arms Sale Delay",
+      "companies_involved": [
+        "Anduril Industries"
+      ],
+      "industries_involved": [
+        "Defense Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Anduril Industries may be affected by the delay in arms sales?",
+        "Which manufacturing facilities are involved in the production of the arms intended for Taiwan?",
+        "What geopolitical factors could impact Anduril Industries' operations in Taiwan?",
+        "Which countries or regions create exposure for Anduril Industries due to the arms sale delay?",
+        "Which downstream companies depend on the products from Anduril Industries that are affected by this geopolitical event?"
+      ],
+      "reason": "The delay in the US arms sale to Taiwan, as discussed by Anduril Industries' founder, indicates a potential disruption in the supply chain for defense technology, affecting production and logistics related to military equipment.",
+      "summary": "The article discusses the delay in a significant arms sale from the US to Taiwan, which is impacting Anduril Industries' business operations. This geopolitical event poses risks to the supply chain in the defense technology sector, particularly concerning production and logistics.",
+      "title": "美军火贩子窜台炒作 ， 抱怨特朗普  挡财路 _ 凤凰网",
+      "url": "https://news.ifeng.com/c/8wZTLYtll0G",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Berlin Left Party Election Impact",
+      "companies_involved": [
+        "Vonovia"
+      ],
+      "industries_involved": [
+        "Real Estate"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Vonovia may be affected by regulatory changes in Berlin?",
+        "What impact could the Left party's policies have on real estate investment in Berlin?",
+        "Which construction companies are dependent on projects in Berlin that may be affected by new regulations?",
+        "How might changes in rental policies impact the supply chain for housing materials in Berlin?",
+        "Which financial institutions are exposed to risks from potential changes in real estate regulations?"
+      ],
+      "reason": "The article discusses political developments and potential policy changes in Berlin that could impact the real estate market, but it does not directly indicate a supply chain disruption related to manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article outlines the political landscape in Berlin with the Left party's potential rise to power and its implications for real estate policies. While it highlights concerns from business leaders regarding investment and construction, it does not present a clear supply chain disruption.",
+      "title": "  Berlin Mamdani  could carry Left party to power in Berlin – The Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/20/berlins-mamdani-could-carry-left-party-to-power-in-berlin/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Military Sales Negotiation",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by changes in military sales?",
+        "Which manufacturing relationships in the defense industry could be impacted by geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in US-China trade?",
+        "Which supply-chain dependencies could transmit disruptions from US-China negotiations?",
+        "Which downstream companies in the defense sector may be exposed to changes in military sales policies?"
+      ],
+      "reason": "The article discusses a geopolitical event involving military sales negotiations between the US and China, which could impact defense supply chains and related industries.",
+      "summary": "The article highlights a geopolitical situation regarding US military sales to China, which may lead to disruptions in the defense and manufacturing sectors. The ongoing negotiations could affect supply chains linked to military equipment and trade between the two countries.",
+      "title": " 〈 專文 〉 川普暫緩軍售原是華府鴻門宴 ！ 誘習近平入局談不攏140億大棒隨時出鞘",
+      "url": "https://n.yam.com/Article/20260920503313",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Czech-Israeli Defense Procurement Deal",
+      "companies_involved": [
+        "Rafael Advanced Defense Systems"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Czech Republic",
+        "Israel"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Rafael Advanced Defense Systems may be affected by the procurement deal?",
+        "Which manufacturing facilities in the Czech Republic are involved in the production of defense systems?",
+        "What are the potential impacts on logistics and transportation related to the delivery of defense systems?",
+        "Which countries or regions may create exposure due to geopolitical tensions affecting defense procurement?",
+        "Which downstream companies in the defense sector may be impacted by changes in procurement strategies?"
+      ],
+      "reason": "The article discusses a significant defense procurement deal between the Czech Republic and Israel, which involves the supply of military systems and could impact supply chain activities related to defense manufacturing and logistics.",
+      "summary": "Israel and the Czech Republic are nearing a multi-billion dollar deal for the procurement of SPYDER air defense systems. This deal is part of a broader trend of military modernization in Europe and may have implications for supply chain activities in the defense sector.",
+      "title": "Чехия готовит новую многомиллиардную закупку израильских систем ПВО",
+      "url": "https://news.israelinfo.co.il/148087",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Potential Russian Assassination Plot in the USA",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "USA",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a potential assassination plot by Russian agents on US soil, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a potential shift in Russian tactics regarding political assassinations in the USA, raising concerns about safety for dissidents. However, it does not indicate any direct impact on supply chain operations or activities.",
+      "title": "A început Rusia să ordone asasinate pe teritoriul SUA ? Fost înalt oficial CIA : „ Putin se vede pe sine ca un lider puternic  ",
+      "url": "https://www.digi24.ro/stiri/externe/rusia/a-inceput-rusia-sa-ordone-asasinate-pe-teritoriul-sua-fost-inalt-oficial-cia-putin-se-vede-pe-sine-ca-un-lider-puternic-3955829",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S. and Russia Tensions Impacting Energy Supply",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by U.S. sanctions on Russian oil refineries?",
+        "How might the geopolitical tensions between the U.S. and Russia impact logistics operations in Europe?",
+        "Which countries are most dependent on Russian energy supplies that could be disrupted?",
+        "What manufacturing sectors in the U.S. rely on stable energy supplies from Russia?",
+        "Which downstream companies in the energy sector could be exposed to disruptions from these geopolitical tensions?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between the U.S. and Russia, particularly regarding energy supply and potential impacts on logistics and trade, which can disrupt supply chains.",
+      "summary": "The article highlights the geopolitical tensions between the U.S. and Russia, particularly concerning energy supply and the implications for logistics and trade. These tensions could lead to significant disruptions in supply chains, especially in the energy sector.",
+      "title": "Почему Трамп требует не бить по НПЗ и какой станет Россия после Путина – интервью с Березовцем",
+      "url": "https://24tv.ua/ru/pochemu-tramp-trebuet-ne-bit-po-npz-kakoj-stanet-rossija-posle_n3145396",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T111500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential escalation of conflict affecting energy supply",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by the geopolitical tensions?",
+        "How might logistics operations be impacted by potential military actions?",
+        "Which countries or regions are at risk of energy supply disruptions due to the conflict?",
+        "What supply-chain dependencies exist between the U.S. and Russia that could be affected?",
+        "Which downstream companies rely on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between Russia and Ukraine, which could lead to disruptions in energy supply and logistics operations, impacting global supply chains.",
+      "summary": "The article highlights the potential for increased geopolitical tensions between Russia and Ukraine, which could disrupt energy supplies and logistics. This situation poses risks to various industries reliant on stable energy and transportation networks.",
+      "title": "Чому Трамп вимагає не бити по російських НПЗ та якою буде Росія після Путіна",
+      "url": "https://24tv.ua/chomu-tramp-vimagaye-ne-biti-po-rosiyskih-npz-yakoyu-bude-rosiya_n3145341",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Surge in Oil Transportation Costs Due to Geopolitical Tensions",
+      "companies_involved": [
+        "招商轮船",
+        "中远海能",
+        "招商南油"
+      ],
+      "industries_involved": [
+        "Oil Transportation",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "China",
+        "Saudi Arabia",
+        "Iran",
+        "Japan",
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil transportation services are affected by the increased shipping costs?",
+        "Which manufacturing facilities in China depend on oil imports from the Middle East?",
+        "How do changes in oil transportation routes impact logistics for companies in the oil industry?",
+        "Which countries are most reliant on VLCC shipping for their oil imports?",
+        "Which downstream companies in the oil refining sector may face increased costs due to higher shipping rates?"
+      ],
+      "reason": "The article discusses significant increases in oil transportation costs due to geopolitical tensions affecting shipping routes, which directly impacts logistics and supply chain operations in the oil industry.",
+      "summary": "The article highlights a dramatic surge in oil transportation costs driven by geopolitical tensions, particularly the closure of the Strait of Hormuz. This disruption affects logistics and supply chains in the oil transportation sector, with implications for various companies and countries involved in oil trade.",
+      "title": "半年涨价10倍 ， 油运涨疯了",
+      "url": "https://finance.ifeng.com/c/8wZq7I45oXG",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Geopolitical tensions affecting Germany's economy",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Energy",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Germany may be affected by the geopolitical tensions with Russia?",
+        "Which manufacturing facilities in Germany are dependent on energy supplies from Russia?",
+        "What transportation routes in Germany could be impacted by the current geopolitical climate?",
+        "Which industries in Germany are most vulnerable to disruptions caused by the economic decline?",
+        "Which downstream companies rely on the manufacturing output from Germany's affected industries?"
+      ],
+      "reason": "The article discusses the economic decline in Germany, exacerbated by geopolitical tensions with Russia, which could lead to disruptions in manufacturing, energy supply, and transportation sectors.",
+      "summary": "The article highlights the geopolitical tensions between Germany and Russia, which are contributing to Germany's economic decline. This situation poses potential risks to various supply chain activities, particularly in manufacturing and energy sectors.",
+      "title": "Putin se burla del canciller Merz",
+      "url": "https://www.hispanidad.com/sociedad/putin-se-burla-canciller-merz_20000386_102.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Geopolitical Tensions with Iran",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Iran"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical strategies regarding Iran but does not provide specific information about supply chain activities, disruptions, or impacts on companies or industries.",
+      "summary": "The article addresses geopolitical strategies related to Iran but does not indicate any direct supply chain disruptions or impacts on specific companies or industries.",
+      "title": "Countering Iran Endgame - OpEd - Eurasia Review",
+      "url": "https://www.eurasiareview.com/20092026-countering-irans-endgame-oped/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Surge in LNG Prices",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Natural Gas"
+      ],
+      "countries_involved": [
+        "Europe",
+        "Asia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of LNG are affected by the price surge?",
+        "How might the increased LNG prices impact manufacturing operations in Europe?",
+        "Which countries in Asia are most reliant on LNG imports and could face supply issues?",
+        "What logistics challenges arise from the competition for LNG between Europe and Asia?",
+        "Which downstream companies in Europe may be affected by higher energy costs?"
+      ],
+      "reason": "The article discusses a significant increase in LNG prices due to competitive bidding between Europe and Asia, which can impact energy supply chains and related industries.",
+      "summary": "Europe's competition with Asia for LNG has led to a 150% price surge, indicating potential disruptions in energy supply chains. This situation may affect manufacturing and logistics operations reliant on natural gas in both regions.",
+      "title": "Europe Outbids Asia for LNG as Prices Surge 150 %  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/consumption/europe-outbids-asia-for-lng-as-prices-surge-150",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased tensions due to Ukraine conflict",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "Poland"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense companies may be affected by the conflict?",
+        "Which logistics operations are impacted by the increased military activity in the region?",
+        "Which countries or regions create exposure for companies involved in defense manufacturing?",
+        "Which supply-chain dependencies could transmit disruptions due to the geopolitical tensions?",
+        "Which downstream companies depend on products from suppliers affected by the conflict?"
+      ],
+      "reason": "The article discusses the geopolitical tensions arising from the ongoing conflict between Russia and Ukraine, which could lead to disruptions in defense and logistics industries due to potential military actions and increased security measures.",
+      "summary": "The article highlights the growing geopolitical tensions surrounding Vladimir Putin and the ongoing conflict in Ukraine. These tensions could lead to significant disruptions in supply chains, particularly in the defense and logistics sectors, as military actions escalate.",
+      "title": "Inside Vladimir Putin world of bunkers , body doubles and growing paranoia",
+      "url": "https://www.rnz.co.nz/news/world/1481316/inside-vladimir-putin-s-world-of-bunkers-body-doubles-and-growing-paranoia",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Bachelet withdraws candidacy for UN Secretary-General",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Chile",
+        "Brazil",
+        "Mexico",
+        "Guiana",
+        "Costa Rica"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political event regarding a candidacy for a UN position, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "Michelle Bachelet has withdrawn her candidacy for the UN Secretary-General position, which was supported by several Latin American countries. This political development does not indicate any direct supply chain disruption.",
+      "title": "Bachelet desiste de candidatura para chefiar secretaria - geral da ONU",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/bachelet-desiste-de-candidatura-para-chefiar-secretaria-geral-da-onu-1.1749245",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Imposition of Section 338 Tariffs on Canadian Goods",
+      "companies_involved": [],
+      "industries_involved": [
+        "Alcoholic Beverages",
+        "Dairy Products"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. companies provide alcoholic beverages affected by the tariffs?",
+        "Which dairy product manufacturers in the U.S. rely on imports from Canada?",
+        "How will the 50% tariff on Canadian goods impact pricing and supply for U.S. retailers?",
+        "Which downstream companies in the U.S. depend on Canadian dairy and alcoholic products?",
+        "What alternative sourcing strategies can U.S. companies implement to mitigate the impact of these tariffs?"
+      ],
+      "reason": "The imposition of Section 338 tariffs creates a significant regulatory change affecting trade between the U.S. and Canada, impacting the supply chain for industries reliant on Canadian imports, particularly in alcoholic beverages and dairy products.",
+      "summary": "The U.S. has imposed a 50% tariff on certain Canadian goods, including alcoholic beverages and dairy products, due to perceived discrimination against U.S. commerce. This trade policy change is likely to disrupt supply chains reliant on these imports, affecting pricing and availability in the U.S. market.",
+      "title": "What are Section 338 Tariffs ? ",
+      "url": "https://www.cpapracticeadvisor.com/2026/09/19/what-are-section-338-tariffs/190344/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Joint Work Agreement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a joint work agreement between political figures and does not indicate any direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on a collaboration agreement between Sheinbaum and the Governor of Chihuahua regarding joint work in Juárez. There is no indication of a supply chain disruption related to this event.",
+      "title": "Sheinbaum and Chihuahua Governor Agree Joint Work in Juárez",
+      "url": "https://www.riotimesonline.com/mexico-sheinbaum-campos-juarez-us-agents-dispute-2026/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Global Logistics Cooperation Summit",
+      "companies_involved": [
+        "橙心物流网 (OLO)",
+        "AMERICA WORLDTIP.inc",
+        "WWW Cargo Pte Ltd",
+        "Mercury Bangladesh (Pvt) Ltd",
+        "Kora Marine Mex",
+        "Worldwise Freight (M) Sdn. Bhd."
+      ],
+      "industries_involved": [
+        "Logistics",
+        "International Trade"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Singapore",
+        "Bangladesh",
+        "Mexico",
+        "Malaysia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of橙心物流网 (OLO) operate in the affected regions?",
+        "Which manufacturing facilities depend on logistics services from the companies involved in the summit?",
+        "Which countries or regions create exposure for the logistics companies mentioned?",
+        "Which supply-chain dependencies could transmit disruptions from the summit's outcomes?",
+        "Which downstream companies depend on services from the logistics firms participating in the summit?"
+      ],
+      "reason": "The summit focused on international trade and logistics, facilitating partnerships and discussions that could impact supply chain operations and logistics strategies globally.",
+      "summary": "The Global Logistics Cooperation Summit held in Sanya, China, brought together logistics companies from around the world to discuss international trade and logistics innovations. The event is likely to influence supply chain dynamics and partnerships, creating potential disruptions or opportunities in logistics operations.",
+      "title": "第十一届全球物流交易合作峰会在海南三亚成功举办 - 南海网",
+      "url": "https://www.hinews.cn/page?n=2843016&m=1&s=1044",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Alberta Separation Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade agreements due to Alberta's potential separation?",
+        "Which manufacturing operations in Alberta could be impacted by new regulatory frameworks?",
+        "What logistics companies operate in Alberta that could face disruptions from geopolitical changes?",
+        "Which downstream companies rely on trade routes that may be affected by Alberta's separation?",
+        "How might Alberta's separation impact energy supply chains within Canada?"
+      ],
+      "reason": "The article discusses the potential separation of Alberta, which could lead to significant changes in trade agreements, regulatory frameworks, and logistics operations, all of which are critical components of supply chains.",
+      "summary": "The article analyzes the potential implications of Alberta's separation from Canada, focusing on trade, treaties, and economic impacts. This geopolitical event could disrupt supply chains related to trade, manufacturing, and logistics in the region.",
+      "title": "The tangled what - ifs of Alberta separation from trade and treaties to currency and disaster costs",
+      "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-separation-consequences-details-9.7350445",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions over Saint-Pierre-et-Miquelon sovereignty",
+      "companies_involved": [
+        "Canadian oil producers",
+        "European Union"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Trade"
+      ],
+      "countries_involved": [
+        "France",
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Canadian oil producers may be affected by geopolitical tensions?",
+        "Which manufacturing or production relationships may be impacted by trade policies between the US and Canada?",
+        "Which countries or regions create exposure for energy supply chains due to these tensions?",
+        "Which supply-chain dependencies could transmit the disruption from the US to Canada?",
+        "Which downstream companies depend on energy supplies from Canadian producers?"
+      ],
+      "reason": "The article discusses geopolitical tensions between the US and Canada regarding sovereignty over Saint-Pierre-et-Miquelon, which could impact energy supply chains and trade relationships, particularly in the context of oil and gas sourcing.",
+      "summary": "The article highlights rising geopolitical tensions between the US and Canada over the sovereignty of Saint-Pierre-et-Miquelon, which may affect energy supply chains and trade dynamics. Emmanuel Macron's visit aims to strengthen ties with Canada amidst these tensions, particularly in energy sourcing.",
+      "title": " « Saint - Pierre - et - Miquelon est français » : en visite sur larchipel , Emmanuel Macron nhésite pas à recadrer Donald Trump",
+      "url": "https://www.parismatch.com/actu/politique/saint-pierre-et-miquelon-est-francais-en-visite-sur-larchipel-emmanuel-macron-nhesite-pas-a-recadrer-donald-trump-276059",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Uruguay Port Union Strike",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Uruguay"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in Montevideo's container terminal?",
+        "Which suppliers rely on the port for import and export activities?",
+        "What are the potential delays in cargo handling due to the strike?",
+        "Which downstream companies depend on timely deliveries from the affected port?",
+        "How might the strike impact freight rates for transport operators?"
+      ],
+      "reason": "The 24-hour strike by Uruguay's port union will halt dock work and port services, leading to potential delays in import and export cargo, which directly impacts logistics and transportation activities.",
+      "summary": "A 24-hour strike by the port union in Uruguay is set to disrupt dock work and port services, potentially causing delays in cargo handling. This event poses a risk to logistics and transportation operations reliant on the Montevideo port.",
+      "title": "LatAm Expat & Nomad Daily Guide for Sunday , September 20 , 2026",
+      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-sunday-september-20-2026/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Iran Conflict and Impact on Energy Supply",
+      "companies_involved": [
+        "Saudi Aramco",
+        "Iranian Oil Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Saudi Arabia",
+        "Yemen"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by the conflict in the region?",
+        "Which manufacturing or production relationships may be impacted by the reduced oil supply?",
+        "Which countries or regions create exposure for companies relying on Middle Eastern oil?",
+        "Which supply-chain dependencies could transmit the disruption from the conflict?",
+        "Which downstream companies depend on oil imports from the affected regions?"
+      ],
+      "reason": "The article discusses the geopolitical tensions and military actions in the Middle East, particularly involving Iran and Saudi Arabia, which directly impact energy supply chains and oil prices, indicating a significant supply chain disruption.",
+      "summary": "The ongoing conflict involving Iran and Saudi Arabia poses a risk to global energy supply chains, particularly affecting oil production and logistics. The situation is exacerbated by military actions and geopolitical tensions, which could lead to increased prices and supply shortages.",
+      "title": " « La réception sera beaucoup plus hostile pour Trump » : la mise en garde dun professeur de Harvard",
+      "url": "https://www.parismatch.com/actu/international/la-reception-sera-beaucoup-plus-hostile-pour-trump-la-mise-en-garde-dun-professeur-de-harvard-276054",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Water Supply Crisis in San Luis Potosí",
+      "companies_involved": [
+        "Interapas"
+      ],
+      "industries_involved": [
+        "Water Management",
+        "Public Utilities"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Interapas may be affected by the water supply crisis?",
+        "Which manufacturing facilities in the region depend on water supply from Interapas?",
+        "What are the potential impacts on local businesses due to water shortages?",
+        "Which downstream companies rely on water for their operations in the affected area?",
+        "How might the political instability surrounding Interapas affect its operational capabilities?"
+      ],
+      "reason": "The article discusses a critical water supply crisis affecting Interapas, which directly impacts the operational capabilities of water management and public utilities in the region, potentially disrupting supply chains reliant on water resources.",
+      "summary": "The article highlights a significant water supply crisis in San Luis Potosí, Mexico, affecting the operations of Interapas. This situation poses risks to local industries and could disrupt supply chains dependent on water resources.",
+      "title": "Interapas , LA optimista",
+      "url": "https://pulsoslp.com.mx/expresion/interapas-la-optimista/2087463",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Nationwide Power Outage in Cuba",
+      "companies_involved": [
+        "CUPET"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "United States",
+        "Venezuela",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources are affected by the sanctions on Cuba?",
+        "Which manufacturing facilities in Cuba depend on a stable energy supply?",
+        "Which countries are potential sources of energy for Cuba that may be impacted by U.S. sanctions?",
+        "Which logistics operations are affected by the power outage in Cuba?",
+        "Which downstream companies rely on energy supply from Cuba?"
+      ],
+      "reason": "The nationwide power outage in Cuba is directly linked to energy supply disruptions caused by U.S. sanctions, which impact the country's ability to import fuel and maintain its electrical infrastructure.",
+      "summary": "Cuba experienced a nationwide power outage due to failures in its aging electrical grid, exacerbated by U.S. sanctions limiting fuel imports. This disruption poses significant risks to energy supply and related industries in the region.",
+      "title": "全国突然陷入黑暗 ！ 背后发生了什么",
+      "url": "https://www.aboluowang.com/2026/0920/2435863.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Crisis in Cuba due to economic blockade",
+      "companies_involved": [
+        "Cuban government",
+        "Mexican government"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Healthcare",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of medical supplies are affected by the blockade in Cuba?",
+        "Which energy suppliers are impacted by the crisis in Cuba?",
+        "What agricultural products are being imported from Mexico to Cuba?",
+        "Which companies in the healthcare sector rely on Cuban pharmaceuticals?",
+        "How might changes in U.S. trade policy affect the supply chain for Cuba?"
+      ],
+      "reason": "The article discusses a significant economic blockade affecting Cuba's energy and healthcare sectors, leading to supply shortages and impacting trade relationships, particularly with Mexico. This creates a direct connection to supply chain activities.",
+      "summary": "Cuba is facing an unprecedented economic crisis due to a blockade that has severely impacted its energy and healthcare supply chains. The situation poses risks to trade relationships, particularly with Mexico, which is a key supplier of essential goods.",
+      "title": "Cuba enfrenta una  guerra económica  más intensa desde 1959 , afirma embajador en México – Periódico Zócalo | Noticias de Saltillo , Torreón , Piedras Negras , Monclova , Acuña",
+      "url": "https://www.zocalo.com.mx/cuba-enfrenta-una-guerra-economica-mas-intensa-desde-1959-afirma-embajador-en-mexico/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Criticism of Canelo Álvarez's boxing career",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a public critique of a professional athlete's career and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on Cuauhtémoc Blanco's criticism of Canelo Álvarez's boxing career, highlighting concerns about the competitiveness of his opponents. It does not present any information related to supply chain disruptions.",
+      "title": "Cuauhtémoc Blanco arremete contra el Canelo Álvarez y cuestiona su carrera",
+      "url": "https://laopinion.com/2026/09/19/cuauhtemoc-blanco-arremete-contra-el-canelo-alvarez-y-cuestiona-su-carrera/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Cuba's Economic Crisis and Supply Blockade",
+      "companies_involved": [
+        "Cuban Government",
+        "Mexican Government"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Healthcare",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of medical supplies are affected by the blockade in Cuba?",
+        "Which energy suppliers are impacted by the reduced fuel imports to Cuba?",
+        "What manufacturing operations in Cuba depend on imported goods that are currently blocked?",
+        "Which countries are key suppliers for the agricultural products imported to Cuba?",
+        "Which downstream companies in Mexico rely on Cuban exports such as rum and tobacco?"
+      ],
+      "reason": "The article discusses a significant economic crisis in Cuba due to geopolitical tensions and supply blockades, which directly impacts energy supply, healthcare, and trade relationships, indicating a clear disruption in the supply chain.",
+      "summary": "Cuba is facing an unprecedented economic crisis exacerbated by a blockade affecting energy and medical supplies. This situation poses significant risks to supply chains involving Cuba, particularly in energy, healthcare, and trade with Mexico and the United States.",
+      "title": "Cuba enfrenta una  guerra económica  más intensa desde 1959 , afirma embajador en México",
+      "url": "https://lajornadasanluis.com.mx/cuba-enfrenta-una-guerra-economica-mas-intensa-desde-1959-afirma-embajador-en-mexico/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Other",
+      "event": "International Commercial Law Dialogue",
+      "companies_involved": [],
+      "industries_involved": [
+        "Legal Services",
+        "International Trade"
+      ],
+      "countries_involved": [
+        "China",
+        "Singapore",
+        "Australia",
+        "Lebanon",
+        "Nigeria",
+        "Kazakhstan"
+      ],
+      "risk_exposure_questions": [
+        "Which legal firms may be affected by changes in international commercial law?",
+        "How might changes in dispute resolution mechanisms impact international trade relationships?",
+        "Which countries are most likely to be affected by new international arbitration practices?",
+        "What suppliers may be impacted by evolving legal frameworks in international trade?",
+        "Which companies rely on international arbitration for dispute resolution?"
+      ],
+      "reason": "The article discusses a significant international conference focused on enhancing the effectiveness of commercial dispute resolution, which directly relates to the stability and efficiency of international supply chains and trade relationships.",
+      "summary": "The article highlights a major international conference aimed at improving commercial dispute resolution mechanisms, which is crucial for maintaining stable international supply chains. The discussions involve various countries and legal experts, indicating potential impacts on global trade practices.",
+      "title": "共话国际商事法治新图景 最高法国际商事专家委员会第五届研讨会综述",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/512251.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Press Access Restrictions",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses restrictions on media access to the White House, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details the ongoing tensions between President Trump and major media organizations regarding press access to the White House. This situation does not indicate any supply chain disruption as it primarily concerns freedom of the press and does not impact supply chain operations.",
+      "title": "  ہم سے کارڈ ضبط کر لیے گئے : صدر ٹرمپ کی پریس کے ساتھ جاری کشیدگی ایک  نیا لیول ، تین میڈیا اداروں کے صحافیوں پر پابندی کیوں لگی ؟ ",
+      "url": "https://www.bbc.com/urdu/articles/cmlyrx9x0z0ro",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Arrest related to AI chat interactions",
+      "companies_involved": [
+        "OpenAI"
+      ],
+      "industries_involved": [
+        "Artificial Intelligence",
+        "Law Enforcement"
+      ],
+      "countries_involved": [
+        "Brazil",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "What are the implications for OpenAI regarding user data privacy and law enforcement collaboration?",
+        "How might this incident affect the perception of AI technologies in law enforcement?",
+        "What regulatory changes could arise from this case that may impact AI companies?"
+      ],
+      "reason": "This event does not have a direct connection to supply chain activities such as production, logistics, or trade, but rather pertains to legal and ethical implications of AI usage.",
+      "summary": "The article discusses the arrest of an individual in Brazil for allegedly planning violent acts through interactions with an AI chatbot. While it raises concerns about AI and law enforcement, it does not indicate a disruption in supply chain activities.",
+      "title": "چیٹ جی پی ٹی پر بیٹے کے قتل کی مبینہ منصوبہ بندی کرنے والا شخص کیسے گرفتار ہوا ؟ ",
+      "url": "https://www.bbc.com/urdu/articles/cjy5z1r399edo",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Nationwide blackout in Cuba due to fuel shortages and US restrictions",
+      "companies_involved": [
+        "CUPET"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Healthcare",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "United States",
+        "Venezuela",
+        "Russia",
+        "China",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources are affected by the US restrictions on oil shipments to Cuba?",
+        "Which manufacturing facilities in Cuba depend on stable electricity supply for operations?",
+        "Which countries are potential alternative suppliers of oil to Cuba?",
+        "Which healthcare providers in Cuba are impacted by the lack of essential medical supplies due to energy shortages?",
+        "Which transportation companies in Cuba are affected by the electricity disruptions?"
+      ],
+      "reason": "The nationwide blackout in Cuba is directly linked to fuel shortages caused by geopolitical restrictions, impacting energy supply and leading to broader disruptions in transportation, healthcare, and other essential services.",
+      "summary": "Cuba is experiencing a nationwide blackout due to severe fuel shortages exacerbated by US restrictions on oil shipments. This situation has significant implications for energy supply, transportation, and healthcare services on the island.",
+      "title": "Cuba plunges into darkness amid nationwide blackout",
+      "url": "http://www.heraldglobe.com/news/279317904/cuba-plunges-into-darkness-amid-nationwide-blackout",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Nationwide blackout in Cuba due to fuel shortages",
+      "companies_involved": [
+        "CUPET"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Healthcare",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "United States",
+        "Venezuela",
+        "Russia",
+        "China",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources are affected by US restrictions on oil shipments to Cuba?",
+        "Which manufacturing facilities in Cuba depend on stable electricity supply?",
+        "Which healthcare providers are impacted by the lack of electricity and medical supplies?",
+        "What are the dependencies of transportation logistics on the energy supply in Cuba?",
+        "Which countries are potential alternative suppliers of oil to Cuba that could mitigate the disruption?"
+      ],
+      "reason": "The nationwide blackout in Cuba is directly linked to severe fuel shortages caused by geopolitical restrictions on oil shipments, impacting energy supply and consequently affecting transportation, healthcare, and other critical services.",
+      "summary": "Cuba is experiencing a nationwide blackout due to severe fuel shortages exacerbated by US restrictions on oil shipments. This disruption affects multiple sectors, including energy, transportation, and healthcare, highlighting significant supply chain vulnerabilities.",
+      "title": "Cuba plunges into darkness amid nationwide blackout",
+      "url": "http://www.kenyastar.com/news/279317904/cuba-plunges-into-darkness-amid-nationwide-blackout",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Nationwide blackout in Cuba due to fuel shortages",
+      "companies_involved": [
+        "CUPET"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Healthcare",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "United States",
+        "Venezuela",
+        "Russia",
+        "China",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of fuel to Cuba are affected by US restrictions?",
+        "Which manufacturing or production relationships in Cuba may be impacted by the energy crisis?",
+        "Which countries or regions provide humanitarian assistance that could influence supply chains in Cuba?",
+        "Which supply-chain dependencies could transmit the disruption from Cuba to other regions?",
+        "Which downstream companies in the healthcare sector may be exposed to the lack of electricity and fuel in Cuba?"
+      ],
+      "reason": "The nationwide blackout in Cuba is directly linked to severe fuel shortages caused by geopolitical restrictions, impacting energy supply and consequently affecting transportation, healthcare, and other critical services.",
+      "summary": "Cuba is experiencing a nationwide blackout due to severe fuel shortages exacerbated by US restrictions on oil shipments. This disruption affects multiple sectors, including energy, transportation, and healthcare, highlighting significant supply chain vulnerabilities.",
+      "title": "Cuba plunges into darkness amid nationwide blackout",
+      "url": "http://www.batonrougepost.com/news/279317904/cuba-plunges-into-darkness-amid-nationwide-blackout",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Nationwide blackout in Cuba due to fuel shortages",
+      "companies_involved": [
+        "CUPET"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Healthcare",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "United States",
+        "Venezuela",
+        "Russia",
+        "China",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources are affected by the US restrictions on oil shipments to Cuba?",
+        "Which manufacturing facilities in Cuba depend on stable electricity supply?",
+        "Which transportation networks are impacted by the electricity shortages in Cuba?",
+        "What are the dependencies of healthcare facilities on energy supply in Cuba?",
+        "Which countries are potential alternative suppliers of oil to Cuba?"
+      ],
+      "reason": "The nationwide blackout in Cuba is directly linked to severe fuel shortages caused by geopolitical restrictions, impacting energy supply and consequently affecting transportation, healthcare, and other critical services.",
+      "summary": "Cuba is experiencing a nationwide blackout due to severe fuel shortages exacerbated by US restrictions on oil shipments. This disruption has significant implications for energy supply, transportation, and healthcare services on the island.",
+      "title": "Cuba plunges into darkness amid nationwide blackout",
+      "url": "http://www.venezuelastar.com/news/279317904/cuba-plunges-into-darkness-amid-nationwide-blackout",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Narcotrafficking Impact on Fishing Industry",
+      "companies_involved": [
+        "Karla Francesca",
+        "Siempre Don Carlos"
+      ],
+      "industries_involved": [
+        "Fishing",
+        "Narcotics"
+      ],
+      "countries_involved": [
+        "Ecuador",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which fishing companies in Ecuador are at risk of being involved in narcotrafficking?",
+        "Which suppliers of fuel and supplies to fishing operations may be affected by narcotrafficking activities?",
+        "Which regions in Ecuador are most impacted by the narcotrafficking networks?",
+        "What are the potential impacts on the fishing supply chain due to law enforcement actions against narcotrafficking?",
+        "Which downstream companies depend on the fishing industry in the affected regions?"
+      ],
+      "reason": "The article discusses the involvement of local fishermen in narcotrafficking, which poses a risk to the fishing industry's operations and supply chain integrity due to potential legal actions and disruptions in normal fishing activities.",
+      "summary": "The article highlights the recruitment of fishermen in Manabí, Ecuador, by narcotrafficking networks, which poses significant risks to the fishing industry. This situation could disrupt supply chains related to fishing operations and logistics due to increased law enforcement scrutiny and potential legal repercussions.",
+      "title": "Pescadores de Manabí en la mira del narco : por esto llegan a ofrecerles hasta $100 mil",
+      "url": "https://www.extra.ec/noticia/justicia/pescadores-manabi-mira-narco-esto-llegan-ofrecerles-100-mil-162984.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Sanctions Law Impact on Indian Exports",
+      "companies_involved": [
+        "Boeing",
+        "Lockheed Martin"
+      ],
+      "industries_involved": [
+        "Pharmaceuticals",
+        "Information Technology",
+        "Engineering",
+        "Energy",
+        "Defense"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian pharmaceutical companies may be affected by the potential tariffs?",
+        "Which manufacturing relationships in India could be impacted by the US sanctions?",
+        "What are the dependencies of Indian IT companies on exports to the US?",
+        "Which downstream companies in the US rely on products from Indian exporters?",
+        "How might the tariffs affect the supply chain for defense exports involving Indian companies and US manufacturers?"
+      ],
+      "reason": "The article discusses potential US tariffs on Indian goods, which could significantly disrupt trade and supply chain activities across multiple sectors, including pharmaceuticals and IT, thereby impacting suppliers, manufacturers, and logistics.",
+      "summary": "The new US sanctions law poses a significant risk to Indian exporters across various sectors, including pharmaceuticals and IT. The potential for high tariffs could disrupt trade relations and supply chains between India and the US.",
+      "title": "From pharma to IT , exporters on edge , brace for US sanctions law fallout",
+      "url": "https://www.tribuneindia.com/news/india/from-pharma-to-it-exporters-on-edge-brace-for-us-sanctions-law-fallout/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Vietnam's Trade Defense Measures",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Chemicals",
+        "Metals",
+        "Construction Materials"
+      ],
+      "countries_involved": [
+        "Vietnam",
+        "United States",
+        "India",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Vietnamese manufacturers may be affected by new trade defense measures?",
+        "Which manufacturing facilities in Vietnam depend on imports that could be impacted by trade investigations?",
+        "Which countries are the primary sources of raw materials for industries facing increased trade scrutiny?",
+        "What supply-chain dependencies exist between Vietnamese exporters and the markets facing investigations?",
+        "Which downstream companies in Vietnam rely on products from industries affected by trade defense actions?"
+      ],
+      "reason": "The article discusses Vietnam's proactive trade defense measures, which could impact manufacturing and trade activities, thus affecting supply chains.",
+      "summary": "Vietnam is implementing trade defense measures to protect its domestic industries from international competition. This could lead to disruptions in supply chains, particularly in manufacturing sectors that rely on imports and exports.",
+      "title": "Phòng vệ thương mại : Giải pháp cho cạnh tranh công bằng",
+      "url": "https://vneconomy.vn/phong-ve-thuong-mai-kien-tao-canh-tranh-cong-bang-thuc-day-nang-luc-san-xuat-quoc-gia.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market Upgrade Impact",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the impact of Vietnam's market upgrade and foreign investment trends, but it does not directly relate to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article analyzes the effects of Vietnam's market upgrade on foreign investment and market sentiment. However, it does not indicate any direct supply chain disruptions or impacts on specific companies or industries.",
+      "title": "Xu thế dòng tiền : Chính thức nâng hạng có tạo bước ngoặt cho thị trường ? ",
+      "url": "https://vneconomy.vn/xu-the-dong-tien-chinh-thuc-nang-hang-co-tao-buoc-ngoat-cho-thi-truong.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market Upgrade Impact",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the upgrade of Vietnam's stock market status and its implications for foreign investment, but it does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article focuses on the recent upgrade of Vietnam's stock market to emerging market status and its potential effects on foreign investment. However, it does not indicate any specific supply chain disruptions or risks related to suppliers, manufacturing, or logistics.",
+      "title": "Xu thế dòng tiền : Chính thức nâng hạng có tạo bước ngoặt cho thị trường ? ",
+      "url": "https://baomoi.com/xu-the-dong-tien-chinh-thuc-nang-hang-co-tao-buoc-ngoat-cho-thi-truong-c56089987.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "N/A",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any specific information regarding supply chain activities, disruptions, or impacts on suppliers, manufacturers, or logistics.",
+      "summary": "The article does not indicate any supply chain disruption or potential impact on supply chain activities.",
+      "title": "  网红  瑞浦兰钧和它的新能源冠军梦 _ 个股资讯 _ 市场 _ 中金在线",
+      "url": "http://sc.stock.cnfol.com/ggzixun/20260920/32375732.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T111500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Increase in Exports to ASEAN",
+      "companies_involved": [
+        "博汇纸业",
+        "新华制药",
+        "鲁泰纺织",
+        "英科再生"
+      ],
+      "industries_involved": [
+        "Machinery",
+        "Chemicals",
+        "Textiles"
+      ],
+      "countries_involved": [
+        "China",
+        "Thailand",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 博汇纸业 operate in the ASEAN region?",
+        "Which manufacturing facilities depend on exports to Thailand and Vietnam?",
+        "What are the potential impacts of RCEP on supply chain costs for companies in the affected industries?",
+        "Which downstream companies depend on products exported to ASEAN countries?",
+        "How might changes in trade policy affect logistics operations for companies exporting to ASEAN?"
+      ],
+      "reason": "The article discusses significant increases in exports from Zibo to ASEAN countries, driven by trade agreements and logistics improvements, indicating a positive impact on supply chain activities.",
+      "summary": "Zibo has seen a notable increase in exports to ASEAN countries, driven by favorable trade policies and improved logistics. This growth highlights the importance of trade agreements in enhancing supply chain efficiency and market access.",
+      "title": "淄博对东盟出口何以  节节高  - 鲁网 · 淄博",
+      "url": "http://zibo.sdnews.com.cn/xwzx/202609/t20260918_4740751.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Impact of West Asia war on core industries",
+      "companies_involved": [],
+      "industries_involved": [
+        "Fertilizers",
+        "Steel",
+        "Electricity",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "India",
+        "West Asia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of fertilizers are affected by the disruptions in LNG supplies?",
+        "Which manufacturing facilities depend on steel production that may be impacted by the war?",
+        "Which countries supply raw materials for the affected industries?",
+        "Which downstream companies rely on electricity and oil from the impacted regions?",
+        "What are the supply-chain dependencies for companies involved in fertilizer production?"
+      ],
+      "reason": "The article discusses the impact of the West Asia war on various core industries, particularly highlighting disruptions in fertilizer production and energy supply, which are critical to supply chain operations.",
+      "summary": "The ongoing West Asia war is causing significant disruptions in core industries in India, particularly affecting fertilizer and energy production. This geopolitical event poses risks to supply chains reliant on these sectors.",
+      "title": "The week ahead in numbers : Credit growth , flash PMI , Fed signals",
+      "url": "https://www.livemint.com/economy/bank-deposits-credit-growth-pmi-core-industries-federal-reserve-oil-prices-foreign-tourist-arrivals-india-economy-11789819222053.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260920T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a marathon event and community activities, with no meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article focuses on the HDBank Green Marathon 2026 event in Ho Chi Minh City, highlighting the participation of athletes and community engagement. It does not present any information related to supply chain disruptions.",
+      "title": "Green Marathon 2026 : Hơn 3 . 000 vận động viên đánh thức vùng đất cửa biển TP . HCM",
+      "url": "https://danviet.vn/green-marathon-2026-hon-1000-van-dong-vien-danh-thuc-vung-dat-cua-bien-tphcm-d1460873.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Vietnam's Stock Market Upgrade",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Vietnam's upgrade to an emerging market status and its implications for foreign investment, but it does not directly relate to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article highlights Vietnam's transition to an emerging market status, which may enhance foreign investment opportunities. However, it does not indicate any direct supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "Nâng hạng thị trường chứng khoán , nâng chuẩn nền kinh tế",
+      "url": "https://vietbao.vn/nang-hang-thi-truong-chung-khoan-nang-chuan-nen-kinh-te-607991.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding and Landslide Warning in Quang Tri and Hue",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Quang Tri and Hue that may be affected by flooding?",
+        "Which construction projects in the region could be delayed due to landslides?",
+        "Which logistics companies rely on transportation routes through the affected areas?",
+        "What agricultural operations in Quang Tri and Hue may face disruptions from flooding?",
+        "Which downstream companies depend on products sourced from the affected regions?"
+      ],
+      "reason": "The article reports on severe weather conditions leading to warnings of flooding and landslides, which can disrupt logistics, construction, and agricultural activities in the affected areas.",
+      "summary": "Severe weather warnings for flooding and landslides in Quang Tri and Hue, Vietnam, pose potential disruptions to supply chain activities in construction, logistics, and agriculture. Companies operating in these regions may face operational challenges due to the natural disaster.",
+      "title": "Trạm tin trưa 20 / 9 : TPHCM thúc đẩy công nghiệp văn hóa | Cảnh báo lũ quét , sạt lở đất tại Quảng Trị và Huế",
+      "url": "https://voh.com.vn/doi-song/tram-tin-trua-209-tphcm-thuc-day-cong-nghiep-van-hoa-canh-bao-lu-quet-sat-lo-dat-tai-quang-tri-va-hue-669205.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Regulatory Challenges for Business Closure",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses regulatory challenges and bureaucratic hurdles for businesses in Vietnam, particularly regarding the process of closing down operations. While this may affect the business environment, it does not directly indicate a disruption in supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the complexities and inefficiencies in the business closure process in Vietnam, which may hinder economic fluidity. However, it does not present a direct supply chain disruption related to manufacturing, logistics, or trade activities.",
+      "title": "Cải cách  cửa ra  của thị trường",
+      "url": "https://baodautu.vn/cai-cach-cua-ra-cua-thi-truong-d697231.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Tax Registration Guidance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses tax registration procedures and compliance but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article provides guidance on tax registration and compliance in Vietnam. It emphasizes the importance of accurate tax information but does not relate to any supply chain disruptions.",
+      "title": "Sau khi được cấp mã số thuế , cần làm gì để tránh phát sinh tiền nộp chậm ? ",
+      "url": "https://vietbao.vn/sau-khi-duoc-cap-ma-so-thue-can-lam-gi-de-tranh-phat-sinh-tien-nop-cham-607984.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Company Bankruptcy",
+      "event": "Bankruptcy of Nezha Automobile",
+      "companies_involved": [
+        "Huawei",
+        "Nezha Automobile",
+        "360"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nezha Automobile are affected by its bankruptcy?",
+        "Which manufacturing facilities are dependent on Nezha Automobile's production?",
+        "What are the financial implications for 360 due to its investment in Nezha Automobile?",
+        "Which companies in the automotive industry are exposed to the fallout from Nezha's bankruptcy?",
+        "How does Huawei's decision to not manufacture cars impact its partnerships with automotive companies?"
+      ],
+      "reason": "The article discusses the bankruptcy of Nezha Automobile, which has significant implications for its suppliers and the automotive industry in China. The financial struggles and operational shutdowns of Nezha directly affect supply chain activities, including production and supplier relationships.",
+      "summary": "Nezha Automobile is facing bankruptcy, which has led to significant disruptions in its supply chain, affecting numerous suppliers and stakeholders. The article highlights the broader implications for the automotive industry in China, particularly in light of Huawei's strategic decision to refrain from manufacturing vehicles.",
+      "title": "华为再强调不造车 ， 周鸿祎心有余悸 ， 造车到底吓跑了多少人 ？ ",
+      "url": "https://finance.ifeng.com/c/8wZkpCMfoJ4",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Illegal Invoice Trading and Tax Evasion",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Services"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which companies in the construction and services industries are at risk of using illegal invoices?",
+        "What suppliers may be affected by the illegal invoice trading practices?",
+        "Which manufacturing or production relationships may be impacted by the lack of legitimate documentation?",
+        "Which downstream companies depend on products or services from businesses involved in illegal invoice trading?",
+        "What regulatory changes could arise from increased scrutiny on tax evasion in these industries?"
+      ],
+      "reason": "The article discusses illegal invoice trading and tax evasion, which can disrupt legitimate supply chain activities by creating a reliance on fraudulent documentation, potentially affecting suppliers and businesses in the construction and services sectors.",
+      "summary": "The article highlights a significant issue of illegal invoice trading in Vietnam, which poses risks to businesses in the construction and services industries. This practice can lead to disruptions in legitimate supply chain operations due to reliance on fraudulent documentation.",
+      "title": "Mua bán trái phép hóa đơn : Doanh nghiệp rủi ro , ngân sách thất thu",
+      "url": "https://baohatinh.vn/mua-ban-trai-phep-hoa-don-doanh-nghiep-rui-ro-ngan-sach-that-thu-post317363.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Government Legislative Changes",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses government directives and legislative changes in Vietnam, which do not have a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article outlines government directives regarding legislative changes in Vietnam, focusing on economic and social development. It does not indicate any direct supply chain disruptions or impacts on specific companies or industries.",
+      "title": "Chỉ đạo , điều hành của Chính phủ , Thủ tướng Chính phủ ngày 19 / 9 / 2026",
+      "url": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-19-9-2026-102260920073015389.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Education System Changes",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses changes in the education system regarding the implementation of computer-based testing, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article outlines the Vietnamese government's decision to delay the pilot implementation of computer-based high school graduation exams to ensure fairness and adequate infrastructure. This decision primarily impacts the education sector and does not indicate any supply chain disruptions.",
+      "title": "Chưa thí điểm thi tốt nghiệp THPT trên máy tính để bảo đảm công bằng",
+      "url": "https://baoxaydung.vn/chua-thi-diem-thi-tot-nghiep-thpt-tren-may-tinh-de-bao-dam-cong-bang-192260920160106054.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nuclear Threat Analysis",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical tensions and the potential use of nuclear weapons, but it does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article analyzes the implications of Russia's nuclear capabilities in the context of its conflict with Ukraine. It does not indicate any specific supply chain disruptions or impacts on logistics, trade, or production.",
+      "title": "РФ не завдасть ядерного удару по Україні : причини , пояснення",
+      "url": "https://1tv.com.ua/svit/popry-postijni-pogrozy-rf-ne-zavdast-yadernogo-udaru-po-ukrayini-prychyny-poyasnennya-politologa/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Legal Proceedings and Personal Persecution",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses personal legal struggles and persecution related to religious beliefs, which do not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on an individual's legal battles against perceived persecution rather than any supply chain disruption. It does not present any information that would indicate an impact on supply chain activities.",
+      "title": "走法律程序反迫害过程中讲真相",
+      "url": "https://www.minghui.org/mh/articles/2026/9/20/%E8%B5%B0%E6%B3%95%E5%BE%8B%E7%A8%8B%E5%BA%8F%E5%8F%8D%E8%BF%AB%E5%AE%B3%E8%BF%87%E7%A8%8B%E4%B8%AD%E8%AE%B2%E7%9C%9F%E7%9B%B8-513617.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260920T083000Z"
     }
   ]
 }
