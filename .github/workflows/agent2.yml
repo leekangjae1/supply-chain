@@ -1,93 +1,264 @@
+# ============================================================
+# Agent 2 - Knowledge Graph Analysis
+# ============================================================
+
 name: Agent 2 - Knowledge Graph
 
 on:
+
+  # Agent 1 workflow가 끝난 후 실행
   workflow_run:
     workflows: ["GDELT Monitoring"]
     types:
       - completed
+
+  # GitHub Actions에서 수동 실행
   workflow_dispatch:
+
+
+# ============================================================
+# Permissions
+# ============================================================
 
 permissions:
   contents: read
 
+
+# ============================================================
+# Job
+# ============================================================
+
 jobs:
+
   agent2:
+
+    # 수동 실행이거나
+    # Agent 1 workflow가 성공했을 때만 실행
     if: >-
       github.event_name == 'workflow_dispatch' ||
       github.event.workflow_run.conclusion == 'success'
 
     runs-on: ubuntu-latest
 
+
+    # ========================================================
+    # Environment Variables
+    # ========================================================
+
     env:
-      NEO4J_URI: ${{ secrets.NEO4J_URI }}
-      NEO4J_USERNAME: ${{ secrets.NEO4J_USERNAME }}
-      NEO4J_PASSWORD: ${{ secrets.NEO4J_PASSWORD }}
+
+      NEO4J_URI:
+        ${{ secrets.NEO4J_URI }}
+
+      NEO4J_USERNAME:
+        ${{ secrets.NEO4J_USERNAME }}
+
+      NEO4J_PASSWORD:
+        ${{ secrets.NEO4J_PASSWORD }}
+
+
+    # ========================================================
+    # Steps
+    # ========================================================
 
     steps:
+
+
+      # ------------------------------------------------------
+      # 1. Repository Checkout
+      # ------------------------------------------------------
+
       - name: Checkout repository
+
         uses: actions/checkout@v4
+
         with:
           ref: main
 
+
+      # ------------------------------------------------------
+      # 2. Agent 1 결과 확인
+      # ------------------------------------------------------
+
       - name: Check Agent 1 result
+
         run: |
-          echo "===== Check Agent 1 result ====="
+
+          echo "========================================"
+          echo "Check Agent 1 result"
+          echo "========================================"
+
 
           if [ ! -f "agent1_results.json" ]; then
-            echo "ERROR: agent1_results.json does not exist."
-            echo "Agent 1 must finish and commit its result before Agent 2 runs."
+
+            echo "ERROR:"
+            echo "agent1_results.json does not exist."
+
+            echo ""
+            echo "Agent 1 must create and commit"
+            echo "agent1_results.json before Agent 2."
+
             exit 1
+
           fi
+
+
+          echo ""
+          echo "Agent 1 result found."
 
           ls -lh agent1_results.json
-          python -m json.tool agent1_results.json > /dev/null
+
+
+          echo ""
+          echo "Checking JSON format..."
+
+          python -m json.tool \
+            agent1_results.json \
+            > /dev/null
+
+
           echo "Agent 1 JSON is valid."
 
+
+      # ------------------------------------------------------
+      # 3. Neo4j Secret 확인
+      # ------------------------------------------------------
+
       - name: Check Neo4j secrets
+
         run: |
+
+          echo "========================================"
+          echo "Check Neo4j secrets"
+          echo "========================================"
+
+
           if [ -z "$NEO4J_URI" ]; then
-            echo "ERROR: NEO4J_URI is not configured."
+
+            echo "ERROR:"
+            echo "NEO4J_URI is not configured."
+
             exit 1
+
           fi
+
+
           if [ -z "$NEO4J_USERNAME" ]; then
-            echo "ERROR: NEO4J_USERNAME is not configured."
+
+            echo "ERROR:"
+            echo "NEO4J_USERNAME is not configured."
+
             exit 1
+
           fi
+
+
           if [ -z "$NEO4J_PASSWORD" ]; then
-            echo "ERROR: NEO4J_PASSWORD is not configured."
+
+            echo "ERROR:"
+            echo "NEO4J_PASSWORD is not configured."
+
             exit 1
+
           fi
+
+
+          echo "Neo4j secrets are configured."
+
+
+      # ------------------------------------------------------
+      # 4. Python 설치
+      # ------------------------------------------------------
 
       - name: Set up Python
+
         uses: actions/setup-python@v5
+
         with:
+
           python-version: "3.11"
 
+
+      # ------------------------------------------------------
+      # 5. Dependencies
+      # ------------------------------------------------------
+
       - name: Install dependencies
+
         run: |
+
           python -m pip install --upgrade pip
+
           pip install -r requirements.txt
 
+
+      # ------------------------------------------------------
+      # 6. Agent 2 실행
+      # ------------------------------------------------------
+
       - name: Run Agent 2
+
         run: |
+
+          echo "========================================"
+          echo "Run Agent 2"
+          echo "========================================"
+
           python agents/agent2_kg_analysis.py
 
+
+      # ------------------------------------------------------
+      # 7. Agent 2 결과 확인
+      # ------------------------------------------------------
+
       - name: Check Agent 2 result
+
         run: |
-          echo "===== Agent 2 result ====="
+
+          echo "========================================"
+          echo "Check Agent 2 result"
+          echo "========================================"
+
 
           if [ ! -f "agent2_results.json" ]; then
-            echo "ERROR: agent2_results.json does not exist."
+
+            echo "ERROR:"
+            echo "agent2_results.json does not exist."
+
             exit 1
+
           fi
 
+
+          echo ""
+          echo "Agent 2 result found."
+
           ls -lh agent2_results.json
-          python -m json.tool agent2_results.json > /dev/null
+
+
+          echo ""
+          echo "Checking JSON format..."
+
+          python -m json.tool \
+            agent2_results.json \
+            > /dev/null
+
+
           echo "Agent 2 JSON is valid."
 
+
+      # ------------------------------------------------------
+      # 8. 결과 Artifact 업로드
+      # ------------------------------------------------------
+
       - name: Upload Agent 2 result
+
         uses: actions/upload-artifact@v4
+
         with:
+
           name: agent2-results
+
           path: agent2_results.json
+
           if-no-files-found: error
