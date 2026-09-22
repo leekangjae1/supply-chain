@@ -71,7 +71,7 @@ OUTPUT_FILE = BASE_DIR / "agent2_results.json"
 
 NEO4J_URI = os.getenv(
     "NEO4J_URI",
-    "neo4j+s://a08a329cdfca051f6e1c28f4087b995c.bolt.neo4jsandbox.com:443"
+    "bolt+s://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:7687"
 )
 
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
