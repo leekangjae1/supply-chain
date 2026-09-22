@@ -1,6 +1,7 @@
 # ============================================================
 # Agent 2 - Knowledge Graph Analysis
 # ============================================================
+#
 # Input:
 #   agent1_results.json
 #
@@ -21,13 +22,18 @@
 #      ↓
 #   Tier-2 Supplier
 #
-# 기존 Supplies 관계는 수정하지 않는다.
+# 중요:
+#   - CSV 파일을 사용하지 않는다.
+#   - 기존 Neo4j KG를 직접 조회한다.
+#   - 기존 Supplies 관계는 수정하지 않는다.
 # ============================================================
+
 
 import os
 import json
 import hashlib
 import re
+
 from pathlib import Path
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
@@ -38,6 +44,13 @@ from neo4j import GraphDatabase
 # ============================================================
 # 1. 경로 설정
 # ============================================================
+
+# 현재 파일:
+#   supply-chain/
+#       agents/
+#           agent2_kg_analysis.py
+#
+# 따라서 parent.parent = repository root
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -60,11 +73,13 @@ required_env = {
     "NEO4J_PASSWORD": NEO4J_PASSWORD,
 }
 
+
 missing_env = [
     key
     for key, value in required_env.items()
     if not value
 ]
+
 
 if missing_env:
     raise RuntimeError(
@@ -74,37 +89,44 @@ if missing_env:
 
 
 # ============================================================
-# 3. Agent 1 결과 불러오기
+# 3. Agent 1 결과 확인
 # ============================================================
 
 if not INPUT_FILE.exists():
+
     raise FileNotFoundError(
         f"Agent 1 결과 파일을 찾을 수 없습니다: {INPUT_FILE}"
     )
 
 
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
+
     agent1_data = json.load(f)
 
 
 # ============================================================
-# 4. JSON 형식 정리
+# 4. Agent 1 JSON 형식 정리
 # ============================================================
 
 if isinstance(agent1_data, dict):
 
     if "results" in agent1_data:
+
         articles = agent1_data["results"]
 
     elif "articles" in agent1_data:
+
         articles = agent1_data["articles"]
 
     else:
+
         articles = [agent1_data]
+
 
 elif isinstance(agent1_data, list):
 
     articles = agent1_data
+
 
 else:
 
@@ -116,7 +138,10 @@ else:
 print("=" * 70)
 print("Agent 2 시작")
 print("=" * 70)
-print(f"Agent 1 입력 기사 수: {len(articles)}")
+
+print(
+    f"Agent 1 입력 기사 수: {len(articles)}"
+)
 
 
 # ============================================================
@@ -132,6 +157,23 @@ driver = GraphDatabase.driver(
 )
 
 
+# 연결 테스트
+try:
+
+    driver.verify_connectivity()
+
+    print("✓ Neo4j 연결 성공")
+    print(f"Neo4j URI: {NEO4J_URI}")
+
+except Exception as e:
+
+    driver.close()
+
+    raise RuntimeError(
+        f"Neo4j 연결 실패: {e}"
+    )
+
+
 # ============================================================
 # 6. Event ID 생성
 # ============================================================
@@ -140,17 +182,17 @@ def create_event_id(article):
 
     url = article.get("url", "")
 
-    if not url:
+    if url:
+
+        base = url
+
+    else:
 
         base = (
             str(article.get("event", ""))
             + str(article.get("title", ""))
             + str(article.get("summary", ""))
         )
-
-    else:
-
-        base = url
 
     hash_value = hashlib.sha256(
         base.encode("utf-8")
@@ -166,9 +208,11 @@ def create_event_id(article):
 def safe_list(value):
 
     if value is None:
+
         return []
 
     if isinstance(value, list):
+
         return value
 
     return [value]
@@ -181,15 +225,21 @@ def safe_list(value):
 def normalize_company_name(name):
 
     if name is None:
+
         return ""
 
     name = str(name).strip().lower()
 
     # 특수문자 제거
-    name = re.sub(r"[^a-z0-9가-힣]", "", name)
+    name = re.sub(
+        r"[^a-z0-9가-힣]",
+        "",
+        name
+    )
 
     # 회사 형태를 나타내는 일반적인 표현 제거
     removable_words = [
+
         "corporation",
         "company",
         "co",
@@ -202,26 +252,21 @@ def normalize_company_name(name):
         "holdings",
         "electronics",
         "motor",
+
     ]
 
     for word in removable_words:
-        name = name.replace(word, "")
+
+        name = name.replace(
+            word,
+            ""
+        )
 
     return name
 
 
 # ============================================================
-# 9. 회사 Alias
-# ============================================================
-#
-# Agent 1이 사용하는 이름과
-# Neo4j KG에 저장된 이름이 다를 경우 사용
-#
-# 예:
-#   Hyundai Motor Company → Hyundai
-#   Kia Corporation       → Kia
-#   SK Hynix              → SK hynix
-#
+# 9. Company Alias
 # ============================================================
 
 COMPANY_ALIASES = {
@@ -337,7 +382,7 @@ COMPANY_ALIASES = {
 
 
 # ============================================================
-# 10. Agent 1 회사명에서 실제 검색 후보 만들기
+# 10. 회사명 검색 후보 생성
 # ============================================================
 
 def get_company_aliases(company_name):
@@ -350,14 +395,14 @@ def get_company_aliases(company_name):
         str(company_name)
     ]
 
-    # 직접 alias dictionary 검색
+    # 직접 alias 검색
     if normalized in COMPANY_ALIASES:
 
         aliases.extend(
             COMPANY_ALIASES[normalized]
         )
 
-    # normalized alias key와 비교
+    # normalized key 비교
     for key, values in COMPANY_ALIASES.items():
 
         if normalize_company_name(key) == normalized:
@@ -370,13 +415,14 @@ def get_company_aliases(company_name):
     for alias in aliases:
 
         if alias and alias not in result:
+
             result.append(alias)
 
     return result
 
 
 # ============================================================
-# 11. Neo4j의 모든 Company 노드 조회
+# 11. Neo4j Company 전체 조회
 # ============================================================
 
 def get_all_companies(tx):
@@ -385,11 +431,19 @@ def get_all_companies(tx):
     MATCH (c:Entity)
 
     WHERE
-        toLower(toString(coalesce(c.Type, '')))
-        = 'company'
+        toLower(
+            toString(
+                coalesce(c.Type, '')
+            )
+        ) = 'company'
+
         OR
-        toLower(toString(coalesce(c.type, '')))
-        = 'company'
+
+        toLower(
+            toString(
+                coalesce(c.type, '')
+            )
+        ) = 'company'
 
     RETURN
         c.entity_id AS entity_id,
@@ -415,10 +469,12 @@ def similarity_score(name1, name2):
     n2 = normalize_company_name(name2)
 
     if not n1 or not n2:
+
         return 0.0
 
     # 완전 일치
     if n1 == n2:
+
         return 1.0
 
     # 포함 관계
@@ -435,13 +491,14 @@ def similarity_score(name1, name2):
         )
 
         if longer == 0:
+
             return 0.0
 
         return 0.90 * (
             shorter / longer
         )
 
-    # 일반적인 문자열 유사도
+    # 일반 문자열 유사도
     return SequenceMatcher(
         None,
         n1,
@@ -461,6 +518,7 @@ def find_company(
     all_companies = get_all_companies(tx)
 
     if not all_companies:
+
         return []
 
     aliases = get_company_aliases(
@@ -477,6 +535,7 @@ def find_company(
         )
 
         if not kg_name:
+
             continue
 
         best_score = 0.0
@@ -494,45 +553,43 @@ def find_company(
                 best_score = score
                 best_alias = alias
 
-        candidates.append(
-            {
-                "entity_id": company.get(
-                    "entity_id"
-                ),
-                "name": kg_name,
-                "type": company.get(
-                    "type"
-                ),
-                "score": round(
+        candidates.append({
+
+            "entity_id":
+                company.get("entity_id"),
+
+            "name":
+                kg_name,
+
+            "type":
+                company.get("type"),
+
+            "score":
+                round(
                     best_score,
                     4
                 ),
-                "matched_alias": best_alias,
-            }
-        )
 
-    # 점수 높은 순
+            "matched_alias":
+                best_alias,
+
+        })
+
+    # 높은 점수부터 정렬
     candidates.sort(
         key=lambda x: x["score"],
         reverse=True
     )
 
-    # --------------------------------------------------------
-    # 매칭 기준
-    # --------------------------------------------------------
-    #
-    # 1. 완전/거의 일치
-    # 2. Alias 일치
-    # 3. 포함 관계
-    #
-    # 최소 0.65 이상만 실제 매칭
-    #
-    # --------------------------------------------------------
-
+    # 0.65 이상만 매칭
     matched = [
+
         x
+
         for x in candidates
+
         if x["score"] >= 0.65
+
     ]
 
     return matched[:5]
@@ -607,48 +664,88 @@ def create_event(
     ).isoformat()
 
     query = """
+
     MERGE (e:Entity {
         entity_id: $event_id
     })
 
     SET
+
         e.Type = 'Event',
+
         e.name = $event_name,
-        e.disruption_type = $disruption_type,
-        e.title = $title,
-        e.url = $url,
-        e.summary = $summary,
-        e.reason = $reason,
-        e.risk_exposure_questions = $risk_questions,
-        e.countries_involved = $countries,
-        e.industries_involved = $industries,
-        e.companies_involved = $companies,
-        e.updated_at = $created_at
+
+        e.disruption_type =
+            $disruption_type,
+
+        e.title =
+            $title,
+
+        e.url =
+            $url,
+
+        e.summary =
+            $summary,
+
+        e.reason =
+            $reason,
+
+        e.risk_exposure_questions =
+            $risk_questions,
+
+        e.countries_involved =
+            $countries,
+
+        e.industries_involved =
+            $industries,
+
+        e.companies_involved =
+            $companies,
+
+        e.updated_at =
+            $created_at
 
     RETURN
+
         e.entity_id AS entity_id,
+
         e.name AS name
+
     """
 
     result = tx.run(
+
         query,
+
         event_id=event_id,
+
         event_name=event_name,
+
         disruption_type=disruption_type,
+
         title=title,
+
         url=url,
+
         summary=summary,
+
         reason=reason,
+
         risk_questions=risk_questions,
+
         countries=countries,
+
         industries=industries,
+
         companies=companies,
+
         created_at=created_at
     )
 
     record = result.single()
 
     if record:
+
         return record.data()
 
     return None
@@ -665,6 +762,7 @@ def connect_event_company(
 ):
 
     query = """
+
     MATCH (e:Entity {
         entity_id: $event_id
     })
@@ -678,17 +776,28 @@ def connect_event_company(
     }]->(c)
 
     SET
+
         r.type = 'Affected_By',
+
         r.source_type = 'Event',
+
         r.target_type = 'Company',
+
         r.source_name = e.name,
+
         r.target_name = c.name,
+
         r.confidence = 'Agent1',
-        r.source = 'Agent1 News Analysis'
+
+        r.source =
+            'Agent1 News Analysis'
 
     RETURN
+
         e.name AS event,
+
         c.name AS company
+
     """
 
     relation_id = (
@@ -698,15 +807,20 @@ def connect_event_company(
     )
 
     result = tx.run(
+
         query,
+
         event_id=event_id,
+
         company_entity_id=company_entity_id,
+
         relation_id=relation_id
     )
 
     record = result.single()
 
     if record:
+
         return record.data()
 
     return None
@@ -722,35 +836,60 @@ def find_tier1_suppliers(
 ):
 
     query = """
-    MATCH (s:Entity)-[r:KG_RELATION]->(c:Entity)
+
+    MATCH
+        (s:Entity)-[r:KG_RELATION]->(c:Entity)
 
     WHERE
-        toLower(toString(coalesce(s.Type, '')))
-            = 'supplier'
+
+        toLower(
+            toString(
+                coalesce(s.Type, '')
+            )
+        ) = 'supplier'
 
         AND
+
         (
-            toLower(toString(coalesce(c.Type, '')))
-                = 'company'
+            toLower(
+                toString(
+                    coalesce(c.Type, '')
+                )
+            ) = 'company'
+
             OR
-            toLower(toString(coalesce(c.type, '')))
-                = 'company'
+
+            toLower(
+                toString(
+                    coalesce(c.type, '')
+                )
+            ) = 'company'
         )
 
-        AND c.entity_id = $company_entity_id
+        AND
 
-        AND toLower(
+        c.entity_id =
+            $company_entity_id
+
+        AND
+
+        toLower(
             toString(
                 coalesce(r.type, '')
             )
         ) = 'supplies'
 
-        AND toLower(
+        AND
+
+        toLower(
             replace(
                 replace(
                     replace(
                         toString(
-                            coalesce(r.tier, '')
+                            coalesce(
+                                r.tier,
+                                ''
+                            )
                         ),
                         ' ',
                         ''
@@ -762,18 +901,25 @@ def find_tier1_suppliers(
                 ''
             )
         ) IN [
+
             '1',
+
             'tier1'
+
         ]
 
     RETURN DISTINCT
+
         s.entity_id AS entity_id,
+
         s.name AS name
+
     """
 
     result = tx.run(
         query,
-        company_entity_id=company_entity_id
+        company_entity_id=
+            company_entity_id
     )
 
     return [
@@ -792,30 +938,50 @@ def find_tier2_suppliers(
 ):
 
     query = """
-    MATCH (s2:Entity)-[r:KG_RELATION]->(s1:Entity)
+
+    MATCH
+        (s2:Entity)-[r:KG_RELATION]->(s1:Entity)
 
     WHERE
-        toLower(toString(coalesce(s2.Type, '')))
-            = 'supplier'
+
+        toLower(
+            toString(
+                coalesce(s2.Type, '')
+            )
+        ) = 'supplier'
 
         AND
-        toLower(toString(coalesce(s1.Type, '')))
-            = 'supplier'
 
-        AND s1.entity_id = $tier1_entity_id
+        toLower(
+            toString(
+                coalesce(s1.Type, '')
+            )
+        ) = 'supplier'
 
-        AND toLower(
+        AND
+
+        s1.entity_id =
+            $tier1_entity_id
+
+        AND
+
+        toLower(
             toString(
                 coalesce(r.type, '')
             )
         ) = 'supplies'
 
-        AND toLower(
+        AND
+
+        toLower(
             replace(
                 replace(
                     replace(
                         toString(
-                            coalesce(r.tier, '')
+                            coalesce(
+                                r.tier,
+                                ''
+                            )
                         ),
                         ' ',
                         ''
@@ -827,18 +993,25 @@ def find_tier2_suppliers(
                 ''
             )
         ) IN [
+
             '2',
+
             'tier2'
+
         ]
 
     RETURN DISTINCT
+
         s2.entity_id AS entity_id,
+
         s2.name AS name
+
     """
 
     result = tx.run(
         query,
-        tier1_entity_id=tier1_entity_id
+        tier1_entity_id=
+            tier1_entity_id
     )
 
     return [
@@ -854,12 +1027,11 @@ def find_tier2_suppliers(
 def connect_event_to_supplier_path(
     tx,
     event_id,
-    tier2_id,
-    tier1_id,
-    company_id
+    tier2_id
 ):
 
     query = """
+
     MATCH (e:Entity {
         entity_id: $event_id
     })
@@ -868,34 +1040,40 @@ def connect_event_to_supplier_path(
         entity_id: $tier2_id
     })
 
-    MATCH (s1:Entity {
-        entity_id: $tier1_id
-    })
-
-    MATCH (c:Entity {
-        entity_id: $company_id
-    })
-
     MERGE (e)-[r:KG_RELATION {
         relation_id: $relation_id
     }]->(s2)
 
     SET
-        r.type = 'Risk_Exposure',
-        r.source_type = 'Event',
-        r.target_type = 'Supplier',
-        r.tier = '2',
-        r.source_name = e.name,
-        r.target_name = s2.name,
+
+        r.type =
+            'Risk_Exposure',
+
+        r.source_type =
+            'Event',
+
+        r.target_type =
+            'Supplier',
+
+        r.tier =
+            '2',
+
+        r.source_name =
+            e.name,
+
+        r.target_name =
+            s2.name,
+
         r.notes =
             'Agent 1 news event linked to '
             + 'existing Tier 2 supply chain path'
 
     RETURN
+
         e.name AS event,
-        s2.name AS tier2_supplier,
-        s1.name AS tier1_supplier,
-        c.name AS company
+
+        s2.name AS tier2_supplier
+
     """
 
     relation_id = (
@@ -905,17 +1083,20 @@ def connect_event_to_supplier_path(
     )
 
     result = tx.run(
+
         query,
+
         event_id=event_id,
+
         tier2_id=tier2_id,
-        tier1_id=tier1_id,
-        company_id=company_id,
+
         relation_id=relation_id
     )
 
     record = result.single()
 
     if record:
+
         return record.data()
 
     return None
@@ -933,384 +1114,506 @@ total_tier2_suppliers = 0
 total_paths = 0
 
 
-with driver.session() as session:
+try:
 
-    for article in articles:
+    with driver.session() as session:
 
-        # ----------------------------------------------------
-        # 공급망 교란 뉴스만 처리
-        # ----------------------------------------------------
+        for article in articles:
 
-        if not article.get(
-            "is_supply_chain_disruption",
-            False
-        ):
-            continue
+            # ------------------------------------------------
+            # 공급망 교란 뉴스만 처리
+            # ------------------------------------------------
 
-        event_id = create_event_id(
-            article
-        )
-
-        print("\n" + "=" * 70)
-        print("Agent 2 처리 시작")
-        print("=" * 70)
-
-        print(
-            f"Event: "
-            f"{article.get('event', 'Unknown')}"
-        )
-
-        # ----------------------------------------------------
-        # Event 생성
-        # ----------------------------------------------------
-
-        event_result = session.execute_write(
-            create_event,
-            article,
-            event_id
-        )
-
-        if event_result:
-
-            print(
-                f"✓ Event 생성/업데이트: "
-                f"{event_result['name']}"
-            )
-
-        # ----------------------------------------------------
-        # Agent 1 회사 목록
-        # ----------------------------------------------------
-
-        companies = safe_list(
-            article.get(
-                "companies_involved"
-            )
-        )
-
-        article_result = {
-
-            "event_id": event_id,
-
-            "event": article.get(
-                "event",
-                ""
-            ),
-
-            "disruption_type": article.get(
-                "disruption_type",
-                ""
-            ),
-
-            "companies": [],
-
-            "supply_chain_paths": []
-        }
-
-        # ----------------------------------------------------
-        # Company 검색
-        # ----------------------------------------------------
-
-        for company_item in companies:
-
-            # -----------------------------------------------
-            # 회사명이 문자열이 아닐 경우 처리
-            # -----------------------------------------------
-
-            if isinstance(
-                company_item,
-                dict
+            if not article.get(
+                "is_supply_chain_disruption",
+                False
             ):
-
-                company_name = (
-                    company_item.get(
-                        "name"
-                    )
-                    or
-                    company_item.get(
-                        "company"
-                    )
-                    or
-                    company_item.get(
-                        "company_name"
-                    )
-                )
-
-            else:
-
-                company_name = str(
-                    company_item
-                )
-
-            if not company_name:
 
                 continue
 
-            print(
-                f"\n[Company 검색] "
-                f"{company_name}"
-            )
-
-            aliases = get_company_aliases(
-                company_name
-            )
-
-            print(
-                f"  검색 후보: "
-                f"{aliases}"
-            )
-
-            matched_companies = session.execute_read(
-                find_company,
-                company_name
-            )
 
             # ------------------------------------------------
-            # Company 매칭 실패
+            # Event ID
             # ------------------------------------------------
 
-            if not matched_companies:
+            event_id = create_event_id(
+                article
+            )
+
+
+            print("\n" + "=" * 70)
+
+            print(
+                "Agent 2 처리 시작"
+            )
+
+            print("=" * 70)
+
+            print(
+                f"Event: "
+                f"{article.get('event', 'Unknown')}"
+            )
+
+
+            # ------------------------------------------------
+            # Event 생성
+            # ------------------------------------------------
+
+            event_result = (
+                session.execute_write(
+                    create_event,
+                    article,
+                    event_id
+                )
+            )
+
+
+            if event_result:
 
                 print(
-                    f"❌ Company 매칭 실패: "
+                    "✓ Event 생성/업데이트: "
+                    f"{event_result['name']}"
+                )
+
+
+            # ------------------------------------------------
+            # Agent 1 회사 목록
+            # ------------------------------------------------
+
+            companies = safe_list(
+                article.get(
+                    "companies_involved"
+                )
+            )
+
+
+            article_result = {
+
+                "event_id":
+                    event_id,
+
+                "event":
+                    article.get(
+                        "event",
+                        ""
+                    ),
+
+                "disruption_type":
+                    article.get(
+                        "disruption_type",
+                        ""
+                    ),
+
+                "companies":
+                    [],
+
+                "supply_chain_paths":
+                    []
+
+            }
+
+
+            # =================================================
+            # Company 검색
+            # =================================================
+
+            for company_item in companies:
+
+                # ---------------------------------------------
+                # 회사명 추출
+                # ---------------------------------------------
+
+                if isinstance(
+                    company_item,
+                    dict
+                ):
+
+                    company_name = (
+
+                        company_item.get(
+                            "name"
+                        )
+
+                        or
+
+                        company_item.get(
+                            "company"
+                        )
+
+                        or
+
+                        company_item.get(
+                            "company_name"
+                        )
+
+                    )
+
+                else:
+
+                    company_name = str(
+                        company_item
+                    )
+
+
+                if not company_name:
+
+                    continue
+
+
+                print(
+                    f"\n[Company 검색] "
                     f"{company_name}"
                 )
+
+
+                # ---------------------------------------------
+                # Alias 확인
+                # ---------------------------------------------
+
+                aliases = get_company_aliases(
+                    company_name
+                )
+
+
+                print(
+                    f"  검색 후보: "
+                    f"{aliases}"
+                )
+
+
+                # ---------------------------------------------
+                # Neo4j Company 검색
+                # ---------------------------------------------
+
+                matched_companies = (
+                    session.execute_read(
+                        find_company,
+                        company_name
+                    )
+                )
+
+
+                # =================================================
+                # Company 매칭 실패
+                # =================================================
+
+                if not matched_companies:
+
+                    print(
+                        "❌ Company 매칭 실패: "
+                        f"{company_name}"
+                    )
+
+                    article_result[
+                        "companies"
+                    ].append({
+
+                        "name":
+                            company_name,
+
+                        "matched":
+                            False,
+
+                        "tier1_suppliers":
+                            []
+
+                    })
+
+                    continue
+
+
+                # =================================================
+                # 가장 높은 점수 Company 사용
+                # =================================================
+
+                company = (
+                    matched_companies[0]
+                )
+
+
+                company_id = (
+                    company["entity_id"]
+                )
+
+                company_real_name = (
+                    company["name"]
+                )
+
+                match_score = (
+                    company.get(
+                        "score",
+                        0.0
+                    )
+                )
+
+                matched_alias = (
+                    company.get(
+                        "matched_alias",
+                        ""
+                    )
+                )
+
+
+                print(
+                    "✓ Company 매칭 성공"
+                )
+
+                print(
+                    f"  Agent 1 이름: "
+                    f"{company_name}"
+                )
+
+                print(
+                    f"  KG 이름: "
+                    f"{company_real_name}"
+                )
+
+                print(
+                    f"  매칭 Alias: "
+                    f"{matched_alias}"
+                )
+
+                print(
+                    f"  매칭 점수: "
+                    f"{match_score}"
+                )
+
+
+                total_matched_companies += 1
+
+
+                # =================================================
+                # Event → Company
+                # =================================================
+
+                session.execute_write(
+                    connect_event_company,
+                    event_id,
+                    company_id
+                )
+
+
+                # =================================================
+                # Tier-1 검색
+                # =================================================
+
+                tier1_suppliers = (
+                    session.execute_read(
+                        find_tier1_suppliers,
+                        company_id
+                    )
+                )
+
+
+                print(
+                    f"  Tier-1 Supplier: "
+                    f"{len(tier1_suppliers)}개"
+                )
+
+
+                total_tier1_suppliers += (
+                    len(tier1_suppliers)
+                )
+
+
+                company_result = {
+
+                    "name":
+                        company_real_name,
+
+                    "entity_id":
+                        company_id,
+
+                    "matched":
+                        True,
+
+                    "matched_from":
+                        company_name,
+
+                    "match_score":
+                        match_score,
+
+                    "tier1_suppliers":
+                        []
+
+                }
+
+
+                # =================================================
+                # Tier-1 → Tier-2
+                # =================================================
+
+                for tier1 in tier1_suppliers:
+
+                    tier1_id = (
+                        tier1["entity_id"]
+                    )
+
+                    tier1_name = (
+                        tier1["name"]
+                    )
+
+
+                    # ---------------------------------------------
+                    # Tier-2 검색
+                    # ---------------------------------------------
+
+                    tier2_suppliers = (
+                        session.execute_read(
+                            find_tier2_suppliers,
+                            tier1_id
+                        )
+                    )
+
+
+                    print(
+                        f"    Tier-1: "
+                        f"{tier1_name}"
+                    )
+
+                    print(
+                        f"      Tier-2: "
+                        f"{len(tier2_suppliers)}개"
+                    )
+
+
+                    total_tier2_suppliers += (
+                        len(tier2_suppliers)
+                    )
+
+
+                    tier1_result = {
+
+                        "name":
+                            tier1_name,
+
+                        "entity_id":
+                            tier1_id,
+
+                        "tier2_suppliers":
+                            []
+
+                    }
+
+
+                    # =================================================
+                    # Tier-2 Path
+                    # =================================================
+
+                    for tier2 in tier2_suppliers:
+
+                        tier2_id = (
+                            tier2["entity_id"]
+                        )
+
+                        tier2_name = (
+                            tier2["name"]
+                        )
+
+
+                        # ---------------------------------------------
+                        # Event → Tier-2
+                        # ---------------------------------------------
+
+                        session.execute_write(
+
+                            connect_event_to_supplier_path,
+
+                            event_id,
+
+                            tier2_id
+
+                        )
+
+
+                        # ---------------------------------------------
+                        # 결과 Path
+                        # ---------------------------------------------
+
+                        path = {
+
+                            "tier2_supplier":
+                                tier2_name,
+
+                            "tier2_entity_id":
+                                tier2_id,
+
+                            "tier1_supplier":
+                                tier1_name,
+
+                            "tier1_entity_id":
+                                tier1_id,
+
+                            "company":
+                                company_real_name,
+
+                            "company_entity_id":
+                                company_id
+
+                        }
+
+
+                        tier1_result[
+                            "tier2_suppliers"
+                        ].append(
+                            path
+                        )
+
+
+                        article_result[
+                            "supply_chain_paths"
+                        ].append(
+                            path
+                        )
+
+
+                        total_paths += 1
+
+
+                        print(
+                            f"      Path: "
+                            f"{tier2_name}"
+                            f" → "
+                            f"{tier1_name}"
+                            f" → "
+                            f"{company_real_name}"
+                        )
+
+
+                    company_result[
+                        "tier1_suppliers"
+                    ].append(
+                        tier1_result
+                    )
+
 
                 article_result[
                     "companies"
                 ].append(
-                    {
-                        "name": company_name,
-                        "matched": False,
-                        "tier1_suppliers": []
-                    }
+                    company_result
                 )
 
-                continue
 
             # ------------------------------------------------
-            # 가장 높은 점수의 Company 사용
+            # Article 결과 추가
             # ------------------------------------------------
 
-            company = matched_companies[0]
-
-            company_id = company[
-                "entity_id"
-            ]
-
-            company_real_name = company[
-                "name"
-            ]
-
-            match_score = company.get(
-                "score",
-                0.0
+            agent2_results.append(
+                article_result
             )
 
-            matched_alias = company.get(
-                "matched_alias",
-                ""
-            )
 
-            print(
-                f"✓ Company 매칭 성공"
-            )
+finally:
 
-            print(
-                f"  Agent 1 이름: "
-                f"{company_name}"
-            )
+    # ============================================================
+    # 20. Neo4j 종료
+    # ============================================================
 
-            print(
-                f"  KG 이름: "
-                f"{company_real_name}"
-            )
+    driver.close()
 
-            print(
-                f"  매칭 Alias: "
-                f"{matched_alias}"
-            )
-
-            print(
-                f"  매칭 점수: "
-                f"{match_score}"
-            )
-
-            total_matched_companies += 1
-
-            # ------------------------------------------------
-            # Event → Company
-            # ------------------------------------------------
-
-            session.execute_write(
-                connect_event_company,
-                event_id,
-                company_id
-            )
-
-            # ------------------------------------------------
-            # Tier-1 검색
-            # ------------------------------------------------
-
-            tier1_suppliers = session.execute_read(
-                find_tier1_suppliers,
-                company_id
-            )
-
-            print(
-                f"  Tier-1 Supplier: "
-                f"{len(tier1_suppliers)}개"
-            )
-
-            total_tier1_suppliers += len(
-                tier1_suppliers
-            )
-
-            company_result = {
-
-                "name": company_real_name,
-
-                "entity_id": company_id,
-
-                "matched": True,
-
-                "matched_from": company_name,
-
-                "match_score": match_score,
-
-                "tier1_suppliers": []
-            }
-
-            # ------------------------------------------------
-            # Tier-1 → Tier-2
-            # ------------------------------------------------
-
-            for tier1 in tier1_suppliers:
-
-                tier1_id = tier1[
-                    "entity_id"
-                ]
-
-                tier1_name = tier1[
-                    "name"
-                ]
-
-                tier2_suppliers = session.execute_read(
-                    find_tier2_suppliers,
-                    tier1_id
-                )
-
-                print(
-                    f"    Tier-1: "
-                    f"{tier1_name}"
-                )
-
-                print(
-                    f"      Tier-2: "
-                    f"{len(tier2_suppliers)}개"
-                )
-
-                total_tier2_suppliers += len(
-                    tier2_suppliers
-                )
-
-                tier1_result = {
-
-                    "name": tier1_name,
-
-                    "entity_id": tier1_id,
-
-                    "tier2_suppliers": []
-                }
-
-                # ------------------------------------------------
-                # Tier-2 Path
-                # ------------------------------------------------
-
-                for tier2 in tier2_suppliers:
-
-                    tier2_id = tier2[
-                        "entity_id"
-                    ]
-
-                    tier2_name = tier2[
-                        "name"
-                    ]
-
-                    # Event → Tier-2
-                    path_result = session.execute_write(
-                        connect_event_to_supplier_path,
-                        event_id,
-                        tier2_id,
-                        tier1_id,
-                        company_id
-                    )
-
-                    path = {
-
-                        "tier2_supplier":
-                            tier2_name,
-
-                        "tier2_entity_id":
-                            tier2_id,
-
-                        "tier1_supplier":
-                            tier1_name,
-
-                        "tier1_entity_id":
-                            tier1_id,
-
-                        "company":
-                            company_real_name,
-
-                        "company_entity_id":
-                            company_id
-                    }
-
-                    tier1_result[
-                        "tier2_suppliers"
-                    ].append(
-                        path
-                    )
-
-                    article_result[
-                        "supply_chain_paths"
-                    ].append(
-                        path
-                    )
-
-                    total_paths += 1
-
-                    print(
-                        f"      Path: "
-                        f"{tier2_name}"
-                        f" → "
-                        f"{tier1_name}"
-                        f" → "
-                        f"{company_real_name}"
-                    )
-
-                company_result[
-                    "tier1_suppliers"
-                ].append(
-                    tier1_result
-                )
-
-            article_result[
-                "companies"
-            ].append(
-                company_result
-            )
-
-        agent2_results.append(
-            article_result
-        )
-
-
-# ============================================================
-# 20. Neo4j 종료
-# ============================================================
-
-driver.close()
+    print(
+        "\n✓ Neo4j connection closed"
+    )
 
 
 # ============================================================
@@ -1350,6 +1653,7 @@ output_data = {
 
         "supply_chain_path_count":
             total_paths
+
     },
 
     "results":
@@ -1376,8 +1680,13 @@ with open(
 # ============================================================
 
 print("\n" + "=" * 70)
-print("Agent 2 완료")
+
+print(
+    "Agent 2 완료"
+)
+
 print("=" * 70)
+
 
 print(
     f"처리된 Event: "
@@ -1449,7 +1758,9 @@ elif total_tier1_suppliers == 0:
 
 else:
 
-    print("\n✓ Agent 2 KG 연결 정상")
+    print(
+        "\n✓ Agent 2 KG 연결 정상"
+    )
 
     print(
         "Event → Company → "
