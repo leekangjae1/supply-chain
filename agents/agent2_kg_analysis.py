@@ -170,17 +170,17 @@ print(
 # ============================================================
 # 5. Neo4j Sandbox 연결
 # ============================================================
-DEFAULT_SANDBOX_URI = "bolt://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:7687"
+# 1. URI 설정 (bolt+s 프로토콜 사용 - TLS 자동 적용)
+DEFAULT_SANDBOX_URI = "bolt+s://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:7687"
 
 NEO4J_URI = os.getenv("NEO4J_URI", DEFAULT_SANDBOX_URI)
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME") or os.getenv("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
+# 2. Driver 생성 (잘못된 trust 옵션 완전히 제거)
 driver = GraphDatabase.driver(
     NEO4J_URI,
     auth=(NEO4J_USERNAME, NEO4J_PASSWORD),
-    encrypted=True,
-    trust="TRUST_ALL_CERTIFICATES",
     connection_timeout=30.0
 )
 
