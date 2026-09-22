@@ -71,7 +71,7 @@ OUTPUT_FILE = BASE_DIR / "agent2_results.json"
 
 NEO4J_URI = os.getenv(
     "NEO4J_URI",
-    "bolt+s://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:443"
+    "neo4j+ssc://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:443"
 )
 
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
@@ -171,7 +171,7 @@ print(
 # 5. Neo4j Sandbox 연결
 # ============================================================
 # 1. URI 설정 (bolt+s 프로토콜 사용 - TLS 자동 적용)
-DEFAULT_SANDBOX_URI = "bolt+s://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:443"
+DEFAULT_SANDBOX_URI = "neo4j+ssc://a08a329cdfca051f6e1c28f4087b995c.neo4jsandbox.com:443"
 
 NEO4J_URI = os.getenv("NEO4J_URI", DEFAULT_SANDBOX_URI)
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME") or os.getenv("NEO4J_USER", "neo4j")
