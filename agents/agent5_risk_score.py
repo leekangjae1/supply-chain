@@ -11,7 +11,7 @@ import networkx as nx
 
 INPUT_PATH = os.getenv(
     "AGENT2_KG_PATH",
-    "data/agent2_kg.json"
+    "data/agent2_results.json"
 )
 
 OUTPUT_PATH = os.getenv(
