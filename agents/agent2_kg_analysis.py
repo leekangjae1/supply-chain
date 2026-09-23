@@ -82,24 +82,13 @@ print(f"Neo4j URI: {NEO4J_URI}")
 
 
 # ============================================================
-# 5. Neo4j Sandbox 연결 (IPv4 강제 적용 및 오류 수정)
+# 5. Neo4j Sandbox 연결
 # ============================================================
-
-def custom_resolver(address):
-    """GitHub Actions 환경에서 IPv6 오발송을 막고 IPv4로만 라우팅하도록 강제하는 Resolver"""
-    host, port = address
-    infos = socket.getaddrinfo(host, port, socket.AF_INET, socket.SOCK_STREAM)
-    resolved = []
-    for family, type_, proto, canonname, sockaddr in infos:
-        resolved.append(sockaddr)
-    return resolved
-
 
 try:
     driver = GraphDatabase.driver(
         NEO4J_URI,
         auth=(NEO4J_USERNAME, NEO4J_PASSWORD),
-        resolver=custom_resolver,  # IPv6 네트워크 unreachable 오류 방지
         connection_timeout=30.0
     )
     driver.verify_connectivity()
