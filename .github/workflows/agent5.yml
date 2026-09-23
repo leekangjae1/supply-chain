@@ -44,7 +44,7 @@ jobs:
           echo "=== data directory ==="
           ls -lah data
           echo "=== Agent 2 JSON ==="
-          ls -lah data/agent2_kg.json
+          ls -lah data/agent2_results.json
 
       - name: Run Agent 5
         run: |
