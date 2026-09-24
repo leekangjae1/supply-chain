@@ -16,20 +16,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      # ==========================================================
+      # 1. Checkout
+      # ==========================================================
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      # ⭐ Agent 2 결과 가져오기
+      # ==========================================================
+      # 2. Download Agent 2 result
+      # ==========================================================
       - name: Download Agent 2 result
         uses: actions/download-artifact@v4
         with:
@@ -38,22 +35,255 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ⭐ 확인
+
+      # ==========================================================
+      # 3. Check downloaded files
+      # ==========================================================
       - name: Check Agent 2 result
         run: |
-          echo "=== data directory ==="
-          ls -lah data
-          echo "=== Agent 2 JSON ==="
-          ls -lah data/agent2_results.json
+          echo "========================================"
+          echo "Downloaded files"
+          echo "========================================"
 
+          find data -maxdepth 2 -type f -print
+
+          echo ""
+          echo "========================================"
+          echo "Agent 2 JSON"
+          echo "========================================"
+
+          if [ -f "data/agent2_results.json" ]; then
+            echo "agent2_results.json EXISTS"
+            ls -lah data/agent2_results.json
+          else
+            echo "ERROR: data/agent2_results.json NOT FOUND"
+            exit 1
+          fi
+
+
+      # ==========================================================
+      # 4. Debug Agent 2 JSON structure
+      # ==========================================================
+      - name: Debug Agent 2 result
+        run: |
+          echo "========================================"
+          echo "Agent 2 result structure"
+          echo "========================================"
+
+          python - <<'PY'
+          import json
+
+          path = "data/agent2_results.json"
+
+          print("FILE:", path)
+          print("")
+
+          with open(path, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          # ------------------------------------------------------
+          # TOP LEVEL
+          # ------------------------------------------------------
+          print("========================================")
+          print("TOP LEVEL")
+          print("========================================")
+
+          print("TYPE:", type(data))
+
+          if isinstance(data, dict):
+              print("KEYS:", list(data.keys()))
+              results = data.get("results", [])
+          elif isinstance(data, list):
+              print("TOP LEVEL IS LIST")
+              results = data
+          else:
+              print("UNEXPECTED TOP LEVEL TYPE")
+              results = []
+
+          print("")
+          print("RESULT COUNT:", len(results))
+
+          # ------------------------------------------------------
+          # FIRST RESULT
+          # ------------------------------------------------------
+          if results:
+
+              first = results[0]
+
+              print("")
+              print("========================================")
+              print("FIRST RESULT")
+              print("========================================")
+
+              print(
+                  json.dumps(
+                      first,
+                      ensure_ascii=False,
+                      indent=2
+                  )
+              )
+
+              print("")
+              print("========================================")
+              print("FIRST RESULT KEYS")
+              print("========================================")
+
+              if isinstance(first, dict):
+                  print(list(first.keys()))
+
+              # --------------------------------------------------
+              # COMPANIES
+              # --------------------------------------------------
+              companies = []
+
+              if isinstance(first, dict):
+                  companies = first.get("companies", [])
+
+              print("")
+              print("========================================")
+              print("COMPANIES")
+              print("========================================")
+
+              print("COMPANY COUNT:", len(companies))
+
+              if companies:
+
+                  company = companies[0]
+
+                  print("")
+                  print("FIRST COMPANY:")
+                  print(
+                      json.dumps(
+                          company,
+                          ensure_ascii=False,
+                          indent=2
+                      )
+                  )
+
+                  if isinstance(company, dict):
+
+                      print("")
+                      print("FIRST COMPANY KEYS:")
+                      print(list(company.keys()))
+
+                      tier1 = company.get("tier1_suppliers", [])
+
+                      print("")
+                      print("TIER1 SUPPLIER COUNT:")
+                      print(len(tier1))
+
+                      if tier1:
+
+                          print("")
+                          print("FIRST TIER1 SUPPLIER:")
+                          print(
+                              json.dumps(
+                                  tier1[0],
+                                  ensure_ascii=False,
+                                  indent=2
+                              )
+                          )
+
+                          if isinstance(tier1[0], dict):
+
+                              print("")
+                              print("FIRST TIER1 KEYS:")
+                              print(list(tier1[0].keys()))
+
+                              tier2 = tier1[0].get(
+                                  "tier2_suppliers",
+                                  []
+                              )
+
+                              print("")
+                              print("TIER2 SUPPLIER COUNT:")
+                              print(len(tier2))
+
+                              if tier2:
+                                  print("")
+                                  print("FIRST TIER2 SUPPLIER:")
+                                  print(
+                                      json.dumps(
+                                          tier2[0],
+                                          ensure_ascii=False,
+                                          indent=2
+                                      )
+                                  )
+
+          else:
+              print("")
+              print("WARNING:")
+              print("Agent 2 results array is EMPTY.")
+
+          print("")
+          print("========================================")
+          print("DEBUG FINISHED")
+          print("========================================")
+          PY
+
+
+      # ==========================================================
+      # 5. Setup Python
+      # ==========================================================
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+
+      # ==========================================================
+      # 6. Install dependencies
+      # ==========================================================
+      - name: Install dependencies
+        run: |
+          pip install networkx
+
+
+      # ==========================================================
+      # 7. Run Agent 5
+      # ==========================================================
       - name: Run Agent 5
+        env:
+          AGENT2_KG_PATH: data/agent2_results.json
         run: |
           python agents/agent5_risk_score.py
 
+
+      # ==========================================================
+      # 8. Check Agent 5 output
+      # ==========================================================
+      - name: Check Agent 5 output
+        run: |
+          echo "========================================"
+          echo "Agent 5 output"
+          echo "========================================"
+
+          if [ -f "data/agent5_risk_assessment.json" ]; then
+
+            ls -lah data/agent5_risk_assessment.json
+
+            echo ""
+            echo "========================================"
+            echo "JSON CONTENT"
+            echo "========================================"
+
+            cat data/agent5_risk_assessment.json
+
+          else
+
+            echo "ERROR:"
+            echo "data/agent5_risk_assessment.json NOT FOUND"
+
+            exit 1
+
+          fi
+
+
+      # ==========================================================
+      # 9. Upload Agent 5 result
+      # ==========================================================
       - name: Upload Agent 5 result
         uses: actions/upload-artifact@v4
         with:
           name: agent5-results
-          path: |
-            agent5_risk_assessment.json
-            data/agent5_risk_assessment.json
+          path: data/agent5_risk_assessment.json
