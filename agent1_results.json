@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T23:58:32Z",
-  "total_count": 5064,
+  "updated_at": "2026-09-24T06:06:45Z",
+  "total_count": 5156,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -137403,6 +137403,2424 @@
       "gdelt_country": "India",
       "gdelt_keyword": "tsunami",
       "published_at": "20260923T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Second Chinese Shock Impacting European Factories",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Automotive",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "China",
+        "Slovakia",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of European manufacturers may be affected by the geopolitical tensions with China?",
+        "Which manufacturing facilities in Slovakia depend on components sourced from China?",
+        "What are the potential impacts on logistics and transportation routes due to the geopolitical situation?",
+        "Which countries or regions are most vulnerable to supply chain disruptions stemming from China?",
+        "Which downstream companies in Europe rely on products from manufacturers affected by the situation?"
+      ],
+      "reason": "The article discusses the impact of geopolitical tensions originating from China on European factories, indicating potential disruptions in supply chains related to manufacturing and sourcing.",
+      "summary": "The article highlights a second wave of disruptions affecting European factories due to geopolitical tensions with China. This situation poses risks to manufacturing and supply chain operations in Slovakia and the broader European region.",
+      "title": "ANALÝZA : Druhý čínsky šok mieri aj na Slovensko . Európske fabriky dostávajú úder z dvoch strán",
+      "url": "https://hnonline.sk/finweb/komentare-a-analyzy/96303787-analuza-druhy-cinsky-sok-mieri-aj-na-slovensko-europske-fabriky-dostavaju-uder-z-dvoch-stran",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Expansion of Agricultural Export Capabilities",
+      "companies_involved": [
+        "香格里拉市博闻食品有限公司",
+        "南宁普冷国际物流有限公司"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "China",
+        "Japan",
+        "Thailand",
+        "Singapore",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 香格里拉市博闻食品有限公司 operate in the affected region?",
+        "Which manufacturing facilities depend on suppliers located in China?",
+        "Which downstream companies depend on products from 香格里拉市博闻食品有限公司?",
+        "What logistics routes are critical for the export of high-end agricultural products?",
+        "Which countries are most reliant on imports of Chinese high-end food products?"
+      ],
+      "reason": "The article discusses the expansion of China's agricultural export capabilities and the development of logistics networks, which directly impacts supply chain activities related to the transportation and distribution of agricultural products.",
+      "summary": "The article highlights China's growing capacity to export high-end agricultural products, facilitated by advancements in logistics and transportation networks. This expansion is likely to influence global supply chains, particularly in the agriculture and logistics sectors.",
+      "title": "越来越多中国优质  土特产  丰富世界餐桌 - 广西新闻网",
+      "url": "http://www.gxnews.com.cn/staticpages/20260923/newgx6ab363ed-21997541.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cross-border Fraud Ring Bust",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Laos",
+        "Singapore",
+        "Cambodia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the dismantling of a fraud ring and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the successful crackdown of a cross-border fraud ring involving multiple countries. While it highlights international law enforcement cooperation, it does not indicate any direct impact on supply chain operations.",
+      "title": "涉案金额超60亿 公安机关打掉一跨国民族资产解冻类诈骗团伙 _ 南方网",
+      "url": "https://news.southcn.com/node_47a8059d6c/8cbb96b0c6.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Price Regulation Enforcement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses regulatory enforcement related to price violations and competition but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the enforcement of price regulations and competition laws in China for the year 2025. It highlights the number of cases handled and penalties imposed but does not present a direct connection to supply chain disruptions.",
+      "title": "2025年全国共查办各类价格违法案件4 . 1万件",
+      "url": "https://china.qianlong.com/2026/0924/8731664.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T190000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "European Companies Collaborating with Chinese Firms",
+      "companies_involved": [
+        "Volkswagen",
+        "German Chamber of Commerce in China",
+        "Global Logistics Service Provider",
+        "Global Technology Supplier"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Logistics",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Germany",
+        "China",
+        "Southeast Asia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen operate in China or Southeast Asia?",
+        "Which manufacturing facilities in Germany depend on Chinese technology suppliers?",
+        "What are the potential impacts on logistics providers working with German companies in China?",
+        "Which countries or regions create exposure for German companies collaborating with Chinese firms?",
+        "Which downstream companies depend on products from the affected Chinese suppliers?"
+      ],
+      "reason": "The article discusses the collaboration between European and Chinese companies, which could lead to shifts in supply chain dynamics, particularly in the automotive and technology sectors, due to geopolitical tensions and competitive pressures.",
+      "summary": "European companies are increasingly collaborating with Chinese firms to maintain competitiveness in the face of geopolitical risks. This trend may impact supply chain relationships and dependencies, particularly in the automotive and logistics industries.",
+      "title": "欧企悟了 ： 打不过中企 ， 那就加入呗",
+      "url": "https://news.sina.com.cn/o/2026-09-23/doc-inisusyf8567880.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China-Uzbekistan Law Enforcement Cooperation Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Uzbekistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a bilateral meeting focused on law enforcement and security cooperation between China and Uzbekistan, with no direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a meeting between Chinese and Uzbek officials to enhance law enforcement cooperation. It does not indicate any direct supply chain disruptions or impacts on logistics, trade, or production.",
+      "title": "中乌执法安全合作机制第二次会议在南京召开 -- 时政 -- 人民网",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c1001-40804609.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bus Driver Strike in Hebei",
+      "companies_involved": [
+        "Hebei Baoding Gaobeidian Bus Company"
+      ],
+      "industries_involved": [
+        "Public Transportation"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Hebei Baoding Gaobeidian Bus Company may be affected by the strike?",
+        "Which transportation routes are impacted by the bus driver strike?",
+        "Which downstream companies depend on the public transportation services provided by the affected company?",
+        "What are the potential impacts on logistics operations due to the strike?",
+        "Which regions may experience increased demand for alternative transportation due to the disruption?"
+      ],
+      "reason": "The bus driver strike due to unpaid wages directly impacts public transportation operations, which can disrupt logistics and transportation services in the region.",
+      "summary": "A bus driver strike in Hebei, China, has emerged due to eight months of unpaid wages, leading to halted public transportation services. This disruption can affect logistics and transportation operations in the area, potentially impacting supply chains reliant on these services.",
+      "title": " 【 禁聞 】 9月23日維權動態 南京維權人士史庭福獄中突然死亡 | 錫安之光教會 | 訪民倪雲 | 討薪",
+      "url": "https://www.ntdtv.com/b5/2026/09/23/a104135532.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "90th Anniversary of the Long March Exhibition",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a commemorative exhibition and does not indicate any actual or potential disruptions to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on the opening of an exhibition commemorating the 90th anniversary of the Long March in China. It does not present any information related to supply chain disruptions.",
+      "title": "  伟大的远征 纪念中国工农红军长征胜利90周年主题展览  开幕式在京举行 蔡奇出席并讲话",
+      "url": "http://www.81.cn/yw_208727/16488511.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Rural Revitalization Education Initiative",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an educational initiative related to rural revitalization in China, focusing on sharing experiences and promoting agricultural development. It does not indicate any direct supply chain disruptions or impacts on logistics, production, or trade activities.",
+      "summary": "The article highlights an educational event aimed at promoting rural revitalization in China, featuring youth representatives sharing their experiences. It does not present any supply chain disruptions or risks.",
+      "title": "  乡村榜样说  在中国农大开讲 让更多高校学子读懂乡土中国 - 千龙网 · 中国首都网",
+      "url": "https://beijing.qianlong.com/2026/0924/8731650.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T201500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI Model Development in China",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the development of AI models in China but does not provide any information that connects to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the advancements in AI technology in China, specifically regarding AI models becoming quasi-public products. It does not indicate any supply chain disruptions or impacts.",
+      "title": "基石资本合伙人陶涛 ： 中国AI大模型正走向  准公共产品  ",
+      "url": "https://baijiahao.baidu.com/s?id=1877161924880204211",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China-Uzbekistan Law Enforcement Cooperation Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Uzbekistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting focused on law enforcement cooperation between China and Uzbekistan, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article reports on a meeting between Chinese and Uzbek officials to enhance law enforcement cooperation. There is no indication of a supply chain disruption as the content does not relate to supply chain activities.",
+      "title": "中乌执法安全合作机制第二次会议在南京召开 陈文清主持并讲话 - 新华网",
+      "url": "https://www.news.cn/politics/leaders/20260923/46180c7a867444159235a35529510a72/c.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China-Ukraine Law Enforcement Cooperation Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting focused on law enforcement cooperation between China and Ukraine, which does not have a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article reports on a law enforcement cooperation meeting between China and Ukraine. It does not indicate any supply chain disruptions or impacts on related activities.",
+      "title": "中乌执法安全合作机制第二次会议在南京召开 陈文清主持并讲话",
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/23/content_9464515.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T190000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Chinese Automotive Brands Expanding in Europe",
+      "companies_involved": [
+        "BYD",
+        "Chery",
+        "MG",
+        "Zeekr"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "China",
+        "Germany",
+        "France",
+        "United Kingdom",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of BYD and Chery operate in the European market?",
+        "Which manufacturing facilities are impacted by the changes in European trade policies?",
+        "What are the potential impacts of regulatory changes on the supply chains of Chinese automotive brands in Europe?",
+        "Which countries or regions create exposure for Chinese automotive brands in terms of market access?",
+        "Which downstream companies in Europe depend on products from BYD, Chery, and other Chinese automotive brands?"
+      ],
+      "reason": "The article discusses the significant growth of Chinese automotive brands in Europe, highlighting potential impacts from changing trade policies and market dynamics that could affect supply chains.",
+      "summary": "Chinese automotive brands are experiencing substantial growth in the European market, surpassing traditional European competitors. This expansion raises concerns about regulatory changes and trade policies that could impact supply chain operations for these companies.",
+      "title": "8月销量超雷诺 、 奥迪 ， 中国品牌正从  走出去  迈向  站得住  |比亚迪|雷诺汽车|奇瑞汽车",
+      "url": "https://www.163.com/dy/article/L7H03GPQ051481US.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "China becomes Germany's largest car import source",
+      "companies_involved": [
+        "Chinese automotive manufacturers"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "China",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Chinese automotive manufacturers may be affected by increased demand in Germany?",
+        "Which manufacturing facilities in China are producing the vehicles being exported to Germany?",
+        "What are the logistics implications for shipping vehicles from China to Germany?",
+        "Which downstream companies in Germany depend on the imported vehicles from China?",
+        "How might changes in trade policy between China and Germany impact automotive supply chains?"
+      ],
+      "reason": "The article discusses a significant increase in car imports from China to Germany, indicating a shift in trade dynamics that could impact supply chains in the automotive industry.",
+      "summary": "China has become the largest source of car imports for Germany, with a notable increase in demand for electric and hybrid vehicles. This shift in trade dynamics may affect supply chain relationships and logistics for automotive manufacturers in both countries.",
+      "title": "苹果新功能打击摇一摇广告 ， OpenAI再推两款GPT6模型 ， 王慧文称想组局买下西贝 ， 中国成德国最大汽车进口来源国 ， 这就是今天的其他大新闻 ！ ",
+      "url": "https://www.163.com/dy/article/L7I9QL1R051196HN.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Future Computing Forum in Hangzhou",
+      "companies_involved": [
+        "济南智星空间科技有限公司",
+        "中国电建集团华东勘测设计研究院有限公司",
+        "航天五院杭州中心"
+      ],
+      "industries_involved": [
+        "Cloud Computing",
+        "Aerospace",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 济南智星空间科技有限公司 operate in the affected region?",
+        "Which manufacturing facilities depend on suppliers located in China?",
+        "Which downstream companies depend on products from the affected aerospace and AI sectors?",
+        "What are the dependencies between cloud computing and aerospace industries in this region?",
+        "Which companies may be impacted by the advancements in space computing technology?"
+      ],
+      "reason": "The event discusses advancements in computing technology and the establishment of a satellite production capability, which could impact supply chains in the aerospace and technology sectors.",
+      "summary": "The Future Computing Forum in Hangzhou highlights advancements in cloud and space computing, with significant implications for the aerospace and AI industries. The establishment of satellite production capabilities may affect supply chain dynamics in these sectors.",
+      "title": "从  飞天  到  二次飞天  杭州探索未来计算新路径",
+      "url": "https://ori.hangzhou.com.cn/ornews/content/2026-09/23/content_9315080.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "2026 Barcelona AI Summit",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an upcoming AI summit and does not provide any information related to supply chain activities or disruptions.",
+      "summary": "The article focuses on the 2026 Barcelona AI Summit, which centers on the application of artificial intelligence. It does not indicate any supply chain disruptions or impacts.",
+      "title": "视频丨2026巴塞罗那人工智能峰会举行 ， 聚焦人工智能落地应用",
+      "url": "https://baijiahao.baidu.com/s?id=1877090643719866935",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T210000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Innovation Competition Participation",
+      "companies_involved": [
+        "CITIC Bank"
+      ],
+      "industries_involved": [
+        "Financial Services",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of CITIC Bank may be affected by the outcomes of the competition?",
+        "Which technology companies are participating in the competition that could impact supply chain dynamics?",
+        "What are the potential impacts on the financial services provided to companies in the space information industry?"
+      ],
+      "reason": "The article discusses a competition focused on innovation in the space information sector, but it does not indicate any immediate or potential disruptions to supply chain activities.",
+      "summary": "The article highlights CITIC Bank's participation in an innovation competition aimed at supporting small and medium enterprises in the space information sector. While it showcases collaboration and support for innovation, it does not present any direct supply chain disruptions.",
+      "title": "中信银行北京分行参加第十一届  创客中国  时空信息中小企业创新创业大赛决赛 - 千龙网 · 中国首都网",
+      "url": "https://finance.qianlong.com/2026/0923/8731291.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and does not have any meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a football match between China and the UAE in the Asian Games. It does not pertain to any supply chain disruptions or related activities.",
+      "title": "不败即进8强 ！ 亚运 - 中国男足VS阿联酋首发 ： 连续3场11人不变争头名",
+      "url": "https://www.163.com/dy/article/L7GRERTJ0529CA1F.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Population Growth and Aging in Mexico",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses demographic changes and social issues in Mexico, including crime and displacement, but does not provide a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on Mexico's population surpassing 130 million and highlights issues related to aging and displacement due to crime. However, it does not indicate any direct supply chain disruptions.",
+      "title": "La popolazione del Messico supera i 130 milioni , ma invecchia - America Latina",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/la-popolazione-del-messico-supera-i-130-milioni-ma-invecchia_f40ff099-9ffe-43b9-8727-09ba5fc987d8.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T014500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [
+        "Which tourism companies have operations in the affected regions of Mexico?",
+        "Which logistics providers are responsible for transporting goods to or from the impacted areas?",
+        "Which suppliers of travel services may be affected by the hurricane?",
+        "What are the potential impacts on supply chains for goods and services in the affected states?",
+        "Which downstream companies depend on tourism in the affected regions?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics and tourism operations in Mexico, which can disrupt supply chains related to travel and goods transportation.",
+      "summary": "Hurricane Polo, classified as a category five storm, is expected to cause severe disruptions in southern Mexico, particularly affecting tourism and logistics. The Foreign Office has issued travel warnings, indicating potential impacts on supply chains related to travel services and goods transportation in the region.",
+      "title": "Foreign Office issues travel warning ahead of  one of most powerful storms ever  ",
+      "url": "https://www.dailystar.co.uk/news/latest-news/foreign-office-issues-travel-warning-37696120",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of tourism services operate in the affected regions of Mexico?",
+        "Which logistics companies may face disruptions due to the hurricane's impact on transportation routes?",
+        "Which downstream companies in the tourism industry depend on operations in the affected areas?",
+        "What are the potential impacts on supply chains for goods transported through affected ports in Mexico?",
+        "Which regions in Mexico are critical for supply chain operations that may be disrupted by the hurricane?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics and tourism operations in Mexico, which can disrupt supply chains related to these industries.",
+      "summary": "Hurricane Polo, classified as a category five storm, is expected to cause severe disruptions in southern Mexico, particularly affecting tourism and logistics. The storm's impact may lead to flooding and landslides, posing risks to supply chain operations in the region.",
+      "title": "Foreign Office issues Mexico travel warning ahead of  one of most powerful storms ever  ",
+      "url": "https://www.manchestereveningnews.co.uk/news/world-news/foreign-office-issues-mexico-travel-34663069",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Cartel Drone Warfare Training Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics",
+        "Security"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Mexico",
+        "United States",
+        "Colombia"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by the transfer of drone technology to cartels?",
+        "Which logistics companies operate in regions impacted by cartel activities?",
+        "Which security firms are involved in border security that may face increased threats?",
+        "Which suppliers of drone technology could be exposed to cartel operations?",
+        "Which downstream operations in the U.S. may be affected by increased cartel drone incursions?"
+      ],
+      "reason": "The article discusses the transfer of military drone capabilities to criminal organizations, which poses a risk to border security and could disrupt logistics and security operations in the U.S. and Mexico.",
+      "summary": "The article highlights the implications of cartel members gaining military drone training in Ukraine, which threatens U.S. border security and logistics. This geopolitical disruption could impact defense and security industries as cartels adapt military tactics for criminal operations.",
+      "title": "From Ukraine drone war to Mexico drug war : How cartels are importing battlefield terror – NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-09-23-how-cartels-are-importing-battlefield-terror.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Development of Embodied Intelligence Technology",
+      "companies_involved": [
+        "墨奇智能"
+      ],
+      "industries_involved": [
+        "Robotics",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 墨奇智能 provide components for their robots?",
+        "What manufacturing facilities are involved in the production of the KINO robot?",
+        "Which countries are key sources for the materials used in the KINO robot?",
+        "What logistics partners are involved in the distribution of 墨奇智能's products?",
+        "Which downstream companies may rely on the technology developed by 墨奇智能?"
+      ],
+      "reason": "The article discusses the advancements in embodied intelligence technology and the formation of a skilled team at 墨奇智能, but it does not indicate any immediate supply chain disruptions or risks.",
+      "summary": "墨奇智能 is rapidly advancing in the field of embodied intelligence technology, showcasing their KINO robot and a strong team. However, there are no indications of disruptions to supply chains or operations at this time.",
+      "title": "成立8个月跑完同行2 - 3年路程 ， 墨奇如何炼出具身智能  全栈天团  |算法|机器人",
+      "url": "https://www.163.com/dy/article/L7EVGKDB05119C3G.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Creation of Climate Shelters in Mexico City",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the establishment of climate shelters in response to extreme heat but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines a proposal by the Congress of Mexico City to create climate shelters to protect residents from extreme heat. While this initiative addresses public health and safety, it does not directly relate to supply chain disruptions.",
+      "title": "CDMX impulsa refugios climáticos ante aumento de olas de calor – Publimetro México",
+      "url": "https://www.publimetro.com.mx/noticias/2026/09/21/cdmx-busca-crear-refugios-climaticos-en-las-16-alcaldias-ante-olas-de-calor/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Potential strike at Volkswagen",
+      "companies_involved": [
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by the potential strike?",
+        "Which manufacturing facilities of Volkswagen could be impacted by labor disruptions?",
+        "What regions are critical for Volkswagen's supply chain that could be affected by this event?",
+        "Which downstream companies rely on Volkswagen's production output?",
+        "What are the potential impacts on logistics and transportation due to the strike?"
+      ],
+      "reason": "The article discusses a potential strike at Volkswagen, which could disrupt manufacturing operations and affect the supply chain due to labor disruptions.",
+      "summary": "The article raises concerns about a potential strike at Volkswagen, which could lead to significant operational disruptions. This situation may impact production and supply chain activities within the automotive industry.",
+      "title": " ¿ Habrá huelga en Volkswagen ? - Opinión La Jornada de Oriente",
+      "url": "https://www.lajornadadeoriente.com.mx/opinion/habra-huelga-en-volkswagen/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Fatal Incident Involving Hornets",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a tragic incident involving the death of two children due to hornet stings, which does not have a direct connection to supply chain activities such as production, logistics, or trade. It primarily focuses on legal proceedings and personal tragedy rather than supply chain disruptions.",
+      "summary": "The article reports on a legal case following the deaths of two children from hornet stings in Yunnan, China. It highlights the family's grief and the legal implications for the individual responsible for the hornet breeding, but does not indicate any supply chain disruption.",
+      "title": "  云南两幼童被胡蜂蜇亡案  21日开庭 ， 孩子父亲 ： 没有义务共情养蜂人 ， 做不到大度原谅 ， 全家人都活在痛苦中 ， 希望能顶格判处|杨华|蜇伤|马蜂|养殖|黄蜂",
+      "url": "https://www.163.com/dy/article/L7BFENLP0514D3UH.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not discuss any events or factors that have a meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a cultural event related to selecting a youth ambassador in Hunan and does not pertain to supply chain disruptions.",
+      "title": "以声传书香 ， 为青春领读打call ！ 选出你心中的湖南青春领读大使",
+      "url": "https://www.xxcb.cn/details/2q8biSYgB6ab09edc84201759af091a0f.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T191500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Guerrero, Michoacán, and Colima?",
+        "Which logistics companies may face disruptions due to flooding and high winds?",
+        "Which agricultural producers in the affected areas could experience crop damage?",
+        "What transportation routes are at risk due to potential flooding and landslides?",
+        "Which downstream companies rely on products sourced from the affected regions?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics, transportation, and agricultural production in the affected regions, which can disrupt supply chains.",
+      "summary": "Hurricane Polo has intensified to a category 5 storm, threatening significant rainfall and high winds in several Mexican states. This natural disaster could disrupt logistics and agricultural operations, impacting supply chains in the region.",
+      "title": "Huracán  Polo  se intensifica a categoría 5 : ¿ Qué estados golpeará HOY con lluvias ? Trayectoria EN VIVO – El Financiero",
+      "url": "https://www.elfinanciero.com.mx/estados/2026/09/22/huracan-polo-se-intensifica-a-categoria-5-que-estados-golpeara-hoy-con-lluvias-trayectoria-en-vivo/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential Diesel Export Ban",
+      "companies_involved": [
+        "Valero Energy",
+        "Marathon Petroleum"
+      ],
+      "industries_involved": [
+        "Refining",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Europe",
+        "Latin America"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Valero Energy and Marathon Petroleum may be affected by the potential export ban?",
+        "Which manufacturing or production relationships may be impacted by rising diesel prices?",
+        "Which countries or regions are most dependent on U.S. diesel exports?",
+        "What supply-chain dependencies exist that could transmit the impact of a diesel export ban?",
+        "Which downstream companies rely on diesel from the affected suppliers?"
+      ],
+      "reason": "The potential ban on diesel exports from the U.S. could significantly impact the supply chain by affecting fuel availability and prices, which in turn would influence logistics, transportation, and production costs across various industries.",
+      "summary": "The article discusses a potential U.S. diesel export ban proposed by Trump, which could disrupt global diesel supply chains. This policy shift may lead to increased costs for transportation and agriculture, affecting multiple industries and countries reliant on U.S. diesel.",
+      "title": "特朗普表态支持禁止柴油出口 ， 炼油股承压",
+      "url": "https://wallstreetcn.com/articles/3782325",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Regulatory Restrictions",
+      "event": "Mining Permit Approval in Mexico",
+      "companies_involved": [
+        "Advance Metals",
+        "First Majestic Silver"
+      ],
+      "industries_involved": [
+        "Mining",
+        "Metals"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Advance Metals operate in Mexico?",
+        "What manufacturing processes are affected by the mining permit approvals?",
+        "Which countries or regions are dependent on silver and zinc from Mexico?",
+        "What supply-chain dependencies exist between Advance Metals and First Majestic Silver?",
+        "Which downstream companies rely on the metals produced from the Gavilanes project?"
+      ],
+      "reason": "The article discusses the loosening of mining permit regulations in Mexico, which directly impacts the operations of mining companies like Advance Metals and First Majestic Silver, potentially affecting their production and supply chains.",
+      "summary": "Advance Metals has reported significant silver and zinc findings at its Gavilanes project in Mexico, coinciding with a regulatory shift that is easing mining permit approvals. This change could enhance production capabilities and supply chain dynamics for the involved companies.",
+      "title": "Advance nails 4120g / t silver stunner in Mexico",
+      "url": "https://www.smh.com.au/business/companies/advance-nails-4120g-t-silver-stunner-in-mexico-20260922-p60zi7.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Regulatory Restrictions",
+      "event": "Mining Permit Approval in Mexico",
+      "companies_involved": [
+        "Advance Metals",
+        "First Majestic Silver"
+      ],
+      "industries_involved": [
+        "Mining",
+        "Metals"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Advance Metals operate in Mexico?",
+        "What manufacturing processes are dependent on the mining output from the Gavilanes project?",
+        "Which countries or regions are affected by the regulatory changes in Mexico's mining sector?",
+        "What supply-chain dependencies exist between Advance Metals and First Majestic Silver?",
+        "Which downstream companies rely on the minerals extracted from the Gavilanes project?"
+      ],
+      "reason": "The article discusses the loosening of mining permit regulations in Mexico, which directly impacts mining operations and potential production capabilities for companies like Advance Metals and First Majestic Silver.",
+      "summary": "Advance Metals has reported significant silver and base metal findings at its Gavilanes project in Mexico, coinciding with a positive shift in mining permit approvals. This regulatory change could enhance production capabilities and affect supply chain dynamics in the mining sector.",
+      "title": "Advance nails 4120g / t silver stunner in Mexico",
+      "url": "https://www.theage.com.au/business/companies/advance-nails-4120g-t-silver-stunner-in-mexico-20260922-p60zi7.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Regulatory Restrictions",
+      "event": "Mining Permit Approval in Mexico",
+      "companies_involved": [
+        "Advance Metals",
+        "First Majestic Silver"
+      ],
+      "industries_involved": [
+        "Mining",
+        "Metals"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Advance Metals operate in Mexico?",
+        "What manufacturing processes are dependent on the mining output from the Gavilanes project?",
+        "Which countries or regions are affected by the regulatory changes in Mexico's mining sector?",
+        "What supply-chain dependencies exist between Advance Metals and First Majestic Silver?",
+        "Which downstream companies rely on the minerals extracted from the Gavilanes project?"
+      ],
+      "reason": "The article discusses the loosening of mining permit regulations in Mexico, which directly impacts mining operations and potential production capabilities for companies like Advance Metals and First Majestic Silver.",
+      "summary": "Advance Metals has reported significant silver and base metal findings at its Gavilanes project in Mexico, coinciding with a regulatory shift that is easing mining permit approvals. This change could enhance production capabilities but also highlights ongoing restrictions on new mining concessions.",
+      "title": "Advance nails 4120g / t silver stunner in Mexico",
+      "url": "https://www.brisbanetimes.com.au/business/companies/advance-nails-4120g-t-silver-stunner-in-mexico-20260922-p60zi7.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Fatal Incident Involving Beekeeping",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a tragic incident involving the deaths of two children due to a beekeeping accident, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a court case related to a fatal incident involving children being stung by bees from a local beekeeper. While it highlights regulatory concerns regarding beekeeping practices, it does not indicate a disruption to supply chain activities.",
+      "title": "  云南两幼童被胡蜂蜇亡案  21日开庭 ， 孩子父亲 ： 没有义务共情养蜂人 ， 希望能顶格判处",
+      "url": "https://edu.ycwb.com/2026-09/22/content_54302461.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Supply Chain Challenges in Truck Manufacturing",
+      "companies_involved": [
+        "Камаз"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Russia",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Камаз may be affected by the extended supply chains?",
+        "Which manufacturing facilities depend on components sourced from China?",
+        "What logistics providers are impacted by the increased delivery times?",
+        "Which countries are key suppliers for the components needed by Камаз?",
+        "Which downstream companies rely on the timely delivery of trucks from Камаз?"
+      ],
+      "reason": "The article discusses the anticipated growth in truck sales in Russia, while also highlighting significant logistical challenges such as supply chain delays and labor shortages that could impact production and delivery timelines.",
+      "summary": "The article predicts growth in the Russian truck market but identifies potential supply chain disruptions due to extended delivery times and labor shortages. These factors could significantly affect the production and logistics of truck manufacturing.",
+      "title": "Рынку одного вида машин предсказали рост",
+      "url": "https://lenta.ru/news/2026/09/23/rynku-odnogo-vida-mashin-predskazali-rost/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Employment Growth in San Luis Potosí",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses employment growth and labor stability in San Luis Potosí but does not indicate any disruptions or risks to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the growth of formal employment in San Luis Potosí, Mexico, emphasizing labor stability and the absence of strikes. However, it does not present any information that would indicate a supply chain disruption.",
+      "title": "SLP avanza en crecimiento de empleo formal",
+      "url": "https://planoinformativo.com/1170646/slp-avanza-en-crecimiento-de-empleo-formal-",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Drone Recovery Incident",
+      "companies_involved": [
+        "SpektreWorks"
+      ],
+      "industries_involved": [
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the recovery of a drone and its connection to military testing but does not indicate any disruption to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a fishing charter recovering a military drone near Eglin Air Force Base. While it involves a defense-related company, there is no indication of a supply chain disruption affecting suppliers, manufacturing, or logistics.",
+      "title": "What a catch ! Florida fishing boat reels in UAS resembling LUCAS drone",
+      "url": "https://www.militarytimes.com/news/your-military/2026/09/22/what-a-catch-florida-fishing-boat-reels-in-uas-resembling-lucas-drone/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "International Skills Competition Training",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a training program for international skills competition and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a training initiative by Taiwan's Ministry of Labor for participants heading to an international skills competition in Shanghai. It does not present any supply chain disruption or risk to supply chain activities.",
+      "title": "從雲嘉南走向世界 勞動部南分署培訓國手出征上海 挑戰國際技能競賽",
+      "url": "https://n.yam.com/Article/20260924752186",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "International Skills Competition Training",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses training for an international skills competition and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the training of Taiwanese representatives for an international skills competition in Shanghai. It does not present any information that suggests a supply chain disruption.",
+      "title": "從雲嘉南走向世界 勞動部南分署培訓國手出征上海 挑戰國際技能競賽",
+      "url": "https://n.yam.com/Article/20260924321103",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Illegal Immigration Attempt",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Ecuador",
+        "Dominican Republic",
+        "Cuba",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an illegal immigration attempt and law enforcement actions, which do not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the interception of a boat carrying illegal immigrants attempting to enter the U.S. from the Caribbean. While it highlights a law enforcement action, it does not indicate any direct supply chain disruption.",
+      "title": "罕见偷渡路线曝光 13名中国公民海上闯关美国",
+      "url": "https://www.wenxuecity.com/news/2026/09/22/126782841.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Azeez Al-Shaair's Activism and NFL Fines",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an NFL player's activism regarding a humanitarian issue and the fines he faces for expressing his views. It does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on Azeez Al-Shaair's activism for victims in Palestine and the fines imposed by the NFL for his messages. It does not present any supply chain disruption or impact on supply chain activities.",
+      "title": "Azeez Al - Shaair levanta la voz por las víctimas infantiles de Palestina pese a las multas de la NFL",
+      "url": "https://www.sopitas.com/deportes/azeez-al-shaair-mensajes-palestina-multas-nfl/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "UNAM Anniversary",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the anniversary of a university and its historical resilience to closures and crises, but does not provide any information related to supply chain activities or disruptions.",
+      "summary": "The article celebrates the 475th anniversary of UNAM, highlighting its survival through various challenges. However, it does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": " ¡ 475 años de la UNAM ! La universidad que sobrevivió a cierres , huelgas y crisis",
+      "url": "https://imparcialoaxaca.mx/nacional/475-anos-de-la-unam-la-universidad-que-sobrevivio-a-cierres-huelgas-y-crisis/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T181500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Exchange Event",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural exchange event between cities and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a cultural exchange event between Taichung and Tottori, focusing on enhancing international visibility. It does not present any information related to supply chain disruptions.",
+      "title": "柯南 、 鬼太郎故鄉來交流 ！ 新聞局長 ： 台中短漫大賽攜手鳥取拓展國際能見度",
+      "url": "https://n.yam.com/Article/20260923318328",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Hunger strike over electricity costs",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The hunger strike is a protest against electricity costs and does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "Two women in Mexicali are on a hunger strike protesting high electricity costs. This event does not indicate a supply chain disruption as it lacks a direct impact on supply chain activities.",
+      "title": "Two Mexicali women go on hunger strike over electricity costs",
+      "url": "https://kyma.com/news/mexico/2026/09/21/two-mexicali-women-go-on-hunger-strike-over-electricity-costs/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Copper exploration update",
+      "companies_involved": [
+        "Algo Grande Copper Corp."
+      ],
+      "industries_involved": [
+        "Mining",
+        "Metals"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses exploration results and stock performance of a copper mining company, but does not indicate any immediate supply chain disruptions or impacts on production, logistics, or trade.",
+      "summary": "The article reports on the positive exploration results of Algo Grande Copper Corp. in Mexico, highlighting the potential for increased copper production. However, it does not present any direct supply chain disruptions or risks.",
+      "title": "Geheime Kupferaktie : Erst Handelsstopp , dann +12 % - brandneue News liefert jetzt Teil 2 dieser Kupfer - Story",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69651726-geheime-kupferaktie-erst-handelsstopp-dann-12-brandneue-news-liefert-jetzt-teil-2-dieser-kupfer-story-601.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Uruguay Port Strike",
+      "companies_involved": [],
+      "industries_involved": [
+        "Shipping",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Uruguay"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers rely on the Montevideo port for shipping?",
+        "Which manufacturing operations depend on imports or exports through Uruguay?",
+        "What are the potential delays for companies using the affected port?",
+        "Which downstream companies may face disruptions due to delays in cargo movement?",
+        "How might the port strike impact logistics costs for companies operating in Uruguay?"
+      ],
+      "reason": "The port strike in Uruguay directly affects logistics and shipping operations, leading to potential delays in cargo movement and impacting supply chain activities.",
+      "summary": "A 24-hour port strike in Uruguay is expected to disrupt logistics and shipping operations at Montevideo's container terminal. This could lead to delays in import and export cargo, affecting supply chains reliant on this port.",
+      "title": "LatAm Expat & Nomad Daily Guide for Monday , September 21 , 2026",
+      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-september-21-2026/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Tensions and Potential Military Action",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by potential military actions in the region?",
+        "Which logistics companies operate in or around the Strait of Hormuz?",
+        "Which countries or regions create exposure for companies relying on oil imports from Iran?",
+        "Which downstream companies depend on energy supplies from the affected region?"
+      ],
+      "reason": "The article discusses escalating tensions between the US and Iran, which could lead to military action affecting energy supply routes and logistics in the region, particularly the Strait of Hormuz, a critical chokepoint for global oil shipments.",
+      "summary": "The article highlights rising geopolitical tensions between the US and Iran, with potential military actions that could disrupt energy supplies and logistics in the region. This situation poses risks to companies reliant on oil imports and logistics operations in affected areas.",
+      "title": "川普聯大演說撂狠話 ！ 警告伊朗不談協議就殲滅 再嗆古巴 「 終將垮台 」 | 國際 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1911493",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Carbon Sequestration Initiative",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a carbon sequestration initiative aimed at achieving net-zero emissions for a city, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a carbon sequestration initiative at the Neishuangxi Nature Center aimed at contributing to urban net-zero goals. It does not indicate any direct supply chain disruptions or impacts on suppliers, manufacturers, or logistics.",
+      "title": "內雙溪自然中心啟動碳封存 為城市淨零打通關",
+      "url": "https://n.yam.com/Article/20260923182764",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Launch of Digital Humanities Platform",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the launch of a digital humanities platform at a university, which does not have a meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article announces the official launch of a digital humanities platform at Fo Guang University. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "星雲大師數位人文平台佛光大學正式啟用 ！ ",
+      "url": "https://n.yam.com/Article/20260924630159",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Tensions and Military Actions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by increased tensions in the Middle East?",
+        "Which manufacturing or production relationships may be impacted by military actions in the region?",
+        "Which countries or regions create exposure for companies involved in defense contracts?",
+        "Which supply-chain dependencies could transmit disruptions from geopolitical tensions?",
+        "Which downstream companies in the energy sector may be exposed to risks from US-Iran relations?"
+      ],
+      "reason": "The article discusses escalating military tensions between the US and Iran, which could impact energy supply chains and defense industries due to potential conflicts and geopolitical restrictions.",
+      "summary": "The article highlights increasing military tensions between the United States and Iran, which could lead to significant disruptions in supply chains, particularly in the energy and defense sectors. The geopolitical climate may affect trade and logistics operations in the region.",
+      "title": "Trump defende guerra com Irã e critica ONU em discurso",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7505708-trump-defende-guerra-com-ira-e-critica-onu-em-discurso.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T181500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Hakka Cultural Exchange Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural exchange meeting and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a meeting aimed at enhancing cultural exchanges among Hakka communities. It does not present any information related to supply chain disruptions.",
+      "title": "全球臺灣客家聯合總會拜會高市客委會 深化海內外客家交流合作",
+      "url": "https://n.yam.com/Article/20260923130774",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "US Boat Strikes Campaign",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Venezuela",
+        "Iran"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses military actions and human rights violations rather than direct impacts on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a UN report condemning US military strikes as potential crimes against humanity. While it highlights geopolitical tensions, it does not indicate a direct impact on supply chain activities.",
+      "title": "US Boat Strikes Are  Plausibly  Crimes Against Humanity , UN Report Says",
+      "url": "https://truthout.org/articles/uss-boat-strikes-are-plausibly-crimes-against-humanity-un-report-says/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Military Strikes on Drug Trafficking Vessels",
+      "companies_involved": [
+        "US Drug Enforcement Agency"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Drug Trafficking"
+      ],
+      "countries_involved": [
+        "United States",
+        "Venezuela",
+        "Colombia",
+        "Ecuador"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the US Drug Enforcement Agency may be affected by geopolitical tensions?",
+        "Which manufacturing or production relationships may be impacted by military operations in the region?",
+        "Which countries or regions create exposure for companies involved in drug enforcement?",
+        "Which supply-chain dependencies could transmit the disruption from military actions?",
+        "Which downstream companies or operations may be exposed to changes in drug trafficking dynamics?"
+      ],
+      "reason": "The military strikes against drug trafficking vessels could disrupt supply chains related to drug enforcement and logistics, impacting operations in affected regions and potentially altering trade routes and drug supply dynamics.",
+      "summary": "The US military's strikes on alleged drug trafficking vessels have raised significant geopolitical concerns, potentially impacting supply chains related to drug enforcement and logistics. The ongoing military operations may alter trade dynamics and expose various companies to risks associated with drug trafficking in the region.",
+      "title": "US  drug boat  strikes breach international law , could be crimes against humanity , UN report says",
+      "url": "https://www.abc.net.au/news/2026-09-22/us-drug-boat-strikes-legality-explained-in-un-report/107180978",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Expansion of El Mezquite Gold-Silver Project",
+      "companies_involved": [
+        "Tocvan Ventures Corp."
+      ],
+      "industries_involved": [
+        "Mining"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Tocvan Ventures Corp. operate in the affected region?",
+        "Which manufacturing or production relationships may be affected by the expansion of the El Mezquite project?",
+        "Which countries or regions create exposure for Tocvan Ventures Corp. due to this project?",
+        "Which supply-chain dependencies could transmit the disruption from the El Mezquite project?",
+        "Which downstream companies or operations may be exposed to changes in production from the El Mezquite project?"
+      ],
+      "reason": "The article discusses the expansion of a mining project, which indicates potential changes in production capacity and resource availability, impacting supply chain activities related to mining and resource extraction.",
+      "summary": "Tocvan Ventures Corp. has reported significant drilling results from its El Mezquite project in Mexico, indicating potential expansion and increased production capacity. This development may affect supply chain dynamics in the mining industry, particularly in resource availability and logistics.",
+      "title": "Tocvan erweitert El Mezquite ; Bohrung liefert 106 , 8 m mit 0 , 5 g / t Au",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69650725-tocvan-erweitert-el-mezquite-bohrung-liefert-106-8-m-mit-0-5-g-t-au-248.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Military Strikes on Drug Trafficking Vessels",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Drug Trafficking",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Venezuela",
+        "Colombia",
+        "Ecuador"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense contractors may be affected by increased military operations?",
+        "Which logistics companies are involved in the transportation of goods in the affected regions?",
+        "Which countries or regions are critical for the supply of drugs that may be impacted by these military actions?",
+        "Which downstream companies depend on the stability of drug supply chains in Latin America?",
+        "How might increased military actions affect trade routes and logistics in the Caribbean and Pacific regions?"
+      ],
+      "reason": "The military strikes against drug trafficking vessels could disrupt logistics and trade routes in the Caribbean and Pacific, impacting the supply chains related to drug trafficking and defense industries.",
+      "summary": "The US military's strikes on alleged drug trafficking vessels have raised concerns about their legality and effectiveness. These actions could disrupt logistics and trade in the affected regions, particularly impacting the drug trafficking and defense industries.",
+      "title": "US  drug boat  strikes breach international law , could be crimes against humanity , UN report says - 22 - Sep - 2026",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454539&fm=psp,tst",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Military Strikes on Drug Trafficking Vessels",
+      "companies_involved": [
+        "US Drug Enforcement Agency"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Drug Trafficking",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Venezuela",
+        "Colombia",
+        "Ecuador"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the US Drug Enforcement Agency may be affected by geopolitical tensions?",
+        "Which logistics operations are impacted by military actions in the Caribbean and Pacific regions?",
+        "What are the supply chain dependencies related to drug trafficking that could be disrupted by military strikes?",
+        "Which downstream companies rely on the stability of drug supply chains affected by these military operations?",
+        "How might the geopolitical situation in Venezuela and Colombia affect logistics and transportation routes for drug enforcement?"
+      ],
+      "reason": "The military strikes against drug trafficking vessels represent a significant geopolitical event that could disrupt logistics and transportation related to drug enforcement and trafficking, impacting supply chains in the defense and drug industries.",
+      "summary": "The US military's strikes on alleged drug trafficking vessels have raised concerns about their legality and effectiveness, potentially impacting logistics and supply chains related to drug enforcement. The geopolitical tensions in the region may further complicate trade and transportation routes.",
+      "title": "US  drug boat  strikes breach international law , could be crimes against humanity , UN report says - 22 - Sep - 2026",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454539&fm=psp,tsf",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Military Strikes on Drug Trafficking Vessels",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Drug Trafficking",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Venezuela",
+        "Colombia",
+        "Ecuador"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of logistics services may be affected by increased military operations in the region?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in Latin America?",
+        "Which countries or regions create exposure for companies involved in drug enforcement or military logistics?",
+        "Which supply-chain dependencies could transmit the disruption from military actions in the Caribbean and Pacific?",
+        "Which downstream companies depend on the stability of trade routes affected by military strikes?"
+      ],
+      "reason": "The military strikes against drug trafficking vessels could disrupt logistics and trade routes in the Caribbean and Pacific, impacting supply chains related to defense and drug enforcement operations.",
+      "summary": "The US military's strikes on alleged drug trafficking vessels have raised significant geopolitical concerns, potentially disrupting logistics and trade in affected regions. The ongoing military operations may impact supply chains related to defense and drug enforcement activities.",
+      "title": "US  drug boat  strikes breach international law , could be crimes against humanity , UN report says - 22 - Sep - 2026",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454539",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural and Business Collaboration Event",
+      "companies_involved": [
+        "鼎信集团",
+        "光禾视界",
+        "阡上花化妆品"
+      ],
+      "industries_involved": [
+        "Cultural Arts",
+        "Business Development"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a cultural event and collaboration between companies, with no direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers the opening of a cultural event in China aimed at promoting art and business collaboration. It highlights partnerships between local companies but does not indicate any supply chain disruptions.",
+      "title": "第37届  金桥之春  书画系列活动启幕 ！ 不止书画展 ， 更有数字创意 、 商圈共振|艺术",
+      "url": "https://www.163.com/dy/article/L7H98DN105506BEH.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Paramount-Warner Bros Merger Settlement",
+      "companies_involved": [
+        "Paramount",
+        "Warner Bros"
+      ],
+      "industries_involved": [
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a legal settlement related to a merger in the entertainment industry, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "Paramount has settled a lawsuit with US states to facilitate its merger with Warner Bros. This event is primarily related to corporate restructuring in the entertainment sector and does not indicate a supply chain disruption.",
+      "title": "Paramount settles lawsuit with US states to clear way for Warner Bros mega - merger",
+      "url": "https://www.thejournal.ie/paramount-warner-bros-merger-settlement-7169048-Sep2026/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T203000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Paramount-Warner Bros. Merger Settlement",
+      "companies_involved": [
+        "Paramount",
+        "Warner Bros. Discovery"
+      ],
+      "industries_involved": [
+        "Media",
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Paramount and Warner Bros. may be affected by the merger?",
+        "What production relationships could be impacted by the commitment to produce a specific number of films?",
+        "Which regions may experience changes in film production due to the merger?",
+        "What dependencies exist between Paramount and Warner Bros. and their suppliers?",
+        "Which downstream companies rely on content produced by the merged entity?"
+      ],
+      "reason": "The merger and subsequent settlement involve commitments to film production and labor agreements, which can impact supply chain activities related to media production and distribution.",
+      "summary": "Paramount's settlement to proceed with its merger with Warner Bros. Discovery includes commitments to film production and labor agreements, potentially affecting the media and entertainment supply chain. The merger creates a significant operational shift in the industry, with implications for job security and production output.",
+      "title": "Paramount settles with US states to clear Warner Bros . mega - merger",
+      "url": "https://www.jamaicaobserver.com/2026/09/21/paramount-settles-us-states-clear-warner-bros-mega-merger/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260921T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "China's Export Control on Chemical Precursors",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals",
+        "Chemicals"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Mexico",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of chemical precursors may be affected by the new export regulations?",
+        "Which manufacturing facilities in the U.S., Mexico, or Canada depend on imports of the controlled chemicals?",
+        "What are the potential impacts on trade relationships between China and the U.S. regarding chemical exports?",
+        "Which downstream companies in the pharmaceutical industry rely on these chemicals for production?",
+        "How might this regulatory change affect the supply chain for opioid-related products?"
+      ],
+      "reason": "The new export control measures imposed by China on chemical precursors directly impact the supply chain for pharmaceuticals and chemicals, particularly affecting trade with the U.S., Mexico, and Canada.",
+      "summary": "China has implemented new export controls on two chemical precursors required for drug manufacturing, necessitating permits for exports to the U.S., Mexico, and Canada. This regulatory change is expected to have immediate effects on trade and supply chains in the pharmaceutical and chemical industries.",
+      "title": "中國擴管制藥物前體 涵蓋對美墨加出口｜METROHK . com . hk",
+      "url": "https://metrohk.com.hk/%E4%B8%AD%E5%9C%8B/%E4%B8%AD%E5%9C%8B%E6%93%B4%E7%AE%A1%E5%88%B6%E8%97%A5%E7%89%A9%E5%89%8D%E9%AB%94-%E6%B6%B5%E8%93%8B%E5%B0%8D%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%87%BA%E5%8F%A3-59cce9",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No specific event identified",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any meaningful information related to supply chain activities or disruptions.",
+      "summary": "The article lacks content and does not describe any event that could impact supply chains.",
+      "title": "推进建设性战略稳定关系 共促世界和平稳定与繁荣",
+      "url": "https://baijiahao.baidu.com/s?id=1877083298605383228",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Xi Jinping's State Visit to the USA",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in China may be affected by changes in US-China relations?",
+        "Which manufacturing operations in the US depend on Chinese suppliers?",
+        "What trade policies could emerge from the Xi Jinping visit that may impact supply chains?",
+        "Which logistics routes could be affected by geopolitical tensions between the US and China?",
+        "Which downstream companies in the US rely on products sourced from China?"
+      ],
+      "reason": "The article discusses the significance of the upcoming state visit by Xi Jinping to the US, which could lead to changes in trade policies and international relations that directly impact supply chains between the two countries.",
+      "summary": "The upcoming state visit of Chinese President Xi Jinping to the United States is expected to influence US-China relations significantly. This geopolitical event may lead to changes in trade policies and impact various supply chain activities between the two nations.",
+      "title": "推进建设性战略稳定关系 共促世界和平稳定与繁荣 -- 国际 -- 人民网",
+      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803784.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Xi Jinping's State Visit to the U.S.",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in U.S.-China trade relations?",
+        "Which manufacturing or production relationships may be impacted by the outcomes of the state visit?",
+        "Which countries or regions create exposure due to the geopolitical dynamics between the U.S. and China?",
+        "Which supply-chain dependencies could transmit disruptions stemming from this diplomatic engagement?",
+        "Which downstream companies may be exposed to changes in trade policies resulting from the visit?"
+      ],
+      "reason": "The article discusses a significant diplomatic event between the U.S. and China, which could lead to changes in trade policies and economic relations, impacting supply chains in various industries.",
+      "summary": "The upcoming state visit of Chinese President Xi Jinping to the U.S. is expected to influence U.S.-China relations, with potential implications for global trade and supply chains. The event highlights the importance of diplomatic engagement in stabilizing economic interactions between the two largest economies.",
+      "title": "推进建设性战略稳定关系 共促世界和平稳定与繁荣 -- 国际 -- 人民网",
+      "url": "https://world.people.com.cn/n1/2026/0923/c1002-40803784.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Mineral Discovery",
+      "companies_involved": [
+        "Algo Grande Copper Corp."
+      ],
+      "industries_involved": [
+        "Mining"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a mineral discovery and assay results, which do not indicate any immediate supply chain disruption or impact on supply chain activities.",
+      "summary": "Algo Grande Copper Corp. has confirmed high-grade mineralization at its Cerro Grande project in Mexico. While this discovery may have future implications for mining operations, it does not currently represent a supply chain disruption.",
+      "title": "Algo Grande Copper Confirms 68 . 43 Metres of Copper - Silver - Gold Mineralization ... ",
+      "url": "https://www.pr-inside.com/algo-grande-copper-confirms-68-43-metres-of-copper-silver-gold-mineralization-r5226283.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "US Third Country Deportation Policy",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Guatemala",
+        "Honduras",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political and humanitarian issue regarding immigration policies and does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details the US government's controversial third country deportation policy, which has raised human rights concerns and legal challenges. However, it does not indicate any direct impact on supply chain operations or activities.",
+      "title": "美国移民遣返新模式调查 ： 35国协议背后的资金交换与人权争议",
+      "url": "https://www.sohu.com/a/1079751258_120952561?edtsign=DD0CD9CF4272D74F3F6A4E3942D532C323471AC6&edtcode=v1kPcsuVpwONqQTmI9mDPg==&scm=thor.283_14-200000.0.0-0-0-0-0.",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T014500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "Bank of Baroda",
+        "Canara Bank"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the uninterrupted functioning of banks during the strike?",
+        "Which downstream companies rely on banking services for their transactions?",
+        "What impact will the strike have on the supply chain of financial services in India?",
+        "Which regions in India may experience the most significant disruptions due to the bank strike?"
+      ],
+      "reason": "The proposed nationwide bank strike could disrupt banking operations, affecting financial transactions and services critical to supply chain activities, including payments and logistics financing.",
+      "summary": "A proposed three-day nationwide bank strike in India could significantly disrupt banking operations, impacting financial transactions essential for supply chain activities. The government is taking measures to keep banks operational to mitigate potential disruptions.",
+      "title": "Banks to remain open on Sunday , September 27 ? Finance ministry issues key update to assist customers",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-remain-open-on-sunday-september-27-amid-three-day-nationwide-strike-finance-ministry/articleshow/134428905.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Punjab National Bank",
+        "Union Bank of India",
+        "Bank of India",
+        "Indian Bank"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies depend on banking services from the affected banks?",
+        "What impact will the strike have on financial transactions for businesses relying on these banks?",
+        "Which regions in India are most dependent on the services of the affected banks?",
+        "How might the strike affect the supply chain financing for companies in India?"
+      ],
+      "reason": "The proposed nationwide bank strike could disrupt banking operations, affecting financial transactions and services that are critical for supply chain activities.",
+      "summary": "A nationwide bank strike in India from September 28 to 30 could significantly disrupt banking operations, impacting financial transactions for businesses. This disruption may affect supply chain activities reliant on banking services, highlighting the interconnectedness of financial and supply chain operations.",
+      "title": "Bank strike September 28 - 30 : PNB , Union Bank , Bank of India appeal to employees",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/bank-strike-september-28-30-sbi-pnb-union-bank-bank-of-india-appeal-to-employees-14035976.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which companies rely on banking services for their operations during the strike?",
+        "What impact will the bank strike have on cash flow for businesses in the affected regions?",
+        "Which downstream companies depend on financial transactions that may be disrupted?",
+        "How will the strike affect the logistics of cash distribution and ATM operations?"
+      ],
+      "reason": "The proposed nationwide bank strike could disrupt banking operations, affecting financial transactions, cash flow, and overall business operations reliant on banking services.",
+      "summary": "A nationwide bank strike is scheduled from September 28 to 30, 2026, which may disrupt banking operations across India. This could impact businesses that rely on banking services for transactions and cash flow management.",
+      "title": "Bank Strike News : देशभर में 28 से 30 सितंबर तक बैंक हड़ताल , लेकिन रविवार को खुलेंगे बैंक - bank stike news september 2026 government says banks will remain open this sunday",
+      "url": "https://www.jagran.com/news/national-bank-stike-news-september-2026-government-says-banks-will-remain-open-this-sunday-40382919.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "State Bank of India (SBI)",
+        "Punjab National Bank (PNB)",
+        "Indian Banks Association (IBA)"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the services of the affected banks?",
+        "Which regions in India are most reliant on banking services during the strike?",
+        "What are the potential impacts on businesses that rely on banking transactions during the strike?",
+        "Which downstream companies may face disruptions due to banking service interruptions?"
+      ],
+      "reason": "The proposed nationwide bank strike will disrupt banking services for several days, affecting transactions, cash deposits, and other banking operations, which are critical to supply chain activities.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking services for four days, potentially impacting various businesses that rely on banking transactions. Major banks like SBI and PNB are involved, and the disruption could affect financial operations across the country.",
+      "title": "RBI Order | Banks Open On Sunday September 27 Before Nationwide Strike",
+      "url": "https://www.bhaskar.com/g/business/news/rbi-order-bank-strike-september-27-sunday-opening-alert-139121102.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which manufacturing or production relationships may be impacted due to banking disruptions?",
+        "Which countries or regions create exposure for banks during the strike?",
+        "Which supply-chain dependencies could transmit the disruption to other sectors?",
+        "Which downstream companies or operations may be exposed to banking service interruptions?"
+      ],
+      "reason": "The planned nationwide bank strike will disrupt banking operations, affecting financial transactions and services critical to supply chain activities, including payments and financing.",
+      "summary": "A three-day nationwide bank strike in India is set to disrupt banking operations, potentially impacting financial transactions essential for supply chain activities. The strike arises from unresolved labor disputes regarding working conditions and performance incentives.",
+      "title": "Banks to Remain Open on Sunday as UFBU Refuses to Defer 3 - day Strike from 28th September",
+      "url": "https://www.moneylife.in/article/banks-to-remain-open-on-sunday-as-ufbu-refuses-to-defer-3day-strike-from-28th-september/81731.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which banking operations depend on the availability of branch staff during the strike?",
+        "Which regions in India are most impacted by the bank strike?",
+        "What are the dependencies on digital banking services during the strike period?",
+        "Which downstream financial services may be disrupted due to the strike?"
+      ],
+      "reason": "The nationwide bank strike will disrupt banking operations, affecting cash transactions and services that require physical presence, which can impact supply chain activities reliant on banking services.",
+      "summary": "A three-day nationwide bank strike in India is set to disrupt banking operations, potentially affecting cash transactions and services requiring staff assistance. This disruption may impact various supply chain activities that rely on banking services for transactions and operations.",
+      "title": "Banks To Remain Open On September 27 Despite Sunday : 3 - Day Nationwide Strike Begins September 28",
+      "url": "https://www.oneindia.com/india/banks-to-open-on-sunday-september-27-ahead-of-three-day-nationwide-strike-check-details-8213247.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T123000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Central Government",
+        "Banks"
+      ],
+      "industries_involved": [
+        "Finance",
+        "Public Sector"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Central Government may be affected by the bank strike?",
+        "Which banking operations are critical for the disbursement of salaries and pensions?",
+        "Which regions in India are most impacted by the bank strike?",
+        "Which downstream companies depend on timely salary payments from the government?",
+        "How might the bank strike affect logistics and payment processing for suppliers?"
+      ],
+      "reason": "The nationwide bank strike is likely to disrupt banking transactions, affecting salary and pension disbursements, which can have downstream effects on suppliers and other operations reliant on timely payments.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking transactions, prompting the government to advance salary and pension payments. This operational disruption may impact various sectors reliant on banking services, including finance and public sector operations.",
+      "title": "Central government employees , pensioners to get September salary , pension on September 25 amid bank strike",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/central-government-employees-pensioners-to-get-september-salary-pension-on-september-25-amid-bank-strike-14036649.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Three Day Banking Strike",
+      "companies_involved": [
+        "Bank of India",
+        "Punjab National Bank"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which banking operations depend on the continuity of services during the strike?",
+        "Which regions in India are most impacted by the banking strike?",
+        "Which downstream companies rely on banking services that may be disrupted?",
+        "What are the potential impacts on trade and logistics due to banking service interruptions?"
+      ],
+      "reason": "The planned banking strike will disrupt banking operations, affecting financial transactions and services, which are critical to supply chain activities.",
+      "summary": "A three-day banking strike in India is set to disrupt banking services, potentially impacting various sectors reliant on financial transactions. The strike may lead to significant operational challenges for businesses and individuals alike.",
+      "title": "  Three Day Banking Strike Is A Big Issue  ",
+      "url": "https://www.rediff.com/business/report/three-days-banking-strike-is-a-big-issue/20260923.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike in India",
+      "companies_involved": [
+        "State Bank of India (SBI)",
+        "Punjab National Bank (PNB)",
+        "Canara Bank"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected banks during the strike?",
+        "Which regions in India are most reliant on the services of the affected banks?",
+        "What are the potential impacts on cash flow for businesses relying on banking services during the strike?",
+        "Which downstream companies depend on banking services for their operations?"
+      ],
+      "reason": "The nationwide bank strike will disrupt banking operations, affecting cash handling, cheque clearance, and loan processing, which are critical for various supply chain activities.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking operations for up to five consecutive days, impacting cash services, cheque clearance, and loan processing. This disruption could have significant implications for businesses relying on banking services during this period.",
+      "title": "Bank Holiday September 2026 : Will Banks Be Closed for 5 Days ? Check Strike Dates and State - Wise List",
+      "url": "https://www.jagranjosh.com/general-knowledge/bank-holiday-september-2026-will-banks-be-closed-for-5-days-check-strike-dates-and-statewise-list-1820012452-1",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Torpedo Attack on MV Cape Dao",
+      "companies_involved": [
+        "MV Cape Dao"
+      ],
+      "industries_involved": [
+        "Maritime Shipping"
+      ],
+      "countries_involved": [
+        "India",
+        "Oman"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Gulf region that may be affected by increased risks?",
+        "Which suppliers of maritime security services are involved in the region?",
+        "Which downstream shipping operations depend on the safe passage of vessels through the Gulf?",
+        "What are the potential impacts on shipping routes and logistics for companies operating in or out of India?",
+        "Which maritime unions or organizations are advocating for changes in security protocols in the region?"
+      ],
+      "reason": "The attack on the MV Cape Dao poses a direct threat to maritime logistics and safety, impacting shipping routes and potentially leading to increased insurance costs and operational delays for companies involved in maritime trade in the region.",
+      "summary": "The torpedo attack on the MV Cape Dao in the Oman Gulf highlights significant geopolitical risks for maritime shipping. This incident not only resulted in the loss of life but also raises concerns about the safety of shipping operations in volatile waters, potentially disrupting supply chains reliant on this route.",
+      "title": "Indian Seafarer Killed in Oman Gulf Attack Details - Pragativadi I Latest Odisha News in English I Breaking News",
+      "url": "https://pragativadi.com/indian-seafarer-killed-in-oman-gulf-torpedo-attack-mea-condemns-strike/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T181500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Three-Day Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial transactions depend on the operations of public sector banks during the strike?",
+        "Which downstream companies rely on banking services for their operations?",
+        "What impact will the strike have on the supply chain of companies that require banking services?",
+        "Which regions in India will experience the most significant disruption due to the bank strike?"
+      ],
+      "reason": "The planned three-day strike by bank employees will disrupt banking operations, affecting financial transactions and services critical to various supply chain activities.",
+      "summary": "A three-day nationwide bank strike in India is set to disrupt banking operations, potentially impacting financial transactions and services essential for supply chain activities. The government is urging banks to remain open on the preceding Sunday to mitigate the impact on consumers.",
+      "title": "മൂന്ന് ദിവസം ജീവനക്കാരുടെ സമരം ; ഞായറാഴ്ച ബാങ്കുകൾ പ്രവർത്തിക്കും | Banks To Open On Sunday Before three Day Strike",
+      "url": "https://www.madhyamam.com/business/biz-news/employees-strike-for-three-days-banks-to-remain-open-on-sunday-1557119",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T100000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Banks to remain open on Sunday",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses banks remaining open on Sunday, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports that banks will operate on Sunday, but this does not indicate any supply chain disruption. There are no direct implications for suppliers, manufacturers, or logistics.",
+      "title": "  ఆదివారం  పనిచేయనున్న బ్యాంకులు",
+      "url": "https://www.prajasakti.com/latest-news/national-newss/banks-to-remain-open-on-sunday",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Proposed Bank Strike Impacting Transactions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking",
+        "Government Services"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the bank strike?",
+        "Which government services depend on timely banking transactions?",
+        "Which downstream operations may be exposed to delays due to the bank strike?",
+        "How might the bank strike affect the payment schedules of government contractors?",
+        "Which financial institutions are most impacted by the proposed bank strike?"
+      ],
+      "reason": "The proposed bank strike could disrupt banking transactions, affecting the timely payment of salaries and pensions, which in turn may impact various sectors reliant on these financial services.",
+      "summary": "A proposed three-day bank strike in India could disrupt banking transactions, leading to early salary and pension payments for government employees. This operational disruption may affect various industries reliant on timely banking services.",
+      "title": "सरकारी कर्मचारियों के लिए बड़ी खबर , कल ही खाते में आएगी सैलरी और पेंशन ; क्या वजह ? ",
+      "url": "https://www.livehindustan.com/national/central-government-employees-pensioners-september-salary-pension-25-september-bank-strike-201790220698819.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "KAL Drone Trial Success",
+      "companies_involved": [
+        "IG Defence"
+      ],
+      "industries_involved": [
+        "Defense Technology"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the successful trial of a drone developed by IG Defence, which does not indicate any immediate or potential disruption to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the successful trial of the KAL drone by IG Defence in India, marking a significant advancement in indigenous defense technology. However, it does not present any direct implications for supply chain disruptions.",
+      "title": "India KAL Drone Soars in Pokhran Trial - Pragativadi I Latest Odisha News in English I Breaking News",
+      "url": "https://pragativadi.com/kal-long-range-one-way-attack-drone-trial/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T181500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike in India",
+      "companies_involved": [
+        "Indian Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial transactions are dependent on the operations of the banks during the strike?",
+        "Which downstream companies rely on banking services for their operations?",
+        "What impact will the bank strike have on trade and commerce activities in India?",
+        "Which regions in India are most affected by the bank strike?"
+      ],
+      "reason": "The nationwide bank strike will disrupt banking services, affecting financial transactions, trade activities, and potentially impacting various sectors reliant on banking operations.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking services for three days, impacting financial transactions and trade activities. This labor disruption poses risks to various industries that depend on banking operations.",
+      "title": "Bank Strike 3 நாள் வேலைநிறுத்தம் : 5 நாள் வேலைவாரம் கோரி வங்கிகள் நாடு தழுவிய போராட்டம் . Bank Strike India : Nationwide 3 - day bank shutdown over five - day work week demand",
+      "url": "https://www.dailythanthi.com/news/india/banks-announce-three-day-nationwide-strike-to-reduce-working-days",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Three-day bank strike in India",
+      "companies_involved": [
+        "Reserve Bank of India",
+        "United Forum of Bank Unions"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the banking sector during the strike period?",
+        "Which companies rely on banking services for their supply chain operations in India?",
+        "How might the strike impact logistics and transportation companies that depend on banking services?",
+        "Which downstream companies may face disruptions due to limited banking operations?"
+      ],
+      "reason": "The proposed three-day strike by bank employees could disrupt banking operations, affecting financial transactions and services critical to supply chain activities.",
+      "summary": "A three-day strike by bank employees in India is set to begin on September 28, potentially disrupting banking operations during a critical financial period. The Reserve Bank of India has taken measures to keep banks operational on September 27 to mitigate the impact on customers.",
+      "title": "Ahead of 3 - day strike , banks to remain open on Sunday",
+      "url": "https://www.tribuneindia.com/news/india/ahead-of-3-day-strike-banks-to-remain-open-on-sunday/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T200000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Union Strike Impact on Banking Operations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a union strike affecting banking operations, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or transportation.",
+      "summary": "The article reports on banks opening on Sunday due to a union strike, focusing on customer guidance. This event does not represent a supply chain disruption as it pertains solely to banking operations without implications for supply chain activities.",
+      "title": "Banks to open on Sunday amid union strike : What should customers do",
+      "url": "https://www.business-standard.com/finance/personal-finance/banks-to-open-on-sunday-amid-union-strike-what-should-customers-do-126092300815_1.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Attack on MV Cape Dao",
+      "companies_involved": [
+        "RPSL Keyline Maritime Services",
+        "RPSL NavSukh Marine",
+        "RPSL Caspia Shipmanagement"
+      ],
+      "industries_involved": [
+        "Maritime Shipping",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Oman",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of RPSL Keyline Maritime Services operate in the affected region?",
+        "Which maritime operations are dependent on the safety of seafarers in the Strait of Hormuz?",
+        "What are the potential impacts on shipping routes from India to the UAE due to geopolitical tensions?",
+        "Which downstream companies rely on the timely delivery of goods transported by vessels operating in the affected area?",
+        "How might the safety of Indian seafarers impact the recruitment and retention of maritime personnel?"
+      ],
+      "reason": "The attack on the MV Cape Dao poses a direct threat to maritime logistics and transportation in a critical shipping lane, affecting the safety of crew members and potentially disrupting shipping operations between the UAE and India.",
+      "summary": "The attack on the MV Cape Dao off the coast of Oman highlights ongoing geopolitical tensions in the region, resulting in the death of an Indian seaman. This incident raises significant concerns for maritime shipping and logistics operations in the Strait of Hormuz, impacting the safety and security of commercial shipping routes.",
+      "title": "Indian seaman killed off Oman coast , 11th such incident amid West Asia crisis",
+      "url": "https://www.hindustantimes.com/india-news/indian-seaman-killed-off-oman-coast-mv-cape-dao-11th-such-incident-amid-west-asia-crisis-us-iran-war-strait-of-hormuz-101790207895738.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "Indian Banks Association"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected banks?",
+        "Which regions in India are most impacted by the bank strike?",
+        "Which downstream companies rely on banking services from the affected banks?",
+        "How might the strike affect the supply chain financing for companies?"
+      ],
+      "reason": "The bank strike represents a significant disruption in banking operations, which can impact financial transactions, supply chain financing, and overall business operations reliant on banking services.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking operations, affecting financial transactions and services. This could have downstream impacts on businesses relying on banking for supply chain financing and operations.",
+      "title": "Bank Strike : बैंक अधिकारी और कर्मचारी 28 से तीन दिन की हड़ताल पर , 26 अक्टूबर से अनिश्चितकालीन हड़ताल का ऐलान",
+      "url": "https://www.dainiktribuneonline.com/news/chandigarh/bank-strike-bank-officers-and-employees-on-a-three-day-strike-from-28th-indefinite-strike-announced-from-26th-october/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market Analysis",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses market trends and stock performance without any direct connection to supply chain activities or disruptions.",
+      "summary": "The article provides an analysis of market conditions and stock indices but does not indicate any supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "Trade Setup for September 24 : Top 15 things to know before the opening bell",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-september-24-top-15-things-to-know-before-the-opening-bell-14036714.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential escalation of US-Iran tensions",
+      "companies_involved": [
+        "TSMC",
+        "Alphabet",
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Technology",
+        "E-commerce"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of TSMC may be affected by geopolitical tensions in the Middle East?",
+        "Which manufacturing facilities depend on materials sourced from the affected regions?",
+        "How might fluctuations in oil prices due to geopolitical events impact logistics costs for these companies?",
+        "Which downstream companies rely on products from TSMC that could be affected by supply chain disruptions?",
+        "What are the potential impacts on trade routes due to escalating tensions between the US and Iran?"
+      ],
+      "reason": "The article discusses the potential impact of escalating geopolitical tensions between the US and Iran, which could affect global supply chains, particularly in energy and logistics, and may lead to increased inflationary pressures.",
+      "summary": "The article highlights concerns over potential geopolitical tensions between the US and Iran, which could impact supply chains, particularly in the energy sector. Companies like TSMC, Alphabet, and Amazon may face disruptions due to these developments.",
+      "title": "美股收低 投顧 ： 台股創高後留意美伊局勢 | 證券",
+      "url": "https://www.cna.com.tw/news/afe/202609240031.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential escalation of US-Iran tensions",
+      "companies_involved": [
+        "Taiwan Semiconductor Manufacturing Company (TSMC)",
+        "Alphabet",
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of TSMC may be affected by geopolitical tensions in the Middle East?",
+        "Which manufacturing facilities depend on materials sourced from the affected regions?",
+        "How might fluctuations in oil prices due to geopolitical events impact logistics costs for technology companies?",
+        "Which downstream companies rely on products from TSMC that could be affected by these tensions?",
+        "What are the potential impacts on trade routes that involve the United States and Iran?"
+      ],
+      "reason": "The article discusses the potential for geopolitical tensions between the US and Iran to escalate, which could impact global supply chains, particularly in the semiconductor and technology sectors due to reliance on stable energy supplies and trade routes.",
+      "summary": "The article highlights concerns over potential geopolitical tensions between the US and Iran, which could lead to disruptions in supply chains, particularly affecting companies like TSMC and the technology sector. Investors are advised to monitor these developments as they may influence market conditions and operational costs.",
+      "title": "美股收低 投顧 ： 台股創高後留意美伊局勢 | 證券",
+      "url": "https://www.cna.com.tw:443/news/afe/202609240031.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected banks during the strike period?",
+        "Which regions in India are most impacted by the banking strike?",
+        "What are the dependencies of businesses on banking services during the strike?",
+        "Which downstream companies rely on transactions processed by the affected banks?"
+      ],
+      "reason": "The proposed nationwide bank strike could disrupt banking operations, affecting financial transactions and services critical to supply chain activities.",
+      "summary": "A three-day nationwide bank strike in India is scheduled, which could significantly disrupt banking operations and financial transactions. This disruption may impact various businesses relying on banking services for their supply chain activities.",
+      "title": "Banks to remain open on Sunday , September 27 , ahead of three - day nationwide strike",
+      "url": "https://www.ibtimes.co.in/banks-remain-open-sunday-september-27-ahead-three-day-nationwide-strike-906349",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Cyclone Arnab Approaching Andhra Pradesh-Odisha Coast",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Logistics",
+        "Construction"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products may be affected by the cyclone?",
+        "Which logistics companies operate in the affected coastal regions?",
+        "Which construction projects are at risk due to potential flooding or damage from the cyclone?",
+        "Which downstream companies depend on agricultural outputs from the affected regions?",
+        "What transportation routes may be disrupted due to the cyclone's impact?"
+      ],
+      "reason": "The approaching cyclone poses a significant risk to supply chain activities in the affected regions, particularly in agriculture, logistics, and construction, which could lead to disruptions in production and transportation.",
+      "summary": "Cyclone Arnab is approaching the Andhra Pradesh-Odisha coast, which could lead to significant disruptions in supply chains, particularly in agriculture and logistics. The event highlights the vulnerability of operations in these regions to natural disasters.",
+      "title": "  Arnab  nears Odisha , Andhra coasts : Why October - November are India most active cyclone months",
+      "url": "https://www.moneycontrol.com/city/arnab-nears-odisha-andhra-coasts-why-october-november-are-india-s-most-dangerous-cyclone-months-article-14036040.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Three-day bank strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the banking services during the strike period?",
+        "Which regions in India are most reliant on the affected banks for transactions?",
+        "What are the dependencies of companies on banking services that may be disrupted?",
+        "Which downstream companies rely on banking operations for their financial transactions?"
+      ],
+      "reason": "The proposed three-day strike by bank employees could disrupt banking operations, affecting financial transactions and services critical to various supply chain activities.",
+      "summary": "A three-day strike by bank employees in India is set to disrupt banking operations, coinciding with the half-yearly closing of banks. This could impact financial transactions and services essential for supply chain activities.",
+      "title": "Banks to remain open on Sunday in view of three day strike",
+      "url": "https://www.siasat.com/banks-to-remain-open-on-sunday-in-view-of-three-day-strike-3547240/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T033000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which companies rely on banking services for payroll processing during the strike?",
+        "Which regions in India are most impacted by the bank strike?",
+        "What are the dependencies of companies on banking operations during the strike period?",
+        "Which downstream companies may face cash flow issues due to delayed salary payments?"
+      ],
+      "reason": "The proposed nationwide bank strike could disrupt banking operations, affecting payroll processing and financial transactions for businesses, which in turn impacts their supply chain activities.",
+      "summary": "A nationwide bank strike in India from September 28 to 30, 2026, could disrupt banking operations, affecting payroll and financial transactions. This may lead to delays in salary payments and impact companies reliant on banking services.",
+      "title": "Bank strike news : Will September salary be credited on 25th ? What Central govt order says",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bank-strike-news-will-september-salary-be-credited-on-25th-what-central-govt-order-says/articleshow/134450381.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Three-day bank strike",
+      "companies_involved": [
+        "United Forum of Bank Unions",
+        "Reserve Bank of India"
+      ],
+      "industries_involved": [
+        "Banking",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial transactions are at risk due to the proposed bank strike?",
+        "Which companies rely on banking services during the strike period?",
+        "What impact will the strike have on the liquidity of companies dependent on banking operations?",
+        "Which downstream operations may be disrupted due to the banking strike?"
+      ],
+      "reason": "The proposed three-day bank strike could significantly disrupt banking operations, affecting financial transactions, liquidity, and overall supply chain activities reliant on banking services.",
+      "summary": "A three-day bank strike in India, called by the United Forum of Bank Unions, is expected to disrupt banking operations, prompting the government to advance salary and pension payments. This disruption could impact various sectors reliant on banking services for transactions and liquidity.",
+      "title": "Bank strike : Centre to advance September salary and pension payments to September 25",
+      "url": "https://www.thehindubusinessline.com/economy/policy/central-govt-employees-to-get-salary-in-advance-on-sept-25-ahead-of-3-day-bank-strike/article71501316.ece",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T191500Z"
     }
   ]
 }
