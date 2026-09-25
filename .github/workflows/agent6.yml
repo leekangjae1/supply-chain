@@ -1,0 +1,98 @@
+name: Agent 6 - Final Risk Report
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  agent6:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ============================================================
+      # 1. Repository checkout
+      # ============================================================
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      # ============================================================
+      # 2. Python 설정
+      # ============================================================
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+
+      # ============================================================
+      # 3. 패키지 설치
+      # ============================================================
+
+      - name: Install dependencies
+        run: |
+          pip install openai
+
+
+      # ============================================================
+      # 4. Agent 5 결과 확인
+      # ============================================================
+
+      - name: Check Agent 5 result
+        run: |
+          echo "Checking Agent 5 output..."
+
+          if [ ! -f "agent5_risk_assessment.json" ]; then
+            echo "ERROR: Agent 5 result not found."
+            exit 1
+          fi
+
+          echo "Agent 5 result found."
+
+
+      # ============================================================
+      # 5. Agent 6 실행
+      # ============================================================
+
+      - name: Run Agent 6
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AGENT5_INPUT: agent5_risk_assessment.json
+          AGENT6_OUTPUT: agent6_final_report.json
+          OPENAI_MODEL: gpt-5.6
+          AGENT6_TOP_N: 10
+
+        run: |
+          python agent6_report.py
+
+
+      # ============================================================
+      # 6. 결과 확인
+      # ============================================================
+
+      - name: Display Agent 6 result
+        run: |
+          echo "========================================="
+          echo "Agent 6 Final Report"
+          echo "========================================="
+
+          cat agent6_final_report.json
+
+
+      # ============================================================
+      # 7. 결과 Artifact 저장
+      # ============================================================
+
+      - name: Upload Agent 6 report
+        uses: actions/upload-artifact@v4
+
+        with:
+          name: agent6-final-report
+          path: agent6_final_report.json
