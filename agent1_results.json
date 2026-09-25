@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T14:09:19Z",
-  "total_count": 5938,
+  "updated_at": "2026-09-25T19:09:20Z",
+  "total_count": 5970,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -161625,6 +161625,871 @@
       "gdelt_country": "India",
       "gdelt_keyword": "sanctions",
       "published_at": "20260923T191500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Taiwan Arms Sale Delay",
+      "companies_involved": [
+        "Lockheed Martin",
+        "Raytheon"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lockheed Martin and Raytheon may be affected by the delay in arms sales?",
+        "Which manufacturing facilities are involved in the production of the arms intended for Taiwan?",
+        "How might the geopolitical tensions between the US and China impact supply chain operations for defense contractors?",
+        "Which countries or regions are critical for the supply of components for the arms being delayed?",
+        "Which downstream companies depend on the timely delivery of these defense products?"
+      ],
+      "reason": "The indefinite postponement of arms sales to Taiwan due to geopolitical negotiations between the US and China could disrupt the supply chain for defense manufacturers and their suppliers, impacting production schedules and logistics.",
+      "summary": "The article discusses the potential indefinite delay of a significant arms sale from the US to Taiwan, influenced by US-China relations. This situation poses a risk to defense supply chains, particularly for companies involved in the production and logistics of military equipment.",
+      "title": "對台軍售恐 「 無限期暫緩 」！ 包承柯預判 ： 川習二會後台灣籌碼不如從前 - 兩岸",
+      "url": "https://www.chinatimes.com/realtimenews/20260925001772-260409",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Delay in US arms sales to Taiwan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by the delay in arms sales to Taiwan?",
+        "Which manufacturing facilities in the defense industry depend on US government contracts?",
+        "What are the potential impacts on logistics and transportation for defense supplies to Taiwan?",
+        "Which countries or regions create exposure for companies involved in US-Taiwan defense relations?",
+        "Which downstream companies depend on products from the affected defense suppliers?"
+      ],
+      "reason": "The article discusses the potential indefinite delay of a significant arms sale from the US to Taiwan, which could impact defense manufacturing and logistics, thereby affecting supply chains related to military equipment and geopolitical stability in the region.",
+      "summary": "The article highlights a potential delay in US arms sales to Taiwan due to shifting geopolitical dynamics between the US and China. This delay could have significant implications for the defense industry and related supply chains.",
+      "title": "預料川習會後對台軍售繼續暫緩 包承柯 ： 賴政府 「 勿困抗中 」 認清形勢 | ETtoday大陸新聞",
+      "url": "https://www.ettoday.net/news/20260925/3243953.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cambodia's Anti-Fraud Committee Statement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Cambodia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Cambodia's position regarding fraud but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses Cambodia's role in relation to fraud but does not present any information that would suggest a supply chain disruption. There are no companies, industries, or supply chain activities directly affected.",
+      "title": "柬埔寨反电诈委员会秘书长 ： 柬埔寨是电诈受害国 ， 不是犯罪源头",
+      "url": "https://baijiahao.baidu.com/s?id=1877281812371680850",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Trump-Xi Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting between the leaders of the United States and China, focusing on historical relations and cultural exchanges, without indicating any direct impact on supply chain activities such as trade, logistics, or production.",
+      "summary": "The article covers a meeting between U.S. President Trump and Chinese President Xi Jinping, highlighting their discussions on bilateral relations. However, it does not present any significant supply chain disruptions or impacts on trade or logistics.",
+      "title": "川習會突破有限 川普將帶習近平參訪國家檔案局 - 國際",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5585983",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "North Korea's Weapon Tests",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "North Korea",
+        "South Korea",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense contractors may be affected by increased tensions in the region?",
+        "Which manufacturing facilities in South Korea or Japan could be impacted by potential military actions?",
+        "Which countries or regions create exposure for companies involved in defense manufacturing?",
+        "Which supply-chain dependencies could transmit the disruption due to geopolitical tensions?",
+        "Which downstream companies in the defense sector may be exposed to risks from North Korea's military developments?"
+      ],
+      "reason": "The article discusses North Korea's recent military tests and the implications for regional security, which could lead to disruptions in defense supply chains and manufacturing operations in South Korea and Japan due to heightened geopolitical tensions.",
+      "summary": "North Korea's recent weapon tests have escalated tensions in the region, particularly affecting South Korea and Japan. This geopolitical event poses potential risks to defense supply chains and manufacturing operations in these countries.",
+      "title": "朝鲜连续试射新式武器 ， 使敌人陷于极端的不安和恐惧 ！ 大口径火箭炮弹应对韩国 ， 高超音速滑翔弹头导弹  射程覆盖日本 _ 新浪新闻",
+      "url": "https://news.sina.com.cn/w/2026-09-24/doc-iniswvxc5418833.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Community Initiative for Elderly Education",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a community initiative focused on education for the elderly, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a community initiative in Yunlin, Taiwan, aimed at promoting education for the elderly. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "超高齡雲林出招 1 , 000冊 《 學老誌 》 挺進社區",
+      "url": "https://n.yam.com/Article/20260924822621",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Return of Cultural Artifacts",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event primarily concerns the return of cultural artifacts and does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses the return of 12 cultural artifacts from the UK to China, emphasizing cultural cooperation and respect between the two nations. This event does not represent a supply chain disruption as it does not affect supply chain activities.",
+      "title": "英国向中国返还12件流失文物艺术品",
+      "url": "http://www.81.cn/ss_208539/16488830.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Medical Incident in China",
+      "companies_involved": [],
+      "industries_involved": [
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article describes a medical incident involving a patient in China but does not indicate any direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on a medical case in China where a man had multiple metallic objects, including a rusty needle, removed from his body. This incident does not have a meaningful connection to supply chain disruptions.",
+      "title": "В Китае врачи достали ржавую иглу из сердца мужчины",
+      "url": "https://aif.ru/society/healthcare/v-kitae-vrachi-dostali-rzhavuyu-iglu-iz-serdca-muzhchiny",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260922T194500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Launch of Crowdsourced Data Collection Platform",
+      "companies_involved": [
+        "觅蜂科技",
+        "Figure"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Data Collection",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 觅蜂科技 may be affected by the quality of crowdsourced data?",
+        "Which manufacturing or production relationships may be impacted by the new data collection methods?",
+        "Which countries or regions create exposure for 觅蜂科技's data collection operations?",
+        "Which supply-chain dependencies could transmit disruptions related to data quality and privacy concerns?",
+        "Which downstream companies depend on the data collected by 觅蜂科技 for their operations?"
+      ],
+      "reason": "The launch of a crowdsourced data collection platform introduces potential risks related to data quality and privacy, which can impact the supply chain activities of companies relying on accurate data for AI training and operational efficiency.",
+      "summary": "觅蜂科技 has launched a crowdsourced data collection platform that may disrupt traditional data collection methods. This innovation raises concerns about data quality and privacy, which could affect supply chain operations in technology and AI sectors.",
+      "title": "让普通人给机器人喂数据 ： 质量参差 、 隐私担忧 、 重资产投入 ， 众包数采是门好生意吗 ？ ",
+      "url": "https://www.163.com/dy/article/L7M08CAT0511U82T.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Launch of the GAC Trumpchi Yu7",
+      "companies_involved": [
+        "GAC Group"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses the launch of a new vehicle model and promotional activities, with no indication of disruptions to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article details the launch of the GAC Trumpchi Yu7 SUV, highlighting its features and promotional offers. There are no indications of supply chain disruptions related to this event.",
+      "title": "超舒适的悦野方盒子正式上市 ， 传祺越7上市权益价16 . 18万元起",
+      "url": "https://k.sina.com.cn/article_1832271215_6d363d6f00101gi5k.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Crowdsourced Data Collection Launch",
+      "companies_involved": [
+        "觅蜂科技",
+        "Figure"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Data Collection",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 觅蜂科技 may be affected by the quality of crowdsourced data?",
+        "Which manufacturing or production relationships may be impacted by the new data collection methods?",
+        "Which countries or regions create exposure for 觅蜂科技's data collection operations?",
+        "Which supply-chain dependencies could transmit disruptions related to data quality and privacy concerns?",
+        "Which downstream companies depend on the data collected by 觅蜂科技 for their operations?"
+      ],
+      "reason": "The launch of a crowdsourced data collection platform by 觅蜂科技 introduces potential operational disruptions related to data quality and privacy, which can impact supply chain activities in technology and AI sectors.",
+      "summary": "觅蜂科技 has launched a crowdsourced data collection platform that may disrupt traditional data collection methods. This shift raises concerns about data quality and privacy, potentially affecting supply chain operations in technology and AI industries.",
+      "title": "让普通人给机器人喂数据 ： 质量参差 、 隐私担忧 、 重资产投入 ， 众包数采是门好生意吗 ？ ",
+      "url": "https://www.yangtse.com/news/txs/202609/t20260925_396844.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Advancements in Advanced Manufacturing",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Robotics",
+        "Semiconductors",
+        "Energy"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses advancements in advanced manufacturing and robotics in China but does not indicate any specific disruptions or risks to supply chains.",
+      "summary": "The article highlights the growth and advancements in China's advanced manufacturing sector, particularly in robotics and smart factories. However, it does not present any actual or potential supply chain disruptions.",
+      "title": "新华网评 · 蒸蒸日上的中国丨触摸先进制造业的发展脉动",
+      "url": "https://www.yangtse.com/news/yw/202609/t20260925_396818.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Tourism Trends",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Hospitality"
+      ],
+      "countries_involved": [
+        "Maldives",
+        "Abkhazia",
+        "Dagestan",
+        "Egypt",
+        "Vietnam",
+        "Philippines"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses travel destinations and tourism trends without any direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights various travel destinations for budget-conscious tourists, focusing on the aesthetics and affordability of these locations. It does not present any supply chain disruptions or risks related to logistics, production, or trade.",
+      "title": "5  Мальдив  для бедных : где искать ту самую воду цвета Тиффани в октябре от Абхазии до Филиппин",
+      "url": "https://primamedia.ru/news/2631950/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Discussion on 'One Country, Two Systems' Taiwan Proposal",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political and social dynamics regarding Taiwan's relationship with China, but does not present a direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article analyzes the political discourse surrounding the 'One Country, Two Systems' proposal for Taiwan, highlighting the challenges to peaceful unification. However, it does not indicate any immediate or potential disruptions to supply chain activities.",
+      "title": "荊元宙觀點 ： 當和平統一變得遙遠 ， 為何要談 「 一國兩制台灣方案 」？ | 荊元宙 | 評論",
+      "url": "https://www.storm.mg/article/11166784",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No significant event related to supply chain",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the Argentine national football team's preparations and management discussions, which do not have a meaningful connection to supply chain activities.",
+      "summary": "The article focuses on the Argentine national football team's preparations for upcoming friendly matches and management discussions regarding player selection and contracts. It does not present any information related to supply chain disruptions.",
+      "title": "斯卡洛尼 ： 续约还没有新消息 ， 这几天会和阿根廷足协主席见面",
+      "url": "https://www.163.com/dy/article/L7KPD5H80549BAP0.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Tensions Impacting Oil Trade",
+      "companies_involved": [
+        "ExxonMobil",
+        "Chevron",
+        "BP"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ExxonMobil operate in the affected region?",
+        "Which manufacturing or production relationships may be affected by the US-Iran negotiations?",
+        "Which countries or regions create exposure for BP due to the geopolitical tensions?",
+        "Which supply-chain dependencies could transmit the disruption in oil supply?",
+        "Which downstream companies depend on oil products from the affected suppliers?"
+      ],
+      "reason": "The ongoing geopolitical tensions between the US and Iran, particularly regarding oil trade and potential military actions, pose a risk to energy supply chains, affecting companies in the oil and gas industry.",
+      "summary": "The article discusses the geopolitical tensions between the US and Iran, which could impact oil prices and trade. This situation creates potential disruptions in the supply chain for energy companies due to the uncertainty surrounding negotiations and military threats.",
+      "title": "金都城 ： 先空 ！_ 中金在线财经号",
+      "url": "http://mp.cnfol.com/26198/article/1790136890-142735668.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI Integration in Global Business",
+      "companies_involved": [
+        "Shopify"
+      ],
+      "industries_involved": [
+        "E-commerce",
+        "Technology",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Australia",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Shopify operate in the affected regions?",
+        "How might the integration of AI impact the supply chain processes of companies in different markets?",
+        "Which manufacturing facilities may need to adapt to new AI-driven processes?",
+        "What are the potential regulatory challenges in different countries that could affect supply chain operations?",
+        "Which downstream companies depend on the e-commerce capabilities provided by Shopify?"
+      ],
+      "reason": "The article discusses the integration of AI in business operations and its implications for global market strategies, but it does not indicate a specific disruption to supply chain activities.",
+      "summary": "The article focuses on how AI is reshaping global business strategies, particularly for companies expanding into international markets. While it highlights challenges related to supply chain complexity, it does not present a specific disruption event.",
+      "title": "AI 重塑全球商业 ， 品牌如何建立面向未来的增长优势 ？ ",
+      "url": "https://www.163.com/dy/article/L7JP5S4I05118DFD.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Autumn Holidays Travel Planning",
+      "companies_involved": [
+        "Алеан",
+        "Турвизор",
+        "Дельфин"
+      ],
+      "industries_involved": [
+        "Tourism",
+        "Travel"
+      ],
+      "countries_involved": [
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses travel options and costs for families during autumn holidays, without any mention of disruptions to supply chains, logistics, or production activities.",
+      "summary": "The article provides insights into travel planning for autumn holidays in Russia, focusing on budget-friendly options for families. It does not indicate any supply chain disruptions or risks related to logistics or production.",
+      "title": "Осенние каникулы 2026 : где отдохнуть с детьми и не разориться",
+      "url": "https://aif.ru/money/mymoney/osennie-kanikuly-2026-gde-otdohnut-s-detmi-i-ne-razoritsya",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Advancements in Laser Display Technology",
+      "companies_involved": [
+        "Hisense"
+      ],
+      "industries_involved": [
+        "Consumer Electronics",
+        "Display Technology"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Hisense provide components for laser display technology?",
+        "What manufacturing facilities are involved in the production of laser displays?",
+        "Which countries are key suppliers for the materials used in laser display technology?",
+        "What supply-chain dependencies exist for the distribution of laser display products?",
+        "Which downstream companies may be affected by changes in laser display technology?"
+      ],
+      "reason": "The article discusses advancements in laser display technology and its implications for consumer electronics but does not indicate any disruptions in supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the evolution of laser display technology and its potential impact on consumer preferences in home entertainment. However, it does not present any actual or potential supply chain disruptions.",
+      "title": "百吋之上 ： 改善家庭观影的下一个拐点 ， 为什么是激光显示",
+      "url": "https://tv.zol.com.cn/1252/12526741.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Development of Jiang Yao Bath Industry",
+      "companies_involved": [],
+      "industries_involved": [
+        "Cultural Heritage",
+        "Health and Wellness",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the development of a local industry and its integration into national strategies, but it does not indicate any disruptions to supply chains, logistics, or production activities.",
+      "summary": "The article highlights the strategic development of the Jiang Yao Bath industry in China, focusing on its cultural significance and economic potential. However, it does not present any actual or potential supply chain disruptions.",
+      "title": "锚定特色主导产业 从江瑶浴走出县域经济高质量发展新路径 _ 中华网",
+      "url": "https://m.tech.china.com/redian/2026/0924/092026_1961965.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI Office Tools Development",
+      "companies_involved": [
+        "Amazon Web Services",
+        "Qianwen Office",
+        "Kingsoft Office"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Software"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Amazon Web Services may be affected by changes in AI office tool development?",
+        "What manufacturing relationships exist between Kingsoft Office and its software development partners?",
+        "Which countries are key markets for Qianwen Office's AI products?",
+        "What dependencies do traditional office software have on emerging AI technologies?",
+        "Which downstream companies rely on the AI capabilities of these office tools?"
+      ],
+      "reason": "The article discusses advancements in AI office tools and their implications for productivity but does not indicate any direct supply chain disruptions or impacts on logistics, production, or trade.",
+      "summary": "The article highlights the competitive landscape of AI office tools and the importance of context in enhancing productivity. However, it does not present any immediate supply chain disruptions or risks.",
+      "title": "观察｜AI办公的下一场争夺 ， 为什么是  上下文 ？ |调用|插件|ai办公",
+      "url": "https://www.163.com/dy/article/L7LH5EI00514R9P4.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI Office Tools Development",
+      "companies_involved": [
+        "Amazon Web Services",
+        "Qianwen Office",
+        "Kingsoft Office"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Software"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Amazon Web Services may be affected by changes in AI office tool development?",
+        "Which manufacturing or production relationships may be impacted by the integration of AI in office software?",
+        "Which countries or regions create exposure for companies developing AI office tools?",
+        "Which supply-chain dependencies could transmit disruptions related to AI technology advancements?",
+        "Which downstream companies may be exposed to changes in AI office tool capabilities?"
+      ],
+      "reason": "The article discusses advancements in AI office tools and their implications for productivity and business processes, but it does not indicate any direct supply chain disruptions or impacts on logistics, manufacturing, or trade.",
+      "summary": "The article highlights the competitive landscape of AI office tools and the importance of context in enhancing productivity. While it discusses technological advancements, it does not present any immediate supply chain disruptions.",
+      "title": "AI办公的下一场争夺为什么是  上下文 ？ _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609253884153625.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T014500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike Impacting ATM Services",
+      "companies_involved": [
+        "State Bank of India (SBI)"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of SBI may be affected by the bank strike?",
+        "Which banking operations depend on the availability of ATM services during the strike?",
+        "Which regions in India are most impacted by the bank strike?",
+        "What are the dependencies on digital banking services during the strike period?",
+        "Which downstream companies rely on banking services provided by SBI?"
+      ],
+      "reason": "The proposed bank strike could disrupt banking operations, affecting ATM services and potentially impacting cash flow for businesses and consumers, which is a critical aspect of supply chain activities.",
+      "summary": "A nationwide bank strike in India from September 28 to 30, 2026, may disrupt banking operations, particularly ATM services. The State Bank of India has announced a waiver of ATM transaction fees during this period, but the strike could still impact cash availability and banking operations.",
+      "title": "SBI ATM Charges : बैंक हड़ताल के बीच एसबीआई ग्राहकों को राहत , 28 से 30 सितंबर तक नहीं लगेगा ATM से पैसा निकालने पर चार्ज | Sbi Atm Charges Waived Bank Strike 28 To 30 September",
+      "url": "https://www.patrika.com/business-news/sbi-atm-charges-waived-bank-strike-28-to-30-september-20935293",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Proposed Bank Strike",
+      "companies_involved": [
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of State Bank of India may be affected by the bank strike?",
+        "Which banking operations depend on the availability of employees during the strike?",
+        "Which regions in India may experience disruptions in banking services due to the strike?",
+        "Which downstream companies rely on banking services provided by State Bank of India?",
+        "How might the strike impact the supply chain of businesses that depend on banking transactions?"
+      ],
+      "reason": "The proposed bank strike could disrupt banking operations, affecting cash availability and banking services, which are critical for various supply chain activities.",
+      "summary": "A nationwide bank strike in India from September 28 to 30, 2026, may disrupt banking operations, impacting cash transactions and banking services. This could have downstream effects on businesses relying on these banking services for their supply chain activities.",
+      "title": "SBI ATM charges waived during proposed bank strike of September 28 - 30 : What customers need to know",
+      "url": "https://economictimes.indiatimes.com/wealth/save/sbi-atm-charges-waived-during-proposed-bank-strike-of-september-28-30-what-customers-need-to-know/articleshow/134477591.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike in India",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks",
+        "Indian Banks' Association (IBA)"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which banking operations depend on the availability of bank employees during the strike?",
+        "Which regions in India are most impacted by the bank strike?",
+        "Which downstream companies rely on banking services that may be disrupted?",
+        "What are the potential impacts on trade and logistics due to limited banking services?"
+      ],
+      "reason": "The proposed bank strike in India could disrupt banking operations, affecting access to financial services, which is critical for supply chain activities such as payments, trade financing, and logistics operations.",
+      "summary": "A nationwide bank strike in India is scheduled from September 28 to 30, potentially disrupting banking services. This could impact supply chain activities reliant on banking operations, including payments and trade financing.",
+      "title": "Bank strike : Confusion over September 27 as association tells bankers  dont report to work ; will banks open on Sunday ? ",
+      "url": "https://www.moneycontrol.com/news/india/bank-strike-confusion-over-september-27-as-association-tells-bankers-don-t-report-to-work-will-banks-open-on-sunday-14038088.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Proposed Bank Strike",
+      "companies_involved": [
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of State Bank of India may be affected by the bank strike?",
+        "Which banking operations depend on the services provided during the strike period?",
+        "Which regions in India may experience disruptions in banking services due to the strike?",
+        "Which downstream companies rely on banking services from State Bank of India during the strike?",
+        "What alternative banking solutions are available to mitigate the impact of the strike?"
+      ],
+      "reason": "The proposed bank strike could disrupt banking operations, affecting transactions and services that are critical for supply chain activities, including payments and financial services.",
+      "summary": "The State Bank of India has issued an advisory regarding a proposed three-day bank strike, which may disrupt banking services. This disruption could impact various supply chain activities reliant on banking transactions and services in India.",
+      "title": "SBI issues customer advisory ahead of proposed three - day bank strike",
+      "url": "https://www.ibtimes.co.in/sbi-issues-customer-advisory-ahead-proposed-three-day-bank-strike-906447",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike Impacting Trade and Industry",
+      "companies_involved": [
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking",
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of manufacturers in India may be affected by banking disruptions?",
+        "Which manufacturing facilities depend on banking services for operations during the strike?",
+        "Which downstream companies rely on trade financing from banks during the strike period?",
+        "What regions in India are most dependent on banking services for trade activities?",
+        "How might delays in banking operations affect the supply chain for exporters in India?"
+      ],
+      "reason": "The bank closure and subsequent strike will disrupt essential banking services, affecting trade and industry operations, which are critical components of the supply chain.",
+      "summary": "A nationwide bank strike in India is expected to disrupt trade and industry operations for five consecutive days. This disruption could significantly impact businesses that rely on banking services for transactions, financing, and operational continuity.",
+      "title": "Bank closure likely to impact trade , industry",
+      "url": "https://www.tribuneindia.com/news/ludhiana/bank-closure-likely-to-impact-trade-industry/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Bank Strike in Chandigarh",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a bank strike and the payment of salaries and pensions, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a bank strike in Chandigarh and the administration's plan to pay salaries and pensions. It does not indicate any direct impact on supply chain activities.",
+      "title": "Bank strike : Chandigarh Admn to pay salary , pension on Sept 25",
+      "url": "https://www.tribuneindia.com/news/chandigarh/bank-strike-chandigarh-admn-to-pay-salary-pension-on-sept-25/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "United Forum of Bank Unions",
+        "Indian Banks' Association"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which banks may experience operational disruptions due to the strike?",
+        "Which suppliers of banking services could be affected by the strike?",
+        "Which regions in India are most impacted by the bank strike?",
+        "Which downstream financial services depend on the operations of the affected banks?"
+      ],
+      "reason": "The planned nationwide bank strike is expected to disrupt banking operations across India, affecting service delivery and potentially impacting related supply chain activities in the financial sector.",
+      "summary": "A nationwide bank strike in India from September 28 to 30 is anticipated to disrupt banking operations significantly. This could affect service delivery and related supply chain activities within the financial sector.",
+      "title": "Delhi HC directs police to decide on bank union protest site ahead of Sept 28 - 30 strike",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/delhi-hc-directs-police-to-decide-on-bank-unions-protest-site-ahead-of-sept-28-30-strike/articleshow/134479817.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Union Protest Strike",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which banks may be affected by the strike?",
+        "Which suppliers of banking services could be impacted by the protest?",
+        "Which regions in India are most likely to experience disruptions due to the strike?",
+        "Which downstream financial operations may be exposed to delays or interruptions?",
+        "What are the potential impacts on logistics and transportation related to banking operations during the strike?"
+      ],
+      "reason": "The planned bank union protest strike could disrupt banking operations, affecting service delivery and potentially impacting logistics and transportation related to financial transactions.",
+      "summary": "The Delhi High Court has directed police to determine a protest site for a bank union strike scheduled from September 28 to 30. This event may disrupt banking operations and related supply chain activities in India.",
+      "title": "Delhi HC directs police to decide on bank union protest site ahead of Sept 28 - 30 strike",
+      "url": "https://aninews.in/news/national/general-news/delhi-hc-directs-police-to-decide-on-bank-unions-protest-site-ahead-of-sept-28-30-strike20260925134609/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike",
+      "companies_involved": [
+        "Reserve Bank of India",
+        "Various Indian Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies depend on banking services for their operations?",
+        "How might the strike impact the logistics of financial transactions?",
+        "Which regions in India are most affected by the banking strike?",
+        "What are the potential impacts on trade due to banking disruptions?"
+      ],
+      "reason": "The planned bank strike could disrupt banking operations, affecting financial transactions and services critical to supply chain activities, thereby impacting various industries reliant on banking services.",
+      "summary": "A three-day nationwide bank strike is scheduled in India, which could disrupt banking operations and financial transactions. This disruption may have significant implications for businesses relying on banking services for their supply chain activities.",
+      "title": "Five day banking week never up for negotiation , say govt sources",
+      "url": "https://www.businesstoday.in/industry/banks/story/five-day-banking-week-never-up-for-negotiation-say-govt-sources-557770-2026-09-25",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "State Level Bankers' Committee",
+        "Various Member Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which banking operations depend on physical branch transactions that could be disrupted?",
+        "Which regions in India are most impacted by the bank strike?",
+        "Which downstream companies rely on banking services for their operations?",
+        "How might the strike affect cash flow for businesses dependent on banking services?"
+      ],
+      "reason": "The nationwide bank strike will disrupt banking operations, affecting transactions and services that are critical for supply chain activities, including payments and financial transactions necessary for suppliers and manufacturers.",
+      "summary": "A nationwide bank strike in India from September 28 to 30 is expected to disrupt banking operations, impacting transactions that are essential for supply chain activities. The State Level Bankers' Committee is advising customers to plan ahead to mitigate potential disruptions.",
+      "title": "Bank Strike From Sept 28 - 30 : SLBC Advises Customers To Plan Transactions",
+      "url": "https://www.deccanchronicle.com/southern-states/kerala/bank-strike-from-sept-28-30-kerala-slbc-advises-customers-to-plan-transactions-1990218",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T131500Z"
     }
   ]
 }
