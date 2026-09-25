@@ -1,8 +1,8 @@
-name: Agent 5 - Risk Assessment
+name: Agent 6 - Final Risk Report
 
 on:
   workflow_run:
-    workflows: ["agent2.yml"]
+    workflows: ["Agent 5 - Risk Assessment"]
     types:
       - completed
 
@@ -11,208 +11,130 @@ permissions:
   actions: read
 
 jobs:
-
-  # ============================================================
-  # Agent 5
-  # ============================================================
-  agent5:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    runs-on: ubuntu-latest
-
-    steps:
-
-      # --------------------------------------------------------
-      # 1. Checkout
-      # --------------------------------------------------------
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # --------------------------------------------------------
-      # 2. Python
-      # --------------------------------------------------------
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      # --------------------------------------------------------
-      # 3. Dependencies
-      # --------------------------------------------------------
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      # --------------------------------------------------------
-      # 4. Agent 2 결과 가져오기
-      # --------------------------------------------------------
-      - name: Download Agent 2 result
-        uses: actions/download-artifact@v4
-        with:
-          name: agent2-results
-          path: data
-          run-id: ${{ github.event.workflow_run.id }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-      # --------------------------------------------------------
-      # 5. Agent 2 결과 확인
-      # --------------------------------------------------------
-      - name: Check Agent 2 result
-        run: |
-          echo "=== data directory ==="
-          ls -lah data
-
-          echo "=== Agent 2 JSON ==="
-          ls -lah data/agent2_kg.json
-
-      # --------------------------------------------------------
-      # 6. Agent 5 실행
-      # --------------------------------------------------------
-      - name: Run Agent 5
-        run: |
-          python agents/agent5_risk_score.py
-
-      # --------------------------------------------------------
-      # 7. Agent 5 결과 확인
-      # --------------------------------------------------------
-      - name: Check Agent 5 result
-        run: |
-          echo "=== Agent 5 result ==="
-
-          if [ -f agent5_risk_assessment.json ]; then
-            echo "Found: agent5_risk_assessment.json"
-            ls -lh agent5_risk_assessment.json
-
-          elif [ -f data/agent5_risk_assessment.json ]; then
-            echo "Found: data/agent5_risk_assessment.json"
-            ls -lh data/agent5_risk_assessment.json
-
-          else
-            echo "ERROR: Agent 5 result not found"
-            exit 1
-          fi
-
-      # --------------------------------------------------------
-      # 8. Agent 5 결과 artifact 업로드
-      # --------------------------------------------------------
-      - name: Upload Agent 5 result
-        uses: actions/upload-artifact@v4
-        with:
-          name: agent5-results
-          path: |
-            agent5_risk_assessment.json
-            data/agent5_risk_assessment.json
-          if-no-files-found: error
-
-
-  # ============================================================
-  # Agent 6
-  # Agent 5가 성공적으로 끝난 경우에만 실행
-  # ============================================================
   agent6:
-    needs: agent5
+    # Agent 5가 성공했을 때만 실행
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
     runs-on: ubuntu-latest
 
     steps:
 
-      # --------------------------------------------------------
-      # 1. Checkout
-      # --------------------------------------------------------
+      # ============================================================
+      # 1. Repository Checkout
+      # ============================================================
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # --------------------------------------------------------
-      # 2. Python
-      # --------------------------------------------------------
+      # ============================================================
+      # 2. Python 설정
+      # ============================================================
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # --------------------------------------------------------
-      # 3. Dependencies
-      # --------------------------------------------------------
+      # ============================================================
+      # 3. 필요한 패키지 설치
+      # ============================================================
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # --------------------------------------------------------
-      # 4. Agent 5 결과 가져오기
-      # --------------------------------------------------------
+      # ============================================================
+      # 4. Agent 5 결과 다운로드
+      # ============================================================
       - name: Download Agent 5 result
         uses: actions/download-artifact@v4
         with:
           name: agent5-results
           path: data
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --------------------------------------------------------
+      # ============================================================
       # 5. Agent 5 결과 확인
-      # --------------------------------------------------------
+      # ============================================================
       - name: Check Agent 5 result
         run: |
-          echo "=== data directory ==="
-          ls -lah data
+          echo "========================================"
+          echo "Agent 5 result"
+          echo "========================================"
 
-          echo "=== JSON files ==="
-          find data -name "*.json" -maxdepth 2 -print
+          find data -type f -maxdepth 3 -print
 
-      # --------------------------------------------------------
-      # 6. Agent 5 결과를 Agent 6 입력 위치로 이동
-      # --------------------------------------------------------
+      # ============================================================
+      # 6. Agent 5 JSON을 Agent 6 입력 위치로 복사
+      # ============================================================
       - name: Prepare Agent 6 input
         run: |
-          if [ -f data/agent5_risk_assessment.json ]; then
-            cp data/agent5_risk_assessment.json agent5_risk_assessment.json
 
-          elif [ -f data/data/agent5_risk_assessment.json ]; then
-            cp data/data/agent5_risk_assessment.json agent5_risk_assessment.json
+          if [ -f "data/agent5_risk_assessment.json" ]; then
+
+            cp data/agent5_risk_assessment.json \
+               agent5_risk_assessment.json
+
+          elif [ -f "data/data/agent5_risk_assessment.json" ]; then
+
+            cp data/data/agent5_risk_assessment.json \
+               agent5_risk_assessment.json
 
           else
-            echo "ERROR: Agent 5 JSON not found"
+
+            echo "ERROR: agent5_risk_assessment.json not found"
+
             find . -name "agent5_risk_assessment.json" -print
+
             exit 1
+
           fi
 
-          echo "=== Agent 6 input ==="
+          echo "========================================"
+          echo "Agent 6 input"
+          echo "========================================"
+
           ls -lh agent5_risk_assessment.json
 
-      # --------------------------------------------------------
+      # ============================================================
       # 7. Agent 6 실행
-      # --------------------------------------------------------
+      # ============================================================
       - name: Run Agent 6
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
         run: |
           python agents/agent6_report.py
 
-      # --------------------------------------------------------
+      # ============================================================
       # 8. Agent 6 결과 확인
-      # --------------------------------------------------------
+      # ============================================================
       - name: Check Agent 6 result
         run: |
-          echo "=== Agent 6 result ==="
 
-          if [ -f agent6_final_report.json ]; then
+          echo "========================================"
+          echo "Agent 6 result"
+          echo "========================================"
+
+          if [ -f "agent6_final_report.json" ]; then
+
             ls -lh agent6_final_report.json
 
-          elif [ -f data/agent6_final_report.json ]; then
-            ls -lh data/agent6_final_report.json
-
           else
-            echo "ERROR: Agent 6 result not found"
+
+            echo "ERROR: agent6_final_report.json not found"
+
             find . -name "agent6_final_report.json" -print
+
             exit 1
+
           fi
 
-      # --------------------------------------------------------
+      # ============================================================
       # 9. Agent 6 결과 업로드
-      # --------------------------------------------------------
+      # ============================================================
       - name: Upload Agent 6 result
         uses: actions/upload-artifact@v4
         with:
           name: agent6-results
-          path: |
-            agent6_final_report.json
-            data/agent6_final_report.json
+          path: agent6_final_report.json
           if-no-files-found: error
