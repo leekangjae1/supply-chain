@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T23:17:21.165772",
-  "selected_group": "disaster",
+  "updated_at": "2026-09-25T06:03:47.552406",
+  "selected_group": "operation",
   "timespan": "3d",
-  "new_count": 278,
-  "total_count": 5702,
+  "new_count": 7,
+  "total_count": 5709,
   "results": [
     {
       "risk_type": "operation",
@@ -74130,6 +74130,97 @@
       "source_country": "",
       "published_at": "20260924T041500Z",
       "collected_at": "2026-09-24T23:13:44.032105"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "新媒 ： 中国碳市场走向全球创造双赢机遇",
+      "url": "https://baijiahao.baidu.com/s?id=1877197506361453988",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260924T184500Z",
+      "collected_at": "2026-09-25T04:35:50.359944"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "中国男足半场0 - 0阿联酋 朝鲜2 - 1伊朗 照此比分国足将小组头名出线",
+      "url": "https://www.163.com/dy/article/L7H21J1K0529CA1F.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260923T070000Z",
+      "collected_at": "2026-09-25T04:35:50.360011"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "英国向中国返还12件流失文物艺术品 - 新华网",
+      "url": "https://www.news.cn/world/20260924/90947d32c17343dd8b19f92aadad0743/c.html",
+      "domain": "news.cn",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260924T044500Z",
+      "collected_at": "2026-09-25T04:35:50.360013"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "麦肯锡 ： 中国银行业出现结构性改善信号 财富管理 、 AI与客户经营正重塑增长逻辑",
+      "url": "https://www.stcn.com/article/detail/4196163.html",
+      "domain": "stcn.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260923T061500Z",
+      "collected_at": "2026-09-25T04:35:50.360016"
+    },
+    {
+      "risk_type": "operation",
+      "country": "South Korea",
+      "keyword": "strike",
+      "query": "\"South Korea\" strike",
+      "title": "韩国首架  准隐身  战机入列 ， 对韩空军有何意义 ？_ 凤凰网",
+      "url": "https://mil.ifeng.com/c/8wfwBzKwhbQ",
+      "domain": "mil.ifeng.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260925T041500Z",
+      "collected_at": "2026-09-25T04:44:58.429510"
+    },
+    {
+      "risk_type": "operation",
+      "country": "South Korea",
+      "keyword": "strike",
+      "query": "\"South Korea\" strike",
+      "title": "九檔股票ETF 創新高價 | 存股族愛ETF | 股市",
+      "url": "https://udn.com/news/story/123006/9776425",
+      "domain": "udn.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260924T194500Z",
+      "collected_at": "2026-09-25T04:44:58.429523"
+    },
+    {
+      "risk_type": "operation",
+      "country": "South Korea",
+      "keyword": "strike",
+      "query": "\"South Korea\" strike",
+      "title": "謝金河秀數字 ： 鄭主席妳低估台灣了 | 雜誌",
+      "url": "https://udn.com/news/story/6839/9775703",
+      "domain": "udn.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20260924T194500Z",
+      "collected_at": "2026-09-25T04:44:58.429531"
     }
   ]
 }

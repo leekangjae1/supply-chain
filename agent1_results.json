@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T23:42:42Z",
-  "total_count": 5702,
+  "updated_at": "2026-09-25T06:04:39Z",
+  "total_count": 5709,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -154497,6 +154497,198 @@
       "gdelt_country": "India",
       "gdelt_keyword": "wildfire",
       "published_at": "20260924T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China's Carbon Market Global Expansion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses China's carbon market and its global implications but does not provide specific information about supply chain activities or disruptions.",
+      "summary": "The article focuses on the global expansion of China's carbon market, highlighting potential opportunities. However, it does not indicate any direct supply chain disruptions or impacts on specific companies or industries.",
+      "title": "新媒 ： 中国碳市场走向全球创造双赢机遇",
+      "url": "https://baijiahao.baidu.com/s?id=1877197506361453988",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Football Match",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United Arab Emirates",
+        "North Korea",
+        "Iran"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a football match and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a football match between China and the UAE, with no implications for supply chain activities. It does not indicate any disruptions or risks related to supply chains.",
+      "title": "中国男足半场0 - 0阿联酋 朝鲜2 - 1伊朗 照此比分国足将小组头名出线",
+      "url": "https://www.163.com/dy/article/L7H21J1K0529CA1F.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Return of Cultural Artifacts",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event pertains to the return of cultural artifacts and does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses the return of 12 cultural artifacts from the UK to China, highlighting cooperation between the two countries. This event is related to cultural heritage and does not represent a supply chain disruption.",
+      "title": "英国向中国返还12件流失文物艺术品 - 新华网",
+      "url": "https://www.news.cn/world/20260924/90947d32c17343dd8b19f92aadad0743/c.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China Banking Sector Structural Changes",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking",
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses improvements and changes within the Chinese banking sector, focusing on growth strategies and the impact of AI on financial services. However, it does not indicate any direct supply chain disruptions related to manufacturing, logistics, or trade activities.",
+      "summary": "The article highlights structural improvements in the Chinese banking sector, driven by wealth management and AI advancements. While it discusses the competitive landscape and growth opportunities, it does not present any direct supply chain disruptions.",
+      "title": "麦肯锡 ： 中国银行业出现结构性改善信号 财富管理 、 AI与客户经营正重塑增长逻辑",
+      "url": "https://www.stcn.com/article/detail/4196163.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "KF-21 Fighter Jet Production and Export Challenges",
+      "companies_involved": [
+        "Korea Aerospace Industries (KAI)"
+      ],
+      "industries_involved": [
+        "Aerospace",
+        "Defense"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Indonesia",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Korea Aerospace Industries (KAI) may be affected by the rising costs and supply chain disruptions?",
+        "Which manufacturing facilities are involved in the production of the KF-21 and could be impacted by external dependencies?",
+        "What countries are critical for the supply of components for the KF-21 and how might disruptions in those regions affect production?",
+        "Which defense contracts or export agreements could be jeopardized due to the increased production costs of the KF-21?",
+        "Which downstream companies rely on the KF-21 for their operations or contracts?"
+      ],
+      "reason": "The article discusses the production and delivery of the KF-21 fighter jet, highlighting challenges related to rising costs and dependencies on foreign technology, which can impact supply chain operations and export potential.",
+      "summary": "The delivery of South Korea's KF-21 fighter jet marks a significant milestone for its aerospace industry, but rising production costs and reliance on foreign technology pose potential supply chain disruptions. The situation could affect both domestic operations and international defense contracts.",
+      "title": "韩国首架  准隐身  战机入列 ， 对韩空军有何意义 ？_ 凤凰网",
+      "url": "https://mil.ifeng.com/c/8wfwBzKwhbQ",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "AI Industry Supply Chain Growth",
+      "companies_involved": [
+        "Cathay Financial Holdings",
+        "Fubon Financial",
+        "Yuanta Financial",
+        "Citi",
+        "Taiwan Semiconductor Manufacturing Company (TSMC)"
+      ],
+      "industries_involved": [
+        "Finance",
+        "Technology",
+        "Semiconductors",
+        "PCB Manufacturing"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of TSMC are involved in the AI hardware supply chain?",
+        "Which manufacturing facilities are dependent on the production of AI-related components?",
+        "Which countries are key suppliers for the PCB manufacturing industry in Taiwan?",
+        "What supply-chain dependencies exist between AI data centers and semiconductor manufacturers?",
+        "Which downstream companies rely on AI-related products from the affected suppliers?"
+      ],
+      "reason": "The article discusses the growth of the AI industry and its impact on the supply chain, particularly in the semiconductor and PCB sectors, indicating potential operational disruptions and opportunities.",
+      "summary": "The article highlights the rising demand for AI technologies and its implications for the supply chain, particularly in Taiwan's semiconductor and PCB industries. This growth may lead to operational shifts and increased dependencies within the supply chain.",
+      "title": "九檔股票ETF 創新高價 | 存股族愛ETF | 股市",
+      "url": "https://udn.com/news/story/123006/9776425",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T194500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Taiwanese Companies Expanding Operations",
+      "companies_involved": [
+        "台泥 (Taiwan Cement)",
+        "華邦電子 (Winbond Electronics)",
+        "輝達 (NVIDIA)",
+        "聯發科 (MediaTek)",
+        "台積電 (TSMC)",
+        "日月光 (ASE Technology)",
+        "京元電 (King Yuan Electronics)"
+      ],
+      "industries_involved": [
+        "Cement",
+        "Semiconductors",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "Ukraine",
+        "Germany",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of台泥 operate in Ukraine?",
+        "Which manufacturing facilities depend on the semiconductor supply chain in Taiwan?",
+        "What are the potential impacts on logistics for台積電's expansion in the United States?",
+        "Which countries are key suppliers for華邦電子's operations?",
+        "Which downstream companies depend on products from聯發科?"
+      ],
+      "reason": "The article discusses significant investments and acquisitions by Taiwanese companies, indicating potential changes in supply chain dynamics and operational expansions that could affect production and logistics.",
+      "summary": "Taiwanese companies are actively expanding their operations through acquisitions and increased capital expenditures, particularly in the semiconductor and cement industries. This expansion may impact supply chain dynamics and logistics, especially with international operations in Ukraine and Germany.",
+      "title": "謝金河秀數字 ： 鄭主席妳低估台灣了 | 雜誌",
+      "url": "https://udn.com/news/story/6839/9775703",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T194500Z"
     }
   ]
 }
