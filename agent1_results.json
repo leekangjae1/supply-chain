@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T23:43:04Z",
-  "total_count": 6285,
+  "updated_at": "2026-09-26T06:32:41Z",
+  "total_count": 6297,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -170605,6 +170605,291 @@
       "gdelt_country": "India",
       "gdelt_keyword": "hurricane",
       "published_at": "20260924T201500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China Women's Volleyball Team Victory",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and the performance of a national team, which does not have a meaningful connection to supply chain activities.",
+      "summary": "The article highlights the success of the Chinese women's volleyball team at the Asian Games, focusing on their recent victory and growth. It does not pertain to any supply chain disruptions or impacts.",
+      "title": "从失利到夺冠看中国女排的逆风成长 23天的坚韧蜕变 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260924/49763321.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Return of Cultural Artifacts",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event primarily concerns the return of cultural artifacts and does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses the return of 12 cultural artifacts from the UK to China, emphasizing cultural cooperation and respect between the two nations. This event does not represent a supply chain disruption as it does not affect supply chain activities.",
+      "title": "英国向中国返还12件流失文物艺术品",
+      "url": "https://www.163.com/news/article/L7J41TIB0001899O.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI Film Industry Conference",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an AI film industry conference but does not provide any information related to supply chain activities such as suppliers, manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on an AI film industry conference and does not indicate any supply chain disruptions. There are no relevant companies, industries, or countries involved that would suggest a supply chain impact.",
+      "title": "岳麓大会首设AI影视专场 ： AI如何重塑影视内容产业 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1877222103323562210",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "New fentanyl crime sentencing guidelines in China",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceutical",
+        "Law Enforcement"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of fentanyl-related substances may be affected by the new regulations in China?",
+        "How might the new sentencing guidelines impact the supply chain for pharmaceutical companies operating in or sourcing from China?",
+        "Which countries are involved in the fentanyl supply chain that could be affected by these new regulations?",
+        "What dependencies exist between U.S. law enforcement and Chinese suppliers regarding fentanyl?",
+        "Which downstream companies in the U.S. rely on products sourced from China that may be impacted by these legal changes?"
+      ],
+      "reason": "The new sentencing guidelines for fentanyl-related crimes in China could impact the supply chain for pharmaceutical companies and law enforcement agencies involved in the fentanyl trade, particularly in the context of U.S.-China relations and drug enforcement cooperation.",
+      "summary": "China has introduced new sentencing guidelines for fentanyl-related crimes, which may affect the supply chain for pharmaceutical companies and law enforcement operations. This development is significant in the context of U.S.-China relations and efforts to combat illegal fentanyl trafficking.",
+      "title": "川習會前 中國明確芬太尼類物質犯罪定罪量刑標準 | 兩岸",
+      "url": "https://www.cna.com.tw:443/news/acn/202609230204.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Article lacks relevant supply chain information",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any meaningful information related to supply chain activities, suppliers, or disruptions.",
+      "summary": "The article does not contain relevant content regarding supply chain disruptions or impacts. It appears to be a general discussion without specific supply chain implications.",
+      "title": "好评中国 · 经  彩开局丨先进制造业何以持续做大做强 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1877178377074089232",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Article not accessible",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article is not accessible and does not provide any information regarding supply chain activities or disruptions.",
+      "summary": "The news article is currently inaccessible, preventing any analysis of potential supply chain disruptions. No relevant information can be extracted.",
+      "title": "好评中国 · 经  彩开局丨先进制造业何以持续做大做强 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1877177655738958234",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "China Venture Capital Forum on AI and Semiconductor",
+      "companies_involved": [],
+      "industries_involved": [
+        "Technology",
+        "Investment",
+        "Artificial Intelligence",
+        "Semiconductors"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a venture capital forum focused on AI and semiconductor technologies, but it does not indicate any specific supply chain disruptions or impacts on supply chain activities.",
+      "summary": "The article covers the 2026 China Venture Capital Forum, highlighting discussions on AI and semiconductor investments. It does not present any direct supply chain disruptions or risks.",
+      "title": "作答AI时代 ， 产业 、 投资与科技向  新  共生 2026中国风险投资论坛侧记 _ 新浪财经 _ 新浪网",
+      "url": "https://finance.sina.com.cn/roll/2026-09-23/doc-inisuxfz6159969.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "F-35 Parts Diverted to China",
+      "companies_involved": [
+        "Lockheed Martin"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Australia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lockheed Martin may be affected by the diversion of F-35 parts?",
+        "What manufacturing processes are impacted by the investigation into the shipment issue?",
+        "Which countries are involved in the supply chain for F-35 components?",
+        "What dependencies exist between Lockheed Martin and its suppliers in relation to sensitive technology?",
+        "Which downstream defense contractors rely on components from Lockheed Martin that may be affected by this incident?"
+      ],
+      "reason": "The incident involves the diversion of critical F-35 components to China, raising concerns about supply chain security and potential access to sensitive technology, which could disrupt production and logistics.",
+      "summary": "The Pentagon is investigating how F-35 parts ended up in Hong Kong, raising geopolitical concerns about supply chain security. This incident could impact Lockheed Martin and its suppliers, as well as international defense collaborations.",
+      "title": "Pentagon investigates after China obtains parts from F - 35 stealth fighter jet",
+      "url": "https://www.thehindu.com/news/international/pentagon-investigates-after-china-obtains-parts-from-f-35-stealth-fighter-jet/article71502726.ece",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "F-35 Parts Diverted to China",
+      "companies_involved": [
+        "Lockheed Martin"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Australia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lockheed Martin may be affected by the diversion of F-35 parts?",
+        "Which manufacturing facilities are involved in the production of F-35 components?",
+        "What are the potential impacts on logistics and transportation routes for F-35 parts?",
+        "Which countries or regions are critical for the supply chain of F-35 components?",
+        "Which downstream companies depend on the F-35 components that may be affected by this incident?"
+      ],
+      "reason": "The incident involves the diversion of critical military components to China, raising concerns about supply chain security and potential access to sensitive technology, which could disrupt the supply chain for defense contractors and their partners.",
+      "summary": "The Pentagon is investigating how parts of the F-35 stealth fighter jet ended up in Hong Kong, raising geopolitical concerns. This incident could impact the supply chain for defense contractors, particularly Lockheed Martin, and has implications for international relations and security.",
+      "title": "Pentagon investigates after China obtains parts from F - 35 stealth fighter jet",
+      "url": "https://www.ksat.com/news/politics/2026/09/24/pentagon-investigates-after-china-obtains-parts-from-f-35-stealth-fighter-jet/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "F-35 Components Diverted to Hong Kong",
+      "companies_involved": [
+        "Lockheed Martin"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Australia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lockheed Martin may be affected by the diversion of F-35 components?",
+        "Which manufacturing or production relationships may be impacted by the investigation into the shipment issue?",
+        "What are the potential geopolitical risks associated with the supply chain for F-35 components?",
+        "Which countries or regions create exposure for Lockheed Martin in light of this incident?",
+        "Which downstream companies depend on the F-35 components that may have been compromised?"
+      ],
+      "reason": "The incident involves the diversion of critical military components to a foreign country, raising concerns about supply chain security and potential access to sensitive technology, which can disrupt normal supply chain operations.",
+      "summary": "The Pentagon is investigating how F-35 fighter jet components ended up in Hong Kong, raising concerns about supply chain security and potential access to sensitive technology by China. This incident could impact relationships between the U.S., Australia, and China, affecting the defense supply chain.",
+      "title": "Pentagon investigates after China obtains parts from F - 35 fighter jet",
+      "url": "https://www.orlandosentinel.com/2026/09/24/pentagon-china-f-35-stealth-fighter-jet/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Brand Promotion Event on Cruise Ship",
+      "companies_involved": [
+        "贵州珍酒",
+        "中免集团"
+      ],
+      "industries_involved": [
+        "Beverage",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a promotional event for a beverage brand on a cruise ship, which does not indicate any disruption to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a promotional collaboration between 贵州珍酒 and 中免集团 on a cruise ship to enhance brand visibility and sales. It does not present any supply chain disruption or risk.",
+      "title": "贵州珍酒携手中免集团登陆爱达 ・ 魔都号 开启海上品牌盛宴 _ 中华网",
+      "url": "https://hea.china.com/articles/20260923/202609231961799.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260923T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Return of Cultural Artifacts",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event pertains to the return of cultural artifacts and does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses the return of 12 cultural artifacts from the UK to China, highlighting diplomatic cooperation. This event does not represent a supply chain disruption as it does not affect supply chain activities.",
+      "title": "英国向中国返还12件流失文物艺术品 _ 腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260924A04JYD00",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T024500Z"
     }
   ]
 }
