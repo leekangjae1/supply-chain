@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T18:05:29Z",
-  "total_count": 6573,
+  "updated_at": "2026-09-26T23:17:17Z",
+  "total_count": 6626,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -178636,6 +178636,1674 @@
       "gdelt_country": "Mexico",
       "gdelt_keyword": "strike",
       "published_at": "20260925T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from American or Chinese suppliers affected by trade negotiations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for various industries.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could affect supply chains between the U.S. and China. The discussions on tariffs and market access are particularly relevant for companies operating in technology, agriculture, and manufacturing sectors.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://komonews.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from American or Chinese suppliers affected by trade negotiations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly trade and technology, due to potential changes in tariffs and market access.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://wcti12.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from affected suppliers in China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American goods, which directly affects sourcing and logistics.",
+      "summary": "The high-stakes meeting between President Trump and President Xi Jinping addresses critical trade issues that could lead to significant supply chain disruptions. The discussions on tariffs and market access are particularly relevant for companies operating in both countries.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://katu.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to disruptions from U.S.-China trade relations?",
+        "Which supply-chain dependencies could be affected by geopolitical tensions between the U.S. and China?",
+        "Which downstream companies rely on products from suppliers affected by the trade talks?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly technology and agriculture, due to potential changes in trade policies and tariffs.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://wset.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from affected suppliers in China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American goods, which directly affects sourcing and logistics.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may influence tariffs, market access, and overall trade relations between the two largest economies.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://wjla.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from American or Chinese suppliers affected by trade negotiations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for various industries.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect American and Chinese companies across multiple industries, particularly in trade and technology.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://wlos.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy with China?",
+        "Which manufacturing facilities in China depend on U.S. technology or components?",
+        "Which agricultural producers in the U.S. are exposed to changes in market access to China?",
+        "What supply-chain dependencies exist between U.S. and Chinese companies that could transmit disruption?",
+        "Which downstream companies in the U.S. rely on products sourced from China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade issues, including tariffs and market access, which directly impact supply chain activities between the two countries.",
+      "summary": "The high-stakes meeting between President Trump and President Xi Jinping addresses critical trade issues that could affect supply chains between the U.S. and China. The discussions on tariffs and market access have the potential to disrupt various industries, including technology and agriculture.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://13wham.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from suppliers affected by U.S.-China trade relations?"
+      ],
+      "reason": "The meeting between Trump and Xi focuses on trade and economic relations, which directly impacts supply chains, particularly in technology and agriculture sectors, due to potential changes in tariffs and market access.",
+      "summary": "The high-stakes meeting between U.S. and Chinese leaders addresses critical trade issues that could significantly impact supply chains. The discussions on tariffs and market access are particularly relevant for American and Chinese companies involved in technology and agriculture.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://wwmt.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from affected suppliers in China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly technology and agriculture, due to potential changes in trade policies.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://abc6onyourside.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to the geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcomes of these talks?",
+        "Which downstream companies rely on products from affected suppliers in China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could affect supply chains between the U.S. and China. The outcomes of these discussions may lead to changes in tariffs and market access, impacting various industries and companies involved in international trade.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://turnto10.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships in China could be impacted by U.S. tariffs?",
+        "What regions in China are critical for rare earth minerals supply?",
+        "Which downstream companies in the U.S. depend on imports from China?",
+        "How might changes in AI regulations affect technology supply chains between the U.S. and China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies and economic cooperation, which directly impacts supply chains, particularly in technology and agriculture sectors.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could affect supply chains between the U.S. and China. The discussions on tariffs and market access for American goods highlight potential disruptions in trade relationships.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://wsbt.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from suppliers affected by U.S.-China trade relations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly technology and agriculture, due to potential changes in trade policies.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://ktul.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to disruptions in U.S.-China trade relations?",
+        "Which supply-chain dependencies could be affected by geopolitical tensions between the U.S. and China?",
+        "Which downstream companies rely on products from suppliers affected by the trade talks?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American goods, which directly affects sourcing and logistics.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly trade and technology, due to potential changes in tariffs and market access.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://foxbaltimore.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships in China could be impacted by U.S. regulatory changes?",
+        "Which countries or regions are critical for sourcing rare earth minerals?",
+        "Which supply-chain dependencies could be affected by geopolitical tensions between the U.S. and China?",
+        "Which downstream companies rely on products from Chinese suppliers that may face trade restrictions?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies and geopolitical tensions, which could lead to changes in tariffs and regulations affecting supply chains.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues and geopolitical tensions that could impact supply chains between the U.S. and China. The discussions on tariffs and market access for American farmers highlight potential disruptions in trade and sourcing.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://cbs12.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to the geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcomes of these talks?",
+        "Which downstream companies rely on products from suppliers affected by U.S.-China trade relations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly technology and agriculture, due to potential changes in tariffs and trade agreements.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://news3lv.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from American or Chinese suppliers affected by trade negotiations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for various industries.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could affect supply chains between the U.S. and China. The discussions on tariffs and market access are particularly relevant for companies operating in technology, agriculture, and manufacturing sectors.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://fox11online.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcome of these talks?",
+        "Which downstream companies rely on products from suppliers affected by U.S.-China trade relations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could affect supply chains between the U.S. and China. The outcomes of these discussions may lead to changes in tariffs and market access, impacting various industries and companies.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://fox17.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships in China could be impacted by U.S. regulatory changes?",
+        "What supply-chain dependencies exist between U.S. agricultural producers and Chinese markets?",
+        "Which downstream companies rely on technology products affected by U.S.-China relations?",
+        "How might tariffs impact the logistics of goods between the U.S. and China?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access, which directly affect suppliers, manufacturers, and logistics operations.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly trade and technology, as well as the operations of companies in both countries.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://nbcmontana.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What countries or regions are critical for sourcing rare earth minerals?",
+        "Which supply-chain dependencies could be affected by geopolitical tensions between the U.S. and China?",
+        "Which downstream companies rely on products from American or Chinese suppliers involved in these discussions?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies and economic cooperation, which directly impacts supply chains, particularly in technology and agriculture sectors due to potential tariff changes and market access issues.",
+      "summary": "The high-stakes meeting between President Trump and President Xi Jinping addresses critical trade issues that could significantly impact supply chains between the U.S. and China. The discussions on tariffs, market access, and technology competition highlight the potential for disruptions in various industries.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://cnycentral.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to disruptions from U.S.-China trade relations?",
+        "Which supply-chain dependencies could be affected by geopolitical tensions between the U.S. and China?",
+        "Which downstream companies rely on products from suppliers affected by the trade talks?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly technology and agriculture, due to potential changes in trade policies and tariffs.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://bakersfieldnow.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Trade Truce Extension",
+      "companies_involved": [],
+      "industries_involved": [
+        "Technology",
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in US-China trade policies?",
+        "Which manufacturing or production relationships may be impacted by the trade truce?",
+        "Which countries or regions create exposure due to reliance on US-China trade?",
+        "Which supply-chain dependencies could transmit disruptions from the US-China trade negotiations?",
+        "Which downstream companies depend on products from suppliers affected by US-China tariffs?"
+      ],
+      "reason": "The discussions between the US and China regarding trade policies and the extension of the trade truce have significant implications for supply chains, particularly in technology and manufacturing sectors that rely on cross-border trade.",
+      "summary": "The meeting between Presidents Xi and Trump focused on extending the US-China trade truce, which has direct implications for supply chains in technology and manufacturing. The ongoing negotiations and potential changes in trade policy could affect various industries reliant on these two major economies.",
+      "title": "In Trump presence , Xi says US , China must ensure human control of AI",
+      "url": "https://www.rediff.com/news/report/in-trumps-presence-xi-says-us-china-must-ensure-human-control-of-ai/20260924.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T194500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Trade Talks",
+      "companies_involved": [
+        "American companies",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of American companies may be affected by changes in trade policy?",
+        "Which manufacturing relationships could be impacted by tariffs or trade agreements?",
+        "What regions are most exposed to the geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could be disrupted by the outcomes of these talks?",
+        "Which downstream companies rely on products from suppliers affected by U.S.-China trade relations?"
+      ],
+      "reason": "The meeting between U.S. and Chinese leaders focuses on trade policies that could significantly impact supply chains, including tariffs and market access for American and Chinese companies.",
+      "summary": "The high-stakes meeting between President Trump and President Xi addresses critical trade issues that could lead to significant supply chain disruptions. The outcomes of these discussions may affect various industries, particularly technology and agriculture, due to potential changes in tariffs and trade agreements.",
+      "title": "Trump , Xi meet at White House with trade , AI and global tensions in focus",
+      "url": "https://news4sanantonio.com/news/nation-world/trump-xi-meet-at-white-house-with-trade-ai-and-global-tensions-in-focus-china-america",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Strategic Competition and Trade Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Technology",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the ongoing US-China trade tensions?",
+        "Which manufacturing or production relationships may be impacted by geopolitical developments between the US and China?",
+        "Which countries or regions create exposure for companies involved in semiconductor and AI industries?",
+        "Which supply-chain dependencies could transmit the disruption from US-China relations?",
+        "Which downstream companies or operations may be exposed to changes in trade policy between the US and China?"
+      ],
+      "reason": "The article discusses the ongoing geopolitical tensions and trade negotiations between the US and China, which can significantly impact supply chains, particularly in technology and manufacturing sectors due to potential tariffs and restrictions.",
+      "summary": "The article highlights the strategic competition between the US and China, particularly regarding trade and technology. This ongoing tension poses risks to supply chains, especially for industries reliant on cross-border trade and technology transfer.",
+      "title": "전문가  美中회담 ,  경쟁의 틀  확인 … 대만문제 지속  ",
+      "url": "https://biz.heraldcorp.com/article/10884453",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Conflict in Ukraine",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense companies may be affected by sanctions against Russia?",
+        "Which energy suppliers are impacted by the ongoing conflict in Ukraine?",
+        "Which countries are at risk of supply chain disruptions due to geopolitical tensions?",
+        "Which manufacturing facilities in Europe depend on energy supplies from Russia?",
+        "Which downstream companies in the defense industry may be exposed to disruptions from the conflict?"
+      ],
+      "reason": "The ongoing conflict and calls for sanctions against Russia can disrupt supply chains, particularly in the defense and energy sectors, affecting production, sourcing, and logistics.",
+      "summary": "The article highlights the urgent appeal by Ukrainian President Zelenskyy for global leaders to impose sanctions on Russia to limit its military capabilities. This geopolitical tension poses significant risks to supply chains, especially in the defense and energy industries.",
+      "title": "Zelenskyy urges world leaders to cut off Russia money and war machine",
+      "url": "https://www.lex18.com/world/europe/zelenskyy-urges-world-leaders-to-cut-off-russias-money-and-war-machine-at-un-general-assembly",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260924T014500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian Attacks on Odessa",
+      "companies_involved": [],
+      "industries_involved": [
+        "Shipping",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Black Sea region that may be affected by the conflict?",
+        "Which logistics providers have operations in Ukraine that could be disrupted by ongoing attacks?",
+        "What are the potential impacts on trade routes through the Black Sea due to the conflict?",
+        "Which suppliers of goods to Ukraine may face delays or disruptions due to the geopolitical situation?",
+        "Which downstream companies rely on imports from Ukraine or Russia that could be impacted?"
+      ],
+      "reason": "The ongoing conflict and attacks in Ukraine, particularly in key logistical areas like Odessa, pose significant risks to shipping and logistics operations, potentially disrupting supply chains reliant on these routes.",
+      "summary": "The article reports on ongoing Russian attacks in Ukraine, specifically targeting the port city of Odessa. This geopolitical conflict has the potential to disrupt shipping and logistics operations in the region, impacting supply chains that rely on these routes.",
+      "title": "Ukraine - Krieg im Liveticker : +++ 13 : 05 Selenskyj ätzt bei Frage zu Moskau - Reise :  Auf einer Rakete  +++",
+      "url": "https://www.n-tv.de/politik/13-05-Selenskyj-aetzt-bei-Frage-zu-Moskau-Reise-Auf-einer-Rakete-id30859357.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260924T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Diplomatic Visit",
+      "companies_involved": [],
+      "industries_involved": [
+        "Technology",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of technology companies may be affected by the ongoing trade tensions?",
+        "Which agricultural producers are seeking access to the Chinese market?",
+        "What manufacturing relationships exist between US and Chinese companies that could be impacted by regulatory changes?",
+        "Which countries or regions are involved in the supply chains of companies affected by US-China relations?",
+        "Which downstream companies depend on technology exports to China?"
+      ],
+      "reason": "The article discusses a high-level diplomatic visit between the US and China, which has implications for trade policies and economic relations, potentially affecting supply chains in technology and agriculture sectors.",
+      "summary": "The visit of Chinese leader Xi Jinping to the US marks a significant diplomatic event that could influence trade relations and supply chains between the two countries. Ongoing discussions about technology and agriculture may lead to changes in trade policies that impact various industries.",
+      "title": "Ķīnas līderis Sji Dzjiņpins pirmo reizi desmit gadu laikā ieradies valsts vizītē ASV",
+      "url": "https://www.lsm.lv/raksts/zinas/arzemes/24.09.2026-kinas-lideris-sji-dzjinpins-pirmo-reizi-desmit-gadu-laika-ieradies-valsts-vizite-asv.a664540/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Extension of US-China Trade Truce",
+      "companies_involved": [
+        "US Government",
+        "Chinese Government"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in US-China trade policies?",
+        "Which manufacturing or production relationships may be impacted by the trade truce extension?",
+        "Which countries or regions create exposure due to the geopolitical tensions between the US and China?",
+        "Which supply-chain dependencies could transmit the disruption from the US to China?",
+        "Which downstream companies depend on products affected by the US-China trade agreements?"
+      ],
+      "reason": "The extension of the trade truce between the US and China has implications for trade policies, tariffs, and potential supply chain disruptions in manufacturing and logistics, particularly in industries reliant on cross-border trade.",
+      "summary": "The US and China have agreed to extend their trade truce for an additional two months, which may impact various supply chain activities, including manufacturing and trade. This geopolitical event highlights ongoing tensions that could affect suppliers and manufacturers in both countries.",
+      "title": "미중 무역 휴전 2개월 연장 … 美재무 베선트  내년 1월 10일까지 - 국제ㅣ한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026092409550004340",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Trade and Technology Discussions",
+      "companies_involved": [
+        "Apple",
+        "Nvidia",
+        "OpenAI",
+        "Amazon",
+        "Alphabet",
+        "Tesla"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Aerospace",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Apple and Nvidia may be affected by US-China trade policies?",
+        "Which manufacturing facilities are dependent on technology exports to China?",
+        "What are the potential impacts on logistics for companies involved in US-China trade?",
+        "Which countries or regions create exposure for these technology companies?",
+        "Which downstream companies depend on products from the affected suppliers?"
+      ],
+      "reason": "The article discusses a high-level meeting between US and Chinese leaders that could influence trade policies and technology exports, which directly impacts supply chain activities for the involved companies.",
+      "summary": "The upcoming dinner between US and Chinese leaders, attended by top technology executives, highlights ongoing geopolitical tensions that could affect trade and technology supply chains. Discussions on trade agreements and technology exports may lead to significant supply chain implications for companies like Apple and Nvidia.",
+      "title": "Топи Apple , Nvidia та OpenAI зберуться на вечері Трампа і Сі",
+      "url": "https://glavcom.ua/techno/hitech/topi-apple-nvidia-ta-openai-zberutsja-na-vecheri-trampa-i-si-1144921.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Xi Jinping's State Visit to the U.S.",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Technology",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade policies resulting from the visit?",
+        "Which manufacturing or production relationships may be impacted by discussions on tariffs and trade agreements?",
+        "Which countries or regions create exposure due to geopolitical tensions between the U.S. and China?",
+        "Which supply-chain dependencies could transmit disruptions stemming from the outcomes of the summit?",
+        "Which downstream companies may be exposed to changes in regulations or trade policies discussed during the visit?"
+      ],
+      "reason": "The state visit of Xi Jinping to the U.S. involves discussions on trade, tariffs, and technology, which could lead to significant changes in trade policies and regulations affecting supply chains between the two countries.",
+      "summary": "Xi Jinping's state visit to the U.S. marks a significant geopolitical event that could impact international trade and supply chains. Discussions on tariffs and technology may lead to changes affecting various industries, particularly those reliant on U.S.-China trade relations.",
+      "title": " [ 속보 ] 시진핑 11년 만의 국빈 방미 시작 … 트럼프 , 파격 공항 영접",
+      "url": "https://www.hani.co.kr/arti/international/america/1279360.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260923T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Summit Impact on Taiwan",
+      "companies_involved": [
+        "Taiwan Defense Industry",
+        "US Defense Contractors"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US defense contractors may be affected by delays in arms sales to Taiwan?",
+        "Which manufacturing facilities in Taiwan depend on US military support?",
+        "What are the potential impacts on Taiwan's defense manufacturing sector due to geopolitical tensions?",
+        "Which countries or regions create exposure for Taiwan's defense supply chain?",
+        "Which downstream companies in the defense sector may be affected by changes in US-China relations?"
+      ],
+      "reason": "The article discusses the potential impact of a US-China summit on Taiwan's defense industry, particularly regarding arms sales and supply chain stability, indicating a significant geopolitical risk that could disrupt supply chain activities.",
+      "summary": "The upcoming US-China summit may lead to delays in arms sales to Taiwan, impacting its defense industry and supply chain. This geopolitical event raises concerns about the stability of manufacturing and production relationships in the region.",
+      "title": "대만 , 미중 정상회담에 촉각 …  미국과 긴밀히 소통  ",
+      "url": "http://www.koreatimes.com/article/20260924/1631142",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Trade and Technology Discussions",
+      "companies_involved": [
+        "Apple",
+        "Tesla",
+        "Boeing"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Automotive",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Apple operate in China that may be affected by trade policy changes?",
+        "Which manufacturing facilities depend on technology exports from the US to China?",
+        "Which countries or regions create exposure for Tesla's supply chain due to geopolitical tensions?",
+        "Which supply-chain dependencies could transmit disruptions from US-China relations?",
+        "Which downstream companies depend on products from Boeing that may be impacted by tariffs?"
+      ],
+      "reason": "The discussions between the US and China regarding tariffs, technology restrictions, and trade agreements indicate potential disruptions in trade and supply chains, particularly in technology and automotive sectors.",
+      "summary": "The upcoming discussions between US President Trump and Chinese President Xi on trade policies and technology restrictions could significantly impact supply chains in various industries. The focus on tariffs and export controls raises concerns about potential disruptions in manufacturing and logistics between the two countries.",
+      "title": "11 yýl sonra bir ilk ! Ayanýn tozuyla yazýl aklama yapt",
+      "url": "https://www.star.com.tr/dunya/11-yil-sonra-bir-ilk-ayaginin-tozuyla-li-aciklama-yapti-haber-2042182/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Increased US Sugar Export Quota for the Philippines",
+      "companies_involved": [
+        "Sugar Regulatory Administration (SRA)"
+      ],
+      "industries_involved": [
+        "Sugar Industry"
+      ],
+      "countries_involved": [
+        "Philippines",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of sugar in the Philippines may be affected by the new export quota?",
+        "Which manufacturing facilities in the Philippines depend on sugar production for their operations?",
+        "What are the potential impacts on logistics and transportation for sugar exports to the US?",
+        "Which countries or regions may be affected by changes in sugar supply due to the new quota?",
+        "Which downstream companies in the US depend on sugar imports from the Philippines?"
+      ],
+      "reason": "The article discusses an increase in the sugar export quota from the Philippines to the US, which directly impacts trade policies and could affect supply chain dynamics in the sugar industry.",
+      "summary": "The US has increased the sugar export quota for the Philippines, allowing for greater sugar exports at lower tariffs. This change in trade policy may impact the sugar supply chain, including production and logistics in both countries.",
+      "title": "US gives PH higher sugar export quota | The Manila Times",
+      "url": "https://www.manilatimes.net/2026/09/25/business/top-business/us-gives-ph-higher-sugar-export-quota/2432705",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Deterioration of US-Belgium relations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Diplomacy",
+        "International Trade"
+      ],
+      "countries_involved": [
+        "Belgium",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Belgium may be affected by changes in US trade policy?",
+        "How might the evolving US-Belgium relations impact manufacturing partnerships?",
+        "Which countries or regions could be affected by the geopolitical tensions between the US and Belgium?",
+        "What supply-chain dependencies exist between Belgian companies and US suppliers?",
+        "Which downstream companies in Belgium rely on trade with the US?"
+      ],
+      "reason": "The article discusses the potential impact of changing diplomatic relations between Belgium and the United States, which could affect trade policies and international cooperation, thereby influencing supply chain activities.",
+      "summary": "The article highlights concerns from the Belgian Foreign Ministry regarding the reliability of the United States as an ally, suggesting potential risks to Belgium's vital interests. This geopolitical shift may impact trade and supply chain dynamics between the two countries.",
+      "title": " Le partenaire américain nest plus lallié quil était  : une note critique de la diplomatie belge envers les États - Unis fuite",
+      "url": "https://www.rtl.be/actu/belgique/politique/le-partenaire-americain-nest-plus-lallie-quil-etait-une-note-critique-de-la/2026-09-24/article/801225",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Evolving US-Belgium Relations",
+      "companies_involved": [],
+      "industries_involved": [
+        "International Trade",
+        "Diplomacy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Belgium"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Belgium may be affected by changes in US trade policy?",
+        "How might evolving US-Belgium relations impact manufacturing partnerships?",
+        "Which countries or regions could be affected by potential trade tariffs from the US?",
+        "What supply-chain dependencies exist between Belgium and the US that could transmit disruption?",
+        "Which downstream companies in Belgium rely on trade with the US?"
+      ],
+      "reason": "The article discusses the potential for a shift in US trade policy under the Trump administration, which could impact Belgium's economic interests and trade relationships, thus affecting supply chains.",
+      "summary": "The Belgian Foreign Ministry has raised concerns about the reliability of the US as an ally under President Trump, suggesting that evolving relations could jeopardize vital interests for Belgium and the EU. This geopolitical shift may lead to changes in trade policies that could disrupt supply chains between the US and Belgium.",
+      "title": "Les États - Unis de Trump ne sont plus un allié fiable , selon une note belge interne",
+      "url": "https://www.rtl.be/actu/belgique/politique/les-etats-unis-de-trump-ne-sont-plus-un-allie-fiable-selon-une-note-belge/2026-09-24/article/801230",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Electricity and water tariff maintenance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Ghana"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the maintenance of electricity and water tariffs without any changes, which does not directly indicate a disruption in supply chain activities such as production, logistics, or trade.",
+      "summary": "The Public Utilities Regulatory Commission in Ghana has decided to maintain electricity and water tariffs for the fourth quarter of 2026. This decision is based on economic factors but does not indicate a direct supply chain disruption.",
+      "title": "PURC maintains electricity , water tariffs for fourth quarter",
+      "url": "http://www.businessghana.com/site/news/business/356673/PURC-maintains-electricity,-water-tariffs-for-fourth-quarter",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Trade Truce Extension",
+      "companies_involved": [
+        "Boeing"
+      ],
+      "industries_involved": [
+        "Aerospace",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Boeing may be affected by the ongoing trade policies?",
+        "Which agricultural producers in the US are dependent on exports to China?",
+        "What impact does the trade truce extension have on supply chain costs for US companies?",
+        "Which manufacturing facilities in the US rely on components sourced from China?",
+        "Which downstream companies depend on products from Boeing or agricultural exports to China?"
+      ],
+      "reason": "The article discusses the extension of a trade truce between the US and China, which directly impacts trade policies and could affect supply chains related to aerospace and agriculture.",
+      "summary": "The US and China have agreed to extend their trade truce, which may influence supply chains in the aerospace and agricultural sectors. Companies like Boeing and US agricultural producers could face ongoing uncertainties due to the lack of significant agreements on trade policies.",
+      "title": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671606",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Establishment of Shenzhen Yueying Robotics",
+      "companies_involved": [
+        "Shenzhen Yueying Robotics Technology Co., Ltd.",
+        "Zhiyuan Innovation (Shanghai) Technology Co., Ltd."
+      ],
+      "industries_involved": [
+        "Robotics",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the establishment of a new robotics company and its legal representative, which does not indicate any immediate supply chain disruption or impact on existing supply chain activities.",
+      "summary": "The article reports on the formation of Shenzhen Yueying Robotics Technology Co., Ltd. and its legal representative. There is no indication of a supply chain disruption as it pertains to the establishment of a new company rather than an event affecting existing supply chains.",
+      "title": "稚晖君任越影机器人公司法定代表人 _ 业界 _ 科技频道首页 _ 财经网 - CAIJING . COM . CN",
+      "url": "http://tech.caijing.com.cn/20260924/5185633.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Anti-dumping duties on truck tires from Thailand and Vietnam",
+      "companies_involved": [
+        "Prinx Chengshan",
+        "Maxxis International",
+        "Jinyu",
+        "Vietnam COFO Tires",
+        "Sailun",
+        "Advance Tyre",
+        "Белшина",
+        "Кордиант",
+        "Нижнекамский завод грузовых шин",
+        "Профснабсервис",
+        "Русские шины",
+        "Kama Tyres",
+        "Tengri Tyres"
+      ],
+      "industries_involved": [
+        "Tire Manufacturing",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Thailand",
+        "Vietnam",
+        "Russia",
+        "Eurasian Economic Union (EAEU)"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of tire manufacturers in the EAEU may be affected by the new duties?",
+        "Which manufacturing facilities in the EAEU depend on imported truck tires from Thailand and Vietnam?",
+        "What are the potential impacts on transportation companies that rely on these tires?",
+        "Which countries or regions are most exposed to changes in tire supply due to these duties?",
+        "Which downstream companies in the transportation sector may face increased costs due to higher tire prices?"
+      ],
+      "reason": "The introduction of anti-dumping duties on truck tires from Thailand and Vietnam directly impacts the supply chain by affecting the cost and availability of these tires, which are critical for transportation and logistics operations in the EAEU.",
+      "summary": "The Eurasian Economic Commission has imposed anti-dumping duties on truck tires imported from Thailand and Vietnam, which may lead to increased prices and reduced availability of these products in the EAEU. This regulatory change poses risks to local manufacturers and transportation companies reliant on these imports.",
+      "title": "ЕЭК вводит антидемпинговые пошлины на грузовые шины из Таиланда",
+      "url": "https://www.kommersant.ru/doc/8974400",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Implementation of Hourly Electricity Pricing",
+      "companies_involved": [
+        "Tập đoàn Điện lực Việt Nam"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of electricity are affected by the new pricing policy?",
+        "How will the change in electricity pricing impact manufacturing operations in Vietnam?",
+        "Which regions in Vietnam are most affected by the new electricity pricing structure?",
+        "What are the potential impacts on logistics and transportation due to changes in electricity costs?",
+        "Which downstream companies rely on electricity during peak hours and may face increased costs?"
+      ],
+      "reason": "The proposed change to hourly electricity pricing in Vietnam could significantly impact energy supply and costs for households and businesses, affecting their operational decisions and supply chain activities.",
+      "summary": "Vietnam's proposal to implement hourly electricity pricing aims to encourage energy conservation during peak hours. This change could disrupt energy supply chains and impact operational costs for both households and businesses.",
+      "title": "Áp giá điện theo giờ : Thay đổi thói quen , nhưng không dễ với hộ gia đình",
+      "url": "https://thoibaotaichinhvietnam.vn/ap-gia-dien-theo-gio-thay-doi-thoi-quen-nhung-khong-de-voi-ho-gia-dinh-204387-204387.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "EU MRL Regulation Changes Impacting Vietnamese Fruit Exports",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Food Export"
+      ],
+      "countries_involved": [
+        "Vietnam",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Vietnamese fruit exporters may be affected by the new MRL regulations?",
+        "Which manufacturing or production processes in Vietnam could be impacted by the changes in pesticide residue limits?",
+        "Which countries or regions may provide alternative sources for the EU if Vietnamese products do not meet the new standards?",
+        "What supply-chain dependencies exist between Vietnamese fruit producers and EU import regulations?",
+        "Which downstream companies in the EU rely on imports of Vietnamese fruits that may be affected by these regulatory changes?"
+      ],
+      "reason": "The article discusses upcoming changes in the EU's maximum residue levels (MRL) for pesticides, which directly impacts the ability of Vietnamese fruit exporters to comply with these regulations, potentially disrupting their supply chain and export capabilities.",
+      "summary": "The EU is considering significant changes to its pesticide residue regulations, which could affect Vietnamese fruit exports. This regulatory shift necessitates proactive measures from Vietnamese exporters to ensure compliance and maintain market access.",
+      "title": "EU siết MRL , trái cây Việt phải chủ động từ vùng trồng",
+      "url": "https://baomoi.com/eu-siet-mrl-trai-cay-viet-phai-chu-dong-tu-vung-trong-c56126909.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Vietnam's Economic Growth and Supply Chain Dynamics",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Construction",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the increase in industrial production in Vietnam?",
+        "Which manufacturing facilities depend on the import of machinery and equipment for production?",
+        "What impact will the rapid increase in imports have on local suppliers in Vietnam?",
+        "Which downstream companies depend on the manufacturing output from Vietnam?",
+        "How might fluctuations in energy prices affect production costs in Vietnam?"
+      ],
+      "reason": "The article discusses Vietnam's economic growth, industrial production, and trade dynamics, which have direct implications for supply chain activities, particularly in manufacturing and logistics.",
+      "summary": "Vietnam is projected to achieve significant economic growth in 2026, driven by strong industrial production and foreign direct investment. However, potential challenges such as inflation and import dependencies could impact supply chain stability.",
+      "title": "Việt Nam có nền tảng thuận lợi để đạt mức tăng trưởng cao trong năm 2026",
+      "url": "https://thoibaotaichinhvietnam.vn/viet-nam-co-nen-tang-thuan-loi-de-dat-muc-tang-truong-cao-trong-nam-2026-204366-204366.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "International Shipping Documentation Requirements",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "E-commerce",
+        "Export/Import"
+      ],
+      "countries_involved": [
+        "Vietnam",
+        "United States",
+        "Australia",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in international shipping documentation requirements?",
+        "Which manufacturing or production relationships may be impacted by stricter customs regulations?",
+        "Which countries or regions create exposure due to new documentation requirements?",
+        "Which supply-chain dependencies could transmit disruptions related to shipping documentation?",
+        "Which downstream companies may face delays due to compliance with new shipping regulations?"
+      ],
+      "reason": "The article discusses the necessary documentation for shipping goods internationally, which directly impacts logistics and trade activities. Changes in documentation requirements can lead to delays, increased costs, and potential compliance issues for companies involved in international trade.",
+      "summary": "The article outlines the essential documentation required for shipping goods internationally, emphasizing the importance of compliance to avoid delays and additional costs. This information is crucial for logistics and trade operations, particularly for companies exporting from Vietnam to various countries.",
+      "title": "Gửi Hàng Đi Nước Ngoài Cần Giấy Tờ Gì ? Hướng Dẫn Chi Tiết Từ A - Z 2026",
+      "url": "https://www.webtretho.vn/f/du-lich-nuoc-ngoai/gui-hang-di-nuoc-ngoai-can-giay-to-gi-huong-dan-chi-tiet-tu-az-2026",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-China Trade Policy Negotiations",
+      "companies_involved": [
+        "American flashlight importer"
+      ],
+      "industries_involved": [
+        "Consumer Electronics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the American flashlight importer are affected by the tariffs?",
+        "Which manufacturing facilities in the U.S. depend on imports from China?",
+        "What are the alternative sourcing options for companies affected by the tariffs?",
+        "Which downstream companies rely on products from the American flashlight importer?",
+        "How do changes in U.S. tariffs impact the supply chain for consumer electronics?"
+      ],
+      "reason": "The article discusses the implications of U.S. trade policy, particularly tariffs on imports from China, which directly affects supply chain activities such as sourcing and manufacturing. The mention of a flashlight importer shifting back to Chinese suppliers due to tariff rates illustrates the impact on supply chain decisions.",
+      "summary": "The article highlights ongoing U.S.-China trade negotiations and the implications of tariffs on supply chains. It emphasizes how trade policy can influence sourcing decisions and affect various industries, particularly manufacturing and consumer electronics.",
+      "title": "As Trump and Xi meet , can we get some clarity on trade policy ? ",
+      "url": "https://www.sgvtribune.com/2026/09/24/as-trump-and-xi-meet-can-we-get-some-clarity-on-trade-policy/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-China Trade Policy Negotiations",
+      "companies_involved": [
+        "American flashlight importer"
+      ],
+      "industries_involved": [
+        "Consumer Electronics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Thailand",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the American flashlight importer are affected by the tariffs?",
+        "Which manufacturing facilities in the U.S. depend on imports from China or the affected Southeast Asian countries?",
+        "What are the potential impacts on logistics and transportation due to changing tariffs?",
+        "Which countries or regions create exposure for companies relying on Chinese suppliers?",
+        "Which downstream companies depend on products from the affected suppliers in China or Southeast Asia?"
+      ],
+      "reason": "The article discusses the implications of U.S. trade policy, particularly tariffs on imports from China and other countries, which directly affects supply chain activities such as sourcing and manufacturing.",
+      "summary": "The article highlights ongoing U.S.-China trade negotiations and the impact of tariffs on American consumers and businesses. It illustrates how trade policy can disrupt supply chains by influencing sourcing decisions and costs.",
+      "title": "As Trump and Xi meet , can we get some clarity on trade policy ? ",
+      "url": "https://www.whittierdailynews.com/2026/09/24/as-trump-and-xi-meet-can-we-get-some-clarity-on-trade-policy/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T014500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-China Trade Negotiations and Tariffs",
+      "companies_involved": [
+        "American flashlight importer"
+      ],
+      "industries_involved": [
+        "Consumer Electronics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Thailand",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the American flashlight importer are affected by the tariffs?",
+        "Which manufacturing facilities in the U.S. depend on components sourced from China?",
+        "How do the tariffs impact the supply chain for consumer electronics in the U.S.?",
+        "Which countries are potential alternative sources for products affected by U.S. tariffs?",
+        "Which downstream companies rely on products from the affected suppliers in China?"
+      ],
+      "reason": "The article discusses the implications of U.S. tariffs on imports from China and other countries, which directly affects supply chain activities, including sourcing and manufacturing decisions.",
+      "summary": "The article highlights the complexities of U.S.-China trade negotiations and the impact of tariffs on American consumers and businesses. It illustrates how trade policy can disrupt supply chains by forcing companies to revert to less favorable sourcing options.",
+      "title": "Veronique de Rugy",
+      "url": "https://www.mininggazette.com/opinion/columns/2026/09/veronique-de-rugy-22/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Trade Policy Negotiations",
+      "companies_involved": [
+        "American flashlight importer"
+      ],
+      "industries_involved": [
+        "Consumer Electronics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Thailand",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the American flashlight importer are affected by the tariffs?",
+        "Which manufacturing facilities in the US depend on imports from China or the affected Southeast Asian countries?",
+        "What are the potential impacts on pricing and supply for products sourced from China due to the trade policy?",
+        "Which downstream companies rely on products from the American flashlight importer?",
+        "How do the tariffs impact the supply chain relationships with suppliers in Thailand, Vietnam, and Cambodia?"
+      ],
+      "reason": "The article discusses the implications of US trade policy, particularly tariffs on imports from China and other countries, which directly affects supply chain activities such as sourcing and manufacturing.",
+      "summary": "The article highlights ongoing negotiations between the US and China regarding trade policy, particularly tariffs that impact various industries. The trade policy changes could disrupt supply chains by affecting sourcing decisions and increasing costs for American companies.",
+      "title": "As Trump and Xi meet , can we get some clarity on trade policy ? ",
+      "url": "https://www.thealpenanews.com/opinion/editorials-and-columns/2026/09/as-trump-and-xi-meet-can-we-get-some-clarity-on-trade-policy/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "US-China Investment Stability Expectations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses expectations for stability in US-China investments but does not provide specific information about supply chain activities or disruptions.",
+      "summary": "The article addresses the anticipation of stable investment conditions between the US and China. However, it does not indicate any direct supply chain disruptions or impacts on specific companies or industries.",
+      "title": "暖意待启 ： 中美双向投资期待稳定制度预期",
+      "url": "https://baijiahao.baidu.com/s?id=1877259757999968584",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Deep Sea Industry Development in Hainan",
+      "companies_involved": [
+        "海南狮子鱼深海技术有限公司",
+        "海南朗研光电有限公司",
+        "中国科学院深海科学与工程研究所",
+        "中国地质调查局"
+      ],
+      "industries_involved": [
+        "Deep Sea Technology",
+        "Marine Research",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of deep sea technology companies operate in the Hainan region?",
+        "Which manufacturing facilities depend on deep sea equipment suppliers located in China?",
+        "Which downstream companies depend on products from the deep sea technology sector in Hainan?",
+        "What logistics operations are affected by the development of the deep sea industry in Hainan?",
+        "Which countries or regions create exposure for companies involved in deep sea technology?"
+      ],
+      "reason": "The article discusses the development of the deep sea industry in Hainan, which involves multiple companies and indicates a significant operational shift in marine technology and research, potentially impacting supply chains related to manufacturing and logistics in this sector.",
+      "summary": "The article highlights the growth of the deep sea industry in Hainan, China, showcasing advancements in technology and research. This development may impact supply chains related to deep sea equipment manufacturing and logistics operations in the region.",
+      "title": "崖州湾畔 ， 涌动  深蓝  引力 | 海报深观察 - 南海网",
+      "url": "https://www.hinews.cn/page?n=2843456&m=1&s=1044",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "International Talent Innovation and Entrepreneurship Competition",
+      "companies_involved": [
+        "马来西亚国立大学",
+        "法国巴黎大学",
+        "美国纽约大学",
+        "香港大学",
+        "华为",
+        "阿里云",
+        "中国移动"
+      ],
+      "industries_involved": [
+        "Digital Innovation",
+        "Cross-border E-commerce",
+        "Telecommunications",
+        "Health Food Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "Malaysia",
+        "France",
+        "United States",
+        "Hong Kong"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of health food manufacturers are located in the affected regions?",
+        "Which manufacturing facilities depend on the digital innovation projects emerging from this competition?",
+        "Which countries or regions are most impacted by the outcomes of the competition?",
+        "Which supply-chain dependencies could be affected by the new cross-border e-commerce initiatives?",
+        "Which downstream companies may be exposed to disruptions from the new projects launched in this competition?"
+      ],
+      "reason": "The event highlights the emergence of new projects in digital innovation and cross-border e-commerce, which could impact supply chains related to manufacturing, logistics, and trade, particularly in the health food and telecommunications sectors.",
+      "summary": "The 2026 International Talent Innovation and Entrepreneurship Competition in Chengmai County showcases projects that could significantly influence supply chains in digital innovation and cross-border e-commerce. The involvement of international teams and focus on practical applications indicates potential operational disruptions and opportunities in various industries.",
+      "title": "刘燕飞 ： 2026年澄迈县国际人才创新创业专项赛深度观察 _ 中华网",
+      "url": "https://tech.china.com/articles/20260924/202609241961998.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Tensions and Trade Policy",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential trade restrictions between the U.S. and China?",
+        "Which manufacturing facilities in the U.S. depend on components sourced from China?",
+        "What are the potential impacts on logistics and transportation due to heightened geopolitical tensions?",
+        "Which downstream companies in the U.S. rely on products imported from China?",
+        "How might changes in trade policy affect sourcing strategies for companies operating in both countries?"
+      ],
+      "reason": "The article discusses the geopolitical tensions and trade policies between the U.S. and China, which can significantly impact supply chains, particularly in manufacturing and trade sectors.",
+      "summary": "The article highlights the ongoing geopolitical tensions between the U.S. and China, emphasizing the potential for trade policy changes that could disrupt supply chains. This situation poses risks to manufacturing and trade activities involving both countries.",
+      "title": "Meeting is good , agreement is better -- Beijing Review",
+      "url": "http://www.bjreview.com/Opinion/Voice/202609/t20260924_800447556.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-China Tensions and Trade Policy",
+      "companies_involved": [
+        "U.S. Corporations",
+        "Chinese Manufacturers"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Technology",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. corporations may be affected by trade policies with China?",
+        "Which manufacturing facilities in China depend on U.S. technology or components?",
+        "What are the potential impacts on logistics and transportation between the U.S. and China?",
+        "Which downstream companies in the U.S. rely on products sourced from China?",
+        "How might geopolitical tensions affect trade agreements and tariffs impacting both countries?"
+      ],
+      "reason": "The article discusses the geopolitical tensions and trade policies between the U.S. and China, which can significantly impact supply chains, particularly in manufacturing and trade sectors.",
+      "summary": "The ongoing geopolitical tensions between the U.S. and China, highlighted by recent state visits and trade policies, pose potential risks to supply chains in manufacturing and technology sectors. Companies in both countries may face disruptions due to changing trade dynamics and tariffs.",
+      "title": "Meeting is good , agreement is better -- Beijing Review",
+      "url": "http://www.bjreview.com.cn/Opinion/Voice/202609/t20260924_800447556.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Vietnam Tourism Development Resolution",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Hospitality",
+        "Agriculture",
+        "Commerce"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a policy aimed at enhancing the tourism sector in Vietnam but does not indicate any immediate or potential disruptions to supply chain activities such as logistics, production, or trade.",
+      "summary": "The article outlines Vietnam's Resolution No. 26, which aims to transform tourism into a key economic driver. While it emphasizes the importance of tourism for economic growth, it does not present any direct supply chain disruptions.",
+      "title": "Resolution No . 26 : a catalyst to turn tourism from a  lone train  into the economy locomotive",
+      "url": "https://vietnamnews.vn/opinion/1800485/resolution-no-26-a-catalyst-to-turn-tourism-from-a-lone-train-into-the-economy-s-locomotive.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260925T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Trump Meeting with Xi Jinping",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting between political figures without any direct implications for supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a political discussion involving Trump and Xi Jinping, with no clear connection to supply chain disruptions. It does not address any specific events or impacts on supply chain activities.",
+      "title": "Trump Meeting With Xi Jinping Draws Debate Over Iran and U . S . Leverage",
+      "url": "https://afr.net:443/podcasts/todays-issues-with-tim-wildmon-and-company/2026/september/trump-s-meeting-with-xi-jinping-draws-debate-over-iran-and-us-leverage/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260924T180000Z"
     }
   ]
 }
