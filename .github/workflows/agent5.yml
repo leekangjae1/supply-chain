@@ -2,7 +2,7 @@ name: Agent 5 - Risk Assessment
 
 on:
   workflow_run:
-    workflows: ["agent2.yml"]
+    workflows: ["Agent 2 - Knowledge Graph"]
     types:
       - completed
 
