@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T07:02:28Z",
-  "total_count": 6727,
+  "updated_at": "2026-09-27T18:47:26Z",
+  "total_count": 6857,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -183121,6 +183121,3329 @@
       "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20260924T194500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Event",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural event involving drumming and does not have any meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights a cultural event featuring drumming performances by individuals of different ages. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "不同年齡同台打鼓 黑手 「 擊聚 」 用節奏串起城市",
+      "url": "https://n.yam.com/Article/20260927172629",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential US-China Military Conflict over AI",
+      "companies_involved": [],
+      "industries_involved": [
+        "Artificial Intelligence",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of technology companies in the US may be affected by geopolitical tensions with China?",
+        "Which manufacturing or production relationships in the AI sector may be impacted by potential military actions?",
+        "Which countries or regions create exposure for companies involved in AI development due to US-China relations?",
+        "Which supply-chain dependencies could transmit disruptions from geopolitical tensions between the US and China?",
+        "Which downstream companies in the technology sector may be exposed to risks from a military conflict?"
+      ],
+      "reason": "The article discusses the potential for military conflict between the US and China over advancements in artificial intelligence, which could disrupt supply chains in the technology and AI sectors due to geopolitical tensions.",
+      "summary": "The article highlights concerns over the potential for military conflict between the US and China regarding advancements in artificial intelligence. This geopolitical tension could significantly impact supply chains in the technology sector, particularly for companies involved in AI development.",
+      "title": "通用AI或很快出現 智庫籲美評估應對手段 | 競爭 | 美中 | AI",
+      "url": "http://www.epochtimes.com.tw/n512811/%E9%80%9A%E7%94%A8AI%E6%88%96%E5%BE%88%E5%BF%AB%E5%87%BA%E7%8F%BE-%E6%99%BA%E5%BA%AB%E7%B1%B2%E7%BE%8E%E8%A9%95%E4%BC%B0%E6%87%89%E5%B0%8D%E6%89%8B%E6%AE%B5.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Event",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural event featuring a percussion group and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a cultural event involving a percussion group, which does not indicate any supply chain disruption. There are no relevant impacts on supply chain activities mentioned.",
+      "title": " （ 有影片 ）／ 鼓聲串起城市 ！ 黑手打擊樂團 「 擊聚 」 彰議會登場",
+      "url": "https://n.yam.com/Article/20260927484662",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Baseball Player Performance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a baseball player's performance and does not have any meaningful connection to supply chain activities.",
+      "summary": "The article focuses on a baseball player's debut performance and does not relate to supply chain disruptions. There are no implications for suppliers, manufacturing, or logistics.",
+      "title": "中日 ・ 森駿太 、 嬉しいプロ初本塁打 ！ 江本氏 「 楽しみでしょうけど …」 ",
+      "url": "https://news.1242.com/article/554218",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T154500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "China Shock 2.0 Impact on German Economy",
+      "companies_involved": [
+        "Volkswagen",
+        "Porsche",
+        "ZF Friedrichshafen",
+        "BASF",
+        "Voit Automotive",
+        "Mayer & Cie.",
+        "Manroland Sheetfed"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Manufacturing",
+        "Chemicals"
+      ],
+      "countries_involved": [
+        "Germany",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen and Porsche are affected by the decline in exports to China?",
+        "Which manufacturing facilities in Germany are dependent on exports to China?",
+        "What are the potential impacts on logistics providers serving the automotive industry in Germany?",
+        "Which countries or regions are most affected by the trade deficit with China?",
+        "Which downstream companies rely on products from the affected automotive suppliers?"
+      ],
+      "reason": "The article discusses significant declines in German exports to China, leading to job losses and production halts in the automotive and manufacturing sectors, indicating a clear disruption in supply chain activities.",
+      "summary": "Germany is experiencing a severe economic downturn due to declining exports to China, leading to significant job losses and production disruptions in key industries such as automotive and manufacturing. This situation, referred to as 'China Shock 2.0', highlights the interconnectedness of global trade and its impact on local economies.",
+      "title": "出口失速 、 17 萬人集體罷工 ， 解析重創德國經濟兩大支柱的 「 中國衝擊 2 . 0 」 ",
+      "url": "https://technews.tw/2026/09/27/china-shock-2-0-germany-export-slowdown-widening-trade-deficit-china-analysis/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taiwan Baseball Team Wins Bronze",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the Taiwan baseball team's victory at the Asian Games, highlighting individual performances and team spirit. It does not indicate any supply chain disruptions or impacts.",
+      "title": "亞運棒球林昱珉率台灣奪銅 喊披國家隊戰袍很幸福 | 運動",
+      "url": "https://www.cna.com.tw:443/news/aspt/202609270103.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Athletic Performance Review",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an athlete's performance in a sports event and does not relate to any supply chain activities or disruptions.",
+      "summary": "The article focuses on an athlete's self-assessment of their performance in a sports event, with no connection to supply chain activities or disruptions.",
+      "title": " 【 名古屋亞運 】 自評表現 「 90分 」 林昱珉 ： 能打中華隊很幸福",
+      "url": "https://n.yam.com/Article/20260927301135",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Destruction of Oil Resources and Disruption of Logistics in Russia",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "Ukrainian Armed Forces"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the destruction of oil resources?",
+        "Which logistics companies are involved in the transportation of oil within Russia?",
+        "Which manufacturing facilities depend on the oil supply from the affected regions?",
+        "What alternative transportation methods are being considered by Russian oil companies?",
+        "Which downstream companies rely on Russian oil exports?"
+      ],
+      "reason": "The article describes significant military actions that have led to the destruction of oil resources and disruptions in logistics, which directly impact the supply chain of oil and gas in Russia.",
+      "summary": "The article reports on military operations that have resulted in the destruction of over 10,000 tons of oil resources in Russia and disruptions to logistics systems. This situation poses a significant risk to the oil supply chain and logistics operations in the region.",
+      "title": "Итоги 26 . 09 : Операция в тылу РФ и цена на нефть",
+      "url": "https://korrespondent.net/ukraine/4915151-ytohy-2609-operatsyia-v-tylu-rf-y-tsena-na-neft",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Baseball Championship",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a baseball championship where a team won a medal. It does not relate to any supply chain disruptions or activities.",
+      "title": " 【 名古屋亞運 】 林昱珉8局10K壓制大陸 中華隊5 ： 1奪棒球銅牌",
+      "url": "https://n.yam.com/Article/20260927460334",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Introduction of new Chinese fighter jet",
+      "companies_involved": [],
+      "industries_involved": [
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses the introduction and naming of a new Chinese fighter jet, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article highlights the introduction of the J-35A fighter jet in China, detailing its capabilities and cultural significance. However, it does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "  龙字辈  战机再添新员 解锁国产战机命名密码 - 广西新闻网",
+      "url": "http://www.gxnews.com.cn/staticpages/20260927/newgx6ab85c81-21998735.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Collaboration for Skills Training",
+      "companies_involved": [
+        "Pearson",
+        "北方国际考试中心 (NITC)"
+      ],
+      "industries_involved": [
+        "Education",
+        "Training"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a collaboration for skills training and does not indicate any disruption to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a partnership between Pearson and NITC to enhance skills training in China. This collaboration focuses on providing international quality standards and does not present a supply chain disruption.",
+      "title": "中国人才技能出海多了三条新赛道 第48届世界技能大赛培生 （ Pearson ） 与北方国际考试中心 （ NITC ） 签署合作备忘录 ， 为中国技能培训项目提供国际标准质量保障与能力认定",
+      "url": "https://baijiahao.baidu.com/s?id=1877188665904513550",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Exhibition and Agricultural Products Showcase",
+      "companies_involved": [],
+      "industries_involved": [
+        "Cultural Services",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural event and exhibition focused on public cultural services and agricultural products, with no direct implications for supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights a cultural exhibition in Jiangsu Province, China, showcasing local agricultural products and art. It emphasizes the integration of culture and agriculture but does not indicate any supply chain disruptions.",
+      "title": "  美的融合  从画卷走向舞台 ， 展示全省公共文化服务高质量发展风采",
+      "url": "https://www.yangtse.com/news/wy/202609/t20260925_396848.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Introduction of new Chinese fighter jet",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses the naming and characteristics of new Chinese fighter jets without indicating any direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the introduction of the new Chinese fighter jet, the J-35A, and its cultural significance. However, it does not present any information that suggests a supply chain disruption.",
+      "title": "  龙字辈  战机再添新员 解锁国产战机命名密码 - 新闻频道",
+      "url": "http://www.zsnews.cn/news/index/view/cateid/37/id/783622.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Article Unavailable",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any information or context related to supply chain activities, making it impossible to identify any disruption.",
+      "summary": "The article is currently unavailable and does not contain any relevant information regarding supply chain disruptions.",
+      "title": "先进制造业何以持续做大做强 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1877178566850920717",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Iran and the US regarding military intelligence",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "China",
+        "Jordan"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by geopolitical tensions in the Middle East?",
+        "Which energy suppliers could be impacted by military actions in the region?",
+        "What are the potential impacts on logistics and transportation routes due to military conflicts?",
+        "Which countries or regions create exposure for companies operating in the defense and energy sectors?",
+        "Which downstream companies depend on stable relations between the US and Iran for their operations?"
+      ],
+      "reason": "The article discusses geopolitical tensions and military actions that could disrupt supply chains, particularly in the defense and energy sectors, due to potential conflicts and intelligence operations.",
+      "summary": "The article highlights the denial of Iranian officials regarding military intelligence from China, amidst rising tensions with the US. This situation poses risks to supply chains in the defense and energy industries due to potential military actions and geopolitical instability.",
+      "title": "بزشكيان ينفي تلقي صور بالأقمار الاصطناعية من بكين قبل ضربة الأردن",
+      "url": "https://arabic.rt.com/world/1836686-pezeshkian-denies-receiving-satellite-images-from-beijing/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T014500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Global Digital Trade Expo",
+      "companies_involved": [
+        "Alibaba",
+        "Google"
+      ],
+      "industries_involved": [
+        "E-commerce",
+        "Digital Trade",
+        "Artificial Intelligence"
+      ],
+      "countries_involved": [
+        "China",
+        "Malaysia",
+        "Kenya"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Alibaba are involved in cross-border e-commerce?",
+        "Which manufacturing facilities depend on digital trade technologies?",
+        "Which countries are key suppliers for companies participating in the digital trade expo?",
+        "What logistics companies are involved in the transportation of goods related to the digital trade initiatives?",
+        "Which downstream companies rely on AI tools developed in China for their operations?"
+      ],
+      "reason": "The article discusses the Global Digital Trade Expo, which highlights the increasing importance of digital trade and the collaboration between countries and companies, potentially impacting supply chains through new trade rules and digital tools.",
+      "summary": "The Global Digital Trade Expo in China showcases the growing significance of digital trade and international collaboration, particularly in e-commerce and AI. This event may influence supply chains by establishing new trade rules and enhancing cross-border logistics.",
+      "title": "从共享到共筑 ： 数贸会上的开放之约 - 中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704473.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Theatrical Premiere of 'A River Flows Eastward'",
+      "companies_involved": [],
+      "industries_involved": [
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a theatrical performance and does not indicate any disruptions or impacts on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the premiere of a theatrical production in China. It does not present any information related to supply chain disruptions or impacts.",
+      "title": "观演｜国家大剧院话剧 《 一江春水向东流 》 迎来首演",
+      "url": "https://www.163.com/dy/article/L7REN6BV0514R9KQ.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "National Security Initiatives",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses national security initiatives and public safety measures in China without any direct implications for supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on China's national security and public safety initiatives, emphasizing the importance of a stable environment for economic development. It does not present any specific supply chain disruptions or risks.",
+      "title": "持续擦亮  平安  的国家名片|法治|治安|总书记|公共安全",
+      "url": "https://www.163.com/news/article/L7REE5U6000189FH.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taiwan vs. China Baseball Match",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a baseball match between Taiwan and China at the Asian Games. It does not indicate any supply chain disruptions or impacts on supply chain activities.",
+      "title": "林昱珉8局飆10K 台灣5比1退中國奪銅 | 棒球賽 | 亞運 | 名古屋",
+      "url": "http://www.epochtimes.com.tw/n514449/%E6%9E%97%E6%98%B1%E7%8F%898%E5%B1%80%E9%A3%8610K-%E5%8F%B0%E7%81%A35%E6%AF%941%E9%80%80%E4%B8%AD%E5%9C%8B%E5%A5%AA%E9%8A%85.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian strikes on data centers in Kyiv",
+      "companies_involved": [
+        "Kyivstar"
+      ],
+      "industries_involved": [
+        "Telecommunications",
+        "Data Services"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Kyivstar operate in the affected region?",
+        "Which telecommunications infrastructure may be impacted by the attacks?",
+        "Which downstream companies depend on data services from the affected data centers?",
+        "What are the potential impacts on logistics and transportation due to the ongoing conflict?",
+        "Which regions are most vulnerable to further disruptions in telecommunications?"
+      ],
+      "reason": "The attacks on data centers in Kyiv represent a direct threat to telecommunications and data services, which are critical components of supply chain operations. Disruptions in these services can affect communication, logistics, and overall operational efficiency.",
+      "summary": "The recent Russian strikes on data centers in Kyiv pose a significant risk to telecommunications and data services in Ukraine. This geopolitical event could disrupt supply chain activities by impacting communication and logistics operations.",
+      "title": "Враг наносит удары по дата - центрам - Зеленский",
+      "url": "https://korrespondent.net/ukraine/4915271-vrah-nanosyt-udary-po-data-tsentram-zelenskyi",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "World Skills Competition",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Healthcare",
+        "Retail",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a skills competition and the introduction of new skill categories, which does not indicate any disruption to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the 48th World Skills Competition held in Shanghai, showcasing new skill categories and emphasizing the importance of skilled labor in various industries. However, it does not present any actual or potential supply chain disruptions.",
+      "title": "高精新 世界技能大赛新赛项里的经济密码 - 新华网",
+      "url": "https://www.news.cn/local/20260927/d8ab974f0307465fae759182074799cd/c.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Traffic congestion impacting logistics",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which agricultural suppliers are affected by the traffic congestion?",
+        "Which transportation companies operate in the affected region?",
+        "How does the traffic congestion impact the delivery schedules of local farmers?",
+        "Which downstream companies rely on timely delivery of agricultural products from the affected area?"
+      ],
+      "reason": "The severe traffic congestion during the holiday period is impacting the logistics and transportation of agricultural products, which can disrupt supply chains for local farmers and businesses.",
+      "summary": "The article reports significant traffic congestion in Taiwan due to holiday tourism, which is affecting local farmers' ability to transport their products. This disruption in logistics can have a broader impact on supply chains reliant on timely deliveries from the affected region.",
+      "title": "中秋連假車潮湧現 觀音瀑布暴紅引發台14線回堵逾5公里 - 生活",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5587989",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T150000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "White dolphin entangled in fishing net",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a white dolphin being entangled in a fishing net, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The news article reports on a white dolphin entangled in a fishing net in Guangxi waters. There is no indication that this event impacts supply chain activities.",
+      "title": "广西海域一白海豚被渔网缠住 ， 当地 ： 游动未受影响或可自行挣脱",
+      "url": "https://baijiahao.baidu.com/s?id=1877217875364820246",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T213000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Promotion of Tourism Safety and Consumer Protection",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Hospitality"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses initiatives to enhance tourism safety and consumer protection but does not indicate any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines the Chinese government's efforts to improve tourism services and safety, focusing on consumer protection and enhancing the overall travel experience. However, it does not present any direct supply chain disruptions.",
+      "title": "文旅部 ： 严厉打击强迫购物 、 非法网络招徕",
+      "url": "https://news.hangzhou.com.cn/jjxw/content/2026-09/25/content_9317424.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Asian Games Baseball Event",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a baseball event and the performance of players, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers the performance of a baseball team in the Asian Games, focusing on individual player achievements. It does not relate to any supply chain disruptions or impacts.",
+      "title": "亞運棒球 ／ 林昱珉率隊奪銅自評90分 未拚完封想給王政浩完美ending | 名古屋亞運 | 運動",
+      "url": "https://udn.com/news/story/124981/9780071",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Election-related bribery allegations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political bribery allegations related to an election campaign, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on allegations of bribery in a political context, specifically regarding election candidates in Taiwan. It does not present any information that indicates a disruption to supply chain activities.",
+      "title": "黃世杰送300元雞蛋現場喊凍蒜 白營 ： 是否涉賄法務部竟讓檢自由認定 | 縣市長議員選戰 | 要聞",
+      "url": "https://udn.com/news/story/124652/9777332",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "National Security Initiatives",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses national security initiatives and policies in China without any direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on China's national security and governance strategies, emphasizing public safety and stability. It does not present any information that indicates a supply chain disruption.",
+      "title": "持续擦亮  平安  的国家名片",
+      "url": "https://www.stcn.com/article/detail/4199690.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian drone attacks on Ukrainian infrastructure",
+      "companies_involved": [],
+      "industries_involved": [
+        "Information Technology",
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of technology companies may be affected by the attacks on data centers?",
+        "Which logistics operations are impacted by the ongoing conflict in Ukraine?",
+        "Which energy suppliers could face disruptions due to attacks on infrastructure?",
+        "Which downstream companies rely on data centers in the affected regions?",
+        "What manufacturing facilities are located near the areas targeted by drone strikes?"
+      ],
+      "reason": "The article describes ongoing military attacks that target critical infrastructure in Ukraine, which can disrupt logistics, energy supply, and information technology operations, thereby impacting supply chains.",
+      "summary": "The article reports on significant drone attacks in Ukraine, targeting civilian infrastructure and data centers. This ongoing conflict poses risks to various industries, particularly in logistics and energy, due to potential disruptions in operations and supply chains.",
+      "title": "Зеленский о атаках России - более 2200 дронов за неделю и удар по дата - центру в Киеве",
+      "url": "https://24tv.ua/ru/zelenskij-o-atakah-rossii-bolee-2200-dronov-za-nedelju-i-udar-po-data-centru-v-kieve_n3149813",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taiwanese Flag Ban at Asian Games",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political issue regarding the display of national flags at a sporting event, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses a political controversy surrounding the prohibition of the Taiwanese flag at the Asian Games in Japan. It does not indicate any direct supply chain disruptions or impacts on logistics, trade, or manufacturing.",
+      "title": "亞運禁帶中華民國國旗 許宇甄點名卓榮泰 ： 赴日時有無作出承諾 ？ - 政治",
+      "url": "https://www.chinatimes.com/realtimenews/20260927001614-260407",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "US-China Consensus",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a consensus reached between the US and China but does not provide specific details on how this impacts supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on an agreement between the US and China but lacks specific information regarding supply chain disruptions. Therefore, it does not indicate any direct impact on supply chain activities.",
+      "title": "蓝厅观察丨中美达成八点成果共识 向世界释放哪些信号 ？ ",
+      "url": "https://baijiahao.baidu.com/s?id=1877492260700881871",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI and Robotics Industry Development",
+      "companies_involved": [],
+      "industries_involved": [
+        "Robotics",
+        "Artificial Intelligence",
+        "Manufacturing",
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an event focused on the development and promotion of the robotics and AI industry, but it does not indicate any immediate or potential disruptions to supply chains, production, or logistics.",
+      "summary": "The article highlights an event promoting the robotics and AI industry in Chenghua District, China, showcasing technological advancements and collaboration between academia and local government. However, it does not present any supply chain disruptions or risks.",
+      "title": "做大做强人工智能产业集群 电子科技大学机器人+人工智能科技成果与成华城市机会清单发布",
+      "url": "https://www.163.com/dy/article/L7SDANKG0514D3UH.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any information related to supply chain activities or disruptions.",
+      "summary": "The article does not contain relevant content regarding supply chain disruptions or impacts.",
+      "title": "给你三次机会 ， 认识吉林 ！ ",
+      "url": "https://baijiahao.baidu.com/s?id=1877491843600127725",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Tensions Over Iran Support",
+      "companies_involved": [
+        "Chinese state-backed banks",
+        "Chinese companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Chinese companies may be affected by US sanctions?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions between the US and China?",
+        "Which countries or regions create exposure for companies involved in trade with Iran?",
+        "Which supply-chain dependencies could transmit the disruption from China to US companies?",
+        "Which downstream companies depend on products from Chinese entities involved in supporting Iran?"
+      ],
+      "reason": "The article discusses potential US actions against Chinese entities for their support of Iran, which could lead to sanctions or trade restrictions affecting supply chains related to energy and defense industries.",
+      "summary": "The article highlights rising tensions between the US and China over allegations of Chinese support for Iran, which could lead to significant geopolitical disruptions. This situation may impact supply chains, particularly in the energy and defense sectors, as companies navigate potential sanctions and trade restrictions.",
+      "title": "As Trump Courts Xi , Pressure Mounts To Confront China Over Support For Iran",
+      "url": "https://www.rferl.org/a/trump-xi-china-support-iran-us/33864051.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Educational Innovation in Fashion Design",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Fashion"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an educational initiative at a university focused on fashion design and does not indicate any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights an innovative educational approach by Yanjing University of Science and Technology in training fashion design students. It emphasizes the integration of industry standards into the curriculum but does not present any supply chain disruptions.",
+      "title": "燕京理工学院 ： 探索应用型高校人才培养新模式 - 中国教育新闻网",
+      "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202609/t20260924_2111525562.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Relations and Rare Earth Supply Disruption",
+      "companies_involved": [
+        "Various US technology companies",
+        "Chinese rare earth suppliers"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US technology companies are affected by the decline in rare earth exports from China?",
+        "Which manufacturing facilities in the US rely on rare earth materials sourced from China?",
+        "What are the potential impacts on defense contractors that depend on rare earth elements for production?",
+        "Which downstream companies in the technology sector may face disruptions due to rare earth supply constraints?",
+        "How might changes in US trade policy affect sourcing strategies for companies reliant on Chinese suppliers?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between the US and China, particularly regarding rare earth exports, which are critical for various industries. This situation poses a risk to supply chains reliant on these materials, indicating a potential disruption.",
+      "summary": "The article highlights ongoing geopolitical tensions between the US and China, particularly concerning rare earth exports, which could significantly impact supply chains in technology and defense industries. The situation reflects a fragile balance in US-China relations that may lead to further disruptions in sourcing and production.",
+      "title": "稀土戰逼美坐上談判桌 、 白宮失守話語權 ！ 華府學者看衰川習會 ： 台灣問題仍是未爆彈 | 李忠謙 | 新聞",
+      "url": "https://www.storm.mg/article/11167885",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China's Economic Pressure and Labor Discontent",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Retail"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in China may be affected by the economic downturn?",
+        "Which manufacturing facilities in China are experiencing labor disruptions?",
+        "Which countries or regions are dependent on Chinese manufacturing outputs?",
+        "What supply-chain dependencies exist between U.S. companies and Chinese suppliers?",
+        "Which downstream companies in the retail sector may be exposed to changes in consumer behavior in China?"
+      ],
+      "reason": "The article discusses the economic pressures in China, including labor unrest and declining retail sales, which can significantly impact manufacturing and supply chain activities both domestically and internationally.",
+      "summary": "The article highlights the economic challenges facing China, including labor unrest and declining consumer spending, which could disrupt supply chains. These factors may affect manufacturing and retail industries, particularly in relation to U.S.-China trade dynamics.",
+      "title": "透视川习会 ： 中国经济承压的四个隐性信号",
+      "url": "https://www.epochtimes.com/gb/26/9/24/n14856862.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Celebrity Relationship News",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a personal relationship and does not have any meaningful connection to supply chain activities.",
+      "summary": "The article covers the breakup of a celebrity couple and does not pertain to any supply chain disruptions or impacts on industries or companies.",
+      "title": "鄧佳華宣布分手簡簡 ！ 吐內幕 「 付出沒回報 」 開撩新歡 ： 妳覺得我OK嗎",
+      "url": "https://star.setn.com/news/1912626",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Celebrity Relationship News",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a personal relationship and does not have any meaningful connection to supply chain activities.",
+      "summary": "The article focuses on the personal life of a public figure and does not pertain to any supply chain disruptions or impacts.",
+      "title": "鄧佳華宣布分手簡簡 ！ 吐內幕 「 付出沒回報 」 開撩新歡 ： 妳覺得我OK嗎 | 星聞 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1912626",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Presidential Visit to Artisan Workshop",
+      "companies_involved": [],
+      "industries_involved": [
+        "Artisan Crafts",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a presidential visit to an artisan workshop and highlights the importance of traditional craftsmanship, but it does not indicate any actual or potential disruptions to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article covers a visit by President Lai to a traditional drum workshop in Taiwan, emphasizing the value of craftsmanship. However, it does not present any information that would suggest a supply chain disruption.",
+      "title": "賴總統訪响仁和鼓藝工坊 肯定台灣珍貴匠人精神 | 政治",
+      "url": "https://www.cna.com.tw:443/news/aipl/202609270190.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Russia and Germany over Ukraine",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Germany",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy to Germany may be affected by geopolitical tensions with Russia?",
+        "Which defense contractors in Germany are exposed to potential supply chain disruptions due to the conflict?",
+        "Which countries are dependent on energy supplies from Russia that could be impacted by sanctions or military actions?",
+        "What logistics routes could be affected by increased military activity in Eastern Europe?",
+        "Which downstream companies in Europe rely on energy imports from Russia?"
+      ],
+      "reason": "The ongoing geopolitical tensions between Russia and Germany, particularly in the context of the Ukraine conflict, could lead to disruptions in energy supplies and defense-related industries, impacting supply chains across Europe.",
+      "summary": "The article discusses escalating tensions between Russia and Germany regarding the Ukraine conflict, which could have significant implications for supply chains, particularly in the energy and defense sectors. The potential for increased sanctions and military actions raises concerns about supply chain stability in Europe.",
+      "title": "Lavrov avviser tysk krav om å dempe opptrapping - Teknisk Ukeblad",
+      "url": "https://www.tu.no/nyhetsstudio/lavrov-avviser-tysk-krav-om-aa-dempe-opptrapping/133238",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Russia and Germany over Ukraine",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Germany",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy to Germany may be affected by geopolitical tensions with Russia?",
+        "Which defense contractors in Germany are exposed to potential supply chain disruptions due to the conflict?",
+        "What are the implications for logistics and transportation routes between Germany and Russia?",
+        "Which countries or regions may be impacted by sanctions or trade restrictions related to this geopolitical event?",
+        "Which downstream companies in Europe rely on energy supplies from Russia?"
+      ],
+      "reason": "The ongoing geopolitical tensions between Russia and Germany, particularly in the context of the Ukraine conflict, could lead to disruptions in energy supplies and defense-related industries, impacting supply chains across Europe.",
+      "summary": "The article discusses escalating tensions between Russia and Germany regarding the Ukraine conflict, which could have significant implications for supply chains, particularly in the energy and defense sectors. The potential for sanctions and trade restrictions may further exacerbate these disruptions.",
+      "title": "Lavrov avviser tysk krav om å dempe opptrapping",
+      "url": "https://www.abcnyheter.no/nyheter/lavrov-avviser-tysk-krav-om-a-dempe-opptrapping/1680979",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Russia and Germany over Ukraine",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Germany",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy to Germany may be affected by geopolitical tensions with Russia?",
+        "Which manufacturing facilities in Germany depend on stable relations with Russia for raw materials?",
+        "Which countries or regions are most impacted by the ongoing conflict in Ukraine?",
+        "What supply-chain dependencies exist between German defense contractors and Russian suppliers?",
+        "Which downstream companies in Europe rely on energy supplies from Russia?"
+      ],
+      "reason": "The article discusses escalating geopolitical tensions between Russia and Germany, which could impact energy supplies and defense industries, thus affecting supply chains in Europe.",
+      "summary": "The article highlights increasing tensions between Russia and Germany regarding the Ukraine conflict, which could lead to significant supply chain disruptions in energy and defense sectors. The geopolitical climate may affect trade and logistics between these countries.",
+      "title": "Lavrov avviser tysk krav : – Har de ikke lært av andre verdenskrig ? ",
+      "url": "https://www.dagsavisen.no/nyheter/lavrov-avviser-tysk-krav-har-de-ikke-laert-av-andre-verdenskrig/10552780",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Germany-Russia Diplomatic Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by the geopolitical tensions?",
+        "Which logistics companies operate in the affected regions and may face disruptions?",
+        "Which countries are most impacted by the sanctions imposed by Germany on Russia?",
+        "Which supply-chain dependencies could be affected by the escalation of conflict in Ukraine?",
+        "Which downstream companies rely on logistics routes that may be disrupted due to these tensions?"
+      ],
+      "reason": "The diplomatic tensions between Germany and Russia, including sanctions and military actions, could impact supply chains related to defense and logistics, particularly in the context of the ongoing conflict in Ukraine.",
+      "summary": "The recent diplomatic confrontation between Germany and Russia highlights escalating tensions that could disrupt supply chains, particularly in defense and logistics sectors. The imposition of sanctions and military actions may lead to significant operational challenges for companies involved in these industries.",
+      "title": "Wadephul - Lavrov : confronto allONU e invito al G20",
+      "url": "https://www.notizie.it/incontro-a-sorpresa-tra-germania-e-russia-a-new-york-accuse-e-invito-al-g20/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Protests in Germany",
+      "companies_involved": [
+        "Bosch",
+        "Mercedes"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Bosch and Mercedes operate in Germany?",
+        "Which manufacturing facilities may be impacted by the labor protests?",
+        "What are the potential impacts on production schedules for Bosch and Mercedes?",
+        "Which downstream companies depend on products from Bosch and Mercedes?",
+        "How might the protests affect logistics and transportation in the affected regions?"
+      ],
+      "reason": "The article describes significant labor protests involving workers from Bosch and Mercedes, which could disrupt production and operations in the automotive industry in Germany.",
+      "summary": "Massive labor protests in Germany, particularly involving Bosch and Mercedes workers, indicate potential disruptions in manufacturing and operations. The protests are a response to job cuts and labor policies, which could impact supply chains in the automotive sector.",
+      "title": "Almanyada kitlesel protestolar : Sosyal yıkıma karşı direniş ve dayanışma",
+      "url": "https://www.evrensel.net/haber/6002378/almanyada-kitlesel-protestolar-sosyal-yikima-karsi-direnis-ve-dayanisma",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Copper Foil Price Increase",
+      "companies_involved": [
+        "德福科技",
+        "嘉元科技",
+        "宁德时代",
+        "三井金属",
+        "科顶"
+      ],
+      "industries_involved": [
+        "Battery Manufacturing",
+        "Copper Foil Production"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 德福科技 and 嘉元科技 are affected by the copper foil price increase?",
+        "Which manufacturing facilities depend on copper foil sourced from the affected companies?",
+        "What are the potential impacts on production schedules for companies relying on copper foil?",
+        "Which downstream companies depend on products from 德福科技 and 嘉元科技?",
+        "How might the price increase affect the overall supply chain for battery manufacturers?"
+      ],
+      "reason": "The article discusses a significant increase in processing fees for battery copper foil, which directly impacts the cost structure and profitability of companies involved in its production and supply, indicating a potential disruption in operations and supply chain dynamics.",
+      "summary": "The article highlights a price increase in processing fees for battery copper foil, which is expected to impact several companies in the battery manufacturing and copper foil production industries. This operational change may affect supply chain dynamics and profitability for the involved companies.",
+      "title": "瑞银表示电池铜箔盈利拐点因主要客户接受提价更清晰 ， 加工费上调第四季度起生效",
+      "url": "https://finance.jrj.com.cn/2026/09/27060558559740.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Germany and Russia",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources may be affected by the geopolitical tensions?",
+        "Which manufacturing facilities in Germany rely on Russian energy supplies?",
+        "What trade routes could be impacted by the escalation of tensions between Germany and Russia?",
+        "Which downstream companies in Europe depend on energy imports from Russia?",
+        "How might the geopolitical situation affect logistics operations in Europe?"
+      ],
+      "reason": "The meeting between German and Russian officials highlights escalating tensions that could impact energy supplies and trade routes, affecting supply chain operations in Europe.",
+      "summary": "The recent diplomatic tensions between Germany and Russia, particularly regarding accusations of aggression, could lead to significant disruptions in energy supply and trade. This geopolitical event poses risks to industries reliant on stable relations and energy imports.",
+      "title": "Sono volate parole grosse allincontro tra il ministro degli esteri tedesco e il russo lavrov",
+      "url": "https://www.dagospia.com/politica/volate-parole-grosse-all-incontro-ministro-degli-esteri-tedesco-russo-488267",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential Russian Drone Attacks on NATO Countries",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "Russia",
+        "Spain",
+        "France",
+        "Italy",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions with Russia?",
+        "Which logistics companies operate in the affected regions and may face disruptions?",
+        "Which transportation routes could be impacted by potential military actions?",
+        "Which downstream companies rely on defense contracts that could be affected by geopolitical tensions?",
+        "What are the supply chain dependencies for companies operating in the affected countries?"
+      ],
+      "reason": "The article discusses the potential for Russian drone attacks against NATO countries, which could disrupt logistics, transportation, and defense supply chains in the region.",
+      "summary": "The article highlights the escalating threat of Russian drone attacks against NATO countries, particularly the UK, which poses a risk to supply chains in defense and logistics. Increased geopolitical tensions could lead to disruptions in transportation and trade across Europe.",
+      "title": "Putin  knows he risking nuclear war with NATO but is weighing up full strike against united kingdom  ",
+      "url": "https://www.aol.co.uk/articles/putin-knows-hes-risking-nuclear-060000000.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and commentary surrounding it, with no meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a sports event and commentary related to the German national football team and its new coach, Jürgen Klopp. There are no indications of supply chain disruptions or impacts on related industries.",
+      "title": "Laura Wontorra zelebriert den „ Schwarz , Rot , Klopp - Kult – Rudi Völler hält sich zurück",
+      "url": "https://www.focus.de/kultur/kino-tv/laura-wontorra-zelebriert-den-schwarz-rot-klopp-kult-rudi-voeller-haelt-sich-zurueck_9a0e0cc9-992a-4bf6-9a08-e4c6aa57df87.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Protests against military conscription",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The protests are focused on military conscription and do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "Students in Germany are organizing protests against military conscription, with around 100 demonstrations planned. This event does not indicate a supply chain disruption as it is primarily a social and political issue rather than one affecting supply chain operations.",
+      "title": "Школярі Німеччини готують близько 100 протестів проти військового обов  язку",
+      "url": "https://daily.com.ua/partners-news/shkolyari-nimechchyny-gotuyut-blyzko-100-protestiv-proty-viiskovogo-obovyazku/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased risk of Russian military attacks on NATO countries",
+      "companies_involved": [
+        "Defense contractors",
+        "Railway companies"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Denmark",
+        "Russia",
+        "Germany",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors have operations in NATO countries bordering Russia?",
+        "Which railway companies transport military equipment to Ukraine?",
+        "Which suppliers of military equipment are located in the affected regions?",
+        "Which countries or regions create exposure for defense supply chains?",
+        "Which downstream companies depend on the transportation of military supplies affected by potential attacks?"
+      ],
+      "reason": "The article discusses the potential for Russian military actions that could disrupt logistics and transportation networks, particularly those related to defense and military support for Ukraine, indicating a significant geopolitical risk to supply chains in the region.",
+      "summary": "The Danish Intelligence Service has warned of an increased risk of limited Russian military attacks against NATO countries, which could impact defense supply chains and transportation networks. This situation poses a significant geopolitical risk to companies involved in defense and logistics in the affected regions.",
+      "title": "El Servicio de Inteligencia de Dinamarca alertó sobre un riesgo creciente de ataques rusos limitados contra la OTAN",
+      "url": "https://www.infobae.com/america/mundo/2026/09/24/el-servicio-de-inteligencia-de-dinamarca-alerto-sobre-un-riesgo-creciente-de-ataques-rusos-limitados-contra-la-otan/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Protests against military conscription",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The protests are focused on military conscription and do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "Students in Germany are organizing protests against military conscription, with no direct implications for supply chain activities. The event is primarily political and does not indicate a disruption in supply chain operations.",
+      "title": "Школьники Германии готовят около 100 протестов против воинской обязанности",
+      "url": "https://unn.ua/ru/news/shkolniki-germanii-gotovyat-okolo-100-protestov-protiv-voinskoi-obyazannosti",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased Hybrid Attacks by Russia in Europe",
+      "companies_involved": [],
+      "industries_involved": [
+        "Aerospace",
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Italy",
+        "Bulgaria",
+        "Estonia",
+        "Romania",
+        "Poland",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment operate in the affected countries?",
+        "Which manufacturing facilities are located near the sites of the attacks?",
+        "Which countries are critical for energy supply chains that may be affected?",
+        "What logistics routes could be disrupted by increased military activity?",
+        "Which downstream companies rely on products from the affected industries?"
+      ],
+      "reason": "The article discusses a series of hybrid attacks attributed to Russia that threaten infrastructure and security in Europe, potentially disrupting supply chains related to defense, energy, and logistics.",
+      "summary": "The article highlights a rise in hybrid attacks by Russia in Europe, which poses significant risks to supply chains, particularly in the defense and energy sectors. The increasing frequency and severity of these attacks could lead to disruptions in manufacturing, logistics, and transportation across multiple countries.",
+      "title": "Gli attacchi ibridi della Russia in Europa sono sempre meno ibridi",
+      "url": "https://www.ilpost.it/2026/08/29/attacchi-ibridi-russia-europa/?homepagePosition=22.1&referrerPost=3685179",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Film screenings at the Rothko Museum",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural event (film screenings) and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on upcoming film screenings at the Rothko Museum in Daugavpils. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "RIGA IFF в Даугавпилсе : в музее Ротко пройдут четыре кинопоказа",
+      "url": "https://www.gorod.lv/novosti/369455-riga-iff-v-daugavpilse-v-muzee-rotko-proidut-chetyre-kinopokaza",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Tensions Over Hormuz Strait",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by potential military actions in the region?",
+        "Which shipping companies operate in the Hormuz Strait and could be impacted by geopolitical tensions?",
+        "What are the dependencies of energy markets on the stability of the Hormuz Strait?",
+        "Which downstream companies rely on oil transported through the Hormuz Strait?",
+        "How might changes in US-Iran relations affect global oil supply chains?"
+      ],
+      "reason": "The article discusses escalating tensions between the US and Iran, particularly regarding the strategic Hormuz Strait, which is crucial for global oil transportation. Potential military actions could disrupt shipping and energy supply chains significantly.",
+      "summary": "The article highlights increasing geopolitical tensions between the US and Iran, particularly concerning the Hormuz Strait, a vital route for oil shipments. This situation poses a risk to global energy supply chains and shipping operations.",
+      "title": "이란 평화안 거부한 트럼프 … 종전 희망 다시 먹구름 속으로",
+      "url": "https://www.segye.com:443/newsView/20260927508267",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential US-Iran Conflict Impacting Strait of Hormuz",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Pakistan",
+        "Qatar"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Strait of Hormuz and may be affected by increased tensions?",
+        "Which energy suppliers could be impacted by a potential conflict in the region?",
+        "What are the dependencies of companies relying on oil transport through the Strait of Hormuz?",
+        "Which countries or regions may face supply chain disruptions due to escalated geopolitical tensions?",
+        "Which downstream companies depend on energy supplies from the affected region?"
+      ],
+      "reason": "The article discusses the potential for military conflict between the US and Iran, which could disrupt shipping and energy supply routes, particularly through the strategically important Strait of Hormuz.",
+      "summary": "The article highlights the geopolitical tensions between the US and Iran, particularly regarding the Strait of Hormuz. A potential conflict could significantly impact energy supply chains and shipping logistics in the region.",
+      "title": "أمين « الفارابي للدراسات السياسية »: المجتمع الدولي غير مهيأ لصدام واشنطن وطهران",
+      "url": "https://www.elwatannews.com/news/details/8366140",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the energy sector may be affected by changes in US-Iran relations?",
+        "Which manufacturing operations depend on energy supplies from the affected region?",
+        "What are the potential impacts on trade routes due to geopolitical tensions between the US and Iran?",
+        "Which downstream companies rely on energy imports from Iran or the Middle East?",
+        "How might regulatory changes stemming from negotiations impact supply chain operations?"
+      ],
+      "reason": "The ongoing negotiations between the US and Iran could lead to changes in trade policies and energy supply, impacting various industries and their supply chains.",
+      "summary": "The article discusses the potential for further negotiations between the US and Iran, which could have significant implications for trade and energy supply chains. The geopolitical tensions may disrupt existing supply chain relationships and dependencies.",
+      "title": "特朗普 ： 本周料与伊朗展开更多谈判",
+      "url": "https://www.zaobao.com.sg/news/world/story20260927-9745753",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-US Tensions Impacting Energy Security",
+      "companies_involved": [
+        "U.S. Oil Companies",
+        "Gulf Energy Suppliers"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Israel",
+        "Gulf States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. oil companies may be affected by the geopolitical tensions?",
+        "Which energy production facilities in the Gulf are at risk due to potential military escalation?",
+        "What logistics routes are vulnerable to disruption from military actions in the region?",
+        "Which downstream companies depend on energy supplies from the Gulf states?",
+        "How might changes in U.S. energy policy impact suppliers in the region?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between the U.S. and Iran, which could lead to disruptions in energy supply and logistics, impacting global supply chains.",
+      "summary": "The ongoing geopolitical tensions between the U.S. and Iran pose a potential risk to energy security and logistics in the Gulf region. This situation may lead to disruptions in supply chains reliant on energy production and transportation.",
+      "title": "بشير عبدالفتاح : جمود في مفاوضات التسوية مع احتمالات التصعيد العسكري",
+      "url": "https://www.dostor.org/5718167",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-US Tensions Impacting Energy Supply",
+      "companies_involved": [
+        "U.S. Oil Companies",
+        "Gulf Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Gulf States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. oil companies may be affected by the geopolitical tensions?",
+        "Which energy production facilities in the Gulf States are at risk due to potential military actions?",
+        "What logistics companies are involved in transporting oil from the Gulf States to the U.S.?",
+        "Which countries are dependent on oil imports from the Gulf region that could be affected?",
+        "Which downstream companies rely on energy supplies from the affected regions?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between the U.S. and Iran, which could lead to disruptions in energy supply and logistics, impacting global supply chains.",
+      "summary": "The ongoing tensions between the U.S. and Iran pose a potential risk to energy supply chains, particularly affecting oil production and logistics in the Gulf region. This situation may lead to increased costs and supply chain disruptions for companies reliant on energy resources.",
+      "title": "هل ستتم الانتخابات الفلسطينية ؟.. بشير عبدالفتاح يكشف التفاصيل",
+      "url": "https://www.dostor.org/5718172",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike Impacting Services",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Private Sector Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which banking operations depend on the availability of staff during the strike?",
+        "Which regions in India are most impacted by the bank strike?",
+        "Which downstream companies rely on banking services that may be disrupted?",
+        "What are the potential impacts on trade and logistics due to banking service interruptions?"
+      ],
+      "reason": "The planned bank strike poses a risk to banking operations, which can disrupt financial transactions and services critical to supply chain activities.",
+      "summary": "A three-day bank strike in India is set to disrupt banking services, potentially impacting financial transactions essential for supply chain operations. While banks are operating normally today, the upcoming strike raises concerns about service availability and its effects on various industries.",
+      "title": "வங்கிகள் இன்று வழக்கம்போல் செயல்படும் , Banks to function as usual today",
+      "url": "https://www.dailythanthi.com/news/india/three-day-strike-banks-operating-normally-today",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Recall of Surgical Strike",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a historical military event and India's stance on terrorism, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on Prime Minister Modi's remarks regarding India's military actions against terrorism, specifically recalling the surgical strike against Pakistan. It does not present any information that indicates a supply chain disruption.",
+      "title": "PM Narendra Modi recalls surgical strike ahead of 10th anniversary",
+      "url": "https://www.sangbadpratidin.in/india/pm-narendra-modi-recalls-surgical-strike-ahead-of-10th-anniversary/pid/1358110/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Weakening of AI Weapons Safety Regulations",
+      "companies_involved": [
+        "U.S. Department of Defense"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense technology may be affected by changes in AI weapon regulations?",
+        "Which manufacturing facilities produce autonomous weapons that could be impacted by regulatory changes?",
+        "Which countries are involved in the supply chain for AI weapon components?",
+        "What dependencies exist between U.S. and Russian defense contractors regarding AI technology?",
+        "Which downstream companies rely on defense contracts that may be influenced by these geopolitical negotiations?"
+      ],
+      "reason": "The negotiations regarding AI weapons regulations between the U.S. and Russia could lead to changes in defense policies that impact supply chains related to defense manufacturing and technology, creating potential risks for companies involved in these sectors.",
+      "summary": "The article discusses U.S. and Russian negotiations at the UN regarding the regulation of AI weapons, which could weaken safety protocols. This geopolitical event has implications for the defense industry and may disrupt supply chains related to autonomous weapon systems.",
+      "title": "美俄被曝在联合国管控AI武器谈判中弱化安全条款",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-inithkha3378290.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Weakening of AI Weapons Safety Regulations",
+      "companies_involved": [
+        "U.S. Department of Defense"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense technology are affected by changes in AI weapons regulations?",
+        "Which manufacturing facilities produce autonomous weapons systems that may be impacted by regulatory changes?",
+        "Which countries are involved in the supply chain for AI weapon components?",
+        "What dependencies exist between U.S. and Russian defense contractors regarding AI technology?",
+        "Which downstream companies rely on defense contracts that could be affected by these geopolitical negotiations?"
+      ],
+      "reason": "The negotiations regarding AI weapons regulations between the U.S. and Russia could lead to changes in defense procurement and production practices, impacting supply chains in the defense and technology sectors.",
+      "summary": "The article discusses U.S. and Russian efforts to weaken safety regulations for AI weapons during UN negotiations. This geopolitical event could have significant implications for the defense industry and related supply chains.",
+      "title": "美俄被曝在联合国管控AI武器谈判中弱化安全条款 _ 南方网",
+      "url": "https://news.southcn.com/node_8e175e0ac5/536f004aa9.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Weakening of AI Weapons Safety Regulations",
+      "companies_involved": [
+        "U.S. Department of Defense"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense technology are affected by changes in AI weapons regulations?",
+        "Which manufacturing facilities produce autonomous weapons systems that may be impacted by regulatory changes?",
+        "Which countries are involved in the supply chain for AI weapon components?",
+        "What dependencies exist between U.S. and Russian defense contractors regarding AI technology?",
+        "Which downstream companies rely on the production of AI weapons systems affected by these negotiations?"
+      ],
+      "reason": "The negotiations regarding AI weapons regulations between the U.S. and Russia could lead to changes in defense procurement and production practices, impacting supply chains related to defense technology and manufacturing.",
+      "summary": "The article discusses the weakening of safety regulations for AI weapons during UN negotiations between the U.S. and Russia. This geopolitical event has potential implications for the defense industry and related supply chains.",
+      "title": "美俄被曝在联合国管控AI武器谈判中弱化安全条款",
+      "url": "http://www.81.cn/ss_208539/16489691.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Strikes in Shipbuilding Industry",
+      "companies_involved": [
+        "Samsung Heavy Industries",
+        "HD Hyundai Heavy Industries",
+        "Hanwha Ocean",
+        "POSCO"
+      ],
+      "industries_involved": [
+        "Shipbuilding",
+        "Steel"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Samsung Heavy Industries are affected by the labor strikes?",
+        "Which manufacturing facilities of HD Hyundai Heavy Industries depend on the production schedules impacted by the strikes?",
+        "What are the potential delays in ship deliveries due to the ongoing labor disputes?",
+        "Which downstream companies rely on ships produced by Hanwha Ocean?",
+        "How might the labor disruptions at POSCO affect the supply of steel to the shipbuilding industry?"
+      ],
+      "reason": "The article discusses ongoing labor strikes and negotiations in the shipbuilding and steel industries in South Korea, which could lead to production delays and impact supply chains related to ship manufacturing and steel supply.",
+      "summary": "Labor strikes in South Korea's shipbuilding and steel industries are causing significant disruptions, with potential delays in production and delivery schedules. Companies like Samsung Heavy Industries and HD Hyundai Heavy Industries are directly affected, raising concerns about supply chain stability.",
+      "title": "조선 · 철강 , 파업 장기화 경고등 … 추석 지나도 합의 난망",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01886006645584384&mediaCodeNo=257",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Weakening of AI weapons safety regulations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical negotiations regarding AI weapons safety regulations, which do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the weakening of safety clauses in AI weapons negotiations between the US and Russia. This event does not indicate a direct supply chain disruption as it lacks a meaningful connection to supply chain activities.",
+      "title": "美俄被曝在联合国管控AI武器谈判中弱化安全条款",
+      "url": "https://baijiahao.baidu.com/s?id=1877474895041140596",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Rejection of Iran's proposal to reopen the Strait of Hormuz",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Strait of Hormuz and may be affected by the geopolitical tensions?",
+        "Which oil and gas suppliers rely on the Strait of Hormuz for transportation of their products?",
+        "What are the potential impacts on global oil prices if the Strait of Hormuz remains closed?",
+        "Which downstream companies depend on oil imports that pass through the Strait of Hormuz?",
+        "How might the geopolitical situation affect trade routes for countries reliant on oil exports?"
+      ],
+      "reason": "The rejection of Iran's proposal to reopen the Strait of Hormuz has significant implications for global oil trade and shipping logistics, as this strait is a critical chokepoint for oil transportation.",
+      "summary": "The article discusses the rejection of Iran's proposal to reopen the Strait of Hormuz, which is vital for global oil trade. This geopolitical tension poses risks to shipping and energy supply chains, potentially affecting oil prices and trade routes.",
+      "title": "Trump odmítl nový návrh Íránu na otevření Hormuzského průlivu a konec války",
+      "url": "https://www.ceskenoviny.cz/zpravy/trump-odmitl-novy-navrh-iranu-na-otevreni-hormuzskeho-prulivu-a-konec-valky/2879747",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Severe Storm Impacting Northeast US",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Energy",
+        "Event Management"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which transportation companies are affected by flight cancellations in the Northeast US?",
+        "Which energy suppliers may face disruptions due to power outages in the affected states?",
+        "Which event management companies are impacted by the cancellation of large events in New York and Boston?",
+        "Which suppliers of goods and services are located in the affected regions?",
+        "Which downstream companies depend on transportation routes that are disrupted by the storm?"
+      ],
+      "reason": "The severe storm has caused significant disruptions in transportation, power outages, and the cancellation of major events, all of which can impact supply chain activities in the affected regions.",
+      "summary": "A severe storm has struck the Northeast US, leading to power outages, flight cancellations, and the cancellation of major events. This natural disaster poses risks to transportation, energy supply, and event management industries.",
+      "title": "États - Unis . Un mort , pannes d  électricité , concerts annulés ...   : une rare tempête frappe New York et Boston",
+      "url": "https://www.republicain-lorrain.fr/environnement/2026/09/27/un-mort-pannes-d-electricite-concerts-annules-une-rare-tempete-frappe-new-york-et-boston",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Severe Storm Impacting Northeast US",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Energy",
+        "Event Management"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which transportation companies are affected by flight cancellations in the Northeast US?",
+        "Which energy suppliers may face disruptions due to power outages in the affected states?",
+        "Which event management companies are impacted by the cancellation of large events in New York and Boston?",
+        "Which suppliers of goods and services are located in the affected regions?",
+        "Which downstream companies depend on transportation routes that are disrupted by the storm?"
+      ],
+      "reason": "The severe storm has caused significant disruptions in transportation, power supply, and event cancellations, which can impact various supply chain activities in the affected regions.",
+      "summary": "A severe storm has struck the Northeast US, leading to power outages, flight cancellations, and the cancellation of major events. This natural disaster poses risks to transportation, energy supply, and event management industries.",
+      "title": "États - Unis . Un mort , pannes d  électricité , concerts annulés ...   : une rare tempête frappe New York et Boston",
+      "url": "https://www.lalsace.fr/environnement/2026/09/27/un-mort-pannes-d-electricite-concerts-annules-une-rare-tempete-frappe-new-york-et-boston",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Severe Storm in Northeastern United States",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Logistics",
+        "Energy",
+        "Event Management"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which transportation companies operate in the affected region and may face disruptions?",
+        "Which logistics providers are impacted by the storm's effects on infrastructure?",
+        "Which energy suppliers may experience outages due to the storm?",
+        "Which events or concerts scheduled in the region may affect local businesses?",
+        "Which downstream companies depend on transportation routes affected by the storm?"
+      ],
+      "reason": "The severe storm has caused significant disruptions to transportation, logistics, and energy supply in the northeastern United States, impacting operations and potentially leading to delays and cancellations.",
+      "summary": "A rare severe storm has struck the northeastern United States, causing widespread power outages, flight cancellations, and event cancellations. The storm poses risks to transportation and logistics operations in major cities like New York and Boston.",
+      "title": "Le nord - est des Etats - Unis frappé par une tempête rare pour la saison",
+      "url": "https://www.linternaute.com/actualite/depeches/11305803-le-nord-est-des-etats-unis-frappe-par-une-tempete-rare-pour-la-saison/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Security Incident at RAF Fairford",
+      "companies_involved": [
+        "United States Air Force",
+        "UK Ministry of Defence"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "United States",
+        "Iran",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the United States Air Force operate in the UK?",
+        "Which logistics operations may be affected by security measures at RAF Fairford?",
+        "What are the potential impacts on defense contracts due to geopolitical tensions?",
+        "Which countries or regions create exposure for the UK defense supply chain?",
+        "Which downstream companies depend on logistics services from the affected area?"
+      ],
+      "reason": "The incident at RAF Fairford involves armed police and potential threats to security, which could disrupt military logistics and operations, impacting supply chains related to defense and security.",
+      "summary": "A significant security incident at RAF Fairford has led to evacuations and arrests, raising concerns about potential disruptions to military logistics and operations. The geopolitical implications of this event may affect supply chains in the defense sector involving the UK and the US.",
+      "title": "英空軍緊急疏散民宅 逮捕數名違反爆裂物法男子 | 伊朗革命衛隊 | 俄烏戰爭 | 俄羅斯",
+      "url": "https://www.ntdtv.com/b5/2026/09/27/a104136782.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions over the Strait of Hormuz",
+      "companies_involved": [
+        "Iranian Oil Companies",
+        "U.S. Oil Companies"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil and gas companies operate in the affected region?",
+        "Which shipping companies are impacted by potential blockades in the Strait of Hormuz?",
+        "Which countries rely on oil imports from the affected region?",
+        "Which downstream companies depend on oil supplies from Iran or the Gulf region?",
+        "What logistics routes are at risk due to geopolitical tensions in the area?"
+      ],
+      "reason": "The ongoing geopolitical tensions regarding the Strait of Hormuz could significantly impact oil transportation and logistics, affecting global supply chains reliant on this critical shipping route.",
+      "summary": "The article discusses escalating tensions between the U.S. and Iran over the Strait of Hormuz, a vital passage for global oil shipments. The potential for military action and blockades poses a significant risk to supply chains in the oil and logistics industries.",
+      "title": "特朗普回拒伊朗方案 霍尔木兹海峡条件绝不妥协",
+      "url": "https://www.zaobao.com.sg/news/world/story20260927-9744947",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Arrests related to potential attack on US port",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which ports in the US could be affected by geopolitical tensions?",
+        "Which defense contractors may have operations impacted by security concerns?",
+        "What logistics routes could be disrupted due to heightened security measures?",
+        "Which suppliers of defense materials are located in the UK?",
+        "Which downstream companies depend on the logistics of defense operations from the affected region?"
+      ],
+      "reason": "The arrests in the UK indicate a potential threat to US ports, which could lead to increased security measures and disruptions in logistics and defense operations.",
+      "summary": "The article discusses the arrest of individuals in the UK suspected of planning an attack on a US port, highlighting potential geopolitical risks. This situation could impact logistics and defense industries due to heightened security concerns.",
+      "title": "Задержанные в Британии хотели причинить ущерб порту США , заявил Трамп",
+      "url": "https://ria.ru/20260927/tramp-2120573236.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Uncertainty in Patriot Missile Production in Ukraine",
+      "companies_involved": [
+        "Raytheon"
+      ],
+      "industries_involved": [
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Raytheon may be affected by the uncertainty in production agreements?",
+        "Which manufacturing facilities in Ukraine are dependent on the production of Patriot missiles?",
+        "What geopolitical factors could impact the supply chain for defense products in the region?",
+        "Which countries are involved in the supply chain for components of the Patriot missile system?",
+        "Which downstream companies rely on the availability of Patriot missiles for their operations?"
+      ],
+      "reason": "The article discusses the potential production of Patriot missiles in Ukraine, which is directly tied to geopolitical negotiations and military supply chains, indicating a disruption in defense manufacturing and logistics.",
+      "summary": "The article highlights the uncertainty surrounding the production of Patriot missiles in Ukraine due to geopolitical negotiations involving the U.S. and Russia. This situation poses a risk to the defense supply chain, particularly for companies like Raytheon that are involved in missile production.",
+      "title": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672105",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Guillermo Ochoa's partnership with BC.GAME",
+      "companies_involved": [
+        "BC.GAME"
+      ],
+      "industries_involved": [
+        "Online Gambling",
+        "Digital Payments"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a marketing campaign and partnership in the online gambling sector, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights Guillermo Ochoa's partnership with BC.GAME to promote their online gambling platform in Mexico. It focuses on marketing efforts and regulatory compliance rather than any supply chain disruptions.",
+      "title": "Guillermo Ochoa vedie novú kampaň na podporu záväzku BC . Game k regulovanému mexickému trhu",
+      "url": "http://www.prnewswire.com/news-releases/guillermo-ochoa-vedie-novu-kampa-na-podporu-zavazku-bcgame-k-regulovanemu-mexickemu-trhu-302890845.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T094500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Project Jupiter Delay Due to Force Majeure",
+      "companies_involved": [
+        "Oracle",
+        "Blue Owl Capital",
+        "Stack Infrastructure",
+        "Bloom Energy",
+        "Energy Transfer LP"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Energy",
+        "Data Center"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Oracle may be affected by the delay in Project Jupiter?",
+        "Which manufacturing or production relationships may be impacted by the inability to meet the project deadlines?",
+        "What regions are critical for the energy supply to Project Jupiter?",
+        "Which supply-chain dependencies could transmit the disruption to other data center projects?",
+        "Which downstream companies depend on the computing power provided by Project Jupiter?"
+      ],
+      "reason": "The invocation of force majeure by Oracle due to unforeseen delays in project approvals and energy supply directly impacts the timeline and financial obligations of the Project Jupiter data center, affecting multiple stakeholders in the supply chain.",
+      "summary": "Oracle's Project Jupiter in New Mexico faces significant delays due to force majeure, impacting its ability to meet deadlines and financial commitments. This disruption affects not only Oracle but also its partners and the broader data center and energy industries.",
+      "title": "美国  反抗浪潮  愈演愈烈 ， 甲骨文巨型数据中心遭遇  不可抗力 ， 恐无法按期完工 - 虎嗅网",
+      "url": "https://www.huxiu.com/article/4893965.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Art Competition Announcement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an art competition and does not indicate any disruptions or impacts on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article announces the results of an art competition related to traditional pottery in Taiwan. It does not present any information that would indicate a supply chain disruption.",
+      "title": "嘉義交趾陶工藝競賽得獎名單出爐 從校園到樂齡 跨世代創作迎葉王200週年",
+      "url": "https://n.yam.com/Article/20260927881136",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Xi Jinping's State Visit to the US",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Technology",
+        "Energy"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in China may be affected by changes in US-China relations?",
+        "Which manufacturing facilities in the US depend on Chinese suppliers?",
+        "What trade policies could impact the flow of goods between the US and China?",
+        "Which downstream companies in the US rely on products sourced from China?",
+        "How might geopolitical tensions affect energy supply chains between the two countries?"
+      ],
+      "reason": "The meeting between the leaders of China and the US indicates potential changes in trade policies and diplomatic relations, which could significantly impact supply chains, particularly in manufacturing and technology sectors.",
+      "summary": "The recent state visit by Xi Jinping to the US highlights the importance of US-China relations and their potential impact on global supply chains. The discussions around cooperation in areas like artificial intelligence and energy suggest that changes in these relationships could affect various industries and trade dynamics.",
+      "title": "国际舆论积极评价中美元首华盛顿会晤 释放相向而行 、 和平共处 、 互利共赢的积极信号",
+      "url": "https://www.163.com/news/article/L7REJGOQ000189FH.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Xi Jinping's State Visit to the US",
+      "companies_involved": [
+        "US companies",
+        "Chinese manufacturers"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Technology",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US companies may be affected by changes in US-China relations?",
+        "Which manufacturing facilities in China depend on US orders?",
+        "What trade policies could impact the flow of goods between the US and China?",
+        "Which downstream companies in the US rely on products sourced from China?",
+        "How might geopolitical tensions affect logistics and transportation routes between the two countries?"
+      ],
+      "reason": "The meeting between the US and Chinese leaders indicates a potential shift in trade relations, which could impact supply chains, particularly in manufacturing and technology sectors.",
+      "summary": "The recent state visit by Xi Jinping to the US signifies a potential stabilization in US-China relations, which could influence trade and supply chain dynamics. Increased communication and cooperation may lead to changes in sourcing and manufacturing strategies for companies in both countries.",
+      "title": "国际舆论积极评价中美元首华盛顿会晤 释放相向而行 、 和平共处 、 互利共赢的积极信号",
+      "url": "https://www.stcn.com/article/detail/4199667.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Nolo Impact on Hawaii",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Retail",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Hawaii that may be affected by the flooding?",
+        "Which logistics companies have operations in the affected region?",
+        "Which agricultural producers in Hawaii could face disruptions due to flooding?",
+        "Which downstream companies depend on products sourced from Hawaii?",
+        "What transportation routes are impacted by Hurricane Nolo?"
+      ],
+      "reason": "The hurricane poses a significant risk of flooding, which can disrupt logistics, transportation, and agricultural production in Hawaii, thereby affecting supply chains.",
+      "summary": "Hurricane Nolo is stalling near Hawaii's Big Island, likely causing serious flooding. This natural disaster could disrupt logistics and agricultural operations, impacting supply chains in the region.",
+      "title": "As Hurricane Nolo stalls near Hawaii Big Island , serious flooding likely",
+      "url": "https://www.spokesman.com/stories/2026/sep/26/as-hurricane-nolo-stalls-near-hawaiis-big-island-s/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "New Mexico CYFD Leadership Transition",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses changes in leadership within a state agency related to child welfare, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights concerns regarding potential disruptions in child welfare reforms in New Mexico due to an upcoming gubernatorial transition. However, it does not indicate any direct impact on supply chain activities.",
+      "title": "CYFD reform progress faces uncertainty as New Mexico governor transition nears",
+      "url": "https://www.abqjournal.com/news/cyfd-reforms-face-test-amid-transition/3127218",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Xi Jinping's Speech on US-China Relations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses diplomatic relations and historical ties between China and the United States without any direct implications for supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on the friendly relations between China and the United States as expressed by President Xi Jinping during a state dinner. It does not indicate any specific supply chain disruptions or risks related to trade, logistics, or production.",
+      "title": "第一观察丨感悟中美人民友好深沉持久的力量 - 新华网",
+      "url": "https://www.news.cn/politics/leaders/20260927/c4004e87549b4162ae35c5e8d80c2c7b/c.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Xi Jinping's Visit to the U.S.",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses diplomatic relations and historical ties between China and the U.S. without any direct implications for supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on the diplomatic relationship between China and the U.S., highlighting historical ties and mutual respect. It does not indicate any specific supply chain disruptions or risks related to trade, logistics, or production.",
+      "title": "第一观察丨感悟中美人民友好深沉持久的力量",
+      "url": "http://www.81.cn/yw_208727/16489608.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not discuss any events or factors that have a meaningful connection to supply chain activities.",
+      "summary": "The article is a personal blog post that does not relate to supply chain disruptions or any relevant events affecting supply chains.",
+      "title": "鲁迅观没有什么人生导师最需要的是自我的觉醒被自己说服 - 博客",
+      "url": "https://blog.wenxuecity.com/myblog/57970/202609/20106.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Astrological Predictions",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses astrological predictions and personal fortunes, which do not have a meaningful connection to supply chain activities.",
+      "summary": "The article focuses on astrological insights and personal fortunes related to zodiac signs, with no relevance to supply chain disruptions or activities.",
+      "title": " 【 9 / 28 - 10 / 4星座錦囊 （ 上 ）】 中秋收假財運大開 ！「 4星座 」 機會來了要接穩",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5588031",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Football Match Analysis",
+      "companies_involved": [
+        "Manchester City"
+      ],
+      "industries_involved": [
+        "Sports"
+      ],
+      "countries_involved": [
+        "England",
+        "Spain"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a football match and its implications for player performance and morale, but it does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article analyzes a football match between England and Spain, focusing on player performance and team dynamics. It does not present any information that indicates a supply chain disruption.",
+      "title": " 【 观察 】 三狮差口气 ， 凯恩输麻了 ！ ",
+      "url": "https://www.163.com/dy/article/L7RBO26H05299JMD.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Art Exhibition Opening",
+      "companies_involved": [],
+      "industries_involved": [
+        "Arts and Culture"
+      ],
+      "countries_involved": [
+        "Hong Kong"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an art exhibition and cultural event without any mention of supply chain activities, disruptions, or impacts on logistics, production, or trade.",
+      "summary": "The article covers the opening of an art exhibition in Hong Kong, celebrating traditional and contemporary Chinese art. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "逾300位藝術家手中的時代氣息 「 守正創新 」 展覽開幕",
+      "url": "https://www.hkcd.com/hkcdweb/content/2026/09/24/content_8777079.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo and its residual effects",
+      "companies_involved": [],
+      "industries_involved": [
+        "Travel and Tourism",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which airlines may be affected by flight cancellations due to Hurricane Polo?",
+        "Which logistics companies operate in the affected coastal regions?",
+        "What suppliers are located in areas prone to the residual effects of the hurricane?",
+        "Which downstream companies depend on transportation routes affected by the storm?",
+        "How might the storm impact the supply chain for goods transported through affected ports?"
+      ],
+      "reason": "The article discusses Hurricane Polo's impact on travel and logistics in Mexico, indicating potential disruptions to transportation and tourism operations.",
+      "summary": "Hurricane Polo is projected to affect the Pacific coast of Mexico, leading to potential disruptions in travel and logistics. The residual effects, including dangerous surf conditions, may impact transportation routes and operations in the region.",
+      "title": "LatAm Expat & Nomad Daily Guide for Friday , September 25 , 2026",
+      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-september-25-2026/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Concerns over AFORE retirement funds",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses issues related to the AFORE retirement savings system in Mexico, focusing on financial mismanagement and potential employee strikes, but it does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article raises concerns about the AFORE retirement savings system in Mexico, highlighting issues with fund accessibility and potential employee strikes. However, it does not indicate a direct supply chain disruption.",
+      "title": "Las Afores son un engaño",
+      "url": "https://laverdad.com.mx/2026/09/las-afores-son-un-engano/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Concerns over AFORE retirement fund management",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses issues related to the management of retirement funds in Mexico, specifically the AFORE system, but does not directly connect to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article raises concerns about the management and accessibility of retirement funds in Mexico's AFORE system. However, it does not present a direct supply chain disruption related to manufacturing, logistics, or trade activities.",
+      "title": "Las AFORES son un engaño - El Mercurio de Tamaulipas",
+      "url": "https://elmercurio.com.mx/editoriales/las-afores-son-un-engano",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Hunger strike for electricity rate cuts",
+      "companies_involved": [
+        "Federal Electricity Commission (CFE)"
+      ],
+      "industries_involved": [
+        "Utilities",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of CFE may be affected by regulatory changes in electricity pricing?",
+        "Which manufacturing facilities in Mexicali depend on stable electricity supply from CFE?",
+        "What regions are most impacted by the current electricity rate issues?",
+        "Which downstream companies rely on energy from CFE for their operations?",
+        "How might the protests affect the operational capacity of CFE?"
+      ],
+      "reason": "The hunger strike is a direct response to high electricity rates, which can lead to regulatory changes affecting energy supply and pricing, impacting local businesses and their supply chains.",
+      "summary": "Residents in Mexicali are protesting high electricity rates, which could lead to regulatory changes affecting energy supply. This situation poses a risk to local businesses reliant on stable energy for their operations.",
+      "title": "MEXICALI BRIEFS : Fiestas del Sol 2026 sets 13 , 000 capacity limit for Isla de las Estrellas venue",
+      "url": "https://www.ivpressonline.com/news/mexicali-briefs-fiestas-del-sol-2026-sets-13-000-capacity-limit-for-isla-de-las/article_6086d7d0-2d87-4596-9eb1-4396763e5014.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260925T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Impact of Trump's Trade Wars",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Canada and the EU may be affected by increased tariffs?",
+        "Which manufacturing operations in the U.S. depend on imports from Canada and the EU?",
+        "How do changes in trade policy affect the supply chain relationships with Canadian and European partners?",
+        "Which downstream companies rely on products affected by the trade policies with Canada and the EU?",
+        "What are the potential impacts on logistics and transportation due to increased tariffs?"
+      ],
+      "reason": "The article discusses the implications of trade wars initiated by Trump, which can lead to increased tariffs and protectionist policies affecting supply chains, particularly in manufacturing and trade with allies like Canada and the EU.",
+      "summary": "The article highlights the negative impacts of Trump's trade policies on American workers and international relations, particularly with Canada and Europe. These trade wars can disrupt supply chains by increasing costs and complicating trade relationships.",
+      "title": "  A Communism of Pelf : How Trump betrayed American workers",
+      "url": "https://www.alternet.org/alternet-exclusives/trump-loser-tariff/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Venezuela Diplomatic and Military Developments",
+      "companies_involved": [
+        "TotalEnergies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "Venezuela",
+        "Colombia",
+        "Panama",
+        "Peru",
+        "Ecuador"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of TotalEnergies operate in Venezuela?",
+        "What are the potential impacts on energy supply chains due to the US-Venezuela relations?",
+        "Which countries may face supply chain disruptions due to military actions in the region?",
+        "How might changes in US military funding affect logistics and operations in Colombia and Panama?",
+        "Which downstream companies depend on Venezuelan oil exports?"
+      ],
+      "reason": "The article discusses significant geopolitical developments between the US and Venezuela, including military actions and diplomatic meetings that could impact energy supply chains and logistics in the region.",
+      "summary": "Recent diplomatic and military developments between the US and Venezuela may lead to significant changes in energy supply chains and logistics in Latin America. The involvement of companies like TotalEnergies in Venezuelan oil agreements highlights the potential for disruptions in energy supply and trade.",
+      "title": "Latin America Defense Monitor September 19 – 25 , 2026",
+      "url": "https://www.riotimesonline.com/latin-america-defense-monitor-september-19-25-2026/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Canada-U.S. Trade War Escalation",
+      "companies_involved": [
+        "Apple"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Canada",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Canadian companies may be affected by the new U.S. tariffs?",
+        "Which manufacturing facilities in Canada depend on U.S. imports that are now subject to tariffs?",
+        "What are the potential impacts on logistics and transportation routes between Canada and the U.S.?",
+        "Which downstream companies in the U.S. rely on products from Canadian suppliers facing tariffs?",
+        "How might the trade tensions affect pricing and availability of goods in both countries?"
+      ],
+      "reason": "The article discusses the imposition of new tariffs by the U.S. on Canadian goods, which directly impacts trade relationships and supply chain activities between the two countries.",
+      "summary": "The article highlights escalating trade tensions between Canada and the U.S., with new tariffs imposed on Canadian imports. This situation poses significant risks to companies involved in cross-border trade and could disrupt supply chains in affected industries.",
+      "title": "Tag : cbc _ politics",
+      "url": "https://newsroomamerica.com/tag/cbc_politics",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Stanford vs. Virginia Soccer Match",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a college soccer match and does not contain any information related to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a sports event between Stanford and Virginia, detailing match statistics and team performance. It does not relate to any supply chain disruptions.",
+      "title": "Stanford Awaits Visit From Virginia",
+      "url": "https://gostanford.com/news/2026/09/24/stanford-awaits-visit-from-virginia",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Marvel Comics December 2026 Solicits",
+      "companies_involved": [],
+      "industries_involved": [
+        "Comics"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses upcoming comic book releases and solicitations, which do not have a meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article outlines Marvel Comics' solicitations for December 2026, detailing various comic book releases. It does not indicate any supply chain disruptions or impacts on related activities.",
+      "title": "Marvel Comics Official Full December 2026 Solicits And Solicitations",
+      "url": "https://bleedingcool.com/comics/marvel-comics-official-full-december-2026-solicits-and-solicitations/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No significant supply chain disruption",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses personal experiences and anecdotes without any meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article does not describe any actual or potential supply chain disruption. It focuses on personal narratives and does not relate to supply chain activities.",
+      "title": "大院惊魂 - 博客 | 文学城",
+      "url": "https://blog.wenxuecity.com/myblog/46040/202609/20460.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Q3 2026 Morelos Drilling & Exploration Update",
+      "companies_involved": [
+        "Torex Gold Resources"
+      ],
+      "industries_involved": [
+        "Mining"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily provides an update on drilling and exploration activities without indicating any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses Torex Gold Resources' update on its drilling and exploration activities for Q3 2026. It does not indicate any supply chain disruptions or impacts on related operations.",
+      "title": "Torex Gold Resources Provides Q3 2026 Morelos Drilling & Exploration Update",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1242-tsx/txg/211786-torex-gold-provides-q3-2026-morelos-drilling-exploration-update.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260924T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Address on National Issues",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses Prime Minister Modi's address on various national issues, including terrorism, census, and social campaigns, without any direct connection to supply chain activities or disruptions.",
+      "summary": "The article covers Prime Minister Modi's radio address, touching on topics such as terrorism and national responsibilities. It does not indicate any supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "पीएम मोदी ने मन की बात में पूर्व VHP चीफ अशोक सिंघल को किया याद , सर्जिकल स्ट्राइक का किया जिक्र",
+      "url": "https://www.livehindustan.com/national/pm-modi-mann-ki-baat-138th-episode-spoke-about-operation-sindoor-surgical-strike-and-census-201790489809186.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Address on Counter-Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political speech regarding counter-terrorism and does not provide any direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on Prime Minister Modi's remarks about India's counter-terrorism policy and does not indicate any supply chain disruption. There are no relevant companies, industries, or supply chain activities mentioned that would suggest an impact on supply chains.",
+      "title": "PM Modi highlights surgical strikes in Mann Ki Baat , reiterates zero tolerance on terror",
+      "url": "https://economictimes.indiatimes.com/news/india/pm-modi-highlights-2016-surgical-strikes-as-milestone-in-indias-counter-terrorism-policy/articleshow/134515418.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "Punjab National Bank",
+        "Bank of Baroda",
+        "Union Bank of India",
+        "Indian Bank"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which banking operations depend on the affected banks for cash flow?",
+        "Which regions in India are most reliant on the services of the affected banks?",
+        "Which downstream companies depend on banking services for their operations?",
+        "What impact will the strike have on the logistics of cash distribution?"
+      ],
+      "reason": "The planned bank strike will disrupt banking services, affecting cash access and potentially impacting businesses that rely on banking operations for transactions and cash flow.",
+      "summary": "A nationwide bank strike in India from September 28 to 30 is expected to disrupt banking services, prompting banks to waive ATM charges to facilitate customer access to cash. This disruption could impact various businesses that depend on banking services for their operations.",
+      "title": "Bank Strike Planned For September 28 – 30 , SBI And Other Lenders Waive ATM Charges",
+      "url": "https://www.freepressjournal.in/business/bank-strike-planned-for-september-2830-sbi-and-other-lenders-waive-atm-charges",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Remarks on Counter-Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses historical military actions and counter-terrorism policies without any direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on Prime Minister Modi's reflections on India's military responses to terrorism, with no direct connection to supply chain disruptions. It highlights India's counter-terrorism stance but does not indicate any immediate or potential impacts on supply chain operations.",
+      "title": "PM Modi recalls 2016 surgical strikes on terror launchpads , says India has displayed firm resolve against terrorism",
+      "url": "https://news.webindia123.com/news/Articles/India/20260927/4503992.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Statement on Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political statement made by PM Modi regarding terrorism, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on PM Modi's remarks about India's stance on terrorism. It does not indicate any supply chain disruption or impact on related activities.",
+      "title": "मन की बात में बोले पीएम मोदी , आज का भारत आतंक बर्दाश्त नहीं करता . करारा जवाब देता है",
+      "url": "https://www.palpalindia.com/2026/09/27/New-Delhi--Mann-Ki-Baat--PM-Modi-said--Today-India--does-not-tolerate-terrorism--gives-a-befitting-reply.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Address on National Responsibility",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a public address by the Prime Minister of India, focusing on national issues such as terrorism and the census, without any direct implications for supply chain activities.",
+      "summary": "The article covers Prime Minister Modi's address during the 138th episode of 'Mann Ki Baat', where he reflects on national responsibilities and past events related to terrorism. It does not present any information that indicates a supply chain disruption.",
+      "title": "Mann Ki Baat 138th Episode : पीएम मोदी ने सर्जिकल स्ट्राइक को किया याद , जनगणना को बताया राष्ट्रीय जिम्मेदारी",
+      "url": "https://www.haribhoomi.com/national/news/mann-ki-baat-138th-episode-pm-modi-surgical-strike-census-114948",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Remarks on Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses historical military actions and current political statements regarding terrorism, which do not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on Prime Minister Modi's remarks about India's military response to terrorism, with no direct implications for supply chain activities. It highlights India's counter-terrorism policy but does not indicate any current or potential disruptions in supply chains.",
+      "title": "PM Modi Recalls 2016 Surgical Strikes On Terror Launchpads , Says India Has Displayed Firm Resolve Against Terrorism",
+      "url": "https://www.dailyexcelsior.com/pm-modi-recalls-2016-surgical-strikes-on-terror-launchpads-says-india-has-displayed-firm-resolve-against-terrorism/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike",
+      "companies_involved": [
+        "Bank of India",
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Bank of India and State Bank of India may be affected by the bank strike?",
+        "Which manufacturing or production relationships may be impacted due to delayed financial transactions?",
+        "Which countries or regions create exposure for banks operating in India during the strike?",
+        "Which supply-chain dependencies could transmit the disruption to other sectors relying on banking services?",
+        "Which downstream companies or operations may be exposed to financial transaction delays due to the strike?"
+      ],
+      "reason": "The bank strike is expected to disrupt essential banking services, affecting cash flow and financial transactions, which are critical for supply chain operations.",
+      "summary": "A three-day bank strike in India is anticipated to disrupt banking services, impacting cash transactions and financial operations. This could lead to delays in supply chain activities that rely on timely banking services.",
+      "title": "Pay your EMI in advance : Bank message to customers ahead of 3 day strike",
+      "url": "https://www.businesstoday.in/industry/banks/story/pay-your-emi-in-advance-banks-message-to-customers-ahead-of-3-day-strike-558093-2026-09-27",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T140000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Employees Strike in Ratnagiri",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the banking operations in Ratnagiri?",
+        "Which companies rely on banking services in the affected region?",
+        "How might the strike impact logistics and transportation services that depend on banking transactions?",
+        "Which downstream companies may face delays in financial transactions due to the strike?",
+        "What is the potential impact on trade activities in Ratnagiri due to the banking disruption?"
+      ],
+      "reason": "The strike by bank employees in Ratnagiri could disrupt banking operations, affecting financial transactions and services that are critical for supply chain activities, including logistics and trade.",
+      "summary": "Bank employees in Ratnagiri are set to strike for three days, which may disrupt banking operations in the region. This could have downstream effects on supply chain activities reliant on banking services.",
+      "title": "Ratnagiri News – बॅंक कर्मचारी संप , रत्नागिरीत बॅंक कर्मचारी तीन दिवस रॅली काढून निदर्शने करणार",
+      "url": "https://www.saamana.com/bank-employees-three-day-strike-to-begin-on-september-28-rallies-and-protests-planned-across-ratnagiri-over-five-day-banking-week-demand/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T141500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike Impacting Transactions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers rely on banking services for transactions during the strike?",
+        "Which companies may face cash flow issues due to disrupted banking operations?",
+        "How might the strike affect logistics companies that depend on financial transactions?",
+        "Which downstream companies are reliant on timely payments that could be delayed?",
+        "What impact will the strike have on trade activities that require banking services?"
+      ],
+      "reason": "The bank strike is likely to disrupt financial transactions, including check clearances and cash transactions, which can affect various supply chain activities, particularly in logistics and trade.",
+      "summary": "A three-day bank strike in India is expected to disrupt check clearances and cash transactions. This could have significant implications for companies relying on banking services for their supply chain operations.",
+      "title": "Bank Strike : सोमवार से बैंक यूनियनें तीन दिन की हड़ताल पर जा रही हैं , जिससे चेक क्लियरेंस और नकद लेनदेन प्रभावित हो सकते हैं । ",
+      "url": "https://hindi.business-standard.com/personal-finance/banking/bank-strike-alert-services-disrupted-three-days-over-five-day-week-demand-id-555506/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial institutions depend on the operations of public sector banks during the strike?",
+        "What impact will the strike have on the logistics of cash distribution in the affected regions?",
+        "Which downstream companies rely on banking services for their operations?",
+        "How will the strike affect the supply chain of financial transactions in India?"
+      ],
+      "reason": "The nationwide bank strike poses a significant operational disruption to banking services, which can impact various supply chain activities, including financial transactions and cash flow management for businesses.",
+      "summary": "A three-day nationwide bank strike in India is set to disrupt banking operations, affecting financial services and potentially impacting businesses reliant on these services. The strike is driven by demands for a five-day banking week and could lead to further disruptions if unresolved.",
+      "title": "Mint Explainer : Why did banks open on Sunday ? ",
+      "url": "https://www.livemint.com/industry/banking/mint-explainer-why-did-banks-open-on-sunday-11790509639446.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T154500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Employees Strike",
+      "companies_involved": [
+        "Reserve Bank of India",
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial transactions are dependent on the operations of the banks involved?",
+        "Which regions in India are most impacted by the banking services disruption?",
+        "What downstream businesses rely on banking services for their operations?",
+        "How might the strike affect the liquidity of businesses in the affected regions?"
+      ],
+      "reason": "The strike by bank employees in Gujarat is expected to disrupt banking services, affecting transactions and operations that rely on these services, which can have a cascading effect on businesses and supply chains dependent on banking operations.",
+      "summary": "A three-day strike by bank employees in Gujarat is set to disrupt banking services, potentially impacting financial transactions and operations for businesses reliant on these services. The Reserve Bank of India has intervened to keep banks operational on certain days, but the strike may still lead to significant operational challenges.",
+      "title": "Rajkot Bank Strike Update ; Banking Services Impacted",
+      "url": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/rajkot-bank-strike-employees-protest-banking-services-update-139165021.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected banks during the strike period?",
+        "Which regions in India are most impacted by the bank strike?",
+        "What are the dependencies of companies on banking services during the strike?",
+        "Which downstream companies rely on transactions processed by the affected banks?"
+      ],
+      "reason": "The nationwide bank strike could disrupt banking operations, affecting transactions and financial services, which are critical for supply chain activities.",
+      "summary": "A three-day nationwide bank strike in India is set to disrupt banking operations, impacting transactions and financial services. This could have significant implications for businesses relying on banking services for their supply chain activities.",
+      "title": "Banks open on Sunday see brisk turnout ahead of 3 - day strike",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ahead-of-three-day-strike-banks-open-on-sunday-see-brisk-turnout/article71516522.ece",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T154500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike in Madhya Pradesh",
+      "companies_involved": [],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the banking operations in Madhya Pradesh?",
+        "Which companies rely on banking services in the affected region?",
+        "How might the strike impact cash flow for businesses in Madhya Pradesh?",
+        "Which downstream companies depend on financial transactions facilitated by banks in the region?"
+      ],
+      "reason": "The three-day bank strike in Madhya Pradesh could disrupt financial transactions and services, impacting businesses that rely on banking operations for their supply chain activities.",
+      "summary": "A three-day bank strike in Madhya Pradesh is set to disrupt banking operations, potentially affecting businesses that rely on these services. This could lead to delays in financial transactions and impact supply chain activities in the region.",
+      "title": "एमपी में रविवार को 7000 बैंक शाखाएं खुलीं , सोमवार से 3 दिन हड़ताल",
+      "url": "https://www.palpalindia.com/2026/09/27/madhya-pradesh-Jabalpur-7000-bank-branches-open-on-Sunday-3-day-strike-from-Monday.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T141500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike in India",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies rely on banking services for transactions during the strike?",
+        "What impact will the strike have on inter-bank transactions and cheque clearing?",
+        "Which regions in India are most affected by the bank strike?",
+        "How will the strike affect the availability of cash and digital payment services?"
+      ],
+      "reason": "The nationwide bank strike will disrupt banking operations, affecting services such as inter-bank transactions and cheque clearing, which are critical for supply chain financing and logistics.",
+      "summary": "A three-day nationwide bank strike in India is set to disrupt banking operations, particularly affecting public sector and regional rural banks. This could lead to delays in financial transactions and services essential for supply chain activities.",
+      "title": "Is bank strike cancelled : Check latest update on September 28 - 30 bank strike , which banks will be affected and what services may be impacted",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/is-bank-strike-cancelled-check-latest-update-on-september-28-30-bank-strike-which-banks-will-be-affected-and-what-services-may-be-impacted/articleshow/134515951.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's remarks on terrorism response",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses PM Modi's remarks on terrorism and does not provide any information related to supply chain activities, logistics, or production that would indicate a disruption.",
+      "summary": "The article focuses on Prime Minister Modi's reflections on India's counter-terrorism policy and does not relate to any supply chain disruptions. There are no implications for companies, industries, or supply chain activities mentioned.",
+      "title": "PM Modi recalls 2016 surgical strikes on Mann Ki Baat , says terrorism will get decisive response",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike Impacting Services",
+      "companies_involved": [
+        "State Bank of India (SBI)"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies depend on banking services for transactions?",
+        "How will the strike impact the availability of financial services in metropolitan areas?",
+        "Which regions may experience delays in check clearing due to the strike?",
+        "What are the potential impacts on companies relying on ATM services during the strike?"
+      ],
+      "reason": "The bank strike poses a significant risk to banking operations, which can disrupt financial transactions, check clearing, and overall banking services, thereby affecting supply chain activities reliant on these services.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking operations, potentially affecting financial transactions and services. The State Bank of India has indicated that while some services may remain available, the overall impact on banking operations could significantly affect supply chain activities dependent on these services.",
+      "title": "നാളെ മുതൽ ബാങ്ക് പണിമുടക്ക് ; എടിഎമ്മുകളും ഡിജിറ്റൽ സേവനങ്ങളും ലഭ്യമാക്കുമെന്ന് എസ്ബിഐ",
+      "url": "https://janayugomonline.com/bank-strike-starts-tomorrow-sbi-says-atms-and-digital-services-will-remain-available/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Viral Kohli's Cricket Milestone",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cricket milestone achieved by a player and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights Virat Kohli's achievement in cricket, marking him as the fastest player to reach 15,000 runs in One Day Internationals. It does not pertain to any supply chain disruption or related activities.",
+      "title": "कोहलीको ५५औँ शतक , एकदिवसीयमा सबैभन्दा छिटो १५ हजार रन पूरा गर्ने खेलाडी | Nepal first 24 - hour updated news portal",
+      "url": "https://www.ratopati.com/story/595368/kohlis-55th-century-fastest-to-reach-15000-runs-in-odis",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike in India",
+      "companies_involved": [
+        "State Bank of India",
+        "Canara Bank"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies depend on banking services for their operations during the strike?",
+        "What impact will the strike have on companies that rely on cash transactions?",
+        "Which regions in India are most dependent on physical banking services?",
+        "How will the strike affect the financial transactions of companies with time-sensitive operations?"
+      ],
+      "reason": "The bank strike in India will disrupt branch-based banking services, affecting transactions that require staff assistance, which can impact businesses relying on timely banking operations.",
+      "summary": "A nationwide bank strike in India from September 28 to 30 is expected to disrupt branch-based banking services, particularly affecting cash transactions and documentation. This could have significant implications for businesses that depend on timely banking operations during this critical period.",
+      "title": "Bank Strike From September 28 To 30 : Why Are Bank Employees Striking And Which Services Will Be Affected ? ",
+      "url": "https://www.boldsky.com/insync/bank-strike-from-september-28-to-30-why-are-bank-employees-striking-which-services-will-be-affected-173001.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Bank of India",
+        "United Forum of Bank Unions"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the uninterrupted functioning of banks during the strike?",
+        "Which downstream companies rely on banking services for their operations?",
+        "What impact will the strike have on the supply chain of financial transactions?",
+        "Which regions in India are most exposed to disruptions in banking services due to the strike?"
+      ],
+      "reason": "The proposed nationwide bank strike could disrupt banking services, affecting financial transactions and operations that rely on banking support, thus impacting supply chain activities.",
+      "summary": "A three-day nationwide bank strike in India is proposed, which could disrupt banking services and affect various supply chain activities reliant on financial transactions. The government is taking measures to keep banks operational before the strike to mitigate potential disruptions.",
+      "title": "Banks open today : Are banks open or closed on Sunday , September 27 , ahead of a 3 - day strike",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/banks-open-today-are-banks-open-or-closed-on-sunday-september-27-ahead-of-a-3-day-strike/articleshow/134515612.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "ICICI Bank",
+        "HDFC Bank",
+        "Axis Bank",
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected public sector banks?",
+        "What impact will the strike have on cash flow for companies relying on banking services?",
+        "Which downstream companies depend on services from the affected banks?",
+        "How will the strike affect the logistics of cash handling and transactions?"
+      ],
+      "reason": "The nationwide bank strike will disrupt banking services, particularly affecting public sector banks and their customers, which can lead to delays in transactions and impact businesses relying on these services.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking services for three days, particularly affecting public sector banks. This disruption may impact businesses that rely on these banks for essential transactions and services.",
+      "title": "Nationwide bank strike from tomorrow : Will online services still work ? Which banks will be open ? Key details",
+      "url": "https://www.hindustantimes.com/india-news/bank-strike-tomorrow-nationwide-will-online-services-work-which-banks-open-hdfc-icici-axis-bank-ufbu-latest-news-101790519555537.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T154500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "IndiGo Flight Tail Strike Incident",
+      "companies_involved": [
+        "IndiGo"
+      ],
+      "industries_involved": [
+        "Aviation"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The incident involved a single flight's operational issue but did not result in broader supply chain impacts, as operations continued without disruption at the airport.",
+      "summary": "An IndiGo flight experienced a tail strike during landing, prompting an investigation by aviation authorities. However, the incident did not affect overall airport operations or supply chain activities.",
+      "title": "IndiGo Guwahati - Bengaluru flight suffers tail strike during second landing approach",
+      "url": "https://www.moneycontrol.com/news/india/indigo-guwahati-bengaluru-flight-suffers-tail-strike-during-second-landing-approach-14039424.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's Address on Various Issues",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses PM Modi's address on various social and national issues without any direct connection to supply chain activities or disruptions.",
+      "summary": "The article covers PM Modi's discussion on Gen Z issues and national achievements, including references to past military actions and social initiatives. It does not present any information related to supply chain disruptions.",
+      "title": "Mann Ki Baat | PM Modi Discusses Gen - Z Issues & Asian Games Success",
+      "url": "https://divyamarathi.bhaskar.com/national/news/mann-ki-baat-pm-modi-discusses-gen-z-issues-asian-games-success-139164908.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PM Modi's remarks on terrorism and 9/11",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "United States",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses historical events related to terrorism and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article features PM Modi's reflections on the 9/11 attacks and India's experiences with terrorism. It does not present any information that would indicate a supply chain disruption.",
+      "title": "  Highest number of victims after Americans , were Indians : PM Modi recalls 9 / 11 attacks",
+      "url": "https://news.webindia123.com/news/Articles/World/20260927/4504064.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T120000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Integration of Rudram-1 with Rafale",
+      "companies_involved": [
+        "Dassault Aviation",
+        "Defence Research and Development Organisation (DRDO)"
+      ],
+      "industries_involved": [
+        "Aerospace",
+        "Defense"
+      ],
+      "countries_involved": [
+        "India",
+        "France"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Dassault Aviation may be affected by the integration of Rudram-1?",
+        "What manufacturing relationships exist between DRDO and Indian aerospace companies?",
+        "Which countries are potential markets for the Rudram-1 missile?",
+        "What supply-chain dependencies exist between the Rafale aircraft and the Rudram-1 missile?",
+        "Which downstream defense contractors may be impacted by the integration of the Rudram-1?"
+      ],
+      "reason": "The integration of the Rudram-1 missile with the Rafale aircraft represents a significant operational change that could affect supply chain dynamics in the aerospace and defense sectors, particularly in terms of manufacturing and potential exports.",
+      "summary": "India's development of the Rudram-1 missile for integration with the Rafale aircraft signifies a strategic enhancement in its defense capabilities. This operational change could impact supply chains related to aerospace manufacturing and international defense trade.",
+      "title": "Rafale and Rudram - 1 : India Eyes Indigenous Anti - Radiation Strike Capability",
+      "url": "https://idrw.org/rafale-and-rudram-1-india-eyes-indigenous-anti-radiation-strike-capability/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India-Pakistan Tensions Over Terrorism",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions between India and Pakistan?",
+        "Which logistics operations could be disrupted due to heightened military readiness in the region?",
+        "Which countries or regions may be impacted by trade restrictions resulting from geopolitical tensions?",
+        "Which downstream companies in the defense industry may face exposure due to these geopolitical risks?"
+      ],
+      "reason": "The article discusses heightened military tensions between India and Pakistan, which could lead to disruptions in defense logistics and trade, impacting supply chains in the defense sector.",
+      "summary": "The article highlights escalating tensions between India and Pakistan regarding terrorism, which may lead to geopolitical disruptions. This situation could affect defense logistics and trade operations in the region.",
+      "title": "India ready for  every kind of strike  against terrorism : Defence minister Rajnath Singh warns Pakistan",
+      "url": "https://www.hindustantimes.com/india-news/rajnath-singh-warns-pakistan-india-ready-for-every-kind-of-strike-against-terrorism-101790494466240.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Three-Day Bank Strike in Jammu",
+      "companies_involved": [
+        "Various banks in India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected banks?",
+        "Which regions in India are most impacted by the banking strike?",
+        "Which downstream companies rely on banking services from the affected banks?",
+        "How might this strike affect the liquidity of companies relying on bank transactions?"
+      ],
+      "reason": "The nationwide strike by bank employees disrupts banking operations, which can impact financial transactions and services critical to supply chain activities.",
+      "summary": "A three-day strike by bank employees in Jammu is set to disrupt banking operations across India. This could affect financial transactions and services essential for various supply chain activities, leading to potential delays and operational challenges for businesses relying on banking services.",
+      "title": "Customers Rush To Banks In Jammu Ahead Of Three - Day Strike From Monday",
+      "url": "https://www.dailyexcelsior.com/customers-rush-to-banks-in-jammu-ahead-of-three-day-strike-from-monday/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Banks Open on Sunday",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses banks being open on a Sunday, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article states that banks will remain open on Sunday, which does not indicate any supply chain disruption. There are no relevant companies, industries, or countries involved that would impact supply chain activities.",
+      "title": "नो टेन्शन ! आज बँका सुरू राहणार",
+      "url": "https://www.saamana.com/banks-will-remain-open-on-sunday/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike for Employee Rights",
+      "companies_involved": [
+        "Various Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the banks may be affected by the strike?",
+        "Which banking operations depend on the affected employees?",
+        "Which regions in India are most impacted by the strike?",
+        "Which downstream companies rely on banking services from the affected banks?",
+        "How might this strike affect the logistics of financial transactions?"
+      ],
+      "reason": "The bank strike represents a labor disruption that can impact banking operations, affecting financial transactions and services that are critical to supply chain activities.",
+      "summary": "A strike by bank employees in India aims to protect their rights, potentially disrupting banking operations. This could affect financial transactions and services essential for various supply chain activities.",
+      "title": "ఉద్యోగుల హక్కుల కాపాడుకునేందుకే  బ్యాంకు  ల సమ్మె",
+      "url": "https://www.prajasakti.com/latest-news/state-latest-news/banks-strike-to-protect-employees-rights",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike Impacting Banking Services",
+      "companies_involved": [
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies depend on banking services for their operations?",
+        "What impact will the bank closure have on cash flow for businesses in the region?",
+        "Which regions are most dependent on the affected banks for financial transactions?",
+        "How will the strike affect the supply chain of companies relying on banking services?"
+      ],
+      "reason": "The planned bank strike will disrupt banking operations, affecting cash flow and financial transactions for businesses, which can lead to broader supply chain impacts.",
+      "summary": "A nationwide bank strike in India is set to disrupt banking services for three days, potentially impacting cash flow and financial transactions for businesses. This disruption could have significant implications for companies relying on banking services for their supply chain operations.",
+      "title": "Bank Closed : ਹੜਤਾਲ ਤੋਂ ਪਹਿਲਾਂ ਐਤਵਾਰ ਨੂੰ ਵੀ ਖੁੱਲ੍ਹੇ ਰਹੇ ਬੈਂਕ ; ਭਲਕ ਤੋਂ ਤਿੰਨ ਦਿਨ ਲਈ ਬੈਂਕ ਬੰਦ",
+      "url": "https://www.punjabitribuneonline.com/news/punjab/bank-closed-banks-remain-open-on-sunday-before-the-strike-banks-will-be-closed-for-three-days-from-tomorrow/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike",
+      "companies_involved": [
+        "Public Sector Banks",
+        "Regional Rural Banks",
+        "Private Sector Banks"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which downstream companies rely on banking services for their operations?",
+        "What impact will the strike have on cash flow for companies dependent on physical banking services?",
+        "Which regions in India are most affected by the bank strike?",
+        "How will the strike affect loan processing for businesses that rely on bank financing?"
+      ],
+      "reason": "The bank strike disrupts essential banking operations, affecting cash transactions, loan processing, and other services that are critical for businesses and supply chain activities.",
+      "summary": "A three-day bank strike in India from September 28 to 30 is expected to disrupt various banking services, particularly affecting public sector and regional rural banks. This disruption may impact businesses that rely on physical banking operations for transactions and financing.",
+      "title": "Bank strike September 28 - 30 : What services will be affected and what will continue",
+      "url": "https://www.moneycontrol.com/banking/bank-strike-september-28-30-what-services-will-be-affected-and-what-will-continue-article-14039255.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Bank Strike in India",
+      "companies_involved": [
+        "State Bank of India",
+        "ICICI Bank",
+        "HDFC Bank",
+        "Axis Bank"
+      ],
+      "industries_involved": [
+        "Banking",
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the services of the affected banks?",
+        "How might the strike impact cash flow for companies relying on banking services?",
+        "Which regions in India are most affected by the banking strike?",
+        "Which downstream companies depend on transactions processed by the affected banks?"
+      ],
+      "reason": "The bank strike will disrupt banking operations, affecting cash withdrawals, check clearances, and other financial transactions, which are critical for supply chain activities.",
+      "summary": "A three-day bank strike in India is set to disrupt banking operations, impacting cash transactions and financial services. This could have significant implications for businesses relying on these banking services for their supply chain activities.",
+      "title": "Bank Strike : सोमवार से 3 दिन तक बैंकों के काम - काज पर ब्रेक ! हड़ताल पर रहेंगे कर्मचारी , क्या है मांग ? ",
+      "url": "https://www.livehindustan.com/business/personal-investments/bank-strike-from-28-to-30-september-what-are-key-demands-check-here-201790522569324.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Banking Union Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "ICICI Bank",
+        "HDFC Bank",
+        "Axis Bank"
+      ],
+      "industries_involved": [
+        "Banking",
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial institutions depend on the services of the affected banks?",
+        "What impact will the strike have on cash flow for businesses relying on banking services?",
+        "Which regions in India are most affected by the banking strike?",
+        "How will the strike affect the operations of companies that rely on cash transactions?"
+      ],
+      "reason": "The strike by bank unions directly impacts banking operations, affecting services such as check clearance, cash withdrawals, and deposits, which are critical to supply chain activities.",
+      "summary": "A three-day nationwide strike by bank unions in India is set to disrupt banking services, potentially affecting cash flow and transactions for businesses. The strike highlights ongoing labor disputes over work conditions and could lead to further disruptions if an indefinite strike is initiated.",
+      "title": "बैंक यूनियनों की तीन दिवसीय हड़ताल शुरू , 26 अक्टूबर से अनिश्चितकालीन हड़ताल की चेतावनी - bank unions three day strike begins warning of an indefinite strike from octob",
+      "url": "https://www.punjabkesari.in/national/news/bank-unions--three-day-strike-begins-warning-of-an-indefinite-strike-from-octob-2383855",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260927T151500Z"
     }
   ]
 }
