@@ -63,7 +63,7 @@ jobs:
           ls -lah data
 
           echo "=== Agent 2 JSON ==="
-          ls -lah data/agent2_kg.json
+          ls -lah data/agent2_results.json
 
       # --------------------------------------------------------
       # 6. Agent 5 실행
