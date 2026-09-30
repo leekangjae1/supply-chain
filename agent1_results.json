@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T15:44:15Z",
-  "total_count": 8603,
+  "updated_at": "2026-09-30T00:15:41Z",
+  "total_count": 8645,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -234437,6 +234437,1048 @@
       "gdelt_country": "India",
       "gdelt_keyword": "hurricane",
       "published_at": "20260929T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volkswagen Labor Negotiations and Potential Strike",
+      "companies_involved": [
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by labor disruptions?",
+        "Which manufacturing facilities are impacted by the ongoing negotiations?",
+        "What is the potential impact on production schedules if a strike occurs?",
+        "Which regions are most vulnerable to disruptions in Volkswagen's supply chain?",
+        "Which downstream companies rely on vehicles produced at the affected plant?"
+      ],
+      "reason": "The ongoing labor negotiations and the potential for a strike at Volkswagen's plant in Puebla could disrupt production and assembly operations, impacting the supply chain for the automotive industry.",
+      "summary": "Volkswagen is currently engaged in labor negotiations that may lead to a strike, affecting its production capabilities in Mexico. This situation poses a risk to the supply chain, particularly for the automotive sector, due to potential disruptions in manufacturing and assembly operations.",
+      "title": "Volkswagen eleva propuesta de alza salarial . - Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/economia/eleva-volkswagen-oferta-de-incremento-global-pero-condiciona-revision-a-24-meses/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Baja California Sur and Sonora that may be affected by Hurricane Polo?",
+        "Which logistics companies are responsible for transportation in the impacted regions?",
+        "What construction projects in the affected areas may face delays due to the hurricane?",
+        "Which downstream companies rely on goods transported through the affected regions?",
+        "How might the hurricane impact energy supply chains in Mexico?"
+      ],
+      "reason": "The article discusses Hurricane Polo, which is expected to impact logistics and transportation in Mexico, particularly in Baja California Sur and Sonora, potentially disrupting supply chains in those areas.",
+      "summary": "Hurricane Polo is forecasted to make landfall in Mexico, impacting logistics and transportation in Baja California Sur and Sonora. This natural disaster could disrupt supply chains in the affected regions, particularly in logistics and construction industries.",
+      "title": "Resumen de la mañanera de Sheinbaum hoy 28 de septiembre de 2026",
+      "url": "https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-28-septiembre-2026",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact on Mexico",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico?",
+        "Which logistics companies may face disruptions due to the hurricane?",
+        "Which energy suppliers could be impacted by the electricity outages?",
+        "Which construction projects in Mexico may be delayed due to flooding?",
+        "Which downstream companies depend on logistics services in the affected areas?"
+      ],
+      "reason": "The hurricane has caused significant flooding and power outages, which can disrupt logistics, energy supply, and construction activities in Mexico, impacting various supply chain operations.",
+      "summary": "Hurricane Polo has severely impacted Mexico with flooding and power outages. This natural disaster poses risks to logistics, energy supply, and construction industries, potentially disrupting supply chains in the region.",
+      "title": "Inondations , électricité coupée … Louragan Polo frappe durement le Mexique avec des vents allant jusqu  à 175 km / h",
+      "url": "https://www.leparisien.fr/www.leparisien.fr/meteo/inondations-electricite-coupee-louragan-polo-frappe-durement-le-mexique-avec-des-vents-allant-jusqua-175-kmh-29-09-2026-OM63FD7J7NAU5EXB6AXD7X4NMA.php",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T120000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Potential strike at Volkswagen Mexico",
+      "companies_involved": [
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by a potential strike?",
+        "Which manufacturing facilities depend on Volkswagen's operations in Mexico?",
+        "What are the potential impacts on the supply chain of automotive parts in the region?",
+        "Which downstream companies rely on products from Volkswagen's manufacturing in Mexico?",
+        "How might labor negotiations impact the competitiveness of Volkswagen's operations?"
+      ],
+      "reason": "The article discusses a potential strike at Volkswagen Mexico, which could disrupt production and supply chain activities, affecting suppliers and the broader automotive industry in the region.",
+      "summary": "The article highlights the risk of a potential strike at Volkswagen Mexico, which could have significant implications for the automotive supply chain. Business leaders emphasize the need for dialogue to avoid disruptions that could impact employment and supplier networks.",
+      "title": "Piden evitar huelga en Volkswagen - Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/economia/llaman-coparmex-y-cce-al-dialogo-para-evitar-huelga-en-volkswagen-de-mexico/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Formation of Agricultural Support Association",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the establishment of an agricultural support association and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the formation of an agricultural support association in Taiwan, highlighting the support for farmers. There is no indication of a supply chain disruption related to this event.",
+      "title": "陳亭妃農業後援會成立 吳正仁盛讚 「 比農民更深入了解農民需要 」 ",
+      "url": "https://n.yam.com/Article/20260929591224",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Canada Trade Restrictions",
+      "companies_involved": [
+        "Canadian breweries",
+        "Canadian dairy producers",
+        "Canadian motorcycle manufacturers"
+      ],
+      "industries_involved": [
+        "Beverage",
+        "Dairy",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Canadian breweries may be affected by the US import ban?",
+        "Which manufacturing facilities in Canada depend on exports to the US?",
+        "Which downstream companies in the US rely on Canadian dairy products?",
+        "What are the potential impacts on logistics for transporting goods between the US and Canada?",
+        "Which regions in Canada are most exposed to the trade restrictions?"
+      ],
+      "reason": "The article discusses new trade restrictions imposed by the US on Canadian imports, which directly impacts supply chains related to beverages, dairy, and automotive parts, indicating a significant disruption in trade policy.",
+      "summary": "The US has implemented new trade restrictions on various Canadian imports, including beverages and motorcycle parts, signaling a potential disruption in supply chains between the two countries. This trade policy change could affect multiple industries and their associated suppliers and manufacturers.",
+      "title": "US Takes New Jab at Canada in Trade War",
+      "url": "https://www.newser.com/story/397250/us-takes-new-jab-at-canada-in-trade-war.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact on Baja California Sur",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Fishing"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of tourism services in Baja California Sur may be affected by the hurricane?",
+        "Which fishing companies operate in the affected region and could face disruptions?",
+        "What logistics operations are impacted by the suspension of maritime activities in the area?",
+        "Which downstream companies depend on tourism and fishing from Baja California Sur?",
+        "How might the hurricane affect supply chains related to energy and utilities in the region?"
+      ],
+      "reason": "The hurricane poses a significant threat to local infrastructure, tourism, and fishing industries, which are critical components of the supply chain in Baja California Sur.",
+      "summary": "Hurricane Polo has made landfall in Baja California Sur, Mexico, causing significant disruptions to local tourism and fishing industries. The storm's impact on infrastructure and maritime activities could lead to broader supply chain disruptions in the region.",
+      "title": "Louragan Polo frappe la côte pacifique du Mexique en catégorie 3",
+      "url": "https://www.larepubliquedespyrenees.fr:443/societe/afp/l-ouragan-polo-frappe-la-cote-pacifique-du-mexique-en-categorie-3-30831627.php",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Fishing",
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the fishing industry may be affected by the hurricane?",
+        "Which logistics companies operate in the affected regions of Baja California Sur?",
+        "What transportation routes are impacted by the hurricane's landfall?",
+        "Which downstream companies depend on products from the fishing industry in the affected area?",
+        "Which regions in the United States may experience supply chain disruptions due to the storm's aftermath?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, transportation, and fishing operations in the affected regions, leading to potential disruptions in supply chains.",
+      "summary": "Hurricane Polo is approaching the northwest coast of Mexico, threatening to cause flooding and disrupt logistics and fishing operations. The storm's impact may extend to the southwestern United States, further complicating supply chain activities.",
+      "title": "Viento azota costa noroeste de México y algunas calles se inundan mientras el huracán Polo se acerca",
+      "url": "https://diario.mx/nacional/2026/sep/29/viento-azota-costa-noroeste-de-mexico-y-algunas-calles-se-inundan-mientras-el-huracan-polo-se-acerca-1140665.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volkswagen Salary Negotiation Impact",
+      "companies_involved": [
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by labor negotiations?",
+        "Which manufacturing facilities in Mexico depend on the workforce involved in the salary negotiations?",
+        "What impact could the salary review timeline have on production schedules?",
+        "Which downstream companies rely on products manufactured by Volkswagen in Mexico?",
+        "How might changes in labor costs affect Volkswagen's supply chain pricing strategies?"
+      ],
+      "reason": "The article discusses a salary increase and a review period for Volkswagen's workforce, which could lead to labor disruptions affecting production and operations in the automotive supply chain.",
+      "summary": "Volkswagen has proposed a slight salary increase for its workers in Mexico but is seeking a review in 24 months. This situation may lead to potential labor disruptions that could impact production and supply chain operations.",
+      "title": "Volkswagen eleva ligeramente oferta salarial , pero ahora quiere revisión en 24 meses",
+      "url": "https://www.lajornadadeoriente.com.mx/puebla/volkswagen-eleva-ligeramente-oferta-salarial-pero-ahora-quiere-revision-en-24-meses/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T200000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Elderly couple's dream to ride the high-speed train",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a personal story about an elderly couple fulfilling their dream of riding a high-speed train, with no meaningful connection to supply chain activities.",
+      "summary": "The article highlights a heartwarming story of an elderly couple who achieved their dream of riding the high-speed train. It does not present any information related to supply chain disruptions.",
+      "title": "高鐵台南站關懷長輩 耄耋夫妻圓夢搭高鐵",
+      "url": "https://n.yam.com/Article/20260929398935",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact on Baja California",
+      "companies_involved": [],
+      "industries_involved": [
+        "Fishing",
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Baja California are at risk due to Hurricane Polo?",
+        "Which logistics operations may be disrupted by the closure of ports in the region?",
+        "What transportation routes are affected by the storm's impact?",
+        "Which downstream companies rely on fishing operations in the affected area?",
+        "How might the storm impact trade routes between Mexico and the United States?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, transportation, and fishing industries in the affected regions, leading to potential disruptions in supply chains.",
+      "summary": "Hurricane Polo is approaching Baja California, causing evacuations and the suspension of non-essential activities. The storm is expected to disrupt logistics and transportation in the region, impacting supply chains in both Mexico and the United States.",
+      "title": "Viento azota costa noroeste de México y algunas calles se inundan mientras el huracán Polo se acerca",
+      "url": "https://www.eldiariodechihuahua.mx/nacional/2026/sep/29/viento-azota-costa-noroeste-de-mexico-y-algunas-calles-se-inundan-mientras-el-huracan-polo-se-acerca-842163.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Whitney Museum Workers Strike",
+      "companies_involved": [
+        "Whitney Museum of American Art"
+      ],
+      "industries_involved": [
+        "Arts and Culture"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Whitney Museum may be affected by the strike?",
+        "Which production or operational activities at the Whitney Museum could be disrupted?",
+        "What other cultural institutions in the area may face similar labor disruptions?",
+        "Which downstream companies or operations depend on the Whitney Museum for events or exhibitions?",
+        "How might this strike impact logistics and transportation related to the Lichtenstein exhibition?"
+      ],
+      "reason": "The strike by unionized workers at the Whitney Museum represents a labor disruption that could affect operations, logistics, and the scheduling of exhibitions, thereby impacting the supply chain of cultural events and related services.",
+      "summary": "Unionized workers at the Whitney Museum are preparing to strike, which could disrupt operations and logistics related to upcoming exhibitions. This labor action may have broader implications for the arts and culture sector in the United States.",
+      "title": "Whitney Museum Workers Declare Strike",
+      "url": "https://hyperallergic.com/whitney-museum-workers-declare-strike/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Attacks on Journalists and Human Rights Defenders in Mexico",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses violence against journalists and human rights defenders, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a campaign against journalists and human rights defenders in Mexico, detailing potential international legal implications for the government. However, it does not indicate any direct supply chain disruptions or impacts on companies or industries.",
+      "title": "  Una campaña contra crítico : la ruta que podría llevar al gobierno de AMLO ante la justicia internacional por ataques a periodistas y defensores",
+      "url": "https://aristeguinoticias.com/2809/investigaciones-especiales/una-campana-contra-criticos-la-ruta-que-podria-llevar-al-gobierno-de-amlo-ante-la-justicia-internacional-por-ataques-a-periodistas-y-defensores-por-marcos-martinez-chacon/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T163000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural event showcasing traditional boat-making",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural event related to traditional boat-making and does not indicate any disruptions or impacts on supply chain activities.",
+      "summary": "The article highlights a cultural event in Taiwan where traditional boat-making skills are being showcased. It does not present any information related to supply chain disruptions or impacts on industries or companies.",
+      "title": "海委會攜手都歷部落 「 Torik Katomayan 」 竹筏帆船揚帆啟航 阿美族造舟技藝再現海洋文化生命力",
+      "url": "https://n.yam.com/Article/20260929110871",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Cyclone Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Hospitality"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the affected region of Sonora?",
+        "Which transportation routes may be disrupted due to Cyclone Polo?",
+        "Which hotels and hospitality services are located in areas likely to be affected by the cyclone?",
+        "What suppliers in the region may be impacted by the cyclone's effects?",
+        "Which downstream companies depend on transportation services in the affected areas?"
+      ],
+      "reason": "The article discusses the impending impact of Cyclone Polo, which is expected to affect logistics, transportation, and hospitality services in the region, indicating potential disruptions in supply chain activities.",
+      "summary": "Cyclone Polo is forecasted to impact the region of Sonora, Mexico, leading to potential disruptions in logistics and transportation. The article highlights the preparations being made in anticipation of the cyclone's effects on local services and infrastructure.",
+      "title": "Entre Nos : columna de Mr . X del 28 de septiembre de 2026",
+      "url": "https://www.expreso.com.mx/expresion/entre-nos/entre-nos-columna-de-mr-x-del-28-de-septiembre-de-2026/265329",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "LOOP FORUM",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a forum event focused on entrepreneurship and practical experiences, which does not have a direct connection to supply chain activities.",
+      "summary": "The article reports on a forum featuring speakers from Japan, South Korea, and Malaysia discussing entrepreneurship and practical experiences. It does not indicate any supply chain disruptions or impacts on supply chain activities.",
+      "title": "LOOP FORUM 洄瀾行動引擎雙日論壇豪華陣容 日韓馬重磅講者齊聚花蓮 跨國解密青創與地創實務經驗",
+      "url": "https://n.yam.com/Article/20260929227351",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Suspension of activities at Nacional Monte de Piedad",
+      "companies_involved": [
+        "Nacional Monte de Piedad"
+      ],
+      "industries_involved": [
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nacional Monte de Piedad may be affected by the suspension of activities?",
+        "Which financial services operations depend on the ability to retrieve pledged items?",
+        "What are the implications for customers who have outstanding loans with Nacional Monte de Piedad?",
+        "Which downstream companies rely on the services provided by Nacional Monte de Piedad?",
+        "How does the suspension impact the logistics of item retrieval for customers?"
+      ],
+      "reason": "The suspension of activities at Nacional Monte de Piedad due to a strike directly affects the ability of customers to retrieve their pledged items, impacting the operational flow of the financial services industry.",
+      "summary": "The article discusses the operational disruption at Nacional Monte de Piedad caused by a strike, preventing customers from retrieving their pledged items. This situation highlights the impact on financial services and customer relations in Mexico.",
+      "title": "Monte de Piedad : ¿ cómo recuperar una prenda que ya pagaste ? ",
+      "url": "https://laverdadnoticias.com/dinero-inteligente/finanzas-personales/monte-de-piedad-recuperar-prenda-3",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Canada Trade Tensions and Import Bans",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Beverages",
+        "Dairy",
+        "Motorcycles",
+        "Steel",
+        "Aluminum",
+        "Automotive",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Canadian agricultural products may be affected by the US import bans?",
+        "Which manufacturing facilities in Canada depend on exports to the US?",
+        "Which companies in the US rely on Canadian steel and aluminum?",
+        "What are the potential impacts on logistics and transportation routes between the US and Canada?",
+        "Which downstream companies in the US may be exposed to increased costs due to tariffs on Canadian goods?"
+      ],
+      "reason": "The article discusses impending import bans and tariffs imposed by the US on Canadian products, which directly affect trade and supply chain activities between the two countries.",
+      "summary": "The article highlights escalating trade tensions between the US and Canada, with impending import bans on Canadian goods. This situation poses significant risks to various industries and could disrupt supply chains reliant on cross-border trade.",
+      "title": "Trump sattend à conclure un accord avec le Canada dici quelques semaines",
+      "url": "https://www.ledevoir.com/economie/1012754/trump-attend-conclure-accord-canada-ici-quelques-semaines",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Promotion of sheltered workshops transition",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a program promoting the transition of sheltered workshops to regular workplaces, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines a government initiative in Taiwan aimed at integrating individuals from sheltered workshops into the general workforce. This initiative does not indicate any immediate supply chain disruptions or impacts on related industries.",
+      "title": "從庇護工場到一般職場 一步一步走出自己的工作路 勞工局推動庇護轉銜 歡迎企業加入試辦計畫",
+      "url": "https://n.yam.com/Article/20260929645661",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "90th Anniversary of the Long March Art Exhibition",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural event commemorating a historical event and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on an art exhibition celebrating the 90th anniversary of the Long March in China. It focuses on cultural and historical themes without any implications for supply chain disruptions.",
+      "title": "  雄关漫道真如铁  纪念中国工农红军长征胜利90周年主题书画邀请展在宁开幕",
+      "url": "https://www.yangtse.com/news/wy/202609/t20260928_397867.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T153000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AFCON 2027 Qualification Pressure",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Egypt",
+        "Senegal",
+        "Ghana",
+        "Côte d'Ivoire",
+        "Mozambique",
+        "South Sudan",
+        "Morocco",
+        "Nigeria",
+        "Cameroon",
+        "Algeria",
+        "Cape Verde",
+        "Malawi"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses football matches and the performance of national teams, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the performance of national football teams in the AFCON qualifiers and does not present any supply chain disruption. There are no relevant companies or industries affected by the events described.",
+      "title": "Egypt , Senegal and Ghana face pressure to relaunch drive for 2027 AFCON",
+      "url": "https://www.aol.co.uk/articles/egypt-senegal-ghana-face-pressure-093939000.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Port Development in Nicaragua",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Maritime"
+      ],
+      "countries_involved": [
+        "Nicaragua"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies may be affected by the development of the Bluefields port?",
+        "What logistics operations depend on the Bluefields port for transportation?",
+        "Which suppliers may utilize the new port facilities for shipping goods?",
+        "How might the development of the port impact trade routes in the region?",
+        "Which downstream companies rely on maritime logistics in Nicaragua?"
+      ],
+      "reason": "The ongoing construction of a deep-water port in Nicaragua represents a significant logistics development that could impact supply chain operations in the region, particularly in terms of shipping and transportation.",
+      "summary": "The article highlights the advancement of construction at the Bluefields deep-water port in Nicaragua, which could enhance logistics capabilities in the region. This development may affect shipping routes and supply chain operations reliant on maritime transport.",
+      "title": "Primera lista de principales temas del día de Prensa Latina",
+      "url": "https://www.prensa-latina.cu/2026/09/29/primera-lista-de-principales-temas-del-dia-de-prensa-latina-222/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Canada Trade Agreement Negotiations and Import Bans",
+      "companies_involved": [
+        "Canadian dairy producers",
+        "Canadian alcohol producers",
+        "Canadian motorcycle manufacturers"
+      ],
+      "industries_involved": [
+        "Dairy",
+        "Alcohol",
+        "Motorcycle Manufacturing",
+        "Steel",
+        "Aluminum",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Canadian dairy and alcohol producers may be affected by the import bans?",
+        "Which manufacturing facilities in Canada depend on exports to the US?",
+        "What are the potential impacts on Canadian automotive manufacturers due to US tariffs?",
+        "Which downstream companies in the US rely on products from Canadian suppliers facing import restrictions?",
+        "How might the trade negotiations affect supply chain relationships between US and Canadian companies?"
+      ],
+      "reason": "The article discusses impending import bans and ongoing trade negotiations between the US and Canada, which directly impact trade, manufacturing, and supply chain activities between the two countries.",
+      "summary": "The article highlights the potential for a trade agreement between the US and Canada amidst new import bans on Canadian products. This situation poses significant risks to various industries, including dairy, alcohol, and automotive, due to the ongoing trade tensions and tariffs.",
+      "title": "Trump sattend à conclure un accord avec le Canada dici quelques semaines",
+      "url": "https://lactualite.com/actualites/trump-sattend-a-conclure-un-accord-avec-le-canada-dici-quelques-semaines/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Art Exhibition Opening",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an art exhibition commemorating a historical event and does not mention any supply chain activities, disruptions, or impacts on logistics, production, or trade.",
+      "summary": "The article reports on the opening of an art exhibition in China celebrating the 90th anniversary of the Long March. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "以笔墨为媒 ， 以丹青为语 ！ 纪念中国工农红军长征胜利90周年主题书画邀请展在宁开幕",
+      "url": "https://www.163.com/dy/article/L7USKL62053469KC.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "School Disaster Preparedness Education",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses educational initiatives to enhance children's resilience to extreme weather but does not indicate any direct impact on supply chain activities.",
+      "summary": "The article focuses on improving disaster preparedness education for children in response to extreme weather conditions. It does not present a direct supply chain disruption or impact on any specific companies or industries.",
+      "title": "極端氣候下強化孩子應變力 明台產險深化校園防災教育",
+      "url": "https://n.yam.com/Article/20260929517698",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Oracle Project Jupiter Force Majeure",
+      "companies_involved": [
+        "Oracle",
+        "OpenAI"
+      ],
+      "industries_involved": [
+        "Data Center",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Oracle are affected by the energy permit delays?",
+        "Which manufacturing or production relationships may be impacted by the inability to secure power for Project Jupiter?",
+        "Which countries or regions create exposure for Oracle's energy supply chain?",
+        "Which supply-chain dependencies could transmit the disruption to other data center projects?",
+        "Which downstream companies depend on the data services provided by Oracle's Project Jupiter?"
+      ],
+      "reason": "The invocation of force majeure by Oracle due to energy permit issues directly impacts the construction and operation of a major data center, affecting supply chain activities related to energy supply and project financing.",
+      "summary": "Oracle's invocation of force majeure for its Project Jupiter data center highlights significant disruptions in energy supply and regulatory challenges. This situation not only affects Oracle but also poses risks to the broader AI data center industry due to potential copycat claims and delays in energy infrastructure.",
+      "title": "Oracle Force Majeure Reveals the AI Bubble First Real Crack – NaturalNews . com",
+      "url": "https://naturalnews.com/2026-09-28-oracle-force-majeure-ai-bubble-real-crack.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not describe any event that has a meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article is a historical overview of events that occurred on September 29th throughout history and does not pertain to any current supply chain disruptions.",
+      "title": "Efemérides de hoy 29 de septiembre de 2026 : ¿ Qué pasó el 29 de septiembre ? ",
+      "url": "https://www.antena3.com/noticias/sociedad/efemerides-hoy-29-septiembre-2026-que-paso-29-septiembre_202609296abb37e382932a3cf91ca590.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact on Baja California Sur",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Fishing"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of tourism services operate in Baja California Sur?",
+        "Which fishing companies are based in the affected region?",
+        "What logistics companies service the Baja California Sur area?",
+        "Which downstream businesses depend on tourism in Puerto San Carlos?",
+        "How might the hurricane impact supply chains for goods transported through affected ports?"
+      ],
+      "reason": "The hurricane poses a significant threat to local infrastructure, tourism, and fishing industries, which are critical to the economy and supply chains in the region.",
+      "summary": "Hurricane Polo has made landfall in Baja California Sur, Mexico, causing severe disruptions to local infrastructure and economic activities. The storm's impact on tourism and fishing industries could lead to significant supply chain disruptions in the region.",
+      "title": "Louragan Polo frappe la côte pacifique du Mexique en catégorie 3",
+      "url": "https://www.martinique.franceantilles.fr/actualite/international/louragan-polo-frappe-la-cote-pacifique-du-mexique-en-categorie-3-1094481.php",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical Overview of U.S. Navy Battleships",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article provides a historical overview of U.S. Navy battleships and does not discuss any current or potential supply chain disruptions related to manufacturing, logistics, or trade.",
+      "summary": "The article details the history and specifications of various classes of U.S. Navy battleships from WWI and WWII. It does not present any information relevant to current supply chain disruptions.",
+      "title": "Every Class Of Battleship The U . S . Navy Operated In WWI And WWII",
+      "url": "https://www.slashgear.com/2266326/us-navy-battleship-classes-wwi-wwii/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T200000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "2026 Beijing Cultural Forum",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Mexico",
+        "Peru",
+        "Italy"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses cultural heritage and international cooperation in cultural exchanges, with no direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers the 2026 Beijing Cultural Forum, focusing on cultural heritage and international collaboration. It does not present any significant supply chain disruptions or risks related to supply chain activities.",
+      "title": "守护文明瑰宝 推进交流互鉴 -- 国际 -- 人民网",
+      "url": "http://world.people.com.cn/n1/2026/0929/c1002-40807247.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Autonomous Weapons Treaty Negotiations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "Nigeria",
+        "Austria",
+        "Belgium",
+        "Brazil",
+        "Mexico",
+        "Philippines"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses international treaty negotiations regarding autonomous weapons and a specific incident involving a drone strike in Ukraine. While it touches on military technology and geopolitical implications, it does not directly impact supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers a significant development in international negotiations on autonomous weapons following a drone strike in Ukraine. However, it does not present a direct supply chain disruption related to manufacturing, logistics, or trade activities.",
+      "title": "AI Drone Killed Ukraine Civilians Without Human Order : Ministers Back Autonomous Weapons Treaty",
+      "url": "https://www.techtimes.com/articles/328213/20260929/ai-drone-killed-ukraine-civilians-without-human-order-ministers-back-autonomous-weapons-treaty.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Trade War",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade policy between the US and China?",
+        "Which manufacturing or production relationships may be impacted by tariffs or trade restrictions?",
+        "Which countries or regions create exposure due to reliance on US-China trade?",
+        "Which supply-chain dependencies could transmit disruptions from the US-China trade war?",
+        "Which downstream companies may be exposed to increased costs or delays due to trade policy changes?"
+      ],
+      "reason": "The article discusses the US-China trade war, which has significant implications for supply chains, including potential tariffs and trade restrictions that can affect manufacturing, logistics, and sourcing.",
+      "summary": "The article highlights President Trump's assertion that the US will benefit from the ongoing trade war with China. This situation poses potential risks to supply chains, particularly in manufacturing and logistics, due to changing trade policies.",
+      "title": "Guerre commerciale : les États - Unis « vont tout gagner », dit Trump",
+      "url": "https://www.lesaffaires.com/secteurs/monde/guerre-commerciale-les-etats-unis-vont-tout-gagner-dit-trump/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T033000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Geopolitical Tensions between India and Pakistan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical tensions and military strategies between India and Pakistan, but it does not provide a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article outlines the shift in India's military strategy against Pakistan, focusing on counter-terrorism operations. However, it does not indicate any immediate or potential supply chain disruptions related to these geopolitical events.",
+      "title": "सर्जिकल स्ट्राइक से ऑपरेशन सिंदूर तक , मोदी - डोभाल डॉक्ट्रिन ने कैसे ध्वस्त की पाक जनरल बेग की रणनीति ? ",
+      "url": "https://navbharattimes.indiatimes.com/world/pakistan/how-modi-doval-doctrine-dismantle-pakistan-general-beg-doctrine-surgical-strikes-to-operation-sindoor/articleshow/134566746.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "10th Anniversary of Uri Surgical Strike",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a historical military event and its implications for national security, but it does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article commemorates the 10th anniversary of India's surgical strike in response to a terrorist attack. It highlights changes in military strategy and national security but does not indicate any supply chain disruptions.",
+      "title": "उरी हमले के बाद भारत की सर्जिकल स्ट्राइक के 10 साल , जब हिंदुस्तान ने रचा नई सैन्य रणनीति का इतिहास - indias surgical strike 10 years since uri retaliation",
+      "url": "https://www.jagran.com/news/national-indias-surgical-strike-10-years-since-uri-retaliation-40388966.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "India's Strategic Military Operations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses India's military operations and strategic shifts in response to terrorism, which do not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on India's military actions and strategic changes in response to terrorism over the past decade. It does not indicate any direct supply chain disruptions or impacts on supply chain activities.",
+      "title": "india surgical strikes 10 years uri balakot operation sindoor strategic shift",
+      "url": "https://www.prabhasakshi.com/currentaffairs/india-surgical-strikes-10-years-uri-balakot-operation-sindoor-strategic-shift",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Surgical Strike Day Commemoration",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a commemorative event related to military operations and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article commemorates the 10th anniversary of India's Surgical Strike Day, honoring military actions against terrorism. It does not present any information that would indicate a supply chain disruption.",
+      "title": "Surgical Strike Day : Maharashtra CM Devendra Fadnavis Pays Tribute To Army As India Marks 10th Anniversary Of 2016 Operation",
+      "url": "https://www.freepressjournal.in/mumbai/surgical-strike-day-maharashtra-cm-devendra-fadnavis-pays-tribute-to-army-as-india-marks-10th-anniversary-of-2016-operation-mumbai-news",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Anniversary of Surgical Strikes",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a historical military event and its implications for counter-terrorism strategy, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article commemorates the anniversary of India's surgical strikes in response to a terrorist attack. While it highlights military strategy, it does not present any current or potential supply chain disruptions.",
+      "title": "The night India hit back after Uri attack : 10 years since the surgical strikes set a new template",
+      "url": "https://timesofindia.indiatimes.com/defence/news/the-night-india-hit-back-after-uri-attack-10-years-since-the-surgical-strikes-set-a-new-template/articleshow/134560887.cms?val=1000",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T114500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Pakistan acquires K2 drones from Turkey",
+      "companies_involved": [
+        "Baykar"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Pakistan",
+        "Turkey",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Baykar may be affected by geopolitical tensions in the region?",
+        "Which manufacturing facilities in Turkey are involved in the production of K2 drones?",
+        "How might the acquisition of K2 drones impact defense contracts in India?",
+        "Which countries are potential sources of components for the K2 drones?",
+        "Which downstream companies in the defense sector may be exposed to changes in regional security dynamics?"
+      ],
+      "reason": "The acquisition of K2 drones by Pakistan from Turkey introduces a significant geopolitical element that could affect defense supply chains and regional security, impacting manufacturers and suppliers involved in defense and aerospace industries.",
+      "summary": "Pakistan's acquisition of K2 drones from Turkey heightens geopolitical tensions with India, potentially impacting defense supply chains in the region. This event could lead to shifts in manufacturing and sourcing strategies within the defense and aerospace industries.",
+      "title": "巴基斯坦亮出远程无人机杀手锏意味啥 印度防空压力骤增 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20260929/49770052.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market Volatility Ahead of F&O Expiry",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses market trends and technical analysis related to stock indices, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on market performance and technical indicators ahead of a financial derivatives expiry, with no direct implications for supply chain disruptions.",
+      "title": "Trade Setup for September 29 : Top 15 things to know before the opening bell ahead of F & O expiry",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-september-29-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-14040358.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T181500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russia-India Diplomatic Discussions on Ukraine",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Russia",
+        "India",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Russia may be affected by geopolitical tensions related to Ukraine?",
+        "Which manufacturing or production relationships in India could be impacted by the situation in Ukraine?",
+        "Which countries or regions create exposure for companies operating in Russia and India?",
+        "Which supply-chain dependencies could transmit the disruption from the geopolitical situation in Ukraine?",
+        "Which downstream companies in India may be exposed to risks stemming from the geopolitical situation in Ukraine?"
+      ],
+      "reason": "The article discusses diplomatic discussions between Russia and India regarding the geopolitical situation in Ukraine, which could lead to supply chain disruptions due to potential trade restrictions or escalations in conflict affecting logistics and trade routes.",
+      "summary": "Diplomats from Russia and India have discussed the ongoing situation in Ukraine, emphasizing the geopolitical tensions that could impact trade and supply chains. The discussions highlight the potential for disruptions in logistics and trade relationships due to the conflict.",
+      "title": "Дипломаты России и Индии обсудили ситуацию вокруг Украины",
+      "url": "https://www.interfax.ru/russia/1119157",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T114500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Formation of Committee for Banking Policy Discussion",
+      "companies_involved": [
+        "Indian Banks Association",
+        "Bank of India",
+        "Punjab National Bank",
+        "Indian Bank",
+        "IDBI Bank",
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the formation of a committee to address banking policies and does not indicate any immediate impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the Indian Banks Association's decision to form a committee to discuss the implementation of a five-day banking week. While this may affect banking operations, it does not represent a direct supply chain disruption.",
+      "title": "ఐబీఏ కీలక నిర్ణయం .. ఐదు రోజుల బ్యాంకింగ్‌పై కమిటీ ఏర్పాటు .. - Andhra Prabha | Telugu News Daily , Latest Telugu News , Latest తెలుగు వార్తలు and LIVE Updates | Breaking News in AP and Telangana",
+      "url": "https://prabhanews.com/ibas-key-decision-committee-formed-on-five-day-banking/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Stock Market Decline Due to Oil Price Increase",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a stock market decline attributed to rising oil prices but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article reports a significant decline in stock market indices due to rising oil prices. However, it does not indicate any direct supply chain disruptions or impacts on specific companies or industries.",
+      "title": "Stock Market : ತೈಲ ಬೆಲೆ ಏರಿಕೆ ಎಫೆಕ್ಟ್ - ‌ ಷೇರುಪೇಟೆ ಸೂಚ್ಯಂಕ 600ಕ್ಕೂ ಅಧಿಕ ಅಂಕ ಇಳಿಕೆ | Udayavani - Latest Kannada News , Udayavani Newspaper",
+      "url": "https://udayavani.com/business-news/stock-market-bse-shares-tumbles-over-600-points-224421",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T083000Z"
     }
   ]
 }
