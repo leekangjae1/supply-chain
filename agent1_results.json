@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T00:15:41Z",
-  "total_count": 8645,
+  "updated_at": "2026-09-30T07:39:30Z",
+  "total_count": 8745,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -235479,6 +235479,2997 @@
       "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "China's Zero-Tariff Policy for South Sudan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "China",
+        "South Sudan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in South Sudan may benefit from the new tariff-free access to China?",
+        "Which manufacturing facilities in South Sudan are positioned to export products to China under the new policy?",
+        "What trade relationships exist between South Sudan and China that could be impacted by this policy?",
+        "Which downstream companies in China may rely on imports from South Sudan as a result of this policy?",
+        "How might this new trade policy affect the supply chain dynamics in the agriculture and manufacturing sectors in South Sudan?"
+      ],
+      "reason": "The article discusses a new trade policy that allows South Sudanese products to enter the Chinese market tariff-free, which has significant implications for trade and supply chain activities between the two countries.",
+      "summary": "China's new zero-tariff policy for South Sudanese products opens up opportunities for trade, potentially impacting supply chains in agriculture and manufacturing. This policy could enhance economic cooperation and trade relations between China and South Sudan.",
+      "title": "China opens tariff - free market to South Sudanese products",
+      "url": "https://www.radiotamazuj.org/en/news/article/china-opens-tariff-free-market-to-south-sudanese-products",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Customer Service Enhancement",
+      "companies_involved": [
+        "China Unicom"
+      ],
+      "industries_involved": [
+        "Telecommunications"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses customer service improvements and solutions for internet connectivity in large homes, which does not indicate any disruption in supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights how China Unicom is addressing customer needs for internet services in large homes through tailored solutions and enhanced customer service. It does not present any supply chain disruption or risk.",
+      "title": "新装宽带精准定制 中国联通10010热线北京客服代表巧解大户型用网需求",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-29/doc-initnmvz7823783.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Tariff Cuts Agreement",
+      "companies_involved": [
+        "American Soybean Association"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Consumer Goods"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural goods may be affected by the tariff changes?",
+        "Which manufacturing facilities in the US depend on exports to China?",
+        "Which downstream companies in China rely on US agricultural imports?",
+        "What are the potential impacts on logistics providers handling these goods?",
+        "Which regions in the US are most exposed to changes in soybean exports to China?"
+      ],
+      "reason": "The agreement to cut tariffs on a significant volume of goods between the US and China directly impacts trade flows, affecting suppliers, manufacturers, and logistics operations involved in these sectors.",
+      "summary": "The US and China have agreed to pursue tariff cuts on $60 billion worth of goods, which will impact various industries, particularly agriculture and consumer goods. This trade policy change has the potential to disrupt supply chains by altering market access and pricing dynamics.",
+      "title": "China , US pledge tariff cuts on $60 billion of goods including agriculture , toys , toasters",
+      "url": "https://www.hawaiitribune-herald.com/2026/09/29/nation-world-news/china-us-pledge-tariff-cuts-on-60-billion-of-goods-including-agriculture-toys-toasters/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Tariff Reduction Agreement",
+      "companies_involved": [
+        "US Agricultural Exporters",
+        "Chinese Household Appliance Manufacturers"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Consumer Electronics",
+        "Toys"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US agricultural goods may benefit from the tariff reductions?",
+        "Which manufacturing facilities in China produce the affected household appliances?",
+        "Which regions in the US are most dependent on exports to China for agricultural products?",
+        "Which downstream companies in the US rely on imported Chinese toys and household goods?",
+        "How might changes in tariffs affect logistics and transportation costs for both countries?"
+      ],
+      "reason": "The agreement to cut tariffs on a significant volume of goods between the US and China directly impacts trade flows, which can affect supply chain activities such as sourcing, production, and logistics.",
+      "summary": "The US and China have agreed to reduce tariffs on $60 billion worth of goods, impacting various industries including agriculture and consumer electronics. This trade policy change is likely to influence supply chain dynamics between the two countries.",
+      "title": "China , US to cut tariffs on $60b of goods",
+      "url": "https://tribune.com.pk/story/2631952/china-us-to-cut-tariffs-on-60b-of-goods",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Sanctions on Companies Supporting Iran",
+      "companies_involved": [
+        "Kavoshcom Asia R and D Group",
+        "EC Mojo Technology Co Limited",
+        "Cavalier Group",
+        "MG-Flot",
+        "Saha Airlines"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "USA",
+        "Iran",
+        "Russia",
+        "China",
+        "Pakistan",
+        "Hong Kong"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Kavoshcom Asia R and D Group operate in the affected regions?",
+        "Which manufacturing facilities depend on components supplied by EC Mojo Technology Co Limited?",
+        "What are the logistics implications for MG-Flot due to the sanctions?",
+        "Which countries or regions create exposure for Saha Airlines in light of these sanctions?",
+        "Which downstream companies depend on products from the affected companies?"
+      ],
+      "reason": "The imposition of sanctions on companies involved in defense and logistics activities related to Iran creates significant disruptions in supply chains, particularly in the defense and aerospace sectors, affecting sourcing and transportation.",
+      "summary": "The recent US sanctions against companies in Russia, China, and Iran are likely to disrupt supply chains in the defense and aerospace industries. These sanctions target entities involved in the procurement of military equipment and components, which could impact logistics and production capabilities.",
+      "title": "США запровадили нові санкції проти 13 осіб і компаній Світ",
+      "url": "https://tsn.ua/svit/ssha-zaprovadyly-novi-sanktsiyi-kompaniy-z-rosiyi-kytaiu-ta-iranu-iaka-prychyna-3178280.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Sanctions on Iran Related to Weapons Procurement",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the defense industry may be affected by the sanctions?",
+        "How might the sanctions impact energy supply chains involving Iran?",
+        "Which countries or regions are at risk of increased geopolitical tensions due to these sanctions?",
+        "What dependencies exist between US companies and Iranian suppliers that could be disrupted?",
+        "Which downstream companies in the energy sector may be exposed to risks from these geopolitical events?"
+      ],
+      "reason": "The imposition of sanctions by the US on entities tied to Iran's weapons procurement can disrupt supply chains, particularly in the defense and energy sectors, by restricting trade and sourcing opportunities.",
+      "summary": "The US has imposed sanctions on entities linked to Iran's weapons procurement, which could lead to significant disruptions in supply chains, especially in the defense and energy industries. This geopolitical event raises concerns about trade restrictions and sourcing dependencies involving Iran.",
+      "title": "US Imposes Sanctions on 13 Tied to Iran Weapons Procurement",
+      "url": "https://english.aawsat.com/world/5324112-us-imposes-sanctions-13-tied-iran-weapons-procurement",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Sanctions on Iran's Arms Procurement",
+      "companies_involved": [
+        "Iran Defense Ministry",
+        "Chinese defense contractors"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Iranian defense contractors may be affected by the sanctions?",
+        "Which manufacturing facilities in China are involved in the production of military components for Iran?",
+        "What are the potential impacts on trade relationships between the US and China due to these sanctions?",
+        "Which downstream companies in the defense industry rely on components sourced from Iran or China?",
+        "How might these sanctions affect logistics and transportation routes for defense materials?"
+      ],
+      "reason": "The imposition of sanctions on Iran and associated entities in China directly impacts the supply chain for defense and electronics industries, potentially disrupting sourcing and production activities.",
+      "summary": "The US has imposed sanctions on individuals and entities involved in Iran's arms procurement, particularly those based in China. This geopolitical event may disrupt supply chains in the defense and electronics sectors, affecting trade and logistics between the involved countries.",
+      "title": "米政権 、 イランの兵器調達で制裁 中国など拠点 、 圧力強化 : 主要 : 福島民友新聞社",
+      "url": "https://www.minyu-net.com/newspack/detail/2026093001000257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S. Sanctions on Chinese Organ Harvesting Participants",
+      "companies_involved": [],
+      "industries_involved": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which healthcare suppliers may be affected by the sanctions?",
+        "Which biotechnology companies have operations or partnerships in China that could be impacted?",
+        "What are the potential impacts on the supply chain for organ transplant services in the U.S. due to these sanctions?",
+        "Which countries or regions are involved in the organ transplant supply chain that may face exposure due to these geopolitical tensions?",
+        "Which downstream healthcare providers may be affected by the restrictions on organ sourcing from China?"
+      ],
+      "reason": "The passage of the sanctions law indicates potential disruptions in the healthcare and biotechnology industries, particularly regarding organ sourcing and transplant operations, which could affect supply chains related to these sectors.",
+      "summary": "The U.S. Senate has passed a bill imposing sanctions on individuals and entities involved in forced organ harvesting in China. This geopolitical event may disrupt supply chains in the healthcare and biotechnology industries, particularly those related to organ transplants.",
+      "title": "美參院通過法案 制裁中共活摘器官參與者 | 《 法輪功及強摘器官受害者保護法案 》 ",
+      "url": "https://www.ntdtv.com/b5/2026/09/29/a104137330.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China Arms Sales Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Taiwan",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by geopolitical tensions between the US and China?",
+        "Which manufacturing facilities in the defense industry are impacted by potential arms sales to Taiwan?",
+        "How might the geopolitical situation affect energy supply chains involving Iran?",
+        "Which downstream companies in the defense sector depend on US arms sales?",
+        "What are the implications for logistics and transportation in the event of increased tensions?"
+      ],
+      "reason": "The article discusses potential arms sales and geopolitical tensions that could disrupt supply chains in the defense industry and impact energy supply routes, particularly concerning Iran and Taiwan.",
+      "summary": "The article highlights tensions between the US and China regarding potential arms sales, which could lead to significant disruptions in defense supply chains. Additionally, the geopolitical climate surrounding Iran's actions in the Strait of Hormuz poses risks to global energy supply chains.",
+      "title": "Trumpas neigia siūlęs parduoti ginkluotę Kinijos vadovui Xi Jinpingui",
+      "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3067047/trumpas-neigia-siules-parduoti-ginkluote-kinijos-vadovui-xi-jinpingui",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased Sanctions Against Russia",
+      "companies_involved": [
+        "Russian energy companies",
+        "Foreign companies trading Russian energy resources"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "Ukraine",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of foreign companies are involved in trading Russian energy resources?",
+        "Which manufacturing facilities depend on Russian energy supplies?",
+        "Which countries are most affected by the sanctions on Russian energy exports?",
+        "What supply-chain dependencies exist between U.S. companies and Russian defense contractors?",
+        "Which downstream companies rely on products from Russian energy companies?"
+      ],
+      "reason": "The proposed sanctions against Russia and its energy sector could significantly impact global supply chains, particularly in energy and defense industries, affecting suppliers, manufacturers, and logistics operations.",
+      "summary": "The U.S. Congress is pushing for increased sanctions against Russia, particularly targeting its energy sector and military-related companies. This geopolitical event poses potential disruptions to supply chains involving energy resources and defense manufacturing, impacting various countries and industries.",
+      "title": "На Трампа усиливается давление : в Конгрессе США призывают ужесточить санкции против РФ",
+      "url": "https://glavred.info/world/na-trampa-usilivaetsya-davlenie-v-kongresse-ssha-prizyvayut-uzhestochit-sankcii-protiv-rf-10800077.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China's support for Cuba following Trump's comments",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Cuba",
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in trade relations between the US and Cuba?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions involving Cuba?",
+        "What are the potential impacts on companies that rely on trade with Cuba?",
+        "Which countries or regions create exposure due to the geopolitical situation in Cuba?",
+        "Which downstream companies may be exposed to disruptions in trade with Cuba?"
+      ],
+      "reason": "The article discusses geopolitical dynamics involving Cuba and China, which could affect trade and supply chain relationships, particularly in light of US policies.",
+      "summary": "The article highlights China's support for Cuba in response to comments made by Trump, indicating potential geopolitical tensions that could disrupt trade and supply chains involving these countries. This situation may impact companies engaged in trade or manufacturing activities related to Cuba.",
+      "title": "ট্রাম্পের  কিউবা ভেঙে পড়বে  মন্তব্যের পর হাভানার পাশে চীন",
+      "url": "https://www.mzamin.com/article/45199",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iranian Rial Depreciation",
+      "companies_involved": [],
+      "industries_involved": [
+        "Finance",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the depreciation of the Iranian Rial?",
+        "Which companies in the trade sector are exposed to currency fluctuations in Iran?",
+        "Which countries or regions have trade relationships with Iran that could be impacted?",
+        "Which downstream companies depend on imports from Iran that may be affected by currency instability?"
+      ],
+      "reason": "The depreciation of the Iranian Rial against the US dollar can lead to increased costs for imports and affect trade relationships, which can disrupt supply chains reliant on Iranian goods or services.",
+      "summary": "The significant depreciation of the Iranian Rial against the US dollar poses potential risks to trade and financial stability in Iran. This could impact companies and industries that rely on trade with Iran, leading to supply chain disruptions.",
+      "title": "伊朗里亞爾兌美元貶破244萬關卡 美財長貝森特警告恐達300萬",
+      "url": "https://n.yam.com/Article/20260929340008",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Sanctions on Russian and Iranian Entities",
+      "companies_involved": [
+        "MG-Flot LLC",
+        "JSC Experimental Design Bureau Named After A.S. Yakovlev"
+      ],
+      "industries_involved": [
+        "Maritime",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "Iran",
+        "Hong Kong",
+        "China",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of MG-Flot LLC may be affected by the sanctions?",
+        "What manufacturing relationships does JSC Experimental Design Bureau have with companies in the affected countries?",
+        "Which countries or regions are most impacted by the sanctions on Russian and Iranian entities?",
+        "What supply-chain dependencies exist between US companies and the sanctioned entities?",
+        "Which downstream companies rely on products or services from MG-Flot LLC or JSC Experimental Design Bureau?"
+      ],
+      "reason": "The imposition of sanctions by the US against Russian and Iranian companies directly impacts their ability to operate and engage in trade, which can disrupt supply chains related to military logistics and aerospace manufacturing.",
+      "summary": "The recent US sanctions against multiple Russian and Iranian entities are likely to disrupt supply chains in the maritime and aerospace industries. This geopolitical event may affect various suppliers and manufacturers involved in these sectors across several countries.",
+      "title": "STEŽE SE OBRUČ OKO MOSKVE I TEHERANA : Trumpova administracija uvela nove sankcije protiv više kompanija i pojedinaca ... ",
+      "url": "https://www.slobodna-bosna.ba/vijest/507880/steze_se_obruch_oko_moskve_i_teherana_trumpova_administracija_uvela_nove_sankcije_protiv_vise_kompanija_i_pojedinaca.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Conflict Impacting Oil Supply",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil and gas companies may be affected by the conflict?",
+        "Which manufacturing or production relationships in the energy sector may be impacted?",
+        "Which countries or regions are dependent on oil supplies from the affected areas?",
+        "Which supply-chain dependencies could transmit the disruption from the conflict?",
+        "Which downstream companies in the energy sector may be exposed to rising oil prices?"
+      ],
+      "reason": "The ongoing conflict between the US and Iran has significant implications for global oil supply, particularly through the strategic Hormuz Strait, which is crucial for oil transportation. This geopolitical tension can lead to disruptions in energy supply chains and affect pricing and availability of oil and gas products.",
+      "summary": "The article discusses the potential impact of the US-Iran conflict on global oil supply, particularly through the Hormuz Strait. This geopolitical event poses risks to energy supply chains and could lead to increased oil prices, affecting various industries reliant on oil and gas.",
+      "title": "川普稱美伊戰爭將很快獲勝 否認鬆綁制裁解凍資金 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202609290043.aspx",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tether's Role in Iran's Financial System",
+      "companies_involved": [
+        "Tether"
+      ],
+      "industries_involved": [
+        "Cryptocurrency",
+        "Finance"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Tether may be affected by US sanctions?",
+        "Which financial relationships may be impacted by the scrutiny of Tether's operations?",
+        "Which countries or regions create exposure for Tether due to geopolitical tensions?",
+        "Which supply-chain dependencies could transmit the disruption to other financial institutions?",
+        "Which downstream companies depend on Tether for cryptocurrency transactions?"
+      ],
+      "reason": "The article discusses how Tether's USDT is being used by Iran to circumvent sanctions, which could impact financial transactions and relationships in the cryptocurrency and finance sectors, thus affecting supply chain activities related to these industries.",
+      "summary": "The US Senate report highlights Tether's USDT as a significant financial tool for Iran, facilitating transactions despite US sanctions. This geopolitical situation poses risks to companies involved in cryptocurrency and finance, particularly those with ties to Iran.",
+      "title": "US Senate report : Tether USDT cryptocurrency is a  financial lifeline  for Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-910066",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T114500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-China AI Competition and Export Restrictions",
+      "companies_involved": [
+        "Nvidia",
+        "Microsoft",
+        "Google"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Artificial Intelligence",
+        "Semiconductors"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nvidia, Microsoft, and Google may be affected by US export restrictions?",
+        "Which manufacturing facilities in China are dependent on US technology for AI development?",
+        "What are the potential impacts on the semiconductor supply chain due to the geopolitical tensions?",
+        "Which downstream companies rely on AI technologies developed by US firms?",
+        "How might the restrictions on rare earth metals from China affect US companies in the semiconductor industry?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between the US and China regarding AI technology and export restrictions, which can significantly impact supply chains in the technology and semiconductor industries.",
+      "summary": "The ongoing competition between the US and China in artificial intelligence is leading to significant geopolitical tensions, particularly concerning export restrictions on advanced technologies. This situation poses risks to companies involved in AI and semiconductor production, potentially disrupting their supply chains.",
+      "title": "Назван исход гонки в ИИ по версии Трампа",
+      "url": "https://www.mk.ru/politics/2026/09/29/nazvan-iskhod-gonki-v-ii-po-versii-trampa.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased pressure on Iran affecting oil supply",
+      "companies_involved": [
+        "Iranian Oil Companies",
+        "Chinese Oil Importers"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Iranian oil companies may be affected by the geopolitical tensions?",
+        "Which manufacturing or production relationships in China depend on Iranian oil?",
+        "What are the potential impacts on energy supply chains due to sanctions on Iran?",
+        "Which countries or regions create exposure for companies relying on Iranian oil?",
+        "Which downstream companies in the energy sector may be exposed to disruptions in Iranian oil supply?"
+      ],
+      "reason": "The article discusses geopolitical tensions and their impact on Iran's oil supply, which directly affects global energy supply chains and trade relationships.",
+      "summary": "The ongoing crisis in the Middle East, particularly regarding Iran's oil supply, poses significant risks to global energy markets. The potential inability of Iran to trade oil could disrupt supply chains reliant on this resource, particularly affecting China and other countries dependent on Iranian oil.",
+      "title": "UŽIVO : Kriza na Bliskom istoku , Tramp demantuje da je Iranu ponudio ublažavanje sankcija",
+      "url": "https://naslovi.net/2026-09-29/euronews/uzivo-kriza-na-bliskom-istoku-tramp-demantuje-da-je-iranu-ponudio-ublazavanje-sankcija/42420805",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Impact of EU sanctions on Russian imports",
+      "companies_involved": [
+        "Dynagas",
+        "Raiffeisenbank"
+      ],
+      "industries_involved": [
+        "Shipping",
+        "Energy",
+        "Automotive",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Poland",
+        "Finland",
+        "France",
+        "Italy",
+        "Portugal",
+        "Austria",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Dynagas may be affected by the sanctions on Russian LNG?",
+        "Which manufacturing facilities in Germany are dependent on Russian energy supplies?",
+        "Which countries are key suppliers for the automotive industry in Germany that may be impacted?",
+        "What are the supply-chain dependencies for agricultural products affected by the sanctions?",
+        "Which downstream companies in the EU rely on products from the affected industries?"
+      ],
+      "reason": "The article discusses the economic impact of EU sanctions on Russia, leading to significant disruptions in energy supply, manufacturing, and trade, which directly affect supply chain activities across multiple industries.",
+      "summary": "The article highlights the severe economic consequences of EU sanctions on Russia, resulting in disruptions to energy supplies and manufacturing capabilities in Europe. This situation poses significant risks to various industries, including shipping, automotive, and agriculture.",
+      "title": "Европа на пределе : ВВП рухнул , газ дорожает , заводы встают . Кто в итоге заплатит за санкции ? ",
+      "url": "https://runews24.ru/articles/29/09/2026/evropa-na-predele-vvp-ruxnul-gaz-dorozhaet-zavodyi-vstayut-kto-v-itoge-zaplatit-za-sankczii",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Increase in National Debt",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the increase in national debt for Germany and Russia, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article reports on the rising national debt of Germany and Russia. While this may have broader economic implications, it does not indicate a specific supply chain disruption.",
+      "title": "Ведущая экономика Евросоюза столкнулась с ростом госдолга",
+      "url": "https://lenta.ru/news/2026/09/29/veduschaya-ekonomika-evrosoyuza-stolknulas-s-rostom-gosdolga/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ongoing US-Iran Conflict Impacting Strait of Hormuz",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which energy companies are dependent on oil shipments through the Strait of Hormuz?",
+        "Which logistics providers operate in the region affected by the conflict?",
+        "What are the potential impacts on oil prices for companies relying on Iranian oil?",
+        "Which countries are most exposed to disruptions in oil supply from the Middle East?",
+        "Which downstream industries could be affected by increased oil prices due to the conflict?"
+      ],
+      "reason": "The ongoing conflict between the US and Iran poses significant risks to global energy supply chains, particularly through the critical shipping route of the Strait of Hormuz, which is vital for oil transportation. The geopolitical tensions and potential sanctions can disrupt logistics and trade, impacting energy markets and related industries.",
+      "summary": "The prolonged conflict between the US and Iran is creating significant geopolitical risks that could disrupt global energy supply chains, particularly through the Strait of Hormuz. This situation has implications for logistics and trade, affecting oil prices and the operations of companies reliant on Middle Eastern oil.",
+      "title": "美伊戰火打8個月 ！ 美聯社 ： 調節人正積極協調雙方達成協議但困難重重 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-09-29/1062455",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian Market Control and Sanctions Impact",
+      "companies_involved": [
+        "Metro",
+        "Claas",
+        "Bayer",
+        "Henkel",
+        "Uniper"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Agriculture",
+        "Pharmaceuticals",
+        "Consumer Goods",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Metro operate in Russia and may be affected by the takeover?",
+        "What manufacturing facilities of Claas in Russia are at risk due to geopolitical tensions?",
+        "Which products from Bayer are still being supplied to Russia, and what are the implications?",
+        "How does the exit of Henkel from the Russian market affect its supply chain dependencies?",
+        "Which downstream companies rely on products from Uniper that may be impacted by the state control?"
+      ],
+      "reason": "The article discusses the operational control of Metro in Russia and the implications of EU sanctions on various companies, indicating significant risks to supply chains due to geopolitical tensions and regulatory changes.",
+      "summary": "The article highlights the challenges faced by companies operating in Russia due to geopolitical tensions and EU sanctions. It emphasizes the operational risks for firms like Metro, Claas, Bayer, Henkel, and Uniper, which could disrupt their supply chains and market presence.",
+      "title": "Metro - Zwangsverwaltung : Andere NRW - Firmen bedroht ? ",
+      "url": "https://www1.wdr.de/wirtschaft/nrw-unternehmen-in-russland-102.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iranian Currency Devaluation Due to Geopolitical Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the oil and gas industry may be affected by the sanctions on Iranian oil exports?",
+        "Which manufacturing facilities in Iran depend on imported materials that may be impacted by currency devaluation?",
+        "Which countries or regions are most exposed to disruptions in Iranian oil supply?",
+        "Which downstream companies rely on oil imports from Iran or are affected by the geopolitical situation?",
+        "How might the sanctions on Iran affect global oil prices and related supply chains?"
+      ],
+      "reason": "The significant devaluation of the Iranian rial due to ongoing geopolitical tensions and sanctions directly impacts the country's ability to trade, particularly in oil, which is a critical component of its economy and global supply chains.",
+      "summary": "The Iranian rial has reached a historic low against the dollar, reflecting severe economic challenges exacerbated by geopolitical tensions and sanctions. This situation poses risks to supply chains, particularly in the oil and gas sector, as well as manufacturing reliant on imports.",
+      "title": "伊朗貨幣兌美元貶至歷史新低250萬里亞爾 凸顯經濟困境 | 國際",
+      "url": "https://www.cna.com.tw:443/news/aopl/202609290353.aspx",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T163000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Negotiations for Gas Supply Resumption",
+      "companies_involved": [
+        "Gazprom"
+      ],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies in Germany may be affected by changes in gas supply from Russia?",
+        "Which manufacturing facilities in Germany depend on Russian gas supplies?",
+        "What are the potential impacts on energy prices in Germany due to negotiations with Gazprom?",
+        "Which downstream companies in Germany rely on energy sourced from Gazprom?",
+        "How might changes in German energy policy affect supply chain relationships with Russian suppliers?"
+      ],
+      "reason": "The article discusses negotiations between a German political party and Gazprom regarding the resumption of gas supplies from Russia, which directly impacts energy supply chains and could affect production and logistics in Germany.",
+      "summary": "The article highlights the Alternative for Germany (AfD) party's negotiations with Gazprom to restore gas supplies, indicating a potential shift in Germany's energy sourcing strategy. This geopolitical event could significantly impact the energy supply chain and related industries in Germany.",
+      "title": "Populisté AfD : Ještě Německu nevládnou , už však jednají v Rusku o plynu",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/849273/populiste-afd-jeste-nemecku-nevladnou-uz-vsak-jednaji-v-rusku-o-plynu.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of the Russia-Ukraine conflict",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment are affected by the ongoing conflict?",
+        "Which manufacturing facilities in Ukraine may be impacted by military actions?",
+        "Which logistics companies operate in the affected regions and may face disruptions?",
+        "What are the trade relationships between the EU and Russia that could be affected?",
+        "Which downstream companies rely on materials sourced from Ukraine or Russia?"
+      ],
+      "reason": "The ongoing military conflict and sanctions imposed by the EU on Russia create significant risks to supply chains, particularly in defense and logistics sectors, affecting production and transportation routes.",
+      "summary": "The article discusses the escalation of the Russia-Ukraine conflict and the EU's military support for Ukraine, which poses risks to supply chains in affected regions. The geopolitical tensions and military actions can disrupt logistics, manufacturing, and trade activities.",
+      "title": "歐盟強化援烏與制裁 俄軍再襲基輔與哈爾科夫 | 俄烏戰爭 | 烏克蘭 | 俄羅斯",
+      "url": "https://www.ntdtv.com/b5/2026/09/29/a104137136.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Tensions and Sanctions Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by sanctions on Iran?",
+        "Which logistics operations are impacted by potential conflicts in the Strait of Hormuz?",
+        "Which countries or regions are exposed to disruptions in oil supply due to US-Iran tensions?",
+        "Which downstream companies depend on oil imports from Iran or through the Strait of Hormuz?"
+      ],
+      "reason": "The ongoing geopolitical tensions between the US and Iran, particularly regarding sanctions and the potential for conflict, could significantly impact energy supply chains and logistics in the region, especially concerning oil transportation through the Strait of Hormuz.",
+      "summary": "The article discusses rising tensions between the US and Iran, particularly in relation to sanctions and potential military conflict. This situation poses risks to global energy supply chains and logistics, especially concerning oil transport through critical maritime routes.",
+      "title": "美伊戰爭最新消息 》 川普駁鬆綁制裁 ！ 伊朗悲觀 ： 11月期中選後衝突恐升級 - 政治圈",
+      "url": "https://www.chinatimes.com/realtimenews/20260929002883-260408",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Illegal Auto Deliveries to Russia",
+      "companies_involved": [
+        "Unnamed Entrepreneurs in Rheinland-Pfalz and Austria"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Austria",
+        "Belgium",
+        "Russia",
+        "Belarus",
+        "Kyrgyzstan",
+        "Georgia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of automotive parts may be affected by the sanctions?",
+        "Which manufacturing facilities are dependent on the export of vehicles to Russia?",
+        "Which countries or regions create exposure due to the illegal supply chain routes?",
+        "Which supply-chain dependencies could transmit the disruption to other automotive companies?",
+        "Which downstream companies depend on vehicles supplied through these channels?"
+      ],
+      "reason": "The article describes illegal activities circumventing EU sanctions, which directly impacts the automotive supply chain by affecting trade routes and compliance with regulations.",
+      "summary": "The article reports on a crackdown against entrepreneurs illegally exporting vehicles to Russia, violating EU sanctions. This disruption affects the automotive industry and raises concerns about compliance and trade routes involving multiple countries.",
+      "title": "Internationale Razzia wegen Autolieferungen nach Russland",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article6abbc48972f1dd17be2d3222/internationale-razzia-wegen-autolieferungen-nach-russland.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Temporary takeover of Metro assets in Russia",
+      "companies_involved": [
+        "Metro AG",
+        "Nestle",
+        "Auchan",
+        "Leroy Merlin"
+      ],
+      "industries_involved": [
+        "Wholesale and Retail",
+        "Food and Beverage",
+        "Home Improvement"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Germany",
+        "Switzerland",
+        "France"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Metro AG operate in Russia?",
+        "What manufacturing relationships does Metro AG have in the affected region?",
+        "Which countries are key suppliers for Metro AG that may be impacted by this takeover?",
+        "What supply-chain dependencies exist between Metro AG and its suppliers in Russia?",
+        "Which downstream companies rely on products from Metro AG's Russian operations?"
+      ],
+      "reason": "The Russian government's takeover of Metro's assets directly impacts the company's operations and supply chain in Russia, affecting its ability to conduct business and manage logistics in the region.",
+      "summary": "The Russian government has temporarily taken control of Metro AG's assets in Russia as part of a broader response to Western sanctions. This action poses significant risks to Metro's supply chain operations and could affect other companies operating in the region.",
+      "title": "俄罗斯接管德国麦德龙在俄资产 | 国际",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/09/29/851381",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Diplomatic Visit to Slovakia",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany",
+        "Slovakia",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses diplomatic talks and political relations without any direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers a diplomatic visit by German officials to Slovakia, focusing on EU and NATO commitments, particularly regarding support for Ukraine and relations with Russia. There are no direct supply chain disruptions mentioned in the context of this visit.",
+      "title": "Diplomatie : Wadephul besucht die Slowakei - Rede im Europarat",
+      "url": "https://www.schwarzwaelder-bote.de/politik/diplomatie-wadephul-besucht-die-slowakei-rede-im-europarat-79511689.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S. Trade Expansion Act Impact on Solar Industry",
+      "companies_involved": [
+        "Hanwha Solutions",
+        "Hanwha Q CELLS"
+      ],
+      "industries_involved": [
+        "Renewable Energy",
+        "Solar Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Hanwha Q CELLS operate in the United States?",
+        "Which manufacturing facilities depend on the production of solar cells and modules in the U.S.?",
+        "How will the U.S. Trade Expansion Act affect the pricing of imported solar products?",
+        "Which countries are potential sources of supply for Hanwha Q CELLS that may be impacted by U.S. regulations?",
+        "Which downstream companies depend on solar modules produced by Hanwha Q CELLS?"
+      ],
+      "reason": "The article discusses the impact of U.S. trade policy changes on the solar energy sector, specifically how new import regulations may affect production costs and competitiveness for companies like Hanwha Q CELLS, indicating a significant connection to supply chain activities.",
+      "summary": "The article highlights the potential impact of the U.S. Trade Expansion Act on the solar energy industry, particularly for Hanwha Solutions and Hanwha Q CELLS. The new regulations may affect production costs and market competitiveness, representing a notable supply chain disruption.",
+      "title": "  카터스빌 효과  첫 성적표한화솔루션 , 3분기 실적 가늠자는",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092913535459340",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Copper Supply Crisis",
+      "companies_involved": [
+        "Deutsche Bank"
+      ],
+      "industries_involved": [
+        "Metals and Mining",
+        "Construction",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of copper are affected by the supply constraints?",
+        "Which manufacturing facilities depend on copper sourced from the affected regions?",
+        "How might U.S. copper tariffs impact supply chains in the electronics industry?",
+        "Which countries are most reliant on copper imports from the U.S. and China?",
+        "Which downstream companies in the construction sector depend on copper products?"
+      ],
+      "reason": "The article discusses a significant increase in copper prices due to supply shortages and potential U.S. tariffs, indicating a disruption in the supply chain for copper, which is critical for various industries.",
+      "summary": "The article highlights a projected copper supply crisis driven by increasing prices and potential trade policy changes in the U.S. This situation poses risks to industries reliant on copper, particularly in the U.S. and China.",
+      "title": "도이체방크  내년 2분기 구리價 2만2000불 돌파 전망  ",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04844566645585040&mediaCodeNo=257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Export Ban on Canadian Products to the U.S.",
+      "companies_involved": [
+        "Canadian Breweries",
+        "Canadian Motorcycle Manufacturers"
+      ],
+      "industries_involved": [
+        "Beverage",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Canada",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Canadian breweries may be affected by the export ban?",
+        "Which manufacturing facilities in Canada produce the affected products?",
+        "Which downstream companies in the U.S. depend on imports of Canadian beer and motorcycles?",
+        "What are the potential impacts on logistics providers handling these exports?",
+        "Which regions in Canada are most reliant on exports to the U.S. for these products?"
+      ],
+      "reason": "The article describes a new trade policy that restricts the export of several Canadian products to the U.S., which directly impacts supply chain activities related to manufacturing, logistics, and trade.",
+      "summary": "A new trade policy will prevent the export of various Canadian products, including beer and motorcycles, to the United States starting September 29. This restriction is a response to tariffs imposed by both countries, creating significant implications for affected industries and their supply chains.",
+      "title": "Une série de produits canadiens , dont la bière et les motocyclettes , ne pourront plus être exportés aux États - Unis à partir de mardi",
+      "url": "https://www.ledevoir.com/economie/consommation/1012625/plusieurs-produits-canadiens-seront-interdits-entree-etats-unis-ce-mardi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Proposed US-EU Free Trade Agreement",
+      "companies_involved": [
+        "JPMorgan Chase"
+      ],
+      "industries_involved": [
+        "Finance",
+        "Manufacturing",
+        "Defense"
+      ],
+      "countries_involved": [
+        "United States",
+        "European Union",
+        "South Korea",
+        "Canada",
+        "Mexico",
+        "Japan",
+        "Australia",
+        "Philippines"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the finance and manufacturing sectors may be affected by changes in trade policy?",
+        "Which manufacturing facilities in the EU depend on US suppliers?",
+        "How might tariffs or trade agreements impact logistics operations between the US and EU?",
+        "Which countries are most likely to be affected by the proposed trade agreements?",
+        "Which downstream companies in the EU rely on imports from the US or other allied countries?"
+      ],
+      "reason": "The proposed trade agreement could significantly alter trade dynamics, impacting supply chains across multiple industries and countries involved, particularly in finance, manufacturing, and defense sectors.",
+      "summary": "JPMorgan Chase's proposal for a comprehensive free trade agreement between the US and EU aims to strengthen economic ties and counteract China's influence. This initiative could lead to significant changes in trade policies, affecting supply chains across various industries and countries.",
+      "title": "다이먼  韓 · EU 포함 초대형 FTA 맺자 … 中 맞설 동맹 경제권 구상",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=06113926645585040&mediaCodeNo=257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US tariff relief for Indian pharmaceuticals",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals",
+        "Aluminium"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of pharmaceutical ingredients in India may be affected by the tariff changes?",
+        "Which manufacturing facilities in the US depend on imported pharmaceutical products from India?",
+        "What are the potential impacts on logistics for pharmaceutical imports from India to the US?",
+        "Which downstream companies in the US rely on the specified pharmaceutical products from India?",
+        "How might the tariff changes affect the sourcing strategies of US pharmaceutical companies?"
+      ],
+      "reason": "The article discusses changes in US tariffs on pharmaceutical products and aluminium can stock from India, which directly impacts trade and sourcing activities between the two countries.",
+      "summary": "The US has granted tariff relief on certain pharmaceutical products from India while imposing a 100% tariff on others. This change in trade policy could significantly affect the supply chain dynamics for pharmaceutical imports and related industries.",
+      "title": "US tariff relief for India | The Shillong Times",
+      "url": "https://theshillongtimes.com/2026/09/29/us-tariff-relief-for-india/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Sanctions on Tether and Cryptocurrency Use",
+      "companies_involved": [
+        "Tether"
+      ],
+      "industries_involved": [
+        "Cryptocurrency",
+        "Finance"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Tether may be affected by US sanctions?",
+        "Which financial institutions are involved in transactions with Tether?",
+        "Which countries or regions are exposed to the impact of US sanctions on cryptocurrency?",
+        "Which supply-chain dependencies could be affected by the scrutiny of Tether's operations?",
+        "Which downstream companies depend on Tether for stablecoin transactions?"
+      ],
+      "reason": "The investigation into Tether's use in circumventing sanctions and its implications for financial transactions indicates potential disruptions in the cryptocurrency supply chain and regulatory compliance.",
+      "summary": "The US Senate's investigation into Tether's role in facilitating transactions for sanctioned entities highlights significant regulatory risks. This scrutiny could impact the operations of Tether and its partners, affecting the broader cryptocurrency and financial industries.",
+      "title": "美參院指小組調查報告 ： 逾八成受制裁虛擬貨幣錢包遭伊朗及其勢力重度使用 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-09-29/1062530",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Sanctions Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by changes in US-Iran relations?",
+        "Which manufacturing or production relationships in the energy sector may be impacted by sanctions?",
+        "Which countries or regions create exposure for companies involved in oil and gas trade with Iran?",
+        "Which supply-chain dependencies could transmit disruptions from geopolitical tensions between the US and Iran?",
+        "Which downstream companies in the energy sector may be exposed to changes in sanctions or trade policies?"
+      ],
+      "reason": "The article discusses the potential for changes in US sanctions against Iran, which could significantly impact the energy supply chain, particularly in oil and gas sectors, affecting trade and logistics.",
+      "summary": "The article highlights ongoing negotiations regarding US sanctions on Iran, which could lead to significant changes in the energy supply chain. The geopolitical tensions and potential policy shifts pose risks to companies involved in oil and gas trade.",
+      "title": "特朗普否认其  愿意有条件解除对伊制裁  的报道 - 中新网",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-29/10705215.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-U.S. Tensions Affecting Oil Exports",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "Gulf States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil and gas companies may be affected by the geopolitical tensions?",
+        "Which manufacturing or production relationships in the energy sector may be impacted by disruptions in oil exports?",
+        "Which countries or regions are most exposed to the potential closure of the Strait of Hormuz?",
+        "Which supply-chain dependencies could be affected by the Iranian oil export situation?",
+        "Which downstream companies in the energy sector may be exposed to disruptions in oil supply from Iran?"
+      ],
+      "reason": "The article discusses geopolitical tensions between the U.S. and Iran that could lead to disruptions in oil exports through the Strait of Hormuz, a critical shipping route for global oil supply.",
+      "summary": "The ongoing tensions between the U.S. and Iran regarding nuclear negotiations and sanctions could significantly impact oil exports from Iran, affecting global energy supply chains. The potential closure of the Strait of Hormuz poses a risk to oil transportation and trade in the region.",
+      "title": "特朗普否认以解除制裁换取伊朗核让步",
+      "url": "https://www.zaobao.com.sg/news/world/story20260929-9756611",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Negotiation Stalemate Impacting Strait of Hormuz",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Qatar"
+      ],
+      "risk_exposure_questions": [
+        "Which oil suppliers may be affected by the ongoing negotiations between the US and Iran?",
+        "Which oil production facilities depend on the Strait of Hormuz for transportation?",
+        "Which countries are most reliant on oil shipments through the Strait of Hormuz?",
+        "What are the potential impacts on logistics companies operating in the region?",
+        "Which downstream companies depend on oil imports that could be affected by disruptions in the Strait of Hormuz?"
+      ],
+      "reason": "The ongoing geopolitical tensions and negotiations between the US and Iran regarding the Strait of Hormuz have significant implications for oil supply and transportation, which directly impacts the global supply chain for energy resources.",
+      "summary": "The article discusses the ongoing diplomatic negotiations between the US and Iran, which are critical for the reopening of the Strait of Hormuz. The stalemate poses risks to oil supply chains, particularly affecting the oil and gas industry due to potential disruptions in transportation through this vital shipping route.",
+      "title": "美伊周一仍通过调解人交谈 ， 霍尔木兹僵局何时破 ？_ 期市动态 _ 期货 _ 中金在线",
+      "url": "http://futures.cnfol.com/qishidongtai/20260929/32383774.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased Sanctions Against Russia",
+      "companies_involved": [
+        "Russian Energy Companies",
+        "Chinese Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian energy companies may be affected by the new sanctions?",
+        "Which manufacturing facilities in the U.S. depend on Russian energy resources?",
+        "What are the potential impacts on companies in China that purchase Russian oil and gas?",
+        "Which downstream companies in the U.S. rely on products sourced from Russian manufacturers?",
+        "How might the sanctions affect logistics and transportation routes for energy supplies?"
+      ],
+      "reason": "The proposed sanctions against Russia could significantly impact the supply chain for energy resources and related industries, affecting suppliers, manufacturers, and logistics operations in multiple countries.",
+      "summary": "The article discusses proposed sanctions by U.S. lawmakers aimed at increasing economic pressure on Russia due to its ongoing military actions. This geopolitical event has the potential to disrupt supply chains, particularly in the energy sector, affecting companies and countries involved in the trade of Russian resources.",
+      "title": "Закон Ліндсі Грема – законодавці США визначили конкретні цілі для посилення санкцій проти Росії",
+      "url": "https://www.unian.ua/world/zakon-lindsi-grema-zakonodavci-ssha-viznachili-konkretni-cili-dlya-posilennya-sankciy-proti-rosiji-13513149.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Resumption of Iran flights by Iraqi Airways amidst sanctions",
+      "companies_involved": [
+        "Iraq Airways",
+        "Iranian Airlines"
+      ],
+      "industries_involved": [
+        "Aviation",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Iraq",
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Iraq Airways may be affected by the ongoing sanctions?",
+        "Which airlines depend on the ability to operate flights to and from Iran?",
+        "What are the potential impacts on logistics and transportation networks due to the sanctions?",
+        "Which downstream companies rely on air transport services affected by these geopolitical tensions?",
+        "How might the sanctions impact the supply chain for goods transported via Iranian airlines?"
+      ],
+      "reason": "The resumption of flights by Iraq Airways in the context of ongoing U.S. sanctions against Iranian airlines indicates a significant geopolitical event that could affect transportation logistics and trade routes in the region.",
+      "summary": "Iraq Airways has resumed flights to Iran amidst ongoing U.S. sanctions against Iranian airlines. This geopolitical development could impact transportation logistics and trade relationships between Iraq and Iran.",
+      "title": "Irak Havayolları Necefte İran uçuşlarını yeniden başlattı , İran uçakları yasaklı",
+      "url": "https://www.haberler.com/politika/irak-havayollari-necef-te-iran-ucuslarini-yeniden-20280944-haberi/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Belarus Fertilizer Production Agreement",
+      "companies_involved": [
+        "Gazprom",
+        "Belaruskali"
+      ],
+      "industries_involved": [
+        "Fertilizers",
+        "Chemicals"
+      ],
+      "countries_involved": [
+        "Belarus",
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Gazprom may be affected by the geopolitical situation in Belarus?",
+        "Which manufacturing facilities in the US depend on Belarusian fertilizers?",
+        "What are the potential impacts on trade routes for fertilizers from Belarus to the US?",
+        "Which downstream companies in the US rely on the import of fertilizers from Belarus?",
+        "How might changes in US sanctions affect the supply chain for Belarusian fertilizer producers?"
+      ],
+      "reason": "The article discusses a potential collaboration between Belarus and the US for fertilizer production, which could impact supply chains related to agricultural inputs and trade policies.",
+      "summary": "The article outlines a proposed partnership between Belarus and the US for the construction of a nitrogen fertilizer plant, involving Gazprom. This geopolitical development could significantly affect the supply chain for fertilizers, particularly in the context of US sanctions and trade relations.",
+      "title": "Лукашенко пропонує США долучитися до будівництва азотного заводу в Білорусі",
+      "url": "https://www.radiosvoboda.org/a/news-lukashenko-ssha-budivnytstvo-azotnoho-zavodu-v-bilorusi/33866528.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased Sanctions on Cuba",
+      "companies_involved": [],
+      "industries_involved": [
+        "Finance",
+        "Travel",
+        "Energy"
+      ],
+      "countries_involved": [
+        "USA",
+        "Cuba"
+      ],
+      "risk_exposure_questions": [
+        "Which financial institutions may be affected by the new sanctions?",
+        "Which travel companies operate between the USA and Cuba that could face disruptions?",
+        "Which energy suppliers are impacted by the oil blockade against Cuba?",
+        "Which companies in the private sector in Cuba may be affected by the restrictions on business conferences?",
+        "Which downstream companies depend on trade with Cuba that may be exposed to these sanctions?"
+      ],
+      "reason": "The increased sanctions on Cuba by the USA create significant geopolitical restrictions that can impact trade, financial transactions, and travel, all of which are integral to supply chain activities.",
+      "summary": "The USA has intensified sanctions against Cuba, particularly affecting financial transactions and travel. This geopolitical event poses risks to various industries, including finance and energy, and could disrupt supply chains linked to Cuba.",
+      "title": "USA skärper sanktioner mot Kuba",
+      "url": "https://www.aftonbladet.se/nyheter/a/lnppRo/usa-skarper-sanktioner-mot-kuba",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran's Stance on Nuclear and Hormuz Strait",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "Qatar"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by geopolitical tensions in the Hormuz Strait?",
+        "Which shipping companies operate in the region and could be impacted by disruptions?",
+        "What are the potential impacts on oil supply chains due to Iran's stance on the Hormuz Strait?",
+        "Which downstream companies depend on oil imports that could be affected by this geopolitical situation?",
+        "Which countries or regions are most exposed to disruptions in the Hormuz Strait?"
+      ],
+      "reason": "The article discusses Iran's firm stance on its nuclear program and the reopening of the Hormuz Strait, which is a critical shipping route for global oil supply. This geopolitical tension can lead to disruptions in energy supply chains and shipping logistics.",
+      "summary": "Iran's unwavering position on its nuclear program and the reopening of the Hormuz Strait raises concerns about potential disruptions in energy supply chains. The geopolitical implications of this situation could significantly impact shipping and energy industries globally.",
+      "title": "  美출국  이란 외무  핵 · 호르무즈 입장 불변 … 중재국 통해 답변 받을 것  ",
+      "url": "https://www.fnnews.com/news/202609300848172242",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-US Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential sanctions or trade restrictions?",
+        "Which manufacturing or production relationships may be impacted by the outcome of the negotiations?",
+        "Which countries or regions create exposure due to geopolitical tensions between Iran and the US?",
+        "Which supply-chain dependencies could transmit disruptions if sanctions are imposed?",
+        "Which downstream companies may be exposed to changes in energy supply or pricing due to these negotiations?"
+      ],
+      "reason": "The ongoing negotiations between Iran and the US regarding sanctions and trade policies could significantly impact supply chains, particularly in the energy sector and industries reliant on Iranian resources or markets.",
+      "summary": "The article discusses ongoing negotiations between Iran and the US, which could lead to significant geopolitical changes affecting supply chains, especially in the energy and manufacturing sectors. The outcome of these discussions may influence trade policies and sanctions, impacting global supply chains.",
+      "title": "İran - ABD New Yorkta görüştü",
+      "url": "https://www.f5haber.com/dunya/iran-abd-new-yorkta-gorustu-6982663",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential easing of sanctions against Russia",
+      "companies_involved": [
+        "U.S. companies involved in oil trade"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which U.S. companies are dependent on Russian oil products?",
+        "How might the easing of sanctions affect energy supply chains involving Russia?",
+        "Which suppliers of energy products may be impacted by changes in U.S. sanctions?",
+        "What manufacturing operations in the U.S. rely on imports from Russia?",
+        "Which downstream companies could be affected by increased Russian oil trade?"
+      ],
+      "reason": "The potential easing of sanctions against Russia could significantly impact energy supply chains, particularly in the oil and gas industry, affecting trade relationships and logistics.",
+      "summary": "The article discusses the potential for the U.S. to ease sanctions against Russia, which could facilitate trade in oil products. This geopolitical event poses risks to supply chains, particularly in the energy sector, as it may alter existing trade dynamics and dependencies.",
+      "title": "США можуть послабити санкції проти РФ ще до того , як закінчиться війна в Україні",
+      "url": "https://www.unian.ua/world/tramp-mozhe-znyati-chastinu-sankciy-z-rf-shche-do-zavershennya-viyni-v-ukrajini-the-atlantic-13513770.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Regulatory Changes in Social Insurance",
+      "companies_involved": [],
+      "industries_involved": [
+        "Healthcare",
+        "Labor"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses regulatory changes related to social insurance and administrative penalties, which do not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines new regulations regarding administrative penalties in the fields of healthcare and labor in Vietnam. While it addresses compliance and enforcement, it does not indicate any direct supply chain disruptions.",
+      "title": "Hướng dẫn xử phạt vi phạm hành chính về bảo hiểm xã hội",
+      "url": "https://vneconomy.vn/huong-dan-xu-ly-vi-pham-hanh-chinh-ve-bao-hiem-xa-hoi.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Regulatory Changes in Traffic Safety",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses regulatory changes related to traffic safety and signage on highways, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines new regulations for traffic safety in Vietnam, focusing on the implementation of distance signage on highways. While it pertains to transportation regulations, it does not indicate a disruption in supply chain activities.",
+      "title": "Cao tốc bổ sung biển báo 0m , 50m , 100m tại nơi xử phạt khoảng cách",
+      "url": "https://baomoi.com/cao-toc-bo-sung-bien-bao-0m-50m-100m-tai-noi-xu-phat-khoang-cach-c56153113.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Guidelines for Administrative Violations in Social Insurance",
+      "companies_involved": [],
+      "industries_involved": [
+        "Insurance",
+        "Healthcare",
+        "Labor"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses administrative guidelines related to social insurance violations in Vietnam, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines new guidelines for handling administrative violations in the field of social insurance in Vietnam. It focuses on regulatory changes rather than disruptions in supply chain activities.",
+      "title": "Hướng dẫn xử lý vi phạm hành chính về bảo hiểm xã hội",
+      "url": "https://baomoi.com/huong-dan-xu-ly-vi-pham-hanh-chinh-ve-bao-hiem-xa-hoi-c56154942.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "New Regulatory Changes in Media",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses new regulations regarding media and misinformation but does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines new regulations in Vietnam concerning misinformation in media, including potential fines for violations. However, it does not indicate any direct impact on supply chain activities.",
+      "title": "Đăng , phát thông tin xuyên tạc , bịa đặt , gây hoang mang trong nhân dân có thể bị phạt tới 400 triệu đồng",
+      "url": "https://baomoi.com/dang-phat-thong-tin-xuyen-tac-bia-dat-gay-hoang-mang-trong-nhan-dan-co-the-bi-phat-toi-400-trieu-dong-c56158026.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Regulatory changes on highway safety",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses regulatory changes regarding traffic safety and enforcement on highways, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses a regulatory initiative in Vietnam aimed at improving highway safety through enforcement of distance regulations. It does not indicate any direct supply chain disruptions or impacts on logistics or trade.",
+      "title": "Đề nghị Cục CSGT thông tin các tuyến cao tốc phạt lỗi không giữ khoảng cách",
+      "url": "https://dantri.com.vn/thoi-su/de-nghi-cuc-csgt-thong-tin-cac-tuyen-cao-toc-phat-loi-khong-giu-khoang-cach-20260929171700974.htm",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T111500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "EU Sanctions on Russia",
+      "companies_involved": [
+        "Alisher Usmanov",
+        "Mikhail Fridman"
+      ],
+      "industries_involved": [
+        "Metals",
+        "Mining",
+        "Telecommunications"
+      ],
+      "countries_involved": [
+        "Russia",
+        "France",
+        "Luxembourg",
+        "Latvia",
+        "Estonia",
+        "Azerbaijan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the metals and mining industries may be affected by the sanctions?",
+        "How might the sanctions impact production and logistics for companies operating in the telecommunications sector?",
+        "Which countries or regions are most exposed to the effects of the EU sanctions on Russia?",
+        "What supply-chain dependencies exist between EU member states and Russian companies under sanctions?",
+        "Which downstream companies in the EU rely on products or services from the affected Russian entities?"
+      ],
+      "reason": "The EU's sanctions against Russia, particularly the extension and modification of the sanctions list, directly impact trade and supply chain activities involving Russian companies, affecting industries such as metals, mining, and telecommunications.",
+      "summary": "The EU has extended sanctions against Russia, affecting over 3000 individuals and entities, including key figures in the metals and telecommunications industries. This geopolitical event poses significant risks to supply chains connected to these sectors, particularly in relation to trade and logistics.",
+      "title": "欧盟对俄制裁走到第5年 ： 名单越来越长 ， 裂缝也越来越大",
+      "url": "https://news.ifeng.com/c/8wp90wTvfjG",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Severe Flooding in Thailand",
+      "companies_involved": [
+        "Thai Airways",
+        "Honda"
+      ],
+      "industries_involved": [
+        "Aviation",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Thailand"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Thai Airways are located in the affected regions?",
+        "Which manufacturing facilities of Honda are impacted by the flooding?",
+        "What logistics routes are disrupted due to the flooding in Thailand?",
+        "Which downstream companies depend on products from Honda's affected facilities?",
+        "How does the flooding affect the supply chain for aviation fuel in Thailand?"
+      ],
+      "reason": "The severe flooding in Thailand has led to significant operational disruptions for companies like Thai Airways and Honda, affecting their logistics, production, and overall supply chain activities.",
+      "summary": "Severe flooding in Thailand has caused operational disruptions for Thai Airways, leading to flight cancellations, and has impacted Honda's production facilities. This event poses a risk to the supply chain in the aviation and automotive industries due to logistical challenges and production halts.",
+      "title": "2026年09月30日 星期三 听新闻简报",
+      "url": "https://www.zaobao.com.sg/specials/the-audio-brief/20260930",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Closure of branches in Dong Nai",
+      "companies_involved": [
+        "Điện Quang"
+      ],
+      "industries_involved": [
+        "Electronics"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The closure of Điện Quang's branches is related to internal restructuring and does not directly impact supply chain activities such as production, logistics, or sourcing.",
+      "summary": "Điện Quang has decided to close two branches in Dong Nai to return land to the state for industrial zone conversion. This decision is part of internal adjustments and does not indicate a disruption in supply chain activities.",
+      "title": "Điện Quang ( DQC ) chấm dứt hoạt động hai chi nhánh tại TP . Đồng Nai",
+      "url": "https://www.tinnhanhchungkhoan.vn/dien-quang-dqc-cham-dut-hoat-dong-hai-chi-nhanh-tai-tp-dong-nai-post398505.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Complaint against IDF reservist in Vietnam",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam",
+        "Israel"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a legal complaint against an individual and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a criminal complaint filed against an Israeli reservist in Vietnam by a pro-Palestinian organization. There is no indication that this event has a meaningful connection to supply chain activities.",
+      "title": "IDF reservist receives complaint from Hind Rajab Foundation in Vietnam",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910132",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-US Tensions Over Strait of Hormuz",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which oil suppliers may be affected by the geopolitical tensions in the Strait of Hormuz?",
+        "Which shipping companies operate in the affected region and may face disruptions?",
+        "What are the potential impacts on oil supply chains due to sanctions imposed by the US on Iran?",
+        "Which downstream companies rely on oil imports from the affected region?",
+        "How might changes in trade policy between the US and Iran affect global oil prices?"
+      ],
+      "reason": "The article discusses geopolitical tensions between Iran and the US regarding the Strait of Hormuz, which is a critical chokepoint for global oil supply. Any disruptions in this area could significantly impact oil transportation and trade, making it a relevant supply chain disruption.",
+      "summary": "The ongoing geopolitical tensions between Iran and the United States over the Strait of Hormuz pose a potential disruption to global oil supply chains. The situation could lead to increased sanctions and military actions, affecting shipping and oil industries significantly.",
+      "title": "童文薰觀點 》 川普走選舉日曆 佩澤什基安走地雷陣 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-09-29/1062371",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Tightened Tobacco Display Regulations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tobacco",
+        "Retail"
+      ],
+      "countries_involved": [
+        "Australia",
+        "Malaysia",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of tobacco products may be affected by the new regulations in Vietnam?",
+        "How might the changes in tobacco display regulations impact retail operations in affected countries?",
+        "Which countries are the primary sources of tobacco products for retailers in Vietnam?",
+        "What logistics challenges could arise from the enforcement of stricter tobacco display laws?",
+        "Which downstream companies in the retail sector may face operational disruptions due to these regulatory changes?"
+      ],
+      "reason": "The article discusses the potential impact of new tobacco display regulations in Vietnam, drawing on experiences from Australia and Malaysia. These regulations could disrupt supply chains by affecting retail operations, supplier relationships, and compliance costs.",
+      "summary": "The article outlines proposed regulations in Vietnam to tighten the display of tobacco products, referencing international experiences. This could lead to significant changes in the tobacco supply chain, affecting retailers and suppliers in the region.",
+      "title": "Siết quản lý trưng bày thuốc lá : Bài học thực thi từ kinh nghiệm quốc tế",
+      "url": "https://nhipcaudautu.vn/su-kien-doanh-nghiep/siet-quan-ly-trung-bay-thuoc-la-bai-hoc-thuc-thi-tu-kinh-nghiem-quoc-te-3365822/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Regulatory Changes in Real Estate Transactions",
+      "companies_involved": [
+        "Real Estate Companies in Vietnam"
+      ],
+      "industries_involved": [
+        "Real Estate"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which real estate companies may be affected by the new reporting regulations?",
+        "What impact do these regulations have on foreign investment in the real estate sector?",
+        "Which suppliers of construction materials may be affected by changes in real estate transactions?",
+        "How might these regulatory changes affect the timelines for project completion?",
+        "Which downstream companies depend on real estate transactions for their operations?"
+      ],
+      "reason": "The article discusses regulatory changes affecting real estate transactions involving foreign buyers, which can impact supply chain activities related to construction, investment, and compliance.",
+      "summary": "The article highlights new regulatory requirements for real estate companies in Vietnam when selling properties to foreign buyers. These changes could disrupt the real estate supply chain by affecting compliance, investment flows, and project timelines.",
+      "title": "Tránh rủi ro pháp lý khi bán nhà cho người nước ngoài",
+      "url": "https://baomoi.com/tranh-rui-ro-phap-ly-khi-ban-nha-cho-nguoi-nuoc-ngoai-c56155808.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Vietnam's Ban on E-Cigarettes and Heated Tobacco Products",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tobacco",
+        "E-commerce"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of tobacco products may be affected by the ban in Vietnam?",
+        "Which e-commerce platforms are likely to see increased sales of banned products?",
+        "What are the potential impacts on logistics companies handling tobacco products in Vietnam?",
+        "Which downstream retailers may be exposed to legal risks due to the shift to online sales?",
+        "How might the ban affect international suppliers of e-cigarettes and heated tobacco products?"
+      ],
+      "reason": "The article discusses a regulatory change in Vietnam that bans e-cigarettes and heated tobacco products, leading to a shift in sales from physical stores to online platforms. This change impacts supply chain activities related to sourcing, distribution, and compliance.",
+      "summary": "Vietnam's recent ban on e-cigarettes and heated tobacco products has led to a significant shift in sales strategies, with many retailers moving online. This regulatory change poses challenges for supply chain management, particularly in monitoring compliance and managing distribution channels.",
+      "title": "Sinh viên dùng thuốc lá điện tử giảm , người bán lại  chạy  lên mạng",
+      "url": "https://baomoi.com/sinh-vien-dung-thuoc-la-dien-tu-giam-nguoi-ban-lai-chay-len-mang-c56158400.epi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Legal and Regulatory Framework Development",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the development and implementation of legal frameworks in Vietnam, which may influence business operations but does not directly indicate a supply chain disruption.",
+      "summary": "The article focuses on the need for a stable legal environment in Vietnam to encourage investment and improve compliance. While it addresses regulatory changes, it does not present a direct supply chain disruption.",
+      "title": "Pháp luật phải đủ ổn định để người dân , doanh nghiệp yên tâm đầu tư",
+      "url": "https://www.sggp.org.vn/phap-luat-phai-du-on-dinh-de-nguoi-dan-doanh-nghiep-yen-tam-dau-tu-post873923.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Negotiations Impacting Oil Supply",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Qatar",
+        "Iraq",
+        "Oman",
+        "United Arab Emirates",
+        "Turkey"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil and gas companies may be affected by geopolitical tensions in the region?",
+        "Which manufacturing facilities depend on oil supply from the affected countries?",
+        "Which countries or regions create exposure for companies relying on oil imports?",
+        "Which supply-chain dependencies could transmit disruptions from the Middle East to global markets?",
+        "Which downstream companies depend on oil and gas products from the affected suppliers?"
+      ],
+      "reason": "The article discusses the geopolitical negotiations between the US and Iran, which directly impact oil supply routes and prices, indicating a potential disruption in the global oil supply chain.",
+      "summary": "The ongoing negotiations between the US and Iran regarding sanctions and oil supply are influencing global oil prices and shipping routes. The situation remains fluid, with potential implications for oil supply chains and related industries.",
+      "title": "油价因美伊借卡塔尔谈判 ， 通航回暖溢价回落 _ 期市动态 _ 期货 _ 中金在线",
+      "url": "http://futures.cnfol.com/qishidongtai/20260929/32384048.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "FDI Tax Policy Discussion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses tax policy and regulatory changes for foreign direct investment (FDI) in Vietnam, but it does not indicate any immediate or potential disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the dialogue between FDI companies and tax authorities in Vietnam regarding tax policies. While it highlights the importance of a stable investment environment, it does not present any direct supply chain disruptions.",
+      "title": "Đối thoại với doanh nghiệp FDI về chính sách thuế",
+      "url": "https://stockbiz.vn/tin-tuc/doi-thoai-voi-doanh-nghiep-fdi-ve-chinh-sach-thue/42009680",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Hong Kong's Five-Year Development Plan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Hong Kong"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Hong Kong's governance and development strategy without indicating any specific supply chain disruptions or impacts on logistics, production, or trade activities.",
+      "summary": "The article outlines Hong Kong's new development strategy and governance changes, emphasizing economic growth and integration with national policies. However, it does not present any direct supply chain disruptions or risks.",
+      "title": "劉兆佳 ： 香港治理思維告別消極被動",
+      "url": "https://www.hkcna.hk/hk/content/s6abb7c6fe4b08c6106ce02f0.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions over the Strait of Hormuz",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Metals"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy products may be affected by disruptions in the Strait of Hormuz?",
+        "Which manufacturing facilities depend on silver and energy supplies from the affected region?",
+        "Which countries or regions create exposure for companies relying on oil and gas from the Strait of Hormuz?",
+        "Which supply-chain dependencies could transmit the disruption from geopolitical tensions?",
+        "Which downstream companies may be exposed to increased costs due to rising energy prices?"
+      ],
+      "reason": "The article discusses geopolitical tensions affecting the Strait of Hormuz, which is a critical route for global oil and gas shipments. Disruptions in this area can lead to increased energy prices and impact industries reliant on these resources, thus affecting supply chains.",
+      "summary": "Geopolitical tensions surrounding the Strait of Hormuz are causing fluctuations in energy prices, which could impact supply chains reliant on oil and gas. The situation may lead to increased costs and affect industries such as energy and metals.",
+      "title": "白银价格惨遭抛售背后原因 ： 白银周一急跌为何比黄金更惨 _ 白银 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/baiyin/20260929/32384379.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Oil Price Fluctuation due to US-Iran Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "Qatar"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the oil and gas industry may be affected by changes in oil prices?",
+        "How might fluctuations in oil prices impact transportation costs for companies relying on fuel?",
+        "Which countries are most dependent on oil imports from the affected regions?",
+        "What are the potential impacts on logistics companies due to rising or falling oil prices?",
+        "Which downstream companies in the transportation sector may be exposed to increased fuel costs?"
+      ],
+      "reason": "The article discusses oil price changes influenced by geopolitical negotiations, which can significantly impact supply chain costs and logistics operations reliant on fuel.",
+      "summary": "The article highlights fluctuations in oil prices due to negotiations between the US and Iran, which could affect the oil and gas industry and transportation costs. This situation poses a potential supply chain disruption as companies may face increased operational costs.",
+      "title": "油价因美伊借卡塔尔谈判 ， 通航回暖溢价回落 _ 国际原油市场 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/guojiyuanyousc/20260929/32384075.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T103000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Legal and Regulatory Changes in Business Closure Procedures",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses legal and regulatory changes regarding business closures in Vietnam but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses the challenges and proposed changes in the legal framework for business closures in Vietnam. While it highlights the need for reform, it does not present a direct supply chain disruption.",
+      "title": "Giải thể doanh nghiệp nhanh tạo cơ hội cho ý tưởng kinh doanh mới",
+      "url": "https://www.tinnhanhchungkhoan.vn/giai-the-doanh-nghiep-nhanh-tao-co-hoi-cho-y-tuong-kinh-doanh-moi-post398393.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market fluctuations and stock performance analysis",
+      "companies_involved": [
+        "江淮汽车",
+        "康强电子",
+        "均胜电子",
+        "平潭发展"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Electronics",
+        "Real Estate"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses stock market performance and individual company analysis without any direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article focuses on stock market trends and individual company performance rather than any specific supply chain disruptions. There are no indications of impacts on supply chain activities.",
+      "title": " _ 江淮汽车 ( 600418 ) 股吧 _ 东方财富网股吧",
+      "url": "https://guba.eastmoney.com/o/news,600418,1778873825.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran-U.S. Tensions and Middle East Instability",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "Saudi Arabia",
+        "Yemen",
+        "Israel",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by the geopolitical tensions in the Middle East?",
+        "Which logistics companies operate in the affected regions and may face disruptions?",
+        "What are the potential impacts on oil supply chains due to the conflict in the Persian Gulf?",
+        "Which countries are critical for energy imports that could be affected by these tensions?",
+        "Which downstream companies rely on oil and gas from the affected regions?"
+      ],
+      "reason": "The ongoing geopolitical tensions between Iran and the U.S., along with conflicts in Yemen and Israel's strategic maneuvers, pose significant risks to energy supply chains and logistics in the region, potentially affecting global trade and energy prices.",
+      "summary": "The article discusses escalating geopolitical tensions in the Middle East, particularly between Iran and the U.S., which could disrupt energy supply chains and logistics operations. The instability in the region raises concerns about potential impacts on global trade and energy supplies.",
+      "title": "伊朗最高领袖 ： 伊朗现已变得独立 、 强大",
+      "url": "https://www.163.com/dy/article/L7URNGML053469LG.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Iran's Financial Maneuvering",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Iran's financial strategies regarding U.S. debt but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article focuses on Iran's financial dealings with U.S. debt, which does not indicate a direct supply chain disruption. There are no specific companies or industries mentioned that would be affected by this event.",
+      "title": "伊朗找到了美债的七寸 _ 凤凰网",
+      "url": "https://finance.ifeng.com/c/8wo28N29Ww3",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Potential Bioweapon Threat",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses potential bioweapons and their implications but does not provide a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article explores the potential threat of bioweapons targeting the human genome, emphasizing the risks associated with synthetic biology and artificial intelligence. However, it does not indicate any immediate or specific supply chain disruptions.",
+      "title": "The Next Bioweapon Could Target the Human Genome",
+      "url": "https://www.popularmechanics.com/science/a73917072/mutagenic-weapon/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "False Reporting of Theft",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses incidents of false reporting of theft, which do not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details cases of individuals falsely reporting thefts in Vietnam, leading to legal consequences. However, these incidents do not impact supply chain operations or activities.",
+      "title": "Báo tin giả nhưng bị phạt là thật",
+      "url": "https://congan.com.vn/vu-an/canh-giac/bao-tin-gia-nhung-bi-phat-la-that_198218.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US 100% Pharma Tariff Exemption for India",
+      "companies_involved": [
+        "Indian drugmakers"
+      ],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "United States",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian drugmakers provide the specialty medicines and ingredients affected by the tariff?",
+        "Which manufacturing facilities in India produce the exempted specialty drugs?",
+        "Which countries or regions are key suppliers for the ingredients used in the exempted medicines?",
+        "Which downstream companies in the US depend on the exempted Indian pharmaceutical products?",
+        "What are the potential impacts on trade relations between the US and India regarding pharmaceutical exports?"
+      ],
+      "reason": "The article discusses a significant change in US trade policy regarding tariffs on pharmaceuticals, which directly impacts the supply chain of Indian drugmakers exporting to the US. The exemption from the 100% tariff for certain specialty drugs and ingredients indicates a regulatory change that affects trade and sourcing activities.",
+      "summary": "The US has exempted certain specialty pharmaceuticals and their ingredients from a new 100% tariff, providing relief to Indian drugmakers. This trade policy change is significant as it directly influences the supply chain dynamics between the US and India in the pharmaceutical sector.",
+      "title": "US 100 % pharma tariff : Amid uncertainty , India gets exemption for select specialty drugs and ingredients",
+      "url": "https://www.livemint.com/industry/manufacturing/us-100-per-cent-pharma-tariff-amid-uncertainty-india-gets-exemption-for-select-specialty-drugs-and-ingredients-11790678388934.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T120000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "India-US Trade Relations Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India may be affected by changes in US trade policy?",
+        "Which manufacturing facilities in India depend on exports to the US?",
+        "What are the potential impacts on Indian agricultural producers due to US tariffs?",
+        "Which downstream companies in the US rely on imports from India?",
+        "How might changes in trade agreements affect logistics operations between India and the US?"
+      ],
+      "reason": "The article discusses the complexities and uncertainties in trade negotiations between India and the US, which can directly impact supply chain activities, particularly in manufacturing and agriculture.",
+      "summary": "The article highlights the impact of trade negotiations and tariffs on India-US relations, indicating potential disruptions in trade and manufacturing. The complexities in these discussions could affect supply chains involving both countries.",
+      "title": "s jaishankar says differences on terrorism and trade impacted india us ties",
+      "url": "https://www.prabhasakshi.com/international/s-jaishankar-says-differences-on-terrorism-and-trade-impacted-india-us-ties",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Exemption for Indian Specialty Drugs",
+      "companies_involved": [
+        "Indian pharmaceutical exporters"
+      ],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian pharmaceutical exporters may be affected by the tariff changes?",
+        "Which manufacturing facilities in India produce the specialty drugs eligible for the tariff exemption?",
+        "Which countries or regions are key suppliers of raw materials for the specialty pharmaceuticals?",
+        "Which supply-chain dependencies could be impacted by the new tariff regime?",
+        "Which downstream companies in the US depend on the specialty drugs from Indian exporters?"
+      ],
+      "reason": "The article discusses a significant change in trade policy that affects the tariffs on Indian specialty pharmaceuticals, which directly impacts the supply chain activities of Indian exporters and their access to the US market.",
+      "summary": "The US has granted a tariff exemption on select Indian specialty drugs, allowing Indian pharmaceutical exporters to access the US market without the burden of a 100% tariff. This change is significant for the pharmaceutical supply chain, particularly for specialty products, and may influence sourcing and production strategies.",
+      "title": "US exempts select Indian specialty drugs from 100 % tariff",
+      "url": "https://www.thehindubusinessline.com/news/us-exempts-select-indian-specialty-drugs-from-100-tariff/article71522724.ece",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Waives Tariffs on Indian Specialty Drugs",
+      "companies_involved": [
+        "Indian pharmaceutical companies"
+      ],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian pharmaceutical companies may be affected by the tariff changes?",
+        "Which manufacturing facilities in India produce the specialty drugs that are now exempt from tariffs?",
+        "Which countries or regions are involved in the supply of key pharmaceutical ingredients for these drugs?",
+        "Which supply-chain dependencies could be impacted by the changes in tariff policy?",
+        "Which downstream companies in the US depend on the specialty drugs from Indian manufacturers?"
+      ],
+      "reason": "The waiver of tariffs on select Indian specialty drugs directly impacts the trade dynamics between the US and India, affecting the supply chain for pharmaceutical products and ingredients.",
+      "summary": "The US has waived tariffs on certain specialty drugs and pharmaceutical ingredients from India, providing relief to Indian pharmaceutical companies. This trade policy change could significantly influence supply chain operations and relationships in the pharmaceutical industry.",
+      "title": "US Waives 100 % Tariff on Select Indian Specialty Drugs",
+      "url": "https://www.siliconindia.com/news/general/us-waives-100-tariff-on-select-indian-specialty-drugs-nid-242486-cid-1.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Waiver on Specialty Drugs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "United States",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of specialty drugs are affected by the tariff waiver?",
+        "Which pharmaceutical companies in India may benefit from this tariff change?",
+        "How might this tariff waiver impact the pricing and availability of specialty drugs in the US market?",
+        "Which downstream companies in the US depend on imported specialty drugs from India?",
+        "What are the potential impacts on logistics and transportation for specialty drugs due to this policy change?"
+      ],
+      "reason": "The waiver of tariffs on specialty drugs imported from India and other countries represents a significant change in trade policy that could affect supply chain dynamics, particularly in the pharmaceutical industry.",
+      "summary": "The US has waived tariffs on specialty drugs imported from India and 19 other countries, which may impact the supply chain for pharmaceuticals. This change could lead to increased availability and potentially lower prices for these drugs in the US market.",
+      "title": "US waives tariff on specialty drugs imported from India and 19 other countries",
+      "url": "https://www.business-standard.com/markets/capital-market-news/us-waives-tariff-on-specialty-drugs-imported-from-india-and-19-other-countries-126092900378_1.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S. Waives Tariffs on Specialty Drugs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "United States",
+        "India",
+        "Argentina",
+        "Bangladesh",
+        "Cambodia",
+        "Ecuador",
+        "El Salvador",
+        "European Union",
+        "Guatemala",
+        "Indonesia",
+        "Japan",
+        "Jordan",
+        "Malaysia",
+        "North Macedonia",
+        "South Korea",
+        "Switzerland",
+        "Liechtenstein",
+        "Taiwan",
+        "Thailand",
+        "United Kingdom",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of pharmaceutical ingredients are located in the countries receiving tariff waivers?",
+        "Which manufacturing facilities in the U.S. depend on imported specialty drugs from the affected countries?",
+        "How might the tariff changes impact the supply chain for rare disease treatments?",
+        "Which countries are most likely to be affected by the upcoming 100% tariffs on patented pharmaceuticals?",
+        "Which downstream companies in the U.S. rely on products from suppliers in the countries listed?"
+      ],
+      "reason": "The waiver of tariffs on specialty drugs and associated ingredients directly impacts the supply chain for pharmaceuticals, affecting sourcing, trade, and potentially production and logistics for companies involved in these sectors.",
+      "summary": "The U.S. has waived tariffs on certain specialty drugs from 20 countries, including India, which may significantly impact the pharmaceutical supply chain. This policy change is part of a broader trade strategy that includes upcoming tariffs on patented pharmaceuticals, creating potential disruptions in sourcing and logistics.",
+      "title": "U . S . waives tariffs on certain speciality drugs from 20 countries , including India",
+      "url": "https://www.thehindu.com/news/national/us-waives-tariffs-on-certain-speciality-drugs-from-20-countries-including-india/article71522910.ece",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S. Waives Tariffs on Specialty Drugs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "United States",
+        "India",
+        "Argentina",
+        "Bangladesh",
+        "Cambodia",
+        "Ecuador",
+        "El Salvador",
+        "European Union",
+        "Guatemala",
+        "Indonesia",
+        "Japan",
+        "Jordan",
+        "Malaysia",
+        "North Macedonia",
+        "South Korea",
+        "Switzerland",
+        "Liechtenstein",
+        "Taiwan",
+        "Thailand",
+        "Britain",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of pharmaceutical ingredients are located in the countries receiving tariff waivers?",
+        "Which manufacturing facilities in the U.S. depend on imported specialty drugs from the affected countries?",
+        "How might the tariff changes impact the supply chain for rare disease treatments?",
+        "Which countries are potential sources for alternative suppliers if tariffs are imposed on other pharmaceutical imports?",
+        "Which downstream companies in the U.S. rely on the specialty drugs that are now tariff-exempt?"
+      ],
+      "reason": "The waiver of tariffs on specialty drugs and their ingredients from multiple countries directly impacts the pharmaceutical supply chain, affecting sourcing, production, and trade dynamics.",
+      "summary": "The U.S. has waived tariffs on certain specialty drugs from 20 countries, including India, as part of a trade policy adjustment. This change is expected to influence the pharmaceutical supply chain by altering sourcing and production costs for affected companies.",
+      "title": "U . S . waives tariffs on certain speciality drugs from 20 countries , including India",
+      "url": "https://www.thehindu.com/news/international/us-waives-tariffs-on-certain-speciality-drugs-from-20-countries-including-india/article71522910.ece",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "India-New Zealand FTA Implementation",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "India",
+        "New Zealand"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India may benefit from increased trade with New Zealand?",
+        "Which manufacturing sectors in New Zealand could see changes in demand due to the FTA?",
+        "What are the potential impacts on logistics and transportation between India and New Zealand?",
+        "Which downstream companies in India may rely on imports from New Zealand as a result of the FTA?",
+        "How might this FTA affect trade relationships with other countries?"
+      ],
+      "reason": "The implementation of the Free Trade Agreement (FTA) between India and New Zealand is expected to significantly impact trade flows, which can affect supply chains related to sourcing, manufacturing, and logistics between the two countries.",
+      "summary": "The Free Trade Agreement between India and New Zealand, effective from October 20, is anticipated to enhance trade relations and impact various supply chain activities. This could lead to changes in sourcing and logistics for companies operating in these regions.",
+      "title": "India - New Zealand trade set to surge as FTA kicks in on Oct 20",
+      "url": "https://www.prokerala.com/news/articles/a1818107.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "India-US Trade Agreement Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India may be affected by changes in the US tariff landscape?",
+        "Which manufacturing facilities in India depend on exports to the US market?",
+        "What impact will the new Section 301 process have on trade agreements with India?",
+        "Which downstream companies in the US rely on imports from India that could be affected by the trade negotiations?",
+        "How might changes in trade policy influence sourcing strategies for companies operating in both countries?"
+      ],
+      "reason": "The ongoing negotiations for a trade agreement between India and the US, along with changes in tariff policies, have direct implications for trade, manufacturing, and sourcing activities between the two countries, thus representing a potential supply chain disruption.",
+      "summary": "The article discusses the complexities and ongoing negotiations of a trade agreement between India and the US, highlighting the potential impacts on trade relations and supply chains. Changes in US tariff policies could significantly affect Indian producers and exporters, indicating a notable supply chain risk.",
+      "title": "Trade agreement can contribute to  better  India - US ties , says Jaishankar as Piyush Goyal set to hold talks",
+      "url": "https://www.livemint.com/economy/trade-agreement-can-contribute-to-better-india-us-ties-says-jaishankar-as-piyush-goyal-set-to-hold-talks-11790664730693.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "India-US Trade Deal Negotiations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India may be affected by changes in trade policy?",
+        "How might the trade deal impact manufacturing relationships between India and the US?",
+        "Which industries in the US could be exposed to disruptions due to the trade negotiations?",
+        "What supply-chain dependencies exist between Indian manufacturers and US companies?",
+        "Which downstream companies in the US rely on products sourced from India?"
+      ],
+      "reason": "The ongoing trade negotiations between India and the US, particularly concerning Section 301, could lead to changes in tariffs or trade regulations that directly impact supply chain activities, including sourcing and manufacturing.",
+      "summary": "The article discusses the advanced state of trade negotiations between India and the US, highlighting potential implications for supply chains. The focus on Section 301 indicates that regulatory changes could affect trade dynamics and supply chain operations between the two countries.",
+      "title": "India - US trade deal  very far advanced , Section 301 remains key issue : EAM S Jaishankar",
+      "url": "https://aninews.in/news/business/india-us-trade-deal-8216very-far-advanced8217-section-301-remains-key-issue-eam-s-jaishankar20260929131904/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "India-US Trade Agreement Discussion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a trade agreement that may improve relations between India and the US, but it does not provide specific information about supply chain activities or disruptions.",
+      "summary": "The article highlights the potential for a trade agreement to enhance India-US relations. However, it does not indicate any immediate supply chain disruptions or impacts on specific companies or industries.",
+      "title": "Trade agreement can contribute to  better  India - US ties , says Jaishankar",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/trade-agreement-can-contribute-to-better-india-us-ties-says-jaishankar-126092900264_1.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "India-US Trade Agreement Negotiations",
+      "companies_involved": [
+        "US Government",
+        "Indian Government"
+      ],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in India may be affected by changes in US tariffs?",
+        "Which manufacturing facilities in the US depend on imports from India?",
+        "What are the potential impacts on Indian agricultural producers due to the trade negotiations?",
+        "Which downstream companies in the US rely on products imported from India?",
+        "How might changes in the US tariff landscape affect trade flows between India and the US?"
+      ],
+      "reason": "The ongoing negotiations and changes in trade policy between India and the US have direct implications for supply chain activities, including sourcing, manufacturing, and trade flows, which can disrupt existing supply chain relationships.",
+      "summary": "The article discusses the potential impact of ongoing trade negotiations between India and the US, highlighting the complexities involved in reaching a bilateral trade agreement. These negotiations could significantly affect supply chain dynamics, particularly in manufacturing and agriculture sectors.",
+      "title": "Jaishankar Says India - US Trade Deal Could Improve Bilateral Ties",
+      "url": "https://dailypioneer.com/news/jaishankar-india-us-trade-deal-better-bilateral-ties",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariffs on Indian Jewellery",
+      "companies_involved": [
+        "SEEPZ Gems and Jewellery Manufacturers Association",
+        "Akoirah by Augmont",
+        "Kama Jewelry"
+      ],
+      "industries_involved": [
+        "Gems and Jewellery"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of gems and jewellery manufacturers in India may be affected by the new US tariffs?",
+        "Which manufacturing facilities in India are dependent on exports to the US market?",
+        "What regions in India are most exposed to the potential tariff impacts?",
+        "Which supply-chain dependencies could transmit the disruption from the US tariffs?",
+        "Which downstream companies in the US depend on imports from Indian gems and jewellery exporters?"
+      ],
+      "reason": "The article discusses the urgent response of the Indian gems and jewellery industry to impending US tariffs, which directly impacts production, logistics, and trade activities, thus qualifying as a supply chain disruption.",
+      "summary": "The impending US tariffs on Indian jewellery have prompted a significant rush in production and shipments from India to meet export deadlines. This situation highlights the potential disruption in the supply chain for the gems and jewellery industry, particularly affecting trade relations between India and the US.",
+      "title": "US Tariffs On Indian Jewellery : Urgent Rush in India Gems and Jewellery Exports Ahead of US Tariffs , ETRetail",
+      "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gems-jewellery-exporters-rush-to-beat-new-us-tariff-deadline/134554360",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Telecom Sector Financial Strain",
+      "companies_involved": [
+        "Bharti Airtel",
+        "Indus Towers",
+        "Vodafone Idea",
+        "Reliance Jio"
+      ],
+      "industries_involved": [
+        "Telecommunications"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide equipment to Bharti Airtel and Reliance Jio?",
+        "Which manufacturing facilities are involved in the production of telecom equipment for the affected companies?",
+        "Which countries supply critical components for 5G infrastructure to Indian telecom operators?",
+        "Which downstream companies rely on services from the affected telecom operators?",
+        "What are the potential impacts on logistics and transportation for telecom equipment imports?"
+      ],
+      "reason": "The article discusses financial pressures and operational challenges faced by telecom companies in India, which could impact their supply chain activities, particularly in terms of equipment sourcing and cash flow management.",
+      "summary": "The Indian telecom sector is experiencing significant financial strain due to ongoing investments in 5G infrastructure and regulatory challenges. This situation poses risks to supply chain operations, particularly concerning equipment sourcing and cash flow for major telecom players.",
+      "title": "FIIs dump telecom for 8th straight month , outflows cross Rs 32 , 000 crore . Are stocks set for rebound ? ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-telecom-for-8th-straight-month-outflows-cross-rs-32000-crore-are-stocks-set-for-rebound/articleshow/134578716.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "India-US Bilateral Trade Agreement Discussions",
+      "companies_involved": [
+        "Indian exporters",
+        "US companies"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Consumer Goods",
+        "Agribusiness",
+        "Retail",
+        "Technology"
+      ],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian exporters may be affected by changes in the trade agreement?",
+        "Which manufacturing facilities in India depend on exports to the US?",
+        "Which US companies are most exposed to changes in the India-US trade relationship?",
+        "What are the potential impacts on logistics and transportation for goods moving between India and the US?",
+        "Which downstream companies in the US rely on products from Indian exporters?"
+      ],
+      "reason": "The discussions surrounding the India-US Bilateral Trade Agreement could significantly impact trade flows, tariffs, and market access for companies in both countries, thereby affecting supply chain activities.",
+      "summary": "Piyush Goyal's visit to the US for G20 meetings and discussions on an interim trade deal highlights potential changes in trade policy that could impact supply chains between India and the US. The focus on expanding trade opportunities for various sectors indicates a significant supply chain risk exposure.",
+      "title": "Piyush Goyal to visit US for G20 meet , push for interim trade deal",
+      "url": "https://dailypioneer.com/news/piyush-goyal-to-visit-us-for-g20-meet-push-for-interim-trade-deal",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Relief on Specialty Drugs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "India",
+        "United States",
+        "European Union",
+        "Japan",
+        "South Korea",
+        "Thailand",
+        "Argentina",
+        "Bangladesh",
+        "Cambodia",
+        "Ecuador",
+        "El Salvador",
+        "Guatemala",
+        "Indonesia",
+        "Jordan",
+        "Malaysia",
+        "North Macedonia",
+        "Switzerland",
+        "Liechtenstein",
+        "Taiwan",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of pharmaceutical companies operate in the affected countries?",
+        "Which manufacturing facilities depend on components imported from the countries receiving tariff relief?",
+        "How might changes in US tariff policy impact the sourcing strategies of pharmaceutical companies?",
+        "Which downstream companies rely on specialty drugs that are now exempt from tariffs?",
+        "What are the potential impacts on production timelines for companies affected by the tariff changes?"
+      ],
+      "reason": "The article discusses the US government's decision to exempt certain specialty drugs and their components from tariffs, which directly impacts the pharmaceutical supply chain by affecting sourcing, production costs, and trade relationships.",
+      "summary": "The US has granted tariff relief on specialty drugs and their components from India and 19 other countries, impacting the pharmaceutical industry. This policy change is significant as it affects trade dynamics and sourcing strategies for companies involved in the production of these drugs.",
+      "title": "ट्रंप के 100 % दवा टैरिफ से भारत को मिली राहत , दुर्लभ बीमारियों की दवाओं पर नहीं लगेगा शुल्क - india 19 other countries get us tariff relief on specialty drugs",
+      "url": "https://www.punjabkesari.in/national/news/india-19-other-countries-get-us-tariff-relief-on-specialty-drugs-2384340",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Essar Group Iowa Steel Plant Investment",
+      "companies_involved": [
+        "Essar Group",
+        "Mesabi Metallics"
+      ],
+      "industries_involved": [
+        "Steel",
+        "Mining"
+      ],
+      "countries_involved": [
+        "United States",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Essar Group provide raw materials for the new steel plant?",
+        "What are the logistics implications of establishing a new iron ore mine in Minnesota?",
+        "Which manufacturing facilities may depend on the steel produced at the new plant?",
+        "How might tariffs impact the supply chain for steel imports in the U.S.?",
+        "Which downstream companies rely on steel from the new Iowa plant?"
+      ],
+      "reason": "The establishment of a new steel plant and iron ore mine represents a significant operational change in the supply chain, impacting production capabilities and raw material sourcing.",
+      "summary": "Essar Group is investing $18 billion to establish the largest steel plant in Iowa, USA, which will begin production in 2030. This investment includes the development of a new iron ore mine in Minnesota, indicating a substantial shift in supply chain operations for steel production in the region.",
+      "title": "Essar Group Iowa Steel Plant Investment | united states Mega Project Update",
+      "url": "https://www.bhaskar.com/business/news/essar-group-iowa-usa-steel-plant-investment-production-2030-139185907.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Exemption for Specialty Drugs from Bangladesh",
+      "companies_involved": [],
+      "industries_involved": [
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "Bangladesh",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of specialty pharmaceuticals in Bangladesh may be affected by the tariff exemption?",
+        "Which manufacturing facilities in Bangladesh produce the exempted specialty drugs?",
+        "Which countries or regions are dependent on imports of specialty drugs from Bangladesh?",
+        "Which supply-chain dependencies could be impacted by changes in US trade policy regarding pharmaceuticals?",
+        "Which downstream companies in the US rely on specialty drugs imported from Bangladesh?"
+      ],
+      "reason": "The exemption from tariffs on specialty drugs imported from Bangladesh indicates a significant regulatory change that could affect trade flows, production, and sourcing strategies in the pharmaceutical industry.",
+      "summary": "The US has exempted Bangladesh from tariffs on certain specialty drugs, which may influence trade dynamics and sourcing strategies in the pharmaceutical sector. This regulatory change could have implications for companies involved in the production and distribution of these drugs.",
+      "title": "Bangladesh among 20 nations exempt from US specialty drug tariffs",
+      "url": "https://bdnews24.com/bangladesh/gsmje1ozjo",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India-US Relations Impact Due to Terrorism Concerns",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Trade"
+      ],
+      "countries_involved": [
+        "India",
+        "United States",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the defense industry may be affected by geopolitical tensions between India and the US?",
+        "How might trade policies between India and the US change in response to terrorism concerns?",
+        "Which manufacturing relationships could be impacted by the deterioration of India-US relations?",
+        "What supply-chain dependencies exist between Indian and US companies that could be affected?",
+        "Which downstream companies in the US rely on products or services from Indian suppliers?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between India and the US regarding terrorism, which could lead to changes in trade policies and affect supply chain activities between the two countries.",
+      "summary": "The article highlights concerns from India's Foreign Minister regarding terrorism and its impact on India-US relations. This geopolitical tension could disrupt trade and supply chain activities between the two nations.",
+      "title": "S Jaishankar : ఉగ్రవాద నిరోధంలో రాజీ లేదన్న భారత్ .. అమెరికాకు .. ",
+      "url": "https://vaartha.com/national/s-jaishankar-ugravada-nirodhamlo-raaji-ledanna-bharat-amerikaku-jaishankar-warning/783441/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariffs on Indian Imports of Russian Oil",
+      "companies_involved": [
+        "Indian Oil Corporation",
+        "Reliance Industries"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "India",
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian oil companies may be affected by US tariffs?",
+        "Which manufacturing or production relationships in India depend on Russian crude oil?",
+        "What are the potential impacts on logistics and transportation for oil imports from Russia to India?",
+        "Which countries or regions create exposure for Indian oil companies due to US sanctions?",
+        "Which downstream companies in the US depend on products from Indian oil companies?"
+      ],
+      "reason": "The article discusses potential US tariffs on Indian imports of Russian oil, which could significantly impact India's energy supply chain, trade relations, and overall economic stability, thus representing a supply chain disruption.",
+      "summary": "The article highlights the potential impact of US tariffs on Indian imports of Russian oil, which could disrupt India's energy supply and trade relations. This situation poses risks to the oil and gas industry in India and may affect global energy markets.",
+      "title": "India is not abandoning Russian oil - Turning its back on Trump threats",
+      "url": "https://www.bankingnews.gr/diethni/articles/902189/india-is-not-abandoning-russian-oil-turning-its-back-on-trump-s-threats%20title=",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T123000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russia's Import of Refined Oil Products from India",
+      "companies_involved": [
+        "Nayara Energy",
+        "Rosneft"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Refining"
+      ],
+      "countries_involved": [
+        "Russia",
+        "India",
+        "Egypt",
+        "South Korea",
+        "Turkey"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nayara Energy are affected by the geopolitical situation?",
+        "Which manufacturing or production relationships may be impacted by Russia's reliance on imported gasoline?",
+        "What are the potential impacts on logistics and transportation routes due to sanctions on Russian oil imports?",
+        "Which countries or regions create exposure for companies involved in the refined oil trade with Russia?",
+        "Which downstream companies depend on gasoline supplied by Nayara Energy and Rosneft?"
+      ],
+      "reason": "This event represents a supply chain disruption as it involves significant changes in trade flows and logistics due to geopolitical factors, specifically sanctions and the need for Russia to import refined products it previously produced domestically.",
+      "summary": "Russia's recent shift to importing refined oil products from India highlights a significant disruption in its oil supply chain, driven by geopolitical tensions and domestic production challenges. This unusual trade flow raises concerns about the implications for global oil markets and logistics.",
+      "title": "Trade irony amid Trump threat : Why Russia is buying its own oil as fuel from India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/trade-irony-amid-trump-threat-why-russia-is-buying-its-own-oil-as-fuel-from-india/articleshow/134563758.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India's Continued Purchase of Russian Oil Amid US Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "India",
+        "Russia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of crude oil are affected by the US sanctions on Russian energy?",
+        "Which manufacturing or production relationships in India depend on Russian oil imports?",
+        "Which countries or regions create exposure for Indian oil imports due to geopolitical tensions?",
+        "Which supply-chain dependencies could transmit the disruption from Russian oil sanctions?",
+        "Which downstream companies in India may be exposed to increased costs or supply shortages due to reliance on Russian oil?"
+      ],
+      "reason": "The article discusses India's reliance on Russian oil and the potential impact of US sanctions, which could disrupt energy supply chains and affect trade relationships.",
+      "summary": "India's continued import of Russian oil is threatened by new US sanctions, which could lead to significant supply chain disruptions in the energy sector. The geopolitical implications of these sanctions may affect India's oil supply and pricing, impacting various industries reliant on energy.",
+      "title": "India cant stop buying Russian oil despite new US law , analysts say",
+      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/india-can-t-stop-buying-russian-oil-despite-new-us-law-analysts-say",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "UAPA Terror List Expansion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the expansion of India's UAPA terror list, which primarily relates to national security and terrorism rather than direct supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details the addition of individuals to India's UAPA terror list, highlighting concerns related to terrorism and national security. However, it does not indicate any direct impact on supply chain activities or operations.",
+      "title": "India UAPA terror list has 80 names : From Masood Azhar to Pannun , who is on it ? ",
+      "url": "https://www.moneycontrol.com/news/india/india-s-uapa-terror-list-has-80-names-from-masood-azhar-to-pannun-who-is-on-it-14040704.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "India's Technological Investment Surge",
+      "companies_involved": [],
+      "industries_involved": [
+        "Technology",
+        "Semiconductors",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "India",
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of technology components may be affected by India's push for self-sufficiency?",
+        "Which manufacturing relationships in India could be impacted by geopolitical tensions with China and the US?",
+        "What countries are potential sources for advanced technology that India may seek to develop independently?",
+        "Which supply-chain dependencies exist between Indian tech startups and foreign technology providers?",
+        "Which downstream companies in India rely on imported technology from the US and China?"
+      ],
+      "reason": "The article discusses India's strategic investments in technology to reduce dependency on foreign powers, which indicates potential shifts in supply chain dynamics and geopolitical risks affecting technology sourcing and production.",
+      "summary": "India is significantly increasing its investments in technology to compete with China and the US, aiming for self-sufficiency in critical sectors. This geopolitical shift may impact supply chains related to technology and manufacturing, particularly in semiconductors and aerospace.",
+      "title": "Индия бросается в погоню за Китаем и США - Аргументы Недели",
+      "url": "https://argumenti.ru/science/indiya-brosaetsya-v-pogonyu-za-kitaem-i-ssha-1010307",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Russia Energy Cooperation Discussions",
+      "companies_involved": [
+        "ЛУКОЙЛ",
+        "Роснефть"
+      ],
+      "industries_involved": [
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ЛУКОЙЛ and Роснефть may be affected by US sanctions?",
+        "Which manufacturing or production relationships may be impacted by changes in US-Russia energy cooperation?",
+        "Which countries or regions create exposure for US energy companies working with Russian partners?",
+        "Which supply-chain dependencies could transmit disruptions from geopolitical tensions between the US and Russia?",
+        "Which downstream companies depend on energy supplies from ЛУКОЙЛ and Роснефть?"
+      ],
+      "reason": "The discussions between US and Russian officials regarding energy cooperation and sanctions indicate potential impacts on energy supply chains, particularly for companies like ЛУКОЙЛ and Роснефть that are directly affected by US regulations.",
+      "summary": "Recent discussions between US and Russian officials highlight potential changes in energy cooperation that could impact supply chains. The involvement of major Russian energy companies suggests significant geopolitical risks affecting energy supply and trade.",
+      "title": "Дмитриев обсудил с США экономическое сотрудничество и энергетику",
+      "url": "https://www.kommersant.ru/doc/8989686",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iran Rial Currency Crash Due to War and Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the oil and gas industry may be affected by the sanctions on Iranian oil exports?",
+        "Which financial institutions are exposed to the Iranian economy and may face risks due to currency instability?",
+        "Which countries rely on Iranian oil and could be impacted by the sanctions?",
+        "What supply-chain dependencies exist between Iranian oil producers and international markets?",
+        "Which downstream companies in the oil and gas sector may be affected by disruptions in Iranian oil supply?"
+      ],
+      "reason": "The significant depreciation of the Iranian rial due to war and sanctions directly impacts the country's ability to engage in international trade, particularly in oil exports, which is a critical component of its economy and global supply chains.",
+      "summary": "The Iranian rial has crashed to a record low due to ongoing war and international sanctions, severely impacting Iran's economy and its oil exports. This geopolitical disruption poses risks to global supply chains, particularly in the oil and gas industry.",
+      "title": "Iran rial crashes past 2 . 5 million per dollar : War , sanctions push currency to new low",
+      "url": "https://www.livemint.com/news/world/iran-rial-crashes-past-2-5-million-per-dollar-war-sanctions-push-currency-to-new-low-11790689155848.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Strengthening of Collusion Regulations in Food Industry",
+      "companies_involved": [
+        "Samyang Foods"
+      ],
+      "industries_involved": [
+        "Food Industry"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Samyang Foods may be affected by the new collusion regulations?",
+        "How might the strengthening of collusion regulations impact the production processes of food manufacturers?",
+        "Which countries are potential markets for K-food that could be affected by these regulatory changes?",
+        "What supply-chain dependencies exist that could transmit the impact of these new regulations?",
+        "Which downstream companies rely on products from Samyang Foods that may be impacted by these changes?"
+      ],
+      "reason": "The article discusses the potential impact of new regulations on collusion in the food industry, which could affect production, pricing, and competitiveness of food manufacturers, thereby influencing supply chain dynamics.",
+      "summary": "The article highlights the emphasis on strengthening collusion regulations in South Korea's food industry, which could significantly impact production and supply chain operations. The focus on enhancing export competitiveness and addressing regulatory challenges indicates potential disruptions in the food supply chain.",
+      "title": "  취임 1년  박진선 식품협회장 , 담합 제재 강화에  범위부터 명확히  ",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04716646645585040&mediaCodeNo=257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential sale of S-400 systems to third countries",
+      "companies_involved": [
+        "Turkey",
+        "Russia",
+        "United States"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Turkey",
+        "Russia",
+        "United States",
+        "UAE",
+        "Qatar",
+        "Saudi Arabia",
+        "India",
+        "Azerbaijan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense systems may be affected by the geopolitical tensions surrounding the S-400?",
+        "Which manufacturing facilities in Turkey or Russia are involved in the production of S-400 systems?",
+        "Which countries are potential buyers of the S-400 and how might this affect trade relations?",
+        "What supply-chain dependencies exist between Turkey and the United States regarding defense contracts?",
+        "Which downstream companies in the defense industry may be exposed to changes in the S-400 sales negotiations?"
+      ],
+      "reason": "The ongoing negotiations regarding the sale of S-400 systems involve multiple countries and could impact defense supply chains, trade relations, and geopolitical stability, thus representing a potential supply chain disruption.",
+      "summary": "The article discusses the potential sale of Russian S-400 defense systems by Turkey to a third country, which could have significant implications for international defense supply chains and geopolitical relations. This situation highlights the interconnectedness of defense industries and the potential for disruptions in trade and manufacturing activities.",
+      "title": "Турецкий узел и сложная рокировка С - 400 - Точка зрения на haqqin . az",
+      "url": "https://haqqin.az/newsarchive/394169",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential Tariff Impact on Russian Oil Imports",
+      "companies_involved": [
+        "Indian Oil Corporation",
+        "Reliance Industries"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "India",
+        "Russia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian Oil Corporation may be affected by the tariff?",
+        "How would a 100% tariff on Russian oil impact the sourcing strategies of Reliance Industries?",
+        "Which downstream companies in India rely on Russian oil imports?",
+        "What are the potential impacts on logistics and transportation for oil imports from Russia to India?",
+        "Which regions in India are most dependent on Russian oil supplies?"
+      ],
+      "reason": "The article discusses a potential tariff threat that could impact India's oil imports from Russia, which is a significant aspect of the energy supply chain, affecting sourcing, logistics, and trade relationships.",
+      "summary": "The article highlights India's likely continued reliance on Russian oil despite a potential 100% tariff threat from the U.S. This situation poses risks to the energy supply chain in India, particularly for companies dependent on Russian oil imports.",
+      "title": "India Unlikely to Ditch Russian Oil Despite Trump 100 % Tariff Threat  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/publicpolicy/india-unlikely-to-ditch-russian-oil-despite-trumps-100-tariff-threat",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Essar Group's Steel Mill Project with Russian Ties",
+      "companies_involved": [
+        "Essar Group",
+        "Nayara Energy",
+        "Mesabi Metallics"
+      ],
+      "industries_involved": [
+        "Steel",
+        "Energy"
+      ],
+      "countries_involved": [
+        "India",
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Essar Group are affected by the geopolitical ties with Russia?",
+        "Which manufacturing facilities are dependent on the steel produced by Mesabi Metallics?",
+        "What are the potential impacts on trade relationships due to sanctions on Russian companies?",
+        "Which countries or regions may be affected by the US tariffs on Russian oil?",
+        "Which downstream companies rely on steel from the new Iowa plant?"
+      ],
+      "reason": "The announcement of the steel mill project involves significant geopolitical implications due to Essar's ties with Russia, which could affect supply chain operations, especially in the context of US sanctions and trade policies.",
+      "summary": "The article discusses the construction of a $15 billion steel mill by Essar Group in the US, highlighting its connections to Russian investments amid ongoing sanctions. This geopolitical context raises concerns about potential supply chain disruptions related to trade and manufacturing dependencies.",
+      "title": "Indian firm building $15bn Trump - announced steel mill has deep Russia ties - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-India Steel Mill Project with Russian Ties",
+      "companies_involved": [
+        "Essar Group",
+        "Nayara Energy",
+        "Mesabi Metallics"
+      ],
+      "industries_involved": [
+        "Steel",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "India",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Essar Group are affected by US sanctions?",
+        "Which manufacturing facilities depend on iron ore from Mesabi Metallics?",
+        "What are the implications of Nayara Energy's ties to Russia on its supply chain?",
+        "Which countries or regions create exposure for the steel mill project?",
+        "Which downstream companies depend on steel produced by the new mill?"
+      ],
+      "reason": "The announcement of the steel mill project involves significant geopolitical implications due to the ties between the Indian firm and Russian investments, which are under sanctions. This could affect supply chain activities related to sourcing, production, and trade.",
+      "summary": "The article discusses a $15 billion steel mill project in Iowa, backed by an Indian firm with strong ties to Russia. This geopolitical connection raises concerns about potential supply chain disruptions due to sanctions and trade policies.",
+      "title": "Indian firm building $15bn Trump - announced steel mill has deep Russia ties - Grenada Chronicle – Daily Grenada And Caribbean News",
+      "url": "https://grenadachronicle.com/indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T161500Z"
     }
   ]
 }
