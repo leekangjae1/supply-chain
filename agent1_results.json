@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T00:21:13Z",
-  "total_count": 9041,
+  "updated_at": "2026-10-01T08:12:57Z",
+  "total_count": 9137,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -246077,6 +246077,2923 @@
       "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20260929T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Korea Strategic Investment Project Announcement",
+      "companies_involved": [
+        "Texas Gas Combined Cycle Power Plant",
+        "Korean Government",
+        "US Government"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Nuclear Power"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Texas Gas Combined Cycle Power Plant may be affected by regulatory changes?",
+        "Which manufacturing facilities in South Korea depend on energy supplies from the US?",
+        "What are the potential impacts on logistics for the construction of the nuclear power plants in the US?",
+        "Which countries or regions create exposure for the Korean companies involved in the investment?",
+        "Which downstream companies in South Korea may be affected by changes in US trade policy?"
+      ],
+      "reason": "The announcement of a strategic investment project between the US and South Korea indicates a significant trade policy shift that could impact supply chains related to energy production and construction.",
+      "summary": "The recent announcement of a strategic investment project between South Korea and the United States, including the construction of a gas power plant and nuclear facilities, represents a potential supply chain disruption due to its implications for trade policy and energy supply. This development may affect various industries and companies involved in energy and construction sectors.",
+      "title": " [ 일지 ] 한미 관세 합의부터 전략투자 프로젝트 발표까지",
+      "url": "https://www.fnnews.com/news/202610010603166741",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential Withdrawal of Anti-Dumping Duties on Korean Tires",
+      "companies_involved": [
+        "Hankook Tire",
+        "Nexen Tire",
+        "Kumho Tire"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Tire Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Taiwan",
+        "Thailand",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Hankook Tire operate in the affected regions?",
+        "What manufacturing relationships exist between U.S. companies and Korean tire manufacturers?",
+        "Which countries are the primary sources of tire imports for the U.S. market?",
+        "What supply-chain dependencies exist between U.S. automotive manufacturers and Korean tire suppliers?",
+        "Which downstream companies in the U.S. automotive sector depend on tires from the affected suppliers?"
+      ],
+      "reason": "The article discusses the potential withdrawal of anti-dumping duties on tires imported from South Korea, Taiwan, and Thailand, which could lead to price undercutting and affect the competitive landscape for U.S. manufacturers, thereby impacting supply chain dynamics.",
+      "summary": "The U.S. Department of Commerce has indicated that if anti-dumping duties on tires from South Korea and other countries are lifted, it may lead to continued or renewed dumping practices. This situation poses a risk to U.S. tire manufacturers and their supply chains.",
+      "title": "미국 상무부  한국산 타이어 관세 철회하면 덤핑 지속 · 재발 가능  ",
+      "url": "https://www.voakorea.com/a/u-s-commerce-on-tires-from-korea-093026/8206262.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Korean Investment in US Energy Infrastructure",
+      "companies_involved": [
+        "Korean Government",
+        "Various US Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy infrastructure materials may be affected by the investment?",
+        "Which manufacturing facilities in the US are involved in the construction of the new energy projects?",
+        "Which regions in the US are most impacted by the new energy investments?",
+        "What supply-chain dependencies exist between Korean companies and US energy firms?",
+        "Which downstream companies may rely on the energy produced from these new projects?"
+      ],
+      "reason": "The article discusses significant investments by South Korea in US energy infrastructure, which directly impacts energy supply chains and could affect logistics and production in the energy sector.",
+      "summary": "South Korea plans to invest approximately $200 billion in US energy infrastructure, including LNG projects and nuclear power plants. This investment is expected to strengthen energy supply chains between the two countries and could have significant implications for related industries.",
+      "title": "韓国の対米エネルギー投資31兆円 トランプ大統領が発表 、 米中間選挙へ実績アピール",
+      "url": "https://www.sankei.com/article/20261001-NCIMSQU6FFMEDJN47Y6CZOBGIA/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Alaska LNG and Nuclear Power Plant Investment Proposal",
+      "companies_involved": [
+        "Westinghouse",
+        "Korea Electric Power Corporation (KEPCO)",
+        "Korea Hydro & Nuclear Power"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Nuclear Power",
+        "Natural Gas"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of KEPCO are involved in the Alaska LNG project?",
+        "Which manufacturing facilities depend on components for the nuclear power plants?",
+        "What are the potential impacts on logistics for transporting materials to the construction sites?",
+        "Which countries supply critical materials for the nuclear power plants?",
+        "Which downstream companies may be affected by changes in energy supply from these projects?"
+      ],
+      "reason": "The proposed investments in Alaska LNG and nuclear power plants represent significant energy infrastructure projects that could impact supply chains related to energy production, logistics, and international trade agreements.",
+      "summary": "The article discusses a potential investment by South Korea in Alaska LNG and nuclear power plants in the U.S., which could significantly impact energy supply chains. The projects are still under review, but they involve substantial financial commitments and international cooperation.",
+      "title": "  한국은 아직 검토 중인데  트럼프가 발표한 알래스카 LNG · 원전 8기",
+      "url": "https://newsway.co.kr/news/view?ud=2026100109401804839",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Korean Investment in US Energy Infrastructure",
+      "companies_involved": [
+        "Westinghouse",
+        "NextEra Energy",
+        "Related Companies",
+        "Lewis Energy",
+        "Glenfarne"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Nuclear Power"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the involved companies operate in South Korea or the United States?",
+        "Which manufacturing facilities depend on the energy infrastructure projects in Texas and Alaska?",
+        "What are the potential impacts on logistics and transportation due to the new energy projects?",
+        "Which countries or regions create exposure for the companies involved in this investment?",
+        "Which downstream companies may be affected by changes in energy supply from these projects?"
+      ],
+      "reason": "The announcement of significant investments by South Korean companies in U.S. energy infrastructure indicates potential changes in supply chain dynamics, particularly in energy supply and construction logistics, which could impact various stakeholders.",
+      "summary": "The article discusses a major investment by South Korean companies in U.S. energy infrastructure, including power plants and LNG projects. This investment, linked to trade negotiations, could significantly affect supply chain activities in the energy sector.",
+      "title": " [ 속보 ] 트럼프 , 韓 대미투자 발표  텍사스 발전소 , 원전 , 알래스카 LNG에 2000억 달러  ",
+      "url": "https://www.munhwa.com:443/article/11620660",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Policy on South Korean Imports",
+      "companies_involved": [
+        "South Korean manufacturers",
+        "U.S. Trade Representative (USTR)"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Manufacturing",
+        "Energy"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean manufacturers may be affected by the tariff changes?",
+        "Which manufacturing facilities in South Korea depend on exports to the U.S.?",
+        "What are the potential impacts on the semiconductor industry due to tariff policies?",
+        "Which downstream companies in the U.S. rely on products from South Korean manufacturers?",
+        "How might changes in U.S. tariff policy affect energy supply chains involving South Korea?"
+      ],
+      "reason": "The article discusses potential changes in U.S. tariffs on South Korean imports, which could impact trade relationships, manufacturing costs, and supply chain dynamics between the two countries.",
+      "summary": "The article highlights ongoing negotiations regarding U.S. tariffs on South Korean imports, particularly in the context of semiconductor investments and energy projects. The potential for increased tariffs poses risks to supply chain operations and trade relations between the U.S. and South Korea.",
+      "title": "산업장관  대미투자 , 관세 압박 관리 차원 … 15 % 상한선 재확인  ",
+      "url": "https://www.fnnews.com/news/202610010609550409",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Negotiations Impacting South Korean Exports",
+      "companies_involved": [
+        "South Korean manufacturers",
+        "U.S. Trade Representative (USTR)"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean manufacturers may be affected by changes in U.S. tariffs?",
+        "Which manufacturing facilities in South Korea depend on exports to the U.S.?",
+        "What are the potential impacts on the energy sector due to tariff changes on LNG?",
+        "Which downstream companies in the U.S. rely on products from South Korean manufacturers?",
+        "How might changes in trade policy affect the supply chain for construction projects in the U.S.?"
+      ],
+      "reason": "The article discusses the implications of U.S. tariffs on South Korean exports, particularly in the context of ongoing trade negotiations, which can significantly impact supply chain activities related to manufacturing and logistics.",
+      "summary": "The article highlights ongoing trade negotiations between South Korea and the U.S. regarding tariffs, particularly a 15% tariff on South Korean products. This situation poses potential risks to supply chains, especially in manufacturing and energy sectors, due to the uncertainty surrounding tariff changes.",
+      "title": "산업장관  대미투자 통해 관세 15 % 재확인 … 합의문 명시 빠져 아쉽다  ",
+      "url": "https://biz.heraldcorp.com/article/10889694",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "South Korea's $200 billion energy investment in the US",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the construction of new energy facilities in Texas and Alaska?",
+        "Which manufacturing or production relationships may be impacted by the new energy projects?",
+        "What countries or regions are involved in the supply chain for the materials needed for these energy projects?",
+        "Which supply-chain dependencies could transmit disruptions from the construction of the LNG pipeline?",
+        "Which downstream companies may be exposed to changes in energy costs due to these investments?"
+      ],
+      "reason": "The article discusses significant investments in energy infrastructure by South Korea in the US, which could impact supply chains related to energy production and logistics.",
+      "summary": "South Korea plans to invest up to $200 billion in major energy projects in the US, including power plants and LNG pipelines. This investment is expected to secure the US's energy supply chain and could have significant implications for related industries and suppliers.",
+      "title": "Tarife indirimi karlnda dev yatýrm ... Güney Koreden ABDye 200 milyar dolarlýk enerji karmas",
+      "url": "https://www.star.com.tr/dunya/tarife-indirimi-karsiliginda-dev-yatirim-guney-koreden-abdye-200-milyar-dolarlik-enerji-cikarmasi-haber-2043647/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential Increase in Tariffs on South Korean Products",
+      "companies_involved": [
+        "South Korean manufacturers",
+        "U.S. importers"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Energy",
+        "Semiconductors"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean manufacturers may be affected by increased tariffs?",
+        "Which manufacturing facilities in South Korea depend on exports to the U.S.?",
+        "What are the potential impacts on logistics for South Korean products entering the U.S. market?",
+        "Which downstream companies in the U.S. rely on South Korean imports that could be subject to higher tariffs?",
+        "How might changes in trade policy affect sourcing strategies for U.S. companies?"
+      ],
+      "reason": "The article discusses potential changes in tariff rates on South Korean products due to U.S. trade policy, which could significantly impact supply chain activities related to manufacturing, sourcing, and logistics.",
+      "summary": "The article highlights concerns over potential increases in tariffs on South Korean products as a result of U.S. trade policy changes. This situation poses risks to supply chains involving South Korean manufacturers and U.S. importers, particularly in the manufacturing and energy sectors.",
+      "title": "韓 , 산업장관  대미투자 , 관세 압박 관리 차원 … 15 % 상한선 재확인  ",
+      "url": "http://www.koreatimes.com/article/20260930/1631966",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Alaska LNG Project Investment",
+      "companies_involved": [
+        "Korea Electric Power Corporation (KEPCO)",
+        "Westinghouse Electric Company"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of KEPCO are involved in the Alaska LNG project?",
+        "What manufacturing facilities in South Korea are dependent on the Alaska LNG supply chain?",
+        "Which countries are potential sources of LNG that could be affected by geopolitical risks?",
+        "What logistics companies are responsible for transporting LNG from Alaska to Asia?",
+        "Which downstream companies in South Korea rely on LNG imports from the Alaska project?"
+      ],
+      "reason": "The article discusses a significant investment in the Alaska LNG project, which has implications for energy supply and geopolitical risks affecting logistics and trade routes. This investment could impact supply chains related to energy sourcing and transportation.",
+      "summary": "The article outlines the strategic discussions between South Korea and the United States regarding the Alaska LNG project, highlighting its potential impact on energy security and supply chains. The project involves significant investment and raises concerns about commercial viability and geopolitical risks.",
+      "title": " [ 일문일답 ] 김정관  알래스카 투자 , 상업적으로도 전략적으로도 국익에 도움되게 논쟁할 것  ",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/10/01/FSN3ZWWVWFA7DDM7CHBOQFGLNE/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Tariff Pressure on South Korea",
+      "companies_involved": [
+        "U.S. Trade Representative (USTR)",
+        "South Korean Government"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Automotive",
+        "Electronics",
+        "Steel"
+      ],
+      "countries_involved": [
+        "United States",
+        "South Korea",
+        "China",
+        "European Union",
+        "Japan",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean manufacturers may be affected by the US tariffs?",
+        "Which manufacturing facilities in South Korea depend on exports to the US?",
+        "What are the potential impacts on the automotive and electronics supply chains due to tariff changes?",
+        "Which countries or regions are key suppliers for South Korean industries affected by US trade policies?",
+        "Which downstream companies in the US rely on products from South Korean manufacturers?"
+      ],
+      "reason": "The article discusses the potential impact of US tariffs on South Korean exports, which could disrupt supply chains in manufacturing and trade, particularly in industries like automotive and electronics.",
+      "summary": "The article highlights the reaffirmation of a 15% tariff rate by the US on South Korean goods amidst ongoing trade negotiations. This situation poses risks to supply chains, particularly in manufacturing sectors that rely on exports to the US.",
+      "title": "김정관  美 추가 관세에도 15 % 선 유지  ⋯대미투자로 통상 리스크 관리",
+      "url": "http://inews24.com/view/2010763",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S. Orange Import Quota Allocation",
+      "companies_involved": [
+        "U.S. Citrus Growers"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Citrus Production"
+      ],
+      "countries_involved": [
+        "United States",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. citrus growers may be affected by changes in demand in South Korea?",
+        "Which manufacturing or production relationships may be impacted by the allocation of the orange import quota?",
+        "Which countries or regions create exposure for U.S. citrus exporters due to trade policies?",
+        "Which supply-chain dependencies could transmit the disruption from U.S. citrus growers to South Korean importers?",
+        "Which downstream companies in South Korea depend on imports of U.S. oranges?"
+      ],
+      "reason": "The allocation of the U.S. orange import quota in South Korea directly impacts trade and market access for U.S. citrus growers, which is a significant aspect of supply chain activities.",
+      "summary": "South Korea has fully allocated its 2026 tariff-rate quota for U.S. oranges, ensuring duty-free access for American citrus growers. This trade policy change is crucial for U.S. exporters and may influence supply chain dynamics in the agricultural sector.",
+      "title": "Korea Fully Allocates U . S . Orange Import Quota Early",
+      "url": "https://www.rfdtv.com/korea-fully-allocates-u-s-orange-import-quota-early",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Korean Investment in US Energy Infrastructure",
+      "companies_involved": [
+        "Korean Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Korean energy companies are involved in the construction of nuclear plants in the US?",
+        "Which manufacturing facilities in South Korea may be affected by the investment in US energy infrastructure?",
+        "Which regions in the US are most impacted by the construction of the nuclear plants?",
+        "What supply-chain dependencies exist between Korean energy companies and US construction firms?",
+        "Which downstream companies in the US energy sector may be exposed to disruptions from this investment?"
+      ],
+      "reason": "The article discusses a significant investment by South Korean companies in US energy infrastructure, which directly impacts supply chain activities related to energy production and construction.",
+      "summary": "South Korea plans to invest approximately $200 billion in US energy infrastructure, focusing on nuclear power plants and LNG projects. This investment could significantly affect supply chains in the energy and construction sectors in both countries.",
+      "title": "韓国の対米エネ投資３１兆円 米中間選挙の接戦州中心 ： 中日新聞Web",
+      "url": "https://www.chunichi.co.jp:443/article/1318973",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "South Korea's $200 billion energy investment in the US",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Nuclear"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the construction of the new energy facilities in Texas and Alaska?",
+        "Which manufacturing or production relationships may be impacted by the new nuclear reactors being built?",
+        "Which countries or regions create exposure for the energy supply chain due to this investment?",
+        "Which supply-chain dependencies could transmit disruptions related to the construction of the LNG pipeline?",
+        "Which downstream companies or operations may be exposed to changes in energy costs due to these investments?"
+      ],
+      "reason": "This event represents a significant investment in energy infrastructure that could impact supply chains related to energy production and logistics, particularly in the context of new facilities and partnerships between South Korea and the US.",
+      "summary": "South Korea is set to invest $200 billion in energy infrastructure in the US, including major projects like a natural gas plant and nuclear reactors. This investment is expected to strengthen energy supply chains and create significant economic impacts in both countries.",
+      "title": "ABD Başkanı Trump : Güney Kore ABDde 200 milyar dolarlık enerji yatırımı yapacak",
+      "url": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-guney-kore-abdde-200-milyar-dolarlik-enerji-yatirimi-yapacak-958700.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Investment in Alaska LNG Project",
+      "companies_involved": [
+        "South Korean Energy Companies",
+        "U.S. Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean energy companies are involved in the Alaska LNG project?",
+        "Which manufacturing facilities in South Korea may depend on the natural gas sourced from Alaska?",
+        "What are the potential impacts on logistics for transporting LNG from Alaska to South Korea?",
+        "Which downstream companies in South Korea rely on LNG imports from the Alaska project?",
+        "How might geopolitical relations between South Korea and the U.S. affect the investment and operations of this project?"
+      ],
+      "reason": "The article discusses a significant investment by South Korea in U.S. energy projects, specifically the Alaska LNG project, which has direct implications for energy supply chains and logistics.",
+      "summary": "South Korea is set to invest over $50 billion in the Alaska LNG project as part of a larger $200 billion investment in U.S. energy infrastructure. This investment is expected to enhance energy supply chains and has implications for logistics and trade between the two countries.",
+      "title": "러트닉  알래스카 LNG에 韓 자금 500억달러 이상 투입될 것  ",
+      "url": "https://biz.chosun.com/international/international_general/2026/10/01/EXPSAU5RR5CQNLURYTXAFJLITY/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Alaska LNG Investment Announcement",
+      "companies_involved": [
+        "Glenfarne",
+        "Alaska Gasline Development Corporation (AGDC)"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Natural Gas"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Glenfarne may be affected by the investment conditions?",
+        "Which manufacturing or production relationships may be impacted by the Alaska LNG project?",
+        "What geopolitical factors could affect the investment decisions of South Korean companies?",
+        "Which supply-chain dependencies could transmit disruptions related to the Alaska LNG project?",
+        "Which downstream companies in South Korea depend on the outcomes of the Alaska LNG investment?"
+      ],
+      "reason": "The announcement of the Alaska LNG investment involves significant geopolitical and economic implications, particularly regarding South Korea's potential investment and the conditions tied to it, which could impact supply chain activities in the energy sector.",
+      "summary": "The announcement regarding the Alaska LNG project highlights potential geopolitical tensions and investment conditions that could affect supply chain dynamics between South Korea and the United States. The project involves significant financial commitments and regulatory considerations that may influence energy supply chains.",
+      "title": "韓은 알래스카  검토  인데 … 트럼프 발표 뜯어보니  실행 선언  ",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02781446645608656&mediaCodeNo=257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "South Korea's $200 Billion Investment in US Energy Projects",
+      "companies_involved": [
+        "South Korean Energy Companies",
+        "US Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Nuclear Power"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean energy companies may be affected by the investment?",
+        "Which manufacturing or production relationships may be impacted by the construction of new energy facilities?",
+        "What are the potential impacts on logistics and transportation due to the construction of the Alaska LNG pipeline?",
+        "Which countries or regions create exposure for US energy companies involved in these projects?",
+        "Which downstream companies depend on energy produced from the new facilities in Texas and Alaska?"
+      ],
+      "reason": "This event represents a significant investment in energy infrastructure that could impact supply chains related to energy production, logistics, and construction, thereby affecting various stakeholders in both South Korea and the United States.",
+      "summary": "South Korea is set to invest $200 billion in US energy projects, including power plants and LNG infrastructure. This investment is expected to strengthen energy supply chains and create significant economic impacts in both countries.",
+      "title": "Trump duyurdu : Güney Koreden ABDye 200 milyar dolarlık yatırım",
+      "url": "https://www.dunya.com/dunya/trump-duyurdu-guney-koreden-abdye-200-milyar-dolarlik-yatirim-haberi-842129",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "US-South Korea Energy Investment Announcement",
+      "companies_involved": [
+        "Glenfarne Group",
+        "Ford",
+        "Blackstone",
+        "Nvidia"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Skilled Trades"
+      ],
+      "countries_involved": [
+        "United States",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Glenfarne Group may be affected by the Alaska LNG project?",
+        "Which manufacturing or production relationships may be impacted by the labor shortfall in skilled trades?",
+        "Which countries or regions create exposure for US energy projects due to trade policies?",
+        "Which supply-chain dependencies could transmit disruptions from the energy sector?",
+        "Which downstream companies depend on energy supplies from the Alaska LNG project?"
+      ],
+      "reason": "The announcement of significant energy investments and projects indicates potential impacts on supply chains related to energy production, labor availability, and international trade agreements.",
+      "summary": "The Trump administration's announcement of US$200 billion in energy investments by South Korea highlights potential supply chain disruptions in the energy sector, particularly concerning labor shortages and regulatory changes. This could affect various companies and industries involved in energy production and skilled trades.",
+      "title": "Trump details US$200bil in US energy investments by South Korea",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/01/trump-details-us-200bil-in-us-energy-investments-by-south-korea",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Alaska LNG Pipeline Investment Announcement",
+      "companies_involved": [
+        "Korean Government",
+        "U.S. Government"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are involved in the construction of the Alaska LNG pipeline?",
+        "Which manufacturing facilities may be impacted by the energy infrastructure projects in Texas?",
+        "What are the potential impacts on logistics for transporting LNG from Alaska?",
+        "Which countries or regions are affected by the changes in trade policy related to tariffs?",
+        "Which downstream companies depend on the energy produced from the new facilities?"
+      ],
+      "reason": "The announcement of significant investments in energy infrastructure, including the Alaska LNG pipeline and power plants, indicates potential changes in supply chain dynamics related to energy supply and construction logistics.",
+      "summary": "The article discusses a major investment announcement by the U.S. government in energy infrastructure projects involving South Korea, particularly focusing on the Alaska LNG pipeline. This investment could significantly impact energy supply chains and logistics in both countries.",
+      "title": "선거 급한 트럼프  한국 , 알래스카 투자  발표 강행 … 공화당 의원 덕분  이라며 후보 띄우기 - 국민일보",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000018852&code=61131111&sid1=int",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "CPTPP Membership Controversy",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Fisheries",
+        "Forestry"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Japan",
+        "Australia",
+        "Mexico",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products in South Korea may be affected by the CPTPP membership?",
+        "Which manufacturing or production relationships in the agricultural sector may be impacted by changes in trade policy?",
+        "Which countries or regions create exposure for South Korean farmers due to potential market opening?",
+        "Which supply-chain dependencies could transmit the disruption from agricultural imports?",
+        "Which downstream companies in the food supply chain may be exposed to changes in agricultural production levels?"
+      ],
+      "reason": "The article discusses the potential impacts of South Korea's membership in the CPTPP on its agricultural sector, which could lead to significant changes in production and trade dynamics, thus representing a supply chain disruption.",
+      "summary": "The ongoing debate over South Korea's potential membership in the CPTPP raises concerns among farmers about significant market opening and its adverse effects on domestic agricultural production. The situation highlights the intersection of trade policy and supply chain dynamics in the agricultural sector.",
+      "title": "농지 조사에  시장 개방 96 % CPTPP 가입까지 … 악화하는 농심 - 경제ㅣ한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026092913570000983",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "South Korea's $200 Billion Energy Investment in the US",
+      "companies_involved": [
+        "South Korean Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Nuclear Power"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean energy companies may be affected by the investment?",
+        "Which manufacturing or production relationships may be impacted by the construction of new energy facilities?",
+        "What are the potential impacts on logistics and transportation due to the construction of the LNG pipeline in Alaska?",
+        "Which countries or regions create exposure for South Korean companies involved in this investment?",
+        "Which downstream companies may depend on the energy produced from the new facilities?"
+      ],
+      "reason": "The announcement of a significant energy investment by South Korea in the US indicates potential changes in supply chain dynamics, particularly in energy production and infrastructure development, which could affect suppliers, logistics, and energy costs.",
+      "summary": "South Korea plans to invest $200 billion in energy projects in the US, including power plants and LNG pipelines. This investment is expected to impact the energy supply chain significantly, creating new opportunities and potential risks for involved companies.",
+      "title": "Trump , Güney Korenin 200 milyar dolarlık ABDdeki enerji yatırımını açıkladı",
+      "url": "https://www.haberler.com/ekonomi/trump-guney-kore-nin-200-milyar-dolarlik-abd-deki-20286434-haberi/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "South Korea's $200 billion energy investment in the US",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be involved in the construction of the new energy facilities in Texas and Alaska?",
+        "Which manufacturing or production relationships may be affected by the new energy infrastructure projects?",
+        "Which countries or regions create exposure for the energy supply chain due to this investment?",
+        "Which supply-chain dependencies could transmit disruptions related to the construction of the new nuclear plants?",
+        "Which downstream companies or operations may be exposed to changes in energy costs due to these investments?"
+      ],
+      "reason": "The announcement of significant energy investments by South Korea in the US indicates potential changes in energy supply chains, including construction and logistics related to new energy facilities, which could impact suppliers and related industries.",
+      "summary": "South Korea plans to invest $200 billion in energy infrastructure in the US, including new power plants and a LNG pipeline. This investment is expected to strengthen energy supply chains and could have significant implications for related industries and suppliers.",
+      "title": "ABD Başkanı Trump , Güney Korenin ABDde 200 milyar dolarlık enerji yatırımı yapacağını duyurdu",
+      "url": "https://www.aa.com.tr/tr/ekonomi/abd-baskani-trump-guney-korenin-abdde-200-milyar-dolarlik-enerji-yatirimi-yapacagini-duyurdu/4074325",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-Korea Investment Negotiations",
+      "companies_involved": [
+        "Westinghouse",
+        "Korean Power Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Korean power companies may be affected by the investment negotiations?",
+        "Which manufacturing facilities in South Korea depend on US energy projects?",
+        "What are the potential impacts on logistics for energy equipment between South Korea and the US?",
+        "Which downstream companies in the energy sector may be exposed to changes in trade policy?",
+        "How might the negotiations affect sourcing strategies for energy projects in the US?"
+      ],
+      "reason": "The article discusses significant negotiations between South Korea and the US regarding a major investment project in the energy sector, which could impact supply chain activities related to energy production and trade policies.",
+      "summary": "The article outlines the complexities of negotiations between South Korea and the US regarding a significant energy investment project. The discussions highlight potential impacts on trade policies and supply chain dynamics in the energy sector.",
+      "title": "美  한국 너무 까탈스럽다  ⋯협상 막전막후 [ 대미투자 결판 ] ",
+      "url": "https://www.etoday.co.kr/news/view/2628745",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T223000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Extension of US-China Trade Truce",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Agriculture",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in tariff policies between the US and China?",
+        "Which manufacturing or production relationships may be impacted by the extended trade truce?",
+        "Which countries or regions create exposure due to reliance on US-China trade agreements?",
+        "Which supply-chain dependencies could transmit the disruption from the US to China or vice versa?",
+        "Which downstream companies depend on products that are subject to the tariff changes outlined in the trade truce?"
+      ],
+      "reason": "The extension of the trade truce between the US and China directly impacts trade policies, tariffs, and economic relations, which can affect supply chains, particularly in industries reliant on cross-border trade.",
+      "summary": "The US and China have extended their trade truce until January 2027, impacting tariffs and trade policies. This extension is significant for industries involved in trade, agriculture, and technology, as it may alter supply chain dynamics between the two largest economies.",
+      "title": "",
+      "url": "https://primicia.com.ve/mundo/china-y-eeuu-extienden-tregua-comercial-hasta-enero-de-2027/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260928T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Korean Investment in Alaska LNG Project",
+      "companies_involved": [
+        "대한제강",
+        "동국제강",
+        "문배철강",
+        "고려제강",
+        "한국철강",
+        "TCC스틸",
+        "세아제강",
+        "부국철강"
+      ],
+      "industries_involved": [
+        "Steel",
+        "Energy"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the involved steel companies operate in the affected region?",
+        "Which manufacturing facilities in South Korea depend on the steel produced for the Alaska LNG project?",
+        "What are the potential impacts on logistics for transporting steel to the Alaska project?",
+        "Which countries or regions create exposure for the steel companies involved in this investment?",
+        "Which downstream companies in the energy sector may be affected by the steel supply for the Alaska LNG project?"
+      ],
+      "reason": "The announcement of potential investment by South Korean companies in the Alaska LNG project indicates a significant opportunity for the steel industry, which could impact supply chains related to steel production and logistics.",
+      "summary": "The article discusses the potential investment by South Korean companies in the Alaska LNG project, which is expected to increase demand for steel and related materials. This investment could lead to significant changes in supply chain dynamics for the involved steel companies.",
+      "title": " [ 특징주 ] 트럼프 알래스카 LNG 투자 발표에 철강주 급등 … 대한제강 상한가",
+      "url": "https://www.etoday.co.kr/news/view/2631259",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "South Korea's $200 Billion Energy Investment in the US",
+      "companies_involved": [
+        "South Korean Energy Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction",
+        "Nuclear Power"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of South Korean energy companies may be affected by the investment?",
+        "Which manufacturing or production relationships may be impacted by the construction of new energy facilities in the US?",
+        "What are the potential impacts on logistics and transportation due to the construction of the LNG pipeline in Alaska?",
+        "Which countries or regions create exposure for South Korean companies involved in this investment?",
+        "Which downstream companies in the US energy sector may depend on the new facilities being constructed?"
+      ],
+      "reason": "This event represents a significant investment in energy infrastructure that could impact supply chains related to energy production, logistics, and construction in both South Korea and the United States.",
+      "summary": "South Korea plans to invest $200 billion in energy projects in the US, including power plants and LNG pipelines. This investment is expected to strengthen energy supply chains and create jobs, while also impacting logistics and supplier relationships.",
+      "title": "Trump , Güney Korenin ABDde 200 milyar dolarlık enerji yatırımı yapacağını duyurdu",
+      "url": "https://www.bloomberght.com/trump-guney-kore-nin-abd-de-200-milyar-dolarlik-enerji-yatirimi-yapacagini-duyurdu-3789899",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "US-Korea Energy Infrastructure Investment",
+      "companies_involved": [
+        "Korean Government",
+        "US Government"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the construction of new energy infrastructure in the US?",
+        "Which manufacturing or production relationships may be impacted by the investment in energy projects?",
+        "Which countries or regions create exposure due to the investment in US energy infrastructure?",
+        "Which supply-chain dependencies could transmit disruptions from the US energy sector?",
+        "Which downstream companies or operations may be exposed to changes in energy supply from these projects?"
+      ],
+      "reason": "The announcement of significant investments in energy infrastructure by South Korea in the US indicates potential impacts on supply chains related to energy production and logistics, particularly in the context of natural gas and nuclear power projects.",
+      "summary": "The article discusses a major investment initiative by South Korea in US energy infrastructure, including LNG and nuclear power projects. This investment could significantly impact supply chains related to energy production and logistics in both countries.",
+      "title": "트럼프  알래스카에 韓 540억달러 투자  일방 발표",
+      "url": "https://www.etnews.com/20261001000024",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Tariff Agreement",
+      "companies_involved": [
+        "US Companies",
+        "Chinese Companies"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Agriculture",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US companies may be affected by the tariff changes?",
+        "Which manufacturing or production relationships in China could be impacted by the new tariff agreements?",
+        "Which countries or regions create exposure for US companies due to reliance on Chinese imports?",
+        "Which supply-chain dependencies could transmit the disruption from tariff changes?",
+        "Which downstream companies in the US depend on products from the affected Chinese suppliers?"
+      ],
+      "reason": "The article discusses a trade policy change involving tariffs between the US and China, which directly impacts trade flows, supplier relationships, and manufacturing activities in both countries.",
+      "summary": "The US and China have agreed to lower tariffs on a range of goods, potentially affecting $30 billion in trade. This trade policy change could disrupt supply chains by altering sourcing and manufacturing dynamics between the two nations.",
+      "title": "US lists goods for lower tariffs under China trade deal",
+      "url": "https://punchng.com/us-lists-goods-for-lower-tariffs-under-china-trade-deal/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260928T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Tariff Reduction Agreement",
+      "companies_involved": [
+        "US Companies",
+        "Chinese Companies"
+      ],
+      "industries_involved": [
+        "Consumer Goods",
+        "Agriculture",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US companies may be affected by the tariff changes?",
+        "Which manufacturing facilities in China depend on the import of US goods?",
+        "What are the potential impacts on logistics providers handling the affected goods?",
+        "Which downstream companies in the US rely on products from Chinese suppliers that may benefit from reduced tariffs?",
+        "How might changes in tariff rates affect trade flows between the US and China?"
+      ],
+      "reason": "The article discusses a potential reduction in tariffs between the US and China, which directly impacts trade and supply chain activities involving the import and export of goods between the two countries.",
+      "summary": "The White House has announced a potential agreement to reduce tariffs on a range of products between the US and China, affecting $30 billion in goods. This trade policy change could significantly impact supply chains, particularly in consumer goods, agriculture, and energy sectors.",
+      "title": "White House releases list of products US , China could tax less",
+      "url": "https://www.vanguardngr.com/2026/09/white-house-releases-list-of-products-us-china-could-tax-less/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260928T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US-China Tariff Reduction Agreement",
+      "companies_involved": [
+        "Various US and Chinese manufacturers and exporters"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Agriculture",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US companies may be affected by the tariff changes?",
+        "Which manufacturing or production relationships may be impacted by the new tariff agreements?",
+        "Which countries or regions create exposure for companies involved in US-China trade?",
+        "Which supply-chain dependencies could transmit the disruption due to tariff changes?",
+        "Which downstream companies in the US depend on products from Chinese suppliers affected by the tariff reductions?"
+      ],
+      "reason": "The article discusses a potential reduction in tariffs between the US and China, which directly impacts trade and supply chain activities, affecting various industries and companies involved in the import and export of goods.",
+      "summary": "The White House has announced a potential agreement to reduce tariffs on a range of products between the US and China, impacting approximately $30 billion in goods. This trade policy change could significantly affect supply chains, particularly in manufacturing and agriculture sectors.",
+      "title": "White House releases list of products US , China could tax less",
+      "url": "https://www.channelnewsasia.com/world/us-china-list-products-lower-tariffs-tax-less-6414956",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260928T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Detention of the Pradaho vessel due to sanctions violation",
+      "companies_involved": [
+        "Pradaho (vessel)"
+      ],
+      "industries_involved": [
+        "Shipping",
+        "Maritime"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea",
+        "Tanzania",
+        "United States",
+        "Japan",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies may be affected by the detention of the Pradaho vessel?",
+        "What are the implications for maritime logistics in South Korea due to the ongoing detention?",
+        "Which suppliers of fuel and maintenance services could be impacted by the prolonged detention of the vessel?",
+        "How might this geopolitical event affect trade routes involving North Korea?",
+        "Which downstream companies rely on shipping routes that could be disrupted by similar sanctions?"
+      ],
+      "reason": "The detention of the Pradaho vessel due to violations of international sanctions represents a significant geopolitical event that can disrupt shipping and logistics operations, particularly in the context of trade with North Korea and the associated costs of maintaining the vessel.",
+      "summary": "The Pradaho vessel has been detained in South Korea for violating sanctions related to North Korea. This situation poses potential disruptions to shipping and logistics operations, particularly affecting trade routes and associated costs.",
+      "title": "한국 억류 프라다호 , 평택서 인천으로 이동 … 향후 처리 주목",
+      "url": "https://www.voakorea.com/a/8205761.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Deterioration of South Korea-Russia Relations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in South Korea may be affected by the geopolitical tensions with Russia?",
+        "Which logistics companies operate routes between South Korea and Russia that could be impacted?",
+        "What trade agreements between South Korea and Russia are currently at risk due to the sanctions?",
+        "Which downstream companies in South Korea rely on imports from Russia that may be disrupted?",
+        "How might the closure of direct flights between South Korea and Russia affect trade logistics?"
+      ],
+      "reason": "The article discusses the significant deterioration of diplomatic and economic relations between South Korea and Russia, which has led to trade network reductions and transportation disruptions, indicating a potential supply chain impact.",
+      "summary": "The article highlights the worsening relations between South Korea and Russia following the Ukraine conflict, resulting in trade and transportation disruptions. This geopolitical tension poses risks to supply chains involving trade and logistics between the two countries.",
+      "title": "  한국은 흥미로운 나라 , 실질적 교류부터 시작하자  ",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271538&PAGE_CD=N0002&CMPT_CD=M0117",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Deterioration of South Korea-Russia Relations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Logistics",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in South Korea may be affected by the geopolitical tensions with Russia?",
+        "Which manufacturing facilities in South Korea depend on trade with Russia?",
+        "What logistics operations are impacted by the closure of direct routes between South Korea and Russia?",
+        "Which downstream companies in South Korea rely on imports from Russia?",
+        "How might the sanctions against Russia affect South Korean companies' supply chains?"
+      ],
+      "reason": "The article discusses the significant deterioration of relations between South Korea and Russia due to geopolitical tensions, which has led to trade restrictions and disruptions in logistics and transportation. This situation poses a risk to supply chains that involve trade and cooperation between the two countries.",
+      "summary": "The article highlights the worsening relations between South Korea and Russia, particularly following the Ukraine conflict, which has resulted in trade and logistical disruptions. This geopolitical tension poses risks to supply chains involving both countries.",
+      "title": "  한국은 흥미로운 나라 , 실질적 교류부터 시작하자  ",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271538&PAGE_CD=N0002&CMPT_CD=M0122",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "North Korea's Violation of the Armistice Agreement",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by increased tensions between North and South Korea?",
+        "Which logistics companies operate in the region and could be impacted by military actions?",
+        "What are the supply chain dependencies between South Korean companies and North Korean resources?",
+        "Which downstream operations in South Korea could be exposed to disruptions due to military escalations?",
+        "How might trade policies between North and South Korea affect supply chains in the region?"
+      ],
+      "reason": "The ongoing tensions and military actions between North and South Korea can lead to disruptions in defense logistics and trade, impacting companies operating in or reliant on the stability of the region.",
+      "summary": "The article discusses a recent violation of the armistice agreement by North Korea, which raises geopolitical tensions in the region. This situation could potentially disrupt supply chains, particularly in defense and logistics sectors, due to increased military activity and regulatory changes.",
+      "title": "Warum Südkorea Nordkorea einen Bruch des Waffenstillstands vorwirft",
+      "url": "https://www.faz.net/aktuell/politik/ausland/warum-suedkorea-nordkorea-einen-bruch-des-waffenstillstands-vorwirft-201271978.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T170000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "ISDS ruling against Dayani family",
+      "companies_involved": [
+        "Entekhab",
+        "Daewoo Electronics"
+      ],
+      "industries_involved": [
+        "Consumer Electronics",
+        "Petrochemicals"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Entekhab may be affected by the ISDS ruling?",
+        "Which manufacturing facilities of Daewoo Electronics depend on international investments?",
+        "What are the potential impacts on trade relations between South Korea and Iran?",
+        "Which downstream companies rely on products from Entekhab?",
+        "How might the geopolitical tensions affect sourcing strategies for companies in the region?"
+      ],
+      "reason": "The ISDS ruling involves a significant financial dispute related to investments and could impact future trade and investment flows between South Korea and Iran, affecting supply chain activities.",
+      "summary": "The recent ISDS ruling in favor of the South Korean government against the Dayani family prevents a potential financial outflow of 7700 billion won. This ruling may have implications for trade and investment relations between South Korea and Iran, impacting companies involved in the consumer electronics and petrochemical industries.",
+      "title": "7700억 유출 막았다 … 정부 , 이란 다야니家 2차 ISDS 전부 승소",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04070486645585368&mediaCodeNo=257",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential US-North Korea Dialogue",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Trade"
+      ],
+      "countries_involved": [
+        "North Korea",
+        "United States",
+        "South Korea",
+        "Russia",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in US-North Korea relations?",
+        "Which manufacturing or production relationships may be impacted by geopolitical tensions in the region?",
+        "Which countries or regions create exposure for companies involved in trade with North Korea?",
+        "Which supply-chain dependencies could transmit disruptions due to potential sanctions or trade policy changes?",
+        "Which downstream companies may be exposed to risks from North Korea's military cooperation with Russia?"
+      ],
+      "reason": "The potential dialogue between the US and North Korea could lead to changes in trade policies and geopolitical stability in the region, impacting supply chains related to defense and international trade.",
+      "summary": "The article discusses the potential for renewed dialogue between the US and North Korea, which could have significant implications for geopolitical stability and trade. This situation may affect supply chains, particularly in defense and trade industries, due to the involvement of multiple countries.",
+      "title": "南韓研判川金四會可能APEC前後舉行 平壤有意重啟對話 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202609300257.aspx",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T121500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions on the Korean Peninsula?",
+        "Which logistics operations could be disrupted due to military escalations in the region?",
+        "Which countries or regions create exposure for companies operating in South Korea due to potential conflict?",
+        "Which downstream companies depend on defense contracts that may be impacted by geopolitical tensions?"
+      ],
+      "reason": "The article discusses rising tensions between North and South Korea, which could lead to disruptions in defense logistics and operations in the region, impacting supply chains related to military and security sectors.",
+      "summary": "The article highlights escalating tensions between North and South Korea following a mine incident, which could have implications for supply chains in the defense and logistics industries. The ongoing geopolitical situation poses risks to operations and trade in the region.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/article6abdd72aa159be769c7170ae/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Korean Peninsula Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in South Korea may be affected by increased military tensions?",
+        "Which manufacturing facilities in South Korea are located near the demilitarized zone?",
+        "Which countries or regions create exposure for South Korean companies due to potential conflict?",
+        "Which supply-chain dependencies could transmit the disruption from North Korea to South Korea?",
+        "Which downstream companies in South Korea depend on stable relations with North Korea for trade?"
+      ],
+      "reason": "The ongoing tensions and military incidents between North and South Korea can disrupt supply chains, particularly in defense and manufacturing sectors, due to potential escalations in conflict and regulatory changes.",
+      "summary": "The article discusses the ongoing geopolitical tensions between North and South Korea following a mine explosion. These tensions could impact supply chains, especially in defense and manufacturing industries, due to the potential for escalated conflict and regulatory changes.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea - Politik Ausland",
+      "url": "https://www.badische-zeitung.de/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions on the Korean Peninsula?",
+        "Which logistics operations could be disrupted due to military escalations in the region?",
+        "What are the potential impacts on trade routes between South Korea and other countries due to geopolitical tensions?",
+        "Which downstream companies rely on defense contracts that could be impacted by the situation?",
+        "How might the military actions affect the supply chain for industries reliant on stability in the region?"
+      ],
+      "reason": "The article discusses rising military tensions between North and South Korea, which could impact logistics and trade in the region, thus representing a potential supply chain disruption.",
+      "summary": "The article highlights escalating tensions between North and South Korea following a mine incident, which could disrupt logistics and trade operations in the region. The geopolitical situation poses risks to supply chains reliant on stability in the Korean Peninsula.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.nordkurier.de/politik/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-4905278",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T051500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions on the Korean Peninsula?",
+        "Which logistics operations could be disrupted due to military escalations in the region?",
+        "What are the potential impacts on trade routes involving South Korea and North Korea?",
+        "Which downstream companies rely on defense contracts that could be affected by geopolitical tensions?",
+        "How might the situation impact energy supply chains in the region?"
+      ],
+      "reason": "The article discusses military tensions and a mine incident between North and South Korea, which could lead to disruptions in logistics and defense operations in the region, impacting supply chains.",
+      "summary": "The recent mine incident and ongoing tensions between North and South Korea pose a potential risk to supply chains, particularly in the defense and logistics sectors. Increased military activity could disrupt trade and logistics operations in the region.",
+      "title": "Korea - Konflikt : Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea - Politik",
+      "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea_arid-4159425.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Korean Peninsula Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in South Korea may be affected by increased military tensions?",
+        "Which manufacturing facilities in South Korea are located near the demilitarized zone?",
+        "What are the potential impacts on trade routes between South Korea and other countries due to heightened tensions?",
+        "Which companies in the defense industry may see increased demand or disruptions due to the situation?",
+        "How might the geopolitical situation affect energy supply chains in the region?"
+      ],
+      "reason": "The ongoing tensions between North and South Korea, particularly following the mine explosion incident, could lead to disruptions in trade, manufacturing, and logistics operations in the region, impacting supply chains.",
+      "summary": "The article discusses rising tensions between North and South Korea following a mine explosion, which could have significant implications for supply chains in the region. The geopolitical situation may affect trade, manufacturing, and logistics operations, necessitating close monitoring.",
+      "title": "Korea - Konflikt : Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/sudkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-4329764",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions on the Korean Peninsula?",
+        "Which logistics operations could be disrupted due to military escalations in the region?",
+        "What are the potential impacts on trade routes between South Korea and other countries due to geopolitical tensions?",
+        "Which downstream companies rely on defense contracts that could be impacted by the situation?",
+        "How might the military actions affect the supply chain for industries reliant on stability in the region?"
+      ],
+      "reason": "The article discusses rising military tensions between North and South Korea, which could lead to disruptions in logistics and trade, particularly in defense-related industries. The geopolitical situation poses risks to supply chains operating in or around the Korean Peninsula.",
+      "summary": "The article highlights escalating tensions between North and South Korea following a mine incident, which could impact supply chains, particularly in defense and logistics sectors. The ongoing geopolitical instability raises concerns about potential disruptions in trade and operations in the region.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea - Politik",
+      "url": "https://www.pz-news.de/politik_artikel,-Suedkorea-setzt-trotz-Minenvorfall-auf-Dialog-mit-Nordkorea-_arid,2371033.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions on the Korean Peninsula?",
+        "Which logistics operations could be disrupted due to military escalations in the region?",
+        "What are the potential impacts on trade routes between South Korea and other countries due to geopolitical tensions?",
+        "Which downstream companies rely on stability in the Korean Peninsula for their supply chains?",
+        "How might changes in military policy affect the defense industry supply chain in South Korea?"
+      ],
+      "reason": "The article discusses rising tensions between North and South Korea, which could impact logistics and trade in the region, particularly in defense and related industries.",
+      "summary": "The article highlights ongoing geopolitical tensions between North and South Korea following a mine incident. This situation poses potential risks to supply chains, particularly in defense and logistics sectors, due to the unstable political climate.",
+      "title": "Korea - Konflikt : Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea - Politik",
+      "url": "https://www.rnz.de/politik/nachrichten_artikel,-Korea-Konflikt-Suedkorea-setzt-trotz-Minenvorfall-auf-Dialog-mit-Nordkorea-_arid,2444465.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Landmine Explosion in DMZ",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by increased military tensions in the region?",
+        "Which logistics operations are impacted by the security situation in the DMZ?",
+        "What suppliers provide materials or services to military operations in South Korea?",
+        "Which countries or regions create exposure for companies operating near the DMZ?",
+        "Which downstream companies depend on defense contracts in the affected area?"
+      ],
+      "reason": "The landmine explosion in the DMZ represents a geopolitical event that could escalate tensions between North and South Korea, potentially impacting defense logistics and operations in the region.",
+      "summary": "A landmine explosion in the DMZ has injured South Korean soldiers and raised concerns about military tensions with North Korea. This geopolitical event could disrupt defense logistics and operations in the region.",
+      "title": "疑北韓地雷釀爆炸 ！ 南韓3官兵重傷 李在明令 「 採取必要措施 」 - 國際",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5589254",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased tensions between North and South Korea",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in South Korea may be affected by increased military tensions?",
+        "Which manufacturing facilities in South Korea are located near the demilitarized zone?",
+        "Which countries or regions create exposure for South Korean companies due to potential conflict?",
+        "Which supply-chain dependencies could transmit the disruption from North Korea to South Korea?",
+        "Which downstream companies in South Korea depend on stable relations with North Korea for trade?"
+      ],
+      "reason": "The ongoing geopolitical tensions and military incidents between North and South Korea can disrupt supply chains, particularly in defense and manufacturing sectors, due to potential escalations in conflict and regulatory changes.",
+      "summary": "The article discusses rising tensions between North and South Korea following a mine explosion, which could impact supply chains in the region. The geopolitical situation poses risks to companies operating in or sourcing from South Korea, particularly in defense and manufacturing industries.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.freiepresse.de/nachrichten/welt/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-artikel14430557",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Geopolitical tensions with North Korea",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "South Korea",
+        "North Korea",
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical strategies and diplomatic relations regarding North Korea but does not provide a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on the geopolitical approach of South Korea towards North Korea, emphasizing the need for a new strategy in diplomatic relations. However, it does not indicate any immediate or potential supply chain disruptions.",
+      "title": "李대통령 , 대북 접근법 바꿔야 한다 [ 시평 ] ",
+      "url": "https://www.munhwa.com:443/article/11620769",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Diplomatic Dispute over POWs",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "South Korea",
+        "Ukraine",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a diplomatic dispute between South Korea and Ukraine regarding prisoners of war, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines a diplomatic conflict between South Korea and Ukraine over the transfer of North Korean prisoners of war. This situation does not indicate any direct supply chain disruption or impact on supply chain activities.",
+      "title": "Why is South Korea so angry with Ukraine over two North Korean prisoners of war ? ",
+      "url": "https://www.theguardian.com/world/2026/sep/29/south-korea-ukraine-north-korea-prisoners-of-war-dispute-explainer",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ukraine-South Korea Diplomatic Conflict",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which defense suppliers in South Korea may be affected by the diplomatic conflict?",
+        "Which manufacturing relationships in the defense industry could be impacted by the disruption in diplomatic ties?",
+        "What are the potential impacts on defense logistics and supply chains between Ukraine and South Korea?",
+        "Which countries or regions may be affected by changes in defense supply due to this geopolitical event?",
+        "Which downstream companies in the defense sector rely on products or support from South Korean manufacturers?"
+      ],
+      "reason": "The diplomatic conflict between Ukraine and South Korea could hinder potential arms supply agreements, impacting the defense supply chain and logistics between the two countries.",
+      "summary": "The diplomatic tensions between Ukraine and South Korea, stemming from a breach of confidentiality regarding prisoner transfers, pose a risk to potential arms supply agreements. This situation could disrupt defense supply chains and logistics, affecting both countries' military capabilities.",
+      "title": "우크라이나 매체  젤렌스키 , 한국 정부 분노 유발 ... 무기 확보에 악영향  ",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271223&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PUBG Asia Stars controversy",
+      "companies_involved": [
+        "Krafton"
+      ],
+      "industries_involved": [
+        "Gaming"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a controversy related to a gaming event and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details a controversy surrounding the PUBG Asia Stars event, where allegations of cheating led to a boycott by participants. While it highlights operational failures by Krafton, it does not indicate a disruption in supply chain activities.",
+      "title": " [ 단독 ] 부정행위로 취소된  PUBG 아시아 스타즈 , 방송 송출 지연 · 채팅 제한 규정 없었다",
+      "url": "https://biz.chosun.com/it-science/ict/2026/09/22/C4GKFCOJLNHR5AGJGXRY6UVNYA/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions on the Korean Peninsula?",
+        "Which logistics operations could be disrupted due to military escalations in the region?",
+        "What are the potential impacts on trade routes between South Korea and other countries due to geopolitical tensions?",
+        "Which downstream companies rely on defense contracts that could be impacted by the situation?",
+        "How might the military actions affect the supply chain for industries reliant on stability in the region?"
+      ],
+      "reason": "The article discusses rising tensions between North and South Korea, which could lead to disruptions in logistics and trade, particularly in defense and related industries, due to the potential for military conflict.",
+      "summary": "The article highlights escalating tensions between North and South Korea following a mine incident, which could impact supply chains, particularly in defense and logistics sectors. The ongoing geopolitical situation poses risks to trade and operational stability in the region.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.az-online.de/politik/suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-zr-94519055.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Health concerns of Kim Jong-un",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "North Korea",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the health of Kim Jong-un but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article focuses on the health status of North Korean leader Kim Jong-un, indicating potential concerns for political stability. However, it does not present a clear supply chain disruption related to manufacturing, logistics, or trade.",
+      "title": "Südkorea : Kim Jong - un  extrem fettleibig  laut Geheimdienst",
+      "url": "https://www.vol.at/suedkorea-nordkoreas-machthaber-kim-extrem-fettleibig/10507175",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "ISDS Dispute Impacting Investment and Compensation",
+      "companies_involved": [
+        "대우일렉트로닉스",
+        "피터앤김",
+        "아놀드앤포터"
+      ],
+      "industries_involved": [
+        "Electronics",
+        "Legal Services"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 대우일렉트로닉스 may be affected by the ISDS dispute?",
+        "Which manufacturing relationships could be impacted by the legal proceedings?",
+        "How might U.S. sanctions against Iran affect the operations of companies involved?",
+        "Which downstream companies rely on products from 대우일렉트로닉스 that could be affected by this dispute?",
+        "What are the potential impacts on investment flows between South Korea and Iran due to this legal situation?"
+      ],
+      "reason": "The ISDS dispute involves significant financial implications and regulatory challenges that could affect investment and operational decisions, thereby impacting supply chain activities.",
+      "summary": "The ongoing ISDS dispute between the Iranian Deyani family and the South Korean government over compensation payments has potential implications for investment and trade relations. The case highlights the intersection of legal, geopolitical, and economic factors that could disrupt supply chain activities in the electronics industry.",
+      "title": "  배상금 지급 지연  에 또 ISDS ... 꼬리물기 중재  제동",
+      "url": "https://www.etoday.co.kr/news/view/2630847",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "US-North Korea Relations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political relations and nuclear capabilities but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article focuses on the political relationship between the US and North Korea regarding nuclear weapons. It does not indicate any direct supply chain disruptions or impacts on logistics, trade, or production.",
+      "title": "  Kim Jong Un a friend : Trump reasoning on why North Korea can have nuclear weapons but Iran cannot",
+      "url": "https://www.hindustantimes.com/world-news/kim-jong-un-a-friend-trumps-reasoning-on-why-north-korea-can-have-nuclear-weapons-but-iran-cannot-101790740208430.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Health concerns of Kim Jong-un",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "North Korea",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the health of Kim Jong-un but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article focuses on the health status of North Korean leader Kim Jong-un, which may have geopolitical implications but does not indicate a direct supply chain disruption. There are no specific companies or industries mentioned that would be affected by this situation.",
+      "title": "Kim Jong - un wiegt über 140 Kilo – Südkorea enthüllt Gesundheitsdetails",
+      "url": "https://www.lessentiel.lu/de/story/nordkoreas-machthaber-kim-wiegt-ueber-140-kilo-suedkorea-enthuellt-gesundheitsdetails-103642081",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Military involvement in Hormuz Strait",
+      "companies_involved": [
+        "Korean shipping companies"
+      ],
+      "industries_involved": [
+        "Shipping",
+        "Energy"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Korean shipping companies operate in the affected region?",
+        "Which shipping routes are impacted by military actions in the Hormuz Strait?",
+        "Which energy suppliers may be affected by disruptions in the Hormuz Strait?",
+        "Which downstream companies depend on oil imports from the affected region?",
+        "What are the potential impacts on logistics operations for companies operating in the Middle East?"
+      ],
+      "reason": "The article discusses potential military involvement by South Korea in the Hormuz Strait, which could impact shipping routes and energy supply chains, thus representing a geopolitical supply chain disruption.",
+      "summary": "The South Korean government's consideration of military involvement in the Hormuz Strait raises concerns about potential disruptions to shipping and energy supply chains. This geopolitical event could affect Korean shipping companies and their operations in the region.",
+      "title": "한반도엔 평화 , 호르무즈엔 군사력 ... 우회파병 길 닦나",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269831&CMPT_CD=M0153",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T061500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Health concerns of Kim Jong Un",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "North Korea",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the health of Kim Jong Un and its potential implications for North Korea's political stability, but it does not provide a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the health of North Korean leader Kim Jong Un and its implications for political stability in North Korea. However, it does not indicate any direct supply chain disruptions or impacts on supply chain activities.",
+      "title": "Kim Jong Un : Geheimdienst : Über 140 Kilo und ‚ extrem fettleibig  ",
+      "url": "https://www.rtl.de/news/kim-jong-un-geheimdienst-ueber-140-kilo-und-extrem-fettleibig-id31365701.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Deployment of North Korean troops in Russia",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Russia",
+        "North Korea",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by the geopolitical tensions between Russia and Ukraine?",
+        "Which manufacturing facilities in Russia could be impacted by the presence of North Korean troops?",
+        "What supply chain dependencies exist between Russian defense industries and North Korean military support?",
+        "Which countries may be affected by sanctions related to the involvement of North Korean troops in Russia?",
+        "Which downstream companies in the defense sector rely on products or technologies that may be influenced by this geopolitical event?"
+      ],
+      "reason": "The deployment of North Korean troops in Russia represents a significant geopolitical event that could impact defense manufacturing and logistics, particularly in the context of the ongoing conflict in Ukraine and potential sanctions.",
+      "summary": "The article discusses the presence of North Korean troops in Russia, which could have implications for defense supply chains amid ongoing geopolitical tensions. This situation may affect manufacturing and logistics operations related to defense industries in the region.",
+      "title": "Zelenskiy , Rusyada 8 binden fazla Kuzey Kore askeri var , 10 bin daha hazırlanıyor dedi",
+      "url": "https://www.haberler.com/politika/zelenskiy-rusya-da-8-binden-fazla-kuzey-kore-20281012-haberi/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased military presence of North Korean troops in Russia",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Russia",
+        "North Korea",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by the increased military presence?",
+        "Which manufacturing facilities are located in regions affected by the geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in defense manufacturing?",
+        "Which supply-chain dependencies could transmit the disruption due to military activities?",
+        "Which downstream companies in the defense sector may be exposed to risks from this geopolitical event?"
+      ],
+      "reason": "The deployment of North Korean troops to Russia could impact defense supply chains and manufacturing operations, particularly in the context of military logistics and geopolitical tensions affecting trade and production.",
+      "summary": "The article discusses the potential deployment of additional North Korean troops to Russia, which may have implications for defense supply chains and geopolitical stability. This situation could disrupt manufacturing and logistics operations related to defense industries in the region.",
+      "title": "Zelenskiyden çarpıcı iddia : Rusyaya 10 bin Kuzey Kore askeri daha geliyor",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/zelenskiy-duyurdu-rusyaya-10-bin-kuzey-kore-askeri-daha-geliyor-1819372",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Health concerns of Kim Jong-un",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "North Korea",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the health of Kim Jong-un and its potential implications for North Korea's political stability, but it does not provide a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the health of North Korean leader Kim Jong-un, highlighting concerns about his obesity and its potential impact on political stability. However, it does not indicate any direct supply chain disruptions or impacts on related industries.",
+      "title": "金正恩氏は体重１４０キロ超 、「 極度の肥満 」 韓国情報機関 ： 時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=20260930049406a&g=afp",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260930T133000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "ACAMS CAMS Training Program Update",
+      "companies_involved": [
+        "ACAMS"
+      ],
+      "industries_involved": [
+        "Financial Services",
+        "Education"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an educational program update related to anti-money laundering training, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "ACAMS has launched a new training program for anti-money laundering professionals in South Korea, reflecting changes in financial crime methods and regulatory environments. This update aims to enhance the skills of financial professionals but does not indicate any supply chain disruption.",
+      "title": "ACAMS , 한국 AML ( 자금세탁방지 ) 실무자 위한 CAMS 교육 개편",
+      "url": "https://www.ddaily.co.kr:443/page/view/2026092921441891517",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Korean Peninsula Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in South Korea may be affected by increased military tensions?",
+        "Which manufacturing facilities in South Korea are located near the demilitarized zone?",
+        "What are the potential impacts on trade routes between South Korea and other countries due to heightened tensions?",
+        "Which downstream companies in South Korea rely on stable relations with North Korea for their operations?",
+        "How might the geopolitical situation affect energy supply chains in the region?"
+      ],
+      "reason": "The ongoing tensions between North and South Korea, particularly following the recent mine incident, could lead to disruptions in trade, manufacturing, and logistics operations in the region, impacting supply chains significantly.",
+      "summary": "The article discusses rising tensions between North and South Korea following a mine explosion, which could have implications for supply chains in the region. The geopolitical situation may affect trade, manufacturing, and logistics operations, necessitating close monitoring.",
+      "title": "Korea - Konflikt : Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.mz.de/deutschland-und-welt/politik/sudkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-4329762",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Inter-Korean Tensions and Mine Incident",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in South Korea may be affected by increased military tensions?",
+        "Which manufacturing or production relationships in South Korea could be impacted by the geopolitical situation?",
+        "What countries or regions are at risk due to the ongoing tensions between North and South Korea?",
+        "Which supply-chain dependencies could be disrupted by military actions or escalations?",
+        "Which downstream companies in South Korea may be exposed to risks from the geopolitical situation?"
+      ],
+      "reason": "The article discusses rising tensions between North and South Korea, which could impact supply chains in South Korea due to potential military actions or regulatory changes affecting trade and logistics.",
+      "summary": "The article highlights escalating tensions between North and South Korea following a mine incident, which could lead to disruptions in supply chains in the region. The ongoing geopolitical situation poses risks to manufacturers and suppliers in South Korea.",
+      "title": "Südkorea setzt trotz Minenvorfall auf Dialog mit Nordkorea",
+      "url": "https://www.traunsteiner-tagblatt.de/nachrichten_artikel,-suedkorea-setzt-trotz-minenvorfall-auf-dialog-mit-nordkorea-_arid,1019308.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261001T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "North Korean Mine Explosion in DMZ",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "South Korea",
+        "North Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies operating in South Korea may be affected by increased military tensions?",
+        "Which manufacturing or production relationships in South Korea could be impacted by potential military actions?",
+        "Which countries or regions create exposure for companies operating near the Korean Peninsula?",
+        "Which supply-chain dependencies could transmit disruptions due to heightened geopolitical risks?",
+        "Which downstream companies in South Korea may be exposed to disruptions from military conflicts?"
+      ],
+      "reason": "The incident involves military actions and geopolitical tensions between North and South Korea, which could impact supply chains in the region due to potential escalations or military responses.",
+      "summary": "A landmine explosion attributed to North Korea has raised tensions in the Demilitarised Zone, potentially impacting supply chains in South Korea. The situation may lead to increased military actions that could disrupt logistics and trade in the region.",
+      "title": "South Korea says North Korean mine likely caused blast",
+      "url": "https://www.perthnow.com.au/news/conflict/south-korea-says-north-korean-mine-likely-caused-blast-c-22944639",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "T-MEC Compliance Requirements",
+      "companies_involved": [
+        "Livingston International"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Mexican exporters may struggle to meet the new T-MEC compliance requirements?",
+        "Which manufacturing facilities in Mexico depend on components from non-compliant suppliers?",
+        "What countries provide materials that could affect compliance with T-MEC rules of origin?",
+        "Which supply-chain dependencies could be impacted by changes in T-MEC regulations?",
+        "Which downstream companies in the U.S. rely on products from Mexican exporters affected by T-MEC compliance?"
+      ],
+      "reason": "The article discusses new compliance requirements under the T-MEC trade agreement that could significantly impact supply chain operations for Mexican exporters, particularly in the automotive and energy sectors, by necessitating detailed knowledge of the origin of materials and components.",
+      "summary": "The T-MEC trade agreement imposes new compliance requirements on Mexican exporters, mandating detailed documentation of the origin of materials. This could disrupt supply chains, particularly in the automotive and energy industries, as companies must adapt to maintain tariff benefits.",
+      "title": "T - MEC exige a empresas conocer el origen de sus insumos para conservar beneficios arancelarios",
+      "url": "https://www.excelsior.com.mx/nacional/t-mec-exige-empresas-conocer-origen-insumos-para-conservar-beneficios-arancelarios",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T214500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "US Investment Restrictions on China in Mexico",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Energy",
+        "Telecommunications"
+      ],
+      "countries_involved": [
+        "United States",
+        "Mexico",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Mexico may be affected by US investment restrictions?",
+        "Which manufacturing relationships in Mexico could be impacted by changes in US trade policy?",
+        "What are the potential impacts on companies in the energy and telecommunications sectors due to these restrictions?",
+        "Which countries or regions may create exposure for companies operating under the T-MEC agreement?",
+        "Which downstream companies in the US depend on products or services from Mexican suppliers affected by these restrictions?"
+      ],
+      "reason": "The article discusses potential US restrictions on Chinese investments in Mexico, which could destabilize trade relationships and impact supply chain activities under the T-MEC agreement.",
+      "summary": "The article highlights concerns regarding potential US restrictions on Chinese investments in Mexico, which could jeopardize the stability of the T-MEC trade agreement. This situation poses risks to various industries, particularly in trade, energy, and telecommunications.",
+      "title": "Restricciones de EU a inversión china en México pondrían en riesgo T - MEC",
+      "url": "https://www.globalmedia.mx/articles/restricciones_de_eu_a_inversion_china_en_mexico_pondrian_en_riesgo_t_mec",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Request to Reduce Tariffs on Automotive Exports",
+      "companies_involved": [
+        "Mexican Automotive Manufacturers",
+        "AMIA"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Mexican automotive manufacturers may be affected by tariff changes?",
+        "Which manufacturing facilities in Mexico depend on exports to the United States?",
+        "What is the impact on logistics and transportation for automotive exports from Mexico to the U.S.?",
+        "Which downstream companies in the U.S. rely on automotive imports from Mexico?",
+        "How might changes in trade policy affect sourcing strategies for automotive parts?"
+      ],
+      "reason": "The article discusses a request from Mexican automotive manufacturers to reduce tariffs imposed by the U.S., which directly impacts trade and logistics in the automotive supply chain.",
+      "summary": "Mexican automotive manufacturers are seeking a reduction in tariffs imposed by the U.S. on their exports, which currently stand at 25%. This request highlights potential changes in trade policy that could significantly affect the automotive supply chain between Mexico and the United States.",
+      "title": "Piden armadoras de autos a EU que bajen aranceles al 15 % ",
+      "url": "https://www.tiempo.com.mx/economia/piden-armadoras-autos-eu-que-bajen-aranceles-15-porciento-septiembre-2026/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T150000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Mexico-Canada Trade Tensions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Mexico may be affected by changes in US trade policy?",
+        "Which manufacturing facilities in Mexico depend on trade agreements with the US?",
+        "What are the potential impacts on logistics operations due to increased tariffs?",
+        "Which countries or regions create exposure for companies relying on North American trade?",
+        "Which downstream companies in the US depend on products from Mexican manufacturers?"
+      ],
+      "reason": "The article discusses the geopolitical tensions and trade negotiations between the US, Canada, and Mexico, which could significantly impact supply chain activities, particularly in manufacturing and trade.",
+      "summary": "The article highlights escalating trade tensions between the US and its North American neighbors, Canada and Mexico, which could disrupt supply chains due to potential tariff increases and changes in trade policy. This situation necessitates a reevaluation of strategies by companies involved in North American trade.",
+      "title": "Nuestra hoja de ruta norteamericana",
+      "url": "https://www.elfinanciero.com.mx/opinion/arturo-sarukhan/2026/09/30/nuestra-hoja-de-ruta-norteamericana/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential collapse of T-MEC",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Mexico may be affected by changes in trade agreements?",
+        "Which manufacturing facilities in the U.S. depend on imports from Mexico?",
+        "What are the potential impacts on logistics companies operating between the U.S. and Mexico?",
+        "Which downstream companies in Canada rely on trade with the U.S. and Mexico?",
+        "How might changes in tariffs affect sourcing strategies for companies in these countries?"
+      ],
+      "reason": "The article discusses the potential collapse of the T-MEC trade agreement, which could significantly impact trade relationships, tariffs, and supply chain dynamics between Mexico, the U.S., and Canada.",
+      "summary": "The article highlights concerns over the potential collapse of the T-MEC trade agreement, which could disrupt trade and supply chain operations among Mexico, the U.S., and Canada. This situation raises significant risks for companies reliant on cross-border trade and manufacturing.",
+      "title": "Teléfono rojo - Quadratín",
+      "url": "https://www.quadratin.com.mx/opinion/telefono-rojo-1053/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Negotiations on Tariff Reductions",
+      "companies_involved": [
+        "Automotive Manufacturers",
+        "Steel Producers",
+        "Aluminum Suppliers"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Steel",
+        "Aluminum"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which automotive manufacturers rely on Mexican suppliers for vehicle production?",
+        "Which steel and aluminum suppliers may be affected by changes in tariffs?",
+        "How might changes in U.S. tariffs impact the supply chain for automotive parts?",
+        "Which downstream companies depend on steel and aluminum sourced from Mexico?",
+        "What are the potential impacts on logistics and transportation due to tariff negotiations?"
+      ],
+      "reason": "The article discusses ongoing negotiations between Mexico and the United States regarding tariff reductions on automobiles, steel, and aluminum, which directly impacts trade and supply chain activities between the two countries.",
+      "summary": "Mexico is negotiating with the United States to reduce tariffs on automobiles, steel, and aluminum, which could significantly impact supply chains in these industries. The outcome of these negotiations is crucial for manufacturers and suppliers operating in North America.",
+      "title": "México confía en acuerdo con EU para bajar aranceles a autos , acero y aluminio",
+      "url": "https://periodicocorreo.com.mx/nacional/2026/sep/30/mexico-confia-en-acuerdo-con-eu-para-bajar-aranceles-a-autos-acero-y-aluminio-167923.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "T-MEC Negotiations on Tariffs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Steel",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of steel and automotive components may be affected by changes in tariffs?",
+        "Which manufacturing facilities in Mexico depend on tariff-free imports from the United States?",
+        "Which downstream companies in the automotive industry rely on steel imports affected by tariff negotiations?",
+        "What are the potential impacts on logistics and transportation due to changes in trade policy?",
+        "Which regions in the U.S. and Mexico are most exposed to changes in T-MEC agreements?"
+      ],
+      "reason": "The ongoing negotiations regarding tariffs under the T-MEC agreement have a direct impact on trade policies that affect the supply chain for steel and automotive industries, potentially leading to increased costs or supply disruptions.",
+      "summary": "Negotiations between Mexico and the United States regarding the T-MEC agreement focus on reducing tariffs for steel and vehicles. These discussions could significantly impact supply chains in the automotive and steel industries, affecting costs and trade flows.",
+      "title": "Reunión de Ebrard con funcionarios de EU - Quadratín México",
+      "url": "https://mexico.quadratin.com.mx/confirma-sheinbaum-reunion-de-ebrard-con-funcionarios-de-eu-por-t-mec/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential reduction of steel tariffs",
+      "companies_involved": [],
+      "industries_involved": [
+        "Steel",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of steel to the automotive industry may be affected by tariff changes?",
+        "Which manufacturing facilities in Mexico depend on steel imports from the United States?",
+        "How might changes in steel tariffs impact production costs for automotive manufacturers?",
+        "Which downstream companies in the automotive supply chain rely on steel from Mexico?",
+        "What are the potential impacts on logistics and transportation due to tariff adjustments?"
+      ],
+      "reason": "The article discusses potential changes in tariffs on steel exports from Mexico to the United States, which could significantly impact the supply chain for both the steel and automotive industries.",
+      "summary": "The article highlights the potential for an agreement to reduce tariffs on steel exports from Mexico to the United States. This change could have significant implications for the automotive industry, affecting production costs and supply chain dynamics.",
+      "title": "Prevén próximo acuerdo en acero",
+      "url": "https://www.eldiariodechihuahua.mx/economia/2026/sep/30/preven-proximo-acuerdo-en-acero-842901.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Negotiations for Trade Agreement and Export Access",
+      "companies_involved": [
+        "Mexican Automotive Manufacturers",
+        "Mexican Steel Producers"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Steel"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States",
+        "Argentina",
+        "India",
+        "European Union",
+        "Japan",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Mexican automotive manufacturers may be affected by changes in export quotas?",
+        "Which manufacturing facilities in Mexico depend on steel and aluminum imports?",
+        "How might changes in trade agreements with the U.S. impact Mexican steel producers?",
+        "Which countries are key suppliers for the automotive industry in Mexico?",
+        "Which downstream companies in the U.S. rely on Mexican automotive exports?"
+      ],
+      "reason": "The article discusses ongoing trade negotiations and potential changes in export policies that could significantly impact supply chains, particularly in the automotive and steel industries, due to tariff implications and access to markets.",
+      "summary": "Mexico is actively negotiating trade agreements and export access for key industries at the G20, which could affect supply chains in the automotive and steel sectors. The discussions aim to address trade barriers and enhance regional supply chain integration amid U.S. pressures.",
+      "title": "México posiciona sus exportaciones ante el G20 mientras negocia acuerdo comercial con EEUU - Mundo",
+      "url": "https://www.abc.com.py/internacionales/2026/09/30/mexico-posiciona-sus-exportaciones-ante-el-g20-mientras-negocia-acuerdo-comercial-con-eeuu/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T013000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential reduction of tariffs on automotive and metal exports",
+      "companies_involved": [
+        "Ford Motor Co."
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Metals"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Ford Motor Co. operate in Mexico?",
+        "Which manufacturing facilities in Mexico depend on U.S. exports?",
+        "What are the potential impacts on automotive supply chains if tariffs are reduced?",
+        "Which downstream companies depend on automotive parts produced in Mexico?",
+        "How might changes in trade policy affect the sourcing of steel and aluminum?"
+      ],
+      "reason": "The article discusses ongoing negotiations between Mexico and the U.S. regarding tariff reductions on key exports, which directly impacts supply chain activities in the automotive and metals industries.",
+      "summary": "Negotiations between Mexico and the U.S. aim to reduce tariffs on automotive and metal exports, which could significantly impact supply chains in these sectors. The outcome of these discussions is crucial for companies like Ford and the broader automotive industry in Mexico.",
+      "title": "México confía en acuerdo con EU para reducir aranceles a autos y metales",
+      "url": "https://www.globalmedia.mx/articles/mexico_confia_en_acuerdo_con_eu_para_reducir_aranceles_a_autos_y_metales",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Chinese Automakers Entering North American Market",
+      "companies_involved": [
+        "Nissan",
+        "Chinese Automotive Companies"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Mexico",
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nissan operate in Mexico?",
+        "What manufacturing facilities does Nissan have in North America?",
+        "Which Chinese automotive companies are planning to establish production in Mexico?",
+        "How will the entry of Chinese automakers affect Nissan's pricing strategy in North America?",
+        "Which downstream companies depend on Nissan's production in Mexico?"
+      ],
+      "reason": "The article discusses the potential entry of Chinese automakers into the North American market and its implications for Nissan, including cost restructuring and local production strategies, which directly impact supply chain dynamics.",
+      "summary": "Nissan is preparing for increased competition from Chinese automakers who plan to localize production in Mexico, potentially leading to a price war in the North American automotive market. This situation necessitates strategic adjustments in Nissan's supply chain and production operations.",
+      "title": "中国车企还没进美国 日产先慌了 ： 两到三年内必须准备好打价格战",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-29/doc-initnsef2912908.shtml",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential Partial Agreement on TMEC",
+      "companies_involved": [
+        "BBVA"
+      ],
+      "industries_involved": [
+        "Financial Services",
+        "Trade"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Mexico may be affected by changes in TMEC agreements?",
+        "Which manufacturing or production relationships in the automotive, steel, and aluminum sectors may be impacted by new trade policies?",
+        "Which countries or regions create exposure due to reliance on US-Mexico trade agreements?",
+        "Which supply-chain dependencies could transmit disruptions from potential changes in TMEC?",
+        "Which downstream companies in the US depend on products from Mexican suppliers affected by TMEC negotiations?"
+      ],
+      "reason": "The potential partial agreement on the TMEC could significantly impact trade relations and supply chain dynamics between Mexico and the United States, affecting various industries and investment decisions.",
+      "summary": "The article discusses the likelihood of a partial agreement on the TMEC between Mexico and the United States, which could influence trade policies and supply chain stability. This potential agreement is crucial for maintaining the integration of North American supply chains.",
+      "title": "Ven  bastante elevada  posibilidad de acuerdo parcial del TMEC • Mercados • Forbes México",
+      "url": "https://forbes.com.mx/ven-bastante-elevada-posibilidad-de-acuerdo-parcial-del-tmec/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Chinese Automakers Entering North American Market",
+      "companies_involved": [
+        "Nissan",
+        "Chinese Automakers"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Mexico",
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nissan operate in Mexico?",
+        "Which manufacturing facilities in North America may be affected by increased competition from Chinese automakers?",
+        "What are the potential impacts on Nissan's supply chain due to cost-cutting measures?",
+        "Which countries or regions create exposure for Nissan in the context of new market entrants?",
+        "Which downstream companies depend on Nissan's products in the North American market?"
+      ],
+      "reason": "The article discusses the potential entry of Chinese automakers into the North American market and the resulting competitive pressures on Nissan, which could impact their manufacturing, production, and supply chain strategies.",
+      "summary": "Nissan is preparing for increased competition from Chinese automakers expected to localize production in Mexico, which may lead to a price war in the North American automotive market. This situation poses significant risks to Nissan's supply chain and operational strategies as they adapt to the changing competitive landscape.",
+      "title": "中国车企还没进美国 日产先慌了 ： 两到三年内必须准备好打价格战",
+      "url": "https://tech.ifeng.com/c/8woDURasvwA",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Increased Tariffs on Chinese Imports",
+      "companies_involved": [
+        "Automotive Manufacturers in Mexico",
+        "Suppliers from South Korea, Brazil, and India"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States",
+        "China",
+        "South Korea",
+        "Brazil",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of automotive manufacturers in Mexico may be affected by increased tariffs?",
+        "Which manufacturing facilities in Mexico depend on imports from China or other affected countries?",
+        "What are the potential impacts on supply chains for companies sourcing from South Korea, Brazil, and India?",
+        "Which downstream companies in the automotive sector rely on components sourced from the affected regions?",
+        "How might changes in trade policy affect the logistics and transportation of automotive parts?"
+      ],
+      "reason": "The article discusses potential increases in tariffs on imports from China, which could disrupt supply chains for automotive manufacturers in Mexico by increasing costs and affecting sourcing from other countries.",
+      "summary": "The article highlights the potential for increased tariffs on Chinese imports by Mexico, driven by U.S. pressure. This could significantly impact the automotive industry and related supply chains, particularly affecting sourcing from countries like South Korea, Brazil, and India.",
+      "title": "Kenneth Smith alerta sobre presión de EU para que México imponga más aranceles a China",
+      "url": "https://www.eleconomista.com.mx/empresas/kenneth-smith-alerta-sobre-presion-eu-mexico-imponga-aranceles-china-20260929-835941.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Impact of T-MEC Review on Mexican Economy",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Automotive",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Mexico may be affected by changes in T-MEC?",
+        "Which manufacturing facilities in Mexico depend on exports to the United States?",
+        "What impact will the T-MEC review have on automotive supply chains?",
+        "Which companies in the technology sector are reliant on Mexican manufacturing?",
+        "How might changes in trade policy affect logistics operations between Mexico and the U.S.?"
+      ],
+      "reason": "The article discusses the potential impact of the T-MEC review and changes in trade policy on the Mexican economy, particularly in relation to manufacturing and exports, which are critical components of the supply chain.",
+      "summary": "The article highlights the expected growth of the Mexican economy driven by exports and the influence of U.S. demand, while also noting potential risks from the review of the T-MEC agreement. This situation poses significant implications for supply chains, especially in manufacturing and technology sectors.",
+      "title": "Comercio exterior e IA mejoran proyección de crecimiento de economía mexicana : Fitch Ratings",
+      "url": "https://t21.com.mx/comercio-exterior-e-ia-mejoran-proyeccion-de-crecimiento-de-economia-mexicana-fitch-ratings/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T190000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Reduction of tariffs between the US and China",
+      "companies_involved": [],
+      "industries_involved": [
+        "Manufacturing",
+        "Agriculture",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the US may be affected by the reduction of tariffs on Chinese goods?",
+        "Which manufacturing facilities in the US depend on Chinese components?",
+        "What impact will the tariff reduction have on US agricultural exports to China?",
+        "Which downstream companies in the US rely on products imported from China?",
+        "How might changes in trade policy affect logistics operations between the US and China?"
+      ],
+      "reason": "The article discusses a significant change in trade policy between the US and China, which directly impacts supply chain activities, particularly in manufacturing and agriculture due to tariff adjustments.",
+      "summary": "The recent agreement to reduce tariffs between the US and China represents a significant shift in trade policy that could affect various supply chain activities. This change may influence manufacturing dependencies and agricultural exports, highlighting potential risks for companies involved in these sectors.",
+      "title": "Еще одна проигранная война Трампа",
+      "url": "https://vm.ru/opinion/1362233-eshe-odna-proigrannaya-vojna-trampa",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T121500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Chinese Auto Manufacturers Entering Mexican Market",
+      "companies_involved": [
+        "Nissan",
+        "Morris Garages (MG)",
+        "BYD",
+        "Guangzhou Automobile Group (GAC)"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "China",
+        "United States",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nissan operate in Mexico?",
+        "How will the entry of Chinese manufacturers affect Nissan's production costs?",
+        "Which manufacturing facilities in Mexico are at risk due to increased competition?",
+        "What are the potential impacts on logistics and transportation networks in Mexico?",
+        "Which downstream companies depend on Nissan's products in the U.S. market?"
+      ],
+      "reason": "The entry of Chinese auto manufacturers into the Mexican market poses a competitive threat to existing manufacturers like Nissan, potentially impacting their supply chain operations, production costs, and market share.",
+      "summary": "Chinese automobile manufacturers are planning to establish production in Mexico within three years, which could disrupt the competitive landscape for existing manufacturers like Nissan. This situation may lead to increased pressure on costs and supply chain adjustments for affected companies.",
+      "title": "Prevén inicie producción de autos chinos en México en 3 años",
+      "url": "https://www.eldiariodechihuahua.mx/economia/2026/sep/30/preven-inicie-produccion-de-autos-chinos-en-mexico-en-3-anos-842904.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Growth in Electronic Exports and Decline in Automotive Exports",
+      "companies_involved": [],
+      "industries_involved": [
+        "Electronics",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of electronic components are affected by the increase in exports?",
+        "Which manufacturing facilities in Mexico are dependent on automotive exports to the US?",
+        "What impact do tariffs on automotive exports have on production schedules?",
+        "Which countries are key suppliers for the electronic components being exported?",
+        "Which downstream companies rely on automotive parts from Mexico?"
+      ],
+      "reason": "The article discusses significant changes in export dynamics for electronics and automotive sectors in Mexico, indicating potential supply chain impacts due to shifts in trade performance and tariffs.",
+      "summary": "The article highlights a substantial increase in Mexico's electronic exports driven by technological demand, while automotive exports have declined due to reduced shipments to the US. This shift in trade dynamics could affect supply chain relationships and dependencies in both industries.",
+      "title": "Aparatos electrónicos impulsan exportaciones",
+      "url": "https://www.razon.com.mx:443/negocios/2026/09/29/aparatos-electronicos-impulsan-exportaciones/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Growth in Electronic Exports",
+      "companies_involved": [],
+      "industries_involved": [
+        "Electronics",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide components for electronic devices exported from Mexico?",
+        "Which manufacturing facilities in Mexico are involved in the production of electronic goods?",
+        "How might changes in U.S. tariffs affect the export of Mexican electronics?",
+        "Which countries are major importers of Mexican electronic products?",
+        "Which downstream companies in the U.S. rely on Mexican electronic exports?"
+      ],
+      "reason": "The article discusses significant growth in electronic exports from Mexico, which impacts supply chain dynamics, particularly in the electronics and automotive industries. The contraction in automotive exports due to reduced shipments to the U.S. also indicates potential supply chain vulnerabilities.",
+      "summary": "The article highlights a substantial increase in Mexico's electronic exports, driven by the rise of artificial intelligence technologies, while automotive exports have declined. This shift in export dynamics could affect supply chain relationships and dependencies between Mexico and the U.S.",
+      "title": "Aparatos electrónicos impulsan exportaciones",
+      "url": "https://www.razon.com.mx/negocios/2026/09/29/aparatos-electronicos-impulsan-exportaciones/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T111500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "LEGO's New Investment in Nuevo León",
+      "companies_involved": [
+        "LEGO"
+      ],
+      "industries_involved": [
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of LEGO operate in Mexico?",
+        "Which manufacturing facilities depend on the new plant in Nuevo León?",
+        "What logistics operations are impacted by the expansion of LEGO's facility?",
+        "Which countries or regions create exposure for LEGO's supply chain?",
+        "Which downstream companies depend on products from LEGO's Nuevo León facility?"
+      ],
+      "reason": "The article discusses LEGO's significant investment in expanding its manufacturing operations in Nuevo León, Mexico, which directly impacts supply chain activities related to production and logistics.",
+      "summary": "LEGO is investing $400 million to expand its manufacturing facility in Nuevo León, Mexico, which will enhance its production capacity for the Americas. This expansion is expected to have significant implications for supply chain operations, including logistics and supplier relationships.",
+      "title": "Samuel García destaca nueva inversión de 400 mdd de LEGO en Nuevo León – Publimetro México",
+      "url": "https://www.publimetro.com.mx/nuevo-leon/2026/09/30/pide-samuel-garcia-a-lego-seguir-construyendo-suenos-en-nuevo-leon-tras-nueva-inversion-de-400-mdd/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Trump Forced Labor Tariffs",
+      "companies_involved": [
+        "U.S. businesses affected by tariffs"
+      ],
+      "industries_involved": [
+        "Import/Export",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "European Union",
+        "United Kingdom",
+        "Canada",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. businesses are located in the affected countries?",
+        "Which manufacturing facilities in the U.S. depend on imports from the affected countries?",
+        "How might the tariffs impact pricing and availability of goods from these countries?",
+        "Which downstream companies rely on products imported from the affected regions?",
+        "What alternative sourcing strategies could mitigate the impact of these tariffs?"
+      ],
+      "reason": "The imposition of tariffs on imports from multiple countries due to forced labor allegations creates a significant impact on trade, sourcing, and manufacturing activities, affecting supply chain dynamics.",
+      "summary": "The Court of International Trade is reviewing the legality of tariffs imposed by the Trump administration on imports from various countries due to forced labor concerns. This trade policy could disrupt supply chains by increasing costs and affecting the availability of goods from impacted regions.",
+      "title": "Court of International Trade Weighs Arguments Against Trump Forced Labor Tariffs",
+      "url": "https://wwd.com/sourcing-journal/trade/court-of-international-trade-trump-forced-labor-tariffs-section-301-1239298663/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "G20 Trade Ministers Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico",
+        "United States",
+        "European Union"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting of trade ministers which may influence trade policies but does not indicate any immediate or specific supply chain disruptions.",
+      "summary": "The article reports on a meeting of G20 trade ministers from Mexico, the US, and the EU. While it may have implications for trade policies, it does not present a direct supply chain disruption.",
+      "title": "G20 Trade Ministers Mexico Ebrard Meets US and EU",
+      "url": "https://www.riotimesonline.com/mexico-ebrard-attends-g20-trade-ministers-meeting-2026/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S.-Canada Trade Dispute",
+      "companies_involved": [
+        "Stellantis"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Stellantis operate in Canada?",
+        "Which manufacturing facilities depend on components sourced from Canada?",
+        "What are the potential impacts on Stellantis' production schedules due to tariffs?",
+        "Which downstream companies depend on vehicles produced by Stellantis in Canada?",
+        "How might changes in trade policy affect logistics operations between the U.S. and Canada?"
+      ],
+      "reason": "The escalating trade dispute between the U.S. and Canada, including tariffs and counter-tariffs, directly impacts the automotive supply chain, particularly for companies like Stellantis that operate in both countries.",
+      "summary": "The ongoing trade dispute between the U.S. and Canada, highlighted by tariffs and counter-tariffs, poses significant risks to the automotive supply chain. Companies like Stellantis may face disruptions in production and logistics due to these trade policy changes.",
+      "title": "Trump Singles Out Canada as  Worst of Any Country  After Listing Japan , Korea , and Mexico",
+      "url": "https://www.theepochtimes.com/world/trump-singles-out-canada-as-worst-of-any-country-after-listing-japan-korea-and-mexico-6097080",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Trade Barriers Impacting K-Food Exports",
+      "companies_involved": [
+        "CJ CheilJedang",
+        "Daesang",
+        "Otoki",
+        "Nongshim",
+        "Samyang Foods",
+        "Lotte Wellfood"
+      ],
+      "industries_involved": [
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Egypt",
+        "India",
+        "Africa"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of K-food companies operate in regions affected by trade barriers?",
+        "Which manufacturing facilities of K-food firms depend on imports that are subject to tariffs?",
+        "Which countries or regions create exposure for K-food exports due to trade regulations?",
+        "Which supply-chain dependencies could transmit the disruption from trade barriers?",
+        "Which downstream companies depend on products from K-food manufacturers facing these trade challenges?"
+      ],
+      "reason": "The article discusses various trade barriers that are hindering the export growth of K-food firms, which directly impacts their supply chain activities, including sourcing, manufacturing, and logistics.",
+      "summary": "K-food firms in South Korea are facing significant trade barriers that are limiting their export potential. The Korea Food Industry Association highlights issues such as tariffs and customs regulations, which are affecting supply chains and prompting discussions on alternative trade routes.",
+      "title": "Trade barriers still bog down K - food firms : lobby group head",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260929/trade-barriers-still-bog-down-k-food-firms-lobby-group-head",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "U.S. Tariff Exemptions for Central American Exports",
+      "companies_involved": [
+        "Gildan Activewear",
+        "Fruit of the Loom",
+        "Elcatex Group",
+        "Kattan Group"
+      ],
+      "industries_involved": [
+        "Apparel",
+        "Agriculture",
+        "Medical Devices"
+      ],
+      "countries_involved": [
+        "United States",
+        "Honduras",
+        "Guatemala",
+        "El Salvador",
+        "Costa Rica"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Gildan Activewear and Fruit of the Loom operate in the affected region?",
+        "Which manufacturing facilities in Central America depend on U.S. trade policies?",
+        "How might changes in U.S. tariff policies affect sourcing decisions for U.S. fashion companies?",
+        "Which downstream companies depend on apparel sourced from Central America?",
+        "What impact do U.S. tariffs on Brazilian goods have on Central American agricultural exports?"
+      ],
+      "reason": "The article discusses changes in U.S. trade policy that provide Central American exporters with a competitive advantage, directly impacting supply chain activities related to sourcing and manufacturing in the region.",
+      "summary": "Central America is benefiting from U.S. tariff exemptions, giving its garment and agricultural producers a competitive edge over Asian rivals. This shift in trade policy could significantly influence sourcing strategies for U.S. companies and alter supply chain dynamics in the apparel and agricultural sectors.",
+      "title": "How Central America Is Winning the US Trade War",
+      "url": "https://gfmag.com/features/how-central-america-is-winning-us-trade-war/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Uncertainty in T-MEC affecting investments",
+      "companies_involved": [],
+      "industries_involved": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of automotive parts in Coahuila may be affected by T-MEC uncertainties?",
+        "Which manufacturing facilities in Coahuila depend on trade with the United States?",
+        "What investments are currently on hold due to the uncertainty surrounding T-MEC?",
+        "Which companies in the automotive industry are most exposed to changes in trade policy?",
+        "How might changes in T-MEC impact logistics operations between Mexico and the United States?"
+      ],
+      "reason": "The article discusses the impact of T-MEC uncertainties on investments and the automotive industry in Coahuila, indicating a potential disruption in trade and manufacturing activities.",
+      "summary": "The article highlights concerns regarding the uncertainty of T-MEC and its impact on investments in Coahuila, particularly in the automotive sector. This situation poses a potential supply chain disruption due to its implications for trade and manufacturing relationships between Mexico and the United States.",
+      "title": "Manolo Jiménez apuesta por seguridad , industria y turismo para fortalecer a Coahuila – Publimetro México",
+      "url": "https://www.publimetro.com.mx/noticias/2026/09/30/manolo-jimenez-en-el-tema-de-seguridad-no-se-puede-andar-a-medias-tintas/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "CPTPP Membership Impact on Agriculture",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Japan",
+        "Canada",
+        "Mexico",
+        "Australia",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in the agriculture sector may be affected by the CPTPP agreement?",
+        "How will the production capabilities of South Korean agricultural companies be impacted?",
+        "Which downstream companies rely on agricultural products from South Korea?",
+        "What manufacturing relationships may be affected by changes in agricultural supply?",
+        "Which countries are likely to increase their exports to South Korea as a result of the CPTPP?"
+      ],
+      "reason": "The article discusses the potential impacts of South Korea's membership in the CPTPP on its agricultural sector, indicating a significant reduction in production and potential disruptions in supply chains related to agriculture and manufacturing.",
+      "summary": "South Korea's potential membership in the CPTPP is expected to boost manufacturing but could lead to significant production losses in the agricultural sector. This trade policy change raises concerns about supply chain disruptions for agricultural producers and related industries.",
+      "title": " [ 사설 ] CPTPP 가입 , 농수산업 피해 우려부터 불식을",
+      "url": "https://www.hani.co.kr/arti/opinion/editorial/1280046.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Public Revenue Growth Below Expectations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses public revenue growth and fiscal performance but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the growth of public revenues in Mexico, which fell short of expectations. However, it does not present any information that would indicate a supply chain disruption.",
+      "title": "Ingresos públicos crecen 1 . 3 %, pero quedan debajo de lo previsto",
+      "url": "https://forbes.com.mx/ingresos-publicos-crecen-1-3-pero-quedan-debajo-de-lo-previsto/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased Pressure on Mexico by the U.S.",
+      "companies_involved": [],
+      "industries_involved": [
+        "Trade",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "United States",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Mexico may be affected by increased U.S. pressure?",
+        "Which manufacturing facilities in Mexico depend on U.S. trade agreements?",
+        "How might changes in U.S. trade policy impact Mexican manufacturers?",
+        "Which downstream companies in the U.S. rely on products sourced from Mexico?",
+        "What are the potential impacts on logistics and transportation between the U.S. and Mexico?"
+      ],
+      "reason": "The article discusses the geopolitical tensions between the U.S. and Mexico, particularly in the context of trade policies and security concerns, which could lead to disruptions in trade and manufacturing activities.",
+      "summary": "The article highlights the geopolitical pressures the U.S. is placing on Mexico, particularly in relation to trade and security. This situation could lead to significant supply chain disruptions affecting trade agreements and manufacturing operations between the two countries.",
+      "title": "Trump , China y la presión sobre México",
+      "url": "https://www.ejecentral.com.mx/opinion/trump-china-y-la-presion-sobre-mexico-ingenieria-politica",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260929T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Formation of Global Steel Excess Capacity Forum",
+      "companies_involved": [],
+      "industries_involved": [
+        "Steel"
+      ],
+      "countries_involved": [
+        "Turkey",
+        "United States",
+        "China",
+        "European Union",
+        "United Kingdom",
+        "Japan",
+        "South Korea",
+        "Canada",
+        "Brazil",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of steel manufacturers in Turkey may be affected by new trade policies?",
+        "Which manufacturing facilities in Turkey depend on steel imports from China?",
+        "What impact will increased anti-dumping investigations have on steel producers in the affected countries?",
+        "Which countries are likely to impose stricter import regulations that could affect Turkish steel exports?",
+        "Which downstream companies in the construction or automotive sectors rely on steel from the affected regions?"
+      ],
+      "reason": "The formation of a coordinated response to excess steel capacity and potential trade barriers indicates a significant shift in trade policy that could impact supply chains, particularly in the steel industry.",
+      "summary": "A coalition of 28 economies, including Turkey, has formed to address the growing issue of excess steel capacity, primarily driven by Chinese exports. This new trade policy framework may lead to increased investigations and tariffs, affecting global steel supply chains.",
+      "title": "Türkiye dahil 28 ekonomi çelikte ortak cephe kurdu : Çin baskısına yeni önlemler geliyor",
+      "url": "https://www.dunya.com/ekonomi/turkiye-dahil-28-ekonomi-celikte-ortak-cephe-kurdu-haberi-842140",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261001T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Reform of Customs Law in Mexico",
+      "companies_involved": [
+        "Confederación de Asociaciones de Agentes Aduanales de la República Mexicana (CAAAREM)",
+        "Asociación Mexicana de la Industria Automotriz (AMIA)"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Textile",
+        "Footwear",
+        "Alcoholic Beverages"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the new customs regulations in Mexico?",
+        "Which manufacturing or production relationships may be impacted by the enforcement of stricter customs checks?",
+        "Which countries or regions create exposure due to changes in import regulations?",
+        "Which supply-chain dependencies could transmit the disruption caused by the new customs law?",
+        "Which downstream companies or operations may be exposed to delays or embargoes due to the new customs enforcement?"
+      ],
+      "reason": "The proposed changes to the customs law in Mexico could lead to increased scrutiny and potential embargoes on imported goods, affecting supply chains across various industries, including automotive, textile, and footwear.",
+      "summary": "The proposed reform to Mexico's customs law aims to combat undervaluation of imports, which could disrupt supply chains by increasing the likelihood of embargoes and delays. This change has raised concerns among various industries about its potential impact on trade and logistics.",
+      "title": "Reforma aduanera abre disputa por el costo de combatir la subvaluación en México",
+      "url": "https://t21.com.mx/reforma-aduanera-abre-disputa-por-el-costo-de-combatir-la-subvaluacion-en-mexico/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T190000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Tariff Impact on UTV Market",
+      "companies_involved": [
+        "BRP",
+        "Polaris"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "Canada",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of BRP and Polaris are affected by the new tariff regulations?",
+        "Which manufacturing facilities are impacted by the changes in tariff rates?",
+        "How does the sourcing shift from China to the U.S. and Mexico affect supply chain stability?",
+        "Which downstream companies rely on UTVs and may be affected by increased costs?",
+        "What are the potential impacts on agricultural operations that depend on UTVs?"
+      ],
+      "reason": "The article discusses the impact of tariffs on the UTV market, affecting production costs and sourcing strategies, which directly relates to supply chain activities.",
+      "summary": "The UTV market in the U.S. is facing challenges due to increased tariffs, impacting companies like BRP and Polaris. These changes are prompting shifts in sourcing and production strategies, which could affect supply chain stability.",
+      "title": "4WD UTV Market Hits 420 , 000 Units as Tariffs Bite",
+      "url": "https://www.off-road.com/blog/4wd-utv-market-hits-420-000-units-as-tariffs-bite/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Impact of Asian Products on Sales",
+      "companies_involved": [
+        "Almacenes Ánfora"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Almacenes Ánfora are affected by changes in trade policy?",
+        "Which manufacturing relationships may be impacted by the increase in Asian products?",
+        "What countries are the primary sources of Almacenes Ánfora's imported goods?",
+        "Which supply-chain dependencies could be affected by the competitive pressure from Asian products?",
+        "Which downstream companies rely on Almacenes Ánfora for their product offerings?"
+      ],
+      "reason": "The article discusses the impact of increased competition from Asian products on Almacenes Ánfora's sales, which indicates a potential disruption in their supply chain due to trade dynamics.",
+      "summary": "Almacenes Ánfora is facing challenges from increased competition from Asian products, which has affected their sales. The company is adapting its strategies to maintain competitiveness in the retail and manufacturing sectors.",
+      "title": "Almacenes Ánfora y el reto de llegar a cuatro generaciones sin perder la esencia",
+      "url": "https://www.eleconomista.com.mx/el-empresario/almacenes-anfora-reto-llegar-cuatro-generaciones-perder-esencia-20260930-835954.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "tariff",
+      "published_at": "20260930T141500Z"
     }
   ]
 }
