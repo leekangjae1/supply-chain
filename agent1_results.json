@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T14:38:36Z",
-  "total_count": 8958,
+  "updated_at": "2026-10-01T00:21:13Z",
+  "total_count": 9041,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -243888,6 +243888,2195 @@
       "gdelt_country": "India",
       "gdelt_keyword": "hurricane",
       "published_at": "20260930T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are dependent on the services provided by ZET?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities in the region.",
+      "summary": "A public transport strike in Zagreb has entered its third day, significantly disrupting transportation services and waste management. This labor disruption poses risks to local businesses and logistics operations reliant on public transport.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122261",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations in Zagreb?",
+        "What are the potential impacts on employee attendance in companies dependent on ZET services?",
+        "Which regions in Croatia could experience increased demand for alternative transportation due to the strike?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities related to logistics and employee mobility.",
+      "summary": "The public transport strike in Zagreb has entered its third day, severely affecting transportation services and waste collection. This disruption poses risks to logistics and operational efficiency for companies relying on these services.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122315",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "ZET",
+        "Zagrebački holding"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What alternative transportation options are available for employees of companies affected by the strike?",
+        "Which regions in Croatia are experiencing increased demand for transportation services due to the strike?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb has led to significant disruptions in transportation services, affecting logistics and operations in the city, which can impact various supply chain activities.",
+      "summary": "The public transport strike in Zagreb has resulted in a halt of tram and bus services, significantly disrupting transportation and waste management operations. This situation poses risks to companies relying on these services for their logistics and operational needs.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122306",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "ZET",
+        "Zagrebački holding"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What alternative transportation options are available for employees affected by the strike?",
+        "Which regions in Croatia are experiencing increased demand for transportation services due to the strike?"
+      ],
+      "reason": "The ongoing strike by ZET workers significantly disrupts public transportation and waste management services in Zagreb, impacting logistics and operations in the city.",
+      "summary": "The public transport strike in Zagreb has led to significant disruptions in transportation and waste management services. This situation poses risks to logistics and operational efficiency for companies relying on these services.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122322",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation for their operations?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities in the region.",
+      "summary": "A public transport strike in Zagreb has led to significant disruptions in transportation services, affecting both public transit and waste management operations. This situation poses risks to local businesses and logistics operations reliant on these services.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122187",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "Which transportation routes are impacted by the public transport strike in Zagreb?",
+        "What are the potential impacts on waste management operations due to reduced services?",
+        "Which downstream companies rely on public transportation for their employees?",
+        "How might the strike affect logistics and transportation schedules in the region?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions to transportation services, which can impact logistics, employee commuting, and waste management operations, thus qualifying it as a supply chain disruption.",
+      "summary": "The public transport strike in Zagreb has entered its third day, significantly affecting transportation services and waste management. This disruption poses risks to logistics and employee commuting in the region.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122333",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "ZET",
+        "Zagrebački holding"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are dependent on ZET for transportation services?"
+      ],
+      "reason": "The ongoing strike by ZET workers significantly disrupts public transportation services in Zagreb, affecting logistics and operations related to waste management and daily commuting.",
+      "summary": "The public transport strike in Zagreb, involving ZET and Zagrebački holding, has led to significant disruptions in transportation services. This situation impacts logistics and operations in the region, particularly in waste management and commuting for residents.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122348",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations in Zagreb?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia could experience increased demand for alternative transportation methods?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities in the region.",
+      "summary": "A public transport strike in Zagreb has entered its third day, significantly disrupting transportation services and waste management. This labor disruption poses risks to local businesses and logistics operations reliant on public transport.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122378",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which transportation routes are disrupted due to the strike?",
+        "What are the potential impacts on local businesses relying on public transport?",
+        "Which downstream operations depend on the services provided by ZET?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which are critical components of the local supply chain.",
+      "summary": "A public transport strike in Zagreb has entered its third day, severely affecting transportation services and waste management. The strike poses risks to local businesses and public services, highlighting vulnerabilities in the supply chain related to public transportation.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122436",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation services provided by ZET?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb has led to significant disruptions in transportation and waste management services, impacting logistics and operations in the region.",
+      "summary": "A public transport strike in Zagreb has entered its third day, causing major disruptions in transportation and waste management services. The strike's continuation poses risks to local businesses and public services reliant on these operations.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122487",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation services in Zagreb?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities in the region.",
+      "summary": "The public transport strike in Zagreb has entered its third day, severely affecting transportation services and waste collection. This disruption poses risks to local businesses and logistics operations reliant on public transport.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122413",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T174500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation services in Zagreb?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb has led to significant disruptions in transportation and waste management services, impacting supply chain activities related to logistics and public services.",
+      "summary": "A public transport strike in Zagreb has resulted in the cessation of tram and bus services for three days, significantly affecting local logistics and waste management operations. The situation remains unresolved as negotiations continue between the city and the unions.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122636",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia could experience increased demand for alternative transportation methods?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities in the region.",
+      "summary": "The public transport strike in Zagreb has entered its third day, severely affecting transportation services and waste collection. This disruption poses risks to local businesses and logistics operations reliant on public transport.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122556",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Germany and Russia over Ukraine",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by the geopolitical tensions?",
+        "Which logistics operations are impacted by the current situation in Ukraine?",
+        "Which countries are at risk of supply chain disruptions due to the conflict?",
+        "What dependencies exist between German companies and Russian suppliers?",
+        "Which downstream companies rely on logistics routes that may be affected by the conflict?"
+      ],
+      "reason": "The ongoing geopolitical tensions between Germany and Russia, particularly regarding the situation in Ukraine, could lead to disruptions in defense supply chains and logistics operations, impacting trade and sourcing activities.",
+      "summary": "The article discusses escalating tensions between Germany and Russia, particularly in the context of the Ukraine conflict. This geopolitical situation poses potential risks to supply chains, especially in the defense and logistics sectors.",
+      "title": " „ Dokážeme sa brániť a úder opätovať . Nemecko vyslalo Lavrovovi ostrý odkaz . Kremeľ reaguje na prvé stretnutie - Svet - Správy",
+      "url": "https://www.pravda.sk/spravy/svet/clanok/2049205-dokazeme-sa-branit-a-uder-opatovat-nemecko-vyslalo-lavrovovi-ostry-odkaz-kremel-reaguje-na-prve-stretnutie",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T121500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Statements and Meetings",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany",
+        "Turkey",
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political statements and meetings without any direct implications for supply chain activities such as manufacturing, logistics, or trade. There are no specific disruptions to supply chains mentioned.",
+      "summary": "The article primarily focuses on political statements and meetings involving leaders from Germany, Turkey, and Russia. It does not present any information that indicates a disruption to supply chain activities.",
+      "title": "Папа римский отказал ультраправым в христианстве :: Новости дня / ВЗГЛЯД",
+      "url": "https://vz.ru/news/2026/9/29/1456472.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volkswagen Labor Dispute",
+      "companies_involved": [
+        "Volkswagen",
+        "Mercedes-Benz"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by potential strikes?",
+        "Which manufacturing facilities are at risk of closure due to labor disputes?",
+        "What are the potential impacts on production schedules for Volkswagen and Mercedes-Benz?",
+        "Which countries or regions supply components to Volkswagen that could be impacted by this labor dispute?",
+        "Which downstream companies depend on vehicles produced by Volkswagen and may face supply shortages?"
+      ],
+      "reason": "The planned termination of wage agreements and potential layoffs at Volkswagen could lead to significant labor disruptions, affecting production and supply chain operations in the automotive industry.",
+      "summary": "Volkswagen's announcement to terminate wage agreements affecting 100,000 workers has sparked a potential labor dispute with the IG Metall union. This situation poses risks to production and supply chain stability within the German automotive industry.",
+      "title": "大众汽车计划终止10万人工会协议 ， IG Metall坚决反对进入谈判",
+      "url": "https://original.ifeng.com/c/8wqd1xFlOMd",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "SWEG Bus and Train Strike",
+      "companies_involved": [
+        "Südwestdeutsche Landesverkehrs GmbH (SWEG)"
+      ],
+      "industries_involved": [
+        "Public Transportation"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of SWEG may be affected by the strike?",
+        "Which transportation routes are impacted by the SWEG strike?",
+        "Which downstream companies rely on SWEG for logistics and transportation?",
+        "What alternative transportation options are available for affected regions?",
+        "How might the strike affect the supply chain for companies dependent on timely transportation?"
+      ],
+      "reason": "The strike by SWEG affects public transportation services, including bus and regional train operations, which can disrupt logistics and transportation activities critical to supply chains in the affected regions.",
+      "summary": "A three-day strike by SWEG is disrupting bus and regional train services in several cities in southern Germany. This operational disruption can significantly impact logistics and transportation for businesses relying on these services.",
+      "title": "Drei Tage Warnstreik : Neben Bussen der SWEG fallen Regionalzüge aus",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/schon-wieder-streik-bei-der-sweg-100.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event (a football match) and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a football match between South Korea and Uruguay, detailing the score and key events during the game. It does not pertain to any supply chain disruptions.",
+      "title": "半场 ： 韩国0 - 3乌拉圭 ， 德阿拉斯卡埃塔传射建功 ， 努涅斯破门",
+      "url": "https://www.163.com/dy/article/L7UI20T90549BAP0.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T121500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "ZET",
+        "Zagrebački holding"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What alternative transportation options are available for employees of companies affected by the strike?",
+        "Which regions in Croatia are experiencing increased demand for transportation services due to the strike?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb has led to significant disruptions in transportation services, affecting logistics and operations in the city, which can impact various supply chain activities.",
+      "summary": "The public transport strike in Zagreb has entered its third day, causing major disruptions in transportation and waste management services. This event poses a risk to supply chain operations in the region, particularly for companies relying on public transport for logistics and employee commuting.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122119",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation services in Zagreb?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which are critical components of the local supply chain.",
+      "summary": "A public transport strike in Zagreb has entered its third day, severely affecting transportation services and waste management. The strike poses risks to local businesses and public services reliant on these operations.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122073",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T171500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Football Match Results",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany",
+        "Greece",
+        "Portugal",
+        "Norway",
+        "Serbia",
+        "Denmark"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the results of football matches and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the outcomes of recent football matches in the UEFA Nations League, highlighting Germany's unexpected loss to Greece. There are no implications for supply chain activities or disruptions.",
+      "title": "Ligue des Nations : Grèce surprend lAllemagne à Augsbourg",
+      "url": "https://www.lematin.ch/story/ligue-des-nations-le-portugal-s-impose-malgre-haaland-l-allemagne-chute-a-domicile-103640346",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian strike on National Academy of Sciences in Kyiv",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Government"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of educational institutions in Ukraine may be affected by the ongoing conflict?",
+        "Which manufacturing or production relationships may be impacted by the geopolitical tensions in the region?",
+        "Which countries or regions create exposure for companies operating in Ukraine due to the conflict?",
+        "Which supply-chain dependencies could transmit the disruption from the affected region?",
+        "Which downstream companies or operations may be exposed to risks stemming from the attacks on civilian infrastructure?"
+      ],
+      "reason": "The attack on the National Academy of Sciences in Kyiv represents a geopolitical disruption that can impact supply chains, particularly in the education and government sectors, due to the ongoing conflict and instability in the region.",
+      "summary": "The recent Russian strike on the National Academy of Sciences in Kyiv highlights the ongoing geopolitical tensions affecting Ukraine. This event poses potential risks to supply chains, particularly in sectors related to education and government operations.",
+      "title": "Head of German Embassy near National Academy of Sciences : Were carrying on our work ; support will continue",
+      "url": "https://en.interfax.com.ua/news/general/1211194.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T163000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Student Strikes in Germany",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The student strikes are a form of protest against military service and do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "Students in Germany are striking in protest against military service. This event does not appear to have a meaningful connection to supply chain activities.",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://nationnews.com/2026/09/25/students-strike-across-germany-in-protest-against-military-service/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which transportation routes are disrupted due to the strike?",
+        "What are the potential impacts on local businesses relying on public transport?",
+        "Which downstream operations depend on the services provided by ZET?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb has led to significant disruptions in transportation services, affecting logistics and waste management operations in the city.",
+      "summary": "The public transport strike in Zagreb has entered its third day, causing major disruptions in transportation and waste management services. This event poses a risk to local businesses and logistics operations that depend on public transport for their operations.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122871",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "ZET",
+        "Zagrebački holding"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What alternative transportation options are available for employees affected by the strike?",
+        "Which regions in Croatia are experiencing increased demand for transportation services due to the strike?"
+      ],
+      "reason": "The ongoing strike by ZET workers significantly disrupts public transportation services in Zagreb, affecting logistics and operations related to both public transport and waste management.",
+      "summary": "The strike by ZET workers in Zagreb has led to a significant disruption in public transportation services, impacting logistics and waste management operations. This situation poses risks to companies relying on these services for their operations.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122952",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation services in Zagreb?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb has led to significant disruptions in transportation and waste management services, impacting logistics and operations in the city.",
+      "summary": "The public transport strike in Zagreb has entered its third day, causing major disruptions in transportation services and waste collection. This event poses risks to local businesses and logistics operations reliant on public transport.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122980",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies depend on public transportation services in Zagreb?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are affected by the disruption in public transport services?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions in transportation and waste management services, which directly impacts supply chain activities in the region.",
+      "summary": "A public transport strike in Zagreb has entered its third day, significantly disrupting transportation services and waste management. This labor disruption poses risks to local businesses and logistics operations reliant on public transport.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12122873",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "ZET",
+        "Zagrebački holding"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of ZET may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which downstream companies rely on public transportation for their operations?",
+        "What are the potential impacts on local businesses due to reduced public transport availability?",
+        "Which regions in Croatia are dependent on ZET for transportation services?"
+      ],
+      "reason": "The ongoing strike by ZET workers significantly disrupts public transportation services in Zagreb, affecting logistics and operations related to waste management and daily commuting, which are critical for local businesses and residents.",
+      "summary": "The public transport strike in Zagreb has led to significant disruptions in transportation services, impacting both public transit and waste management operations. This situation poses risks to local businesses and the daily lives of residents who rely on these services.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12125196",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Transport Strike in Zagreb",
+      "companies_involved": [
+        "Zagrebački holding",
+        "ZET"
+      ],
+      "industries_involved": [
+        "Public Transportation",
+        "Waste Management"
+      ],
+      "countries_involved": [
+        "Croatia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Zagrebački holding may be affected by the ongoing strike?",
+        "How does the strike impact the logistics of waste management in Zagreb?",
+        "Which transportation routes are disrupted due to the strike?",
+        "What are the potential impacts on local businesses that rely on public transport?",
+        "Which downstream operations depend on the services provided by ZET?"
+      ],
+      "reason": "The ongoing strike of public transport workers in Zagreb is causing significant disruptions to transportation and waste management services, impacting logistics and operations in the city.",
+      "summary": "A public transport strike in Zagreb has led to significant disruptions in transportation services, affecting both public transit and waste management operations. The situation may have broader implications for local businesses and logistics in the region.",
+      "title": "Sud odbio privremeno zabraniti štrajk . Odvjetnik sindikata : Vozači će otići u Njemačku",
+      "url": "https://www.index.hr/vijesti/clanak/strajk-u-zagrebu-se-nastavlja-tramvaji-i-busevi-ne-voze/2839700.aspx?index_ref=homepage_comment_box_d&commentId=12125213",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian takeover of Metro assets",
+      "companies_involved": [
+        "Metro",
+        "Nestlé",
+        "Auchan"
+      ],
+      "industries_involved": [
+        "Wholesale",
+        "Food and Beverage Retail"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Germany",
+        "Switzerland",
+        "France"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Metro operate in Russia?",
+        "What manufacturing relationships does Metro have with German suppliers?",
+        "Which countries are affected by the geopolitical tensions between Russia and Germany?",
+        "What supply-chain dependencies exist between Metro and Nestlé in Russia?",
+        "Which downstream companies rely on products from Metro's Russian operations?"
+      ],
+      "reason": "The takeover of Metro's assets by the Russian government represents a significant geopolitical disruption that can impact supply chain operations, particularly in the wholesale and retail sectors, affecting logistics, sourcing, and trade relationships.",
+      "summary": "Russia's recent takeover of the assets of the German wholesale chain Metro signifies a major geopolitical disruption that could affect supply chains involving multiple international companies. This event raises concerns about operational continuity and trade relations between Russia and Western countries.",
+      "title": "Ďalší úder pre západné firmy . Rusko prevzalo kontrolu nad aktívami nemeckého giganta - Svet - Správy",
+      "url": "https://www.pravda.sk/spravy/svet/clanok/2049373-dalsi-uder-pre-zapadne-firmy-rusko-prevzalo-kontrolu-nad-aktivami-nemeckeho-giganta",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T164500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Launch of Gaode Map 2026",
+      "companies_involved": [
+        "Gaode Map"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Navigation"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the launch of a new version of a navigation app, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article announces the launch of Gaode Map 2026, highlighting its new features and capabilities. However, it does not indicate any supply chain disruptions or risks related to suppliers, manufacturing, or logistics.",
+      "title": "高德地图2026上线 ： 能感知环境 、 推理时空变化并持续响应",
+      "url": "https://tech.ifeng.com/c/8wnBVC4xuhK",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T141500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Destruction of Kärcher warehouse in Kyiv",
+      "companies_involved": [
+        "Kärcher",
+        "Zammler Group"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Kärcher operate in Ukraine?",
+        "Which manufacturing facilities depend on products stored in the destroyed warehouse?",
+        "Which logistics companies are affected by the disruption of operations in Kyiv?",
+        "What alternative supply chains can Kärcher utilize to mitigate the impact?",
+        "Which downstream companies depend on products from Kärcher that were stored in the affected warehouse?"
+      ],
+      "reason": "The destruction of the warehouse directly impacts Kärcher's ability to fulfill orders and maintain supply chain operations, leading to potential delays and disruptions in logistics and manufacturing.",
+      "summary": "The recent destruction of a Kärcher warehouse in Kyiv due to a Russian drone strike represents a significant supply chain disruption. This event affects Kärcher's operations and logistics in Ukraine, potentially leading to order delays and necessitating alternative supply chain strategies.",
+      "title": "В Киеве в результате удара ВС РФ был уничтожен склад Kärcher",
+      "url": "https://www.dw.com/ru/v-kieve-v-rezultate-rossijskogo-udara-bpla-byl-unictozen-sklad-karcher/a-79450018",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nations League Football Matches",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Greece",
+        "Germany",
+        "Portugal",
+        "Norway",
+        "Denmark",
+        "Wales",
+        "Netherlands",
+        "Serbia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses football match results and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the outcomes of various football matches in the UEFA Nations League. It does not present any information related to supply chain disruptions or impacts.",
+      "title": "Nations League : Greece stun Germany , Portugal beat Norway",
+      "url": "https://www.prokerala.com/news/articles/a1817584.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Deteriorating Russia-Germany Relations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers in Germany are affected by the geopolitical tensions with Russia?",
+        "Which logistics companies operate between Germany and Russia that may face disruptions?",
+        "What are the potential impacts on energy supply chains due to the strained relations?",
+        "Which downstream companies in Germany rely on energy imports from Russia?",
+        "How might trade restrictions between Russia and Germany affect supply chain operations?"
+      ],
+      "reason": "The article discusses the deteriorating diplomatic relations between Russia and Germany, which could lead to disruptions in energy supply and logistics, impacting supply chains in both countries.",
+      "summary": "The article highlights the worsening relations between Russia and Germany, particularly in the context of the ongoing conflict in Ukraine. This geopolitical tension poses potential risks to energy supply chains and logistics operations between the two nations.",
+      "title": "Peskov : Vzťahy s Nemeckom sa blížia k nule",
+      "url": "https://www.teraz.sk/zahranicie/peskov-vztahy-s-nemeckom-sa-blizia-k/995551-clanok.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T111500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volkswagen labor dispute and potential strikes",
+      "companies_involved": [
+        "Volkswagen",
+        "IG Metall"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by potential strikes?",
+        "Which manufacturing facilities in Germany depend on labor agreements with IG Metall?",
+        "What are the potential impacts on production schedules if strikes occur?",
+        "Which downstream companies rely on products manufactured by Volkswagen's affected plants?",
+        "How might the labor dispute affect Volkswagen's supply chain relationships with other automotive suppliers?"
+      ],
+      "reason": "The article discusses a labor dispute involving Volkswagen and the IG Metall union, which could lead to strikes and affect production and operations, thereby impacting the supply chain.",
+      "summary": "Volkswagen is facing a potential labor dispute with the IG Metall union over collective bargaining agreements, which could lead to strikes starting January 1. This situation poses a risk to Volkswagen's production capabilities and overall supply chain operations in Germany.",
+      "title": "Γερμανία : Το συνδικάτο IG Metall απειλεί με αντίποινα , καθώς η Volkswagen σχεδιάζει την καταγγελία ορισμένων συλλογικών συμβάσεων",
+      "url": "https://www.naftemporiki.gr/finance/world/2168698/germania-to-syndikato-ig-metall-apeilei-me-antipoina-kathos-i-volkswagen-schediazei-tin-kataggelia-orismenon-syllogikon-symvaseon/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T120000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a lottery event and does not have any meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article provides information about the Eurojackpot lottery results and does not indicate any supply chain disruption. It focuses solely on lottery winnings and participation details.",
+      "title": "Eurojackpot heute : Aktuelle Zahlen vom Freitag ( 25 . September ) ",
+      "url": "https://www.otz.de/ratgeber-wissen/lotto/article413240407/eurojackpot-ziehung-25-september-jackpot-quoten-gewinnzahlen.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Eurojackpot Lottery Draw",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a lottery event and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the Eurojackpot lottery draw and does not present any information related to supply chain disruptions. There are no impacts on suppliers, manufacturers, or logistics mentioned.",
+      "title": "Eurojackpot - Ziehung ( 29 . 9 .): Hohe zweistellige Millionensumme im Pott",
+      "url": "https://www.otz.de/ratgeber-wissen/lotto/article413287926/eurojackpot-dienstag-29-september-ziehung-gewinnsumme.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Labor Strikes by German Dockworkers",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in German ports that may be affected by the strikes?",
+        "Which shipping routes could be disrupted due to labor actions in Germany?",
+        "Which suppliers rely on German ports for their shipping operations?",
+        "What impact could the strikes have on the supply chain of companies dependent on timely deliveries from Germany?",
+        "Which downstream companies may face delays due to potential labor disruptions at German ports?"
+      ],
+      "reason": "The article discusses labor strikes by dockworkers in Germany, which could significantly impact logistics and transportation operations at ports, leading to potential delays and disruptions in the supply chain.",
+      "summary": "Dockworkers in Germany are preparing for potential strikes to demand better wages and working conditions. This labor action could disrupt logistics and transportation operations at German ports, affecting supply chains globally.",
+      "title": "Ο αγώνας των λιμενεργατών της Γερμανίας μπορεί και πρέπει να νικήσει ! Στις 30 / 10 να γίνει αισθητή η δύναμη του οργανωμένου αγώνα μας σε κάθε λιμάνι του κόσμου",
+      "url": "https://www.902.gr/eidisi/ergatiki-taxi/429526/o-agonas-ton-limenergaton-tis-germanias-mporei-kai-prepei-na-nikisei",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Analysis of German National Football Team Performance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the performance and mindset of the German national football team, which does not have a meaningful connection to supply chain activities.",
+      "summary": "The article focuses on the performance of the German national football team and does not address any supply chain disruptions or impacts on related industries or companies.",
+      "title": "马特乌斯 ： 贝尔戈米称比塞克是顶级球员 ， 我相信他",
+      "url": "https://www.163.com/dy/article/L83LQQ7I0549BAP0.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T121500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Injury of Player Cody Gakpo",
+      "companies_involved": [
+        "Liverpool FC"
+      ],
+      "industries_involved": [
+        "Sports"
+      ],
+      "countries_involved": [
+        "Netherlands",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the injury of a player and its impact on the football team, which does not have a meaningful connection to supply chain activities.",
+      "summary": "The article reports on the injury of Liverpool FC player Cody Gakpo, which will affect his participation in upcoming matches. This event is related to sports and does not represent a supply chain disruption.",
+      "title": "ليفربول يفقد جاكبو عدة أسابيع للإصابة",
+      "url": "https://www.dostor.org/5719574",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T161500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Loss of operational control of Metro AG in Russia",
+      "companies_involved": [
+        "Metro AG",
+        "Nestlé",
+        "Auchan",
+        "Danone",
+        "Carlsberg"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Metro AG operate in Russia?",
+        "Which manufacturing facilities depend on products sourced from Metro AG's Russian operations?",
+        "What are the implications for logistics and distribution networks involving Metro AG in Russia?",
+        "Which downstream companies depend on products from Metro AG's Russian business?",
+        "How might the geopolitical tensions affect Metro AG's supply chain in other regions?"
+      ],
+      "reason": "The event involves the transfer of operational control of Metro AG's Russian business to a local entity due to geopolitical tensions, which directly impacts supply chain activities, including logistics, distribution, and operational management in the region.",
+      "summary": "Metro AG has lost operational control over its Russian business following a decree by President Putin, reflecting escalating geopolitical tensions between Germany and Russia. This situation poses significant risks to Metro's supply chain operations in the region and may affect its relationships with suppliers and customers.",
+      "title": "Немецкая сеть Metro лишается контроля над бизнесом в России после указа Путина",
+      "url": "https://ru.euronews.com/2026/09/29/german-retailer-metro-loses-control-of-its-russian-business-following-a-decree-by-putin",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Germany's loss to Greece in Nations League",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany",
+        "Greece"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a football match where Germany lost to Greece in the Nations League. It does not indicate any supply chain disruption or impact on related industries.",
+      "title": "Ligue des nations . LAllemagne chute contre la Grèce , premier revers de l  ère Jürgen Klopp",
+      "url": "https://toulon.maville.com/actu/actudet_-ligue-des-nations-l-allemagne-chute-contre-la-grece-premier-revers-de-l-ere-jurgen-klopp_fil-7497970_actu.Htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Germany's loss to Greece in Nations League",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Germany",
+        "Greece"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a football match where Germany lost to Greece in the Nations League. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "Ligue des nations . LAllemagne chute contre la Grèce , premier revers de l  ère Jürgen Klopp",
+      "url": "https://laseyne.maville.com/actu/actudet_-ligue-des-nations-l-allemagne-chute-contre-la-grece-premier-revers-de-l-ere-jurgen-klopp_fil-7497970_actu.Htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T090000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Real Estate Market Activity",
+      "companies_involved": [],
+      "industries_involved": [
+        "Real Estate"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a real estate development and sales event, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on the launch of a luxury real estate project in Guangzhou, China, highlighting its features and pricing. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "超14万 / ㎡ ！ 珠江 · 金融城 · 颐德公馆VIP专场正式开售",
+      "url": "https://www.163.com/dy/article/L811QQBQ0535ALWJ.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "DFB Team's Loss Against Greece",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports event and viewer statistics, with no meaningful connection to supply chain activities.",
+      "summary": "The article reports on the viewership of a football match between Germany and Greece, highlighting the audience interest. It does not present any information related to supply chain disruptions.",
+      "title": "DFB - Team patzt gegen Griechenland : So viele Menschen schauten im Ersten zu",
+      "url": "https://www.gala.de/lifestyle/film-tv-musik/dfb-team-patzt-gegen-griechenland--so-viele-menschen-schauten-im-ersten-zu-24684966.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Nuclear Threat from Russia",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "United Kingdom",
+        "Lithuania",
+        "Poland"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense companies may be affected by increased tensions in the region?",
+        "Which logistics operations could be disrupted due to potential military actions in the Baltic area?",
+        "What are the supply chain dependencies for companies operating in or sourcing from Eastern Europe?",
+        "Which downstream companies rely on products or services from the affected regions?",
+        "How might trade routes be impacted by geopolitical tensions involving NATO and Russia?"
+      ],
+      "reason": "The article discusses a nuclear threat from Russia in response to NATO's potential military actions, which could lead to significant geopolitical instability affecting trade, logistics, and supply chain operations in the region.",
+      "summary": "Russia has issued a nuclear threat against the UK in response to NATO's military considerations regarding Kaliningrad. This geopolitical tension poses risks to supply chains, particularly in defense and logistics sectors, affecting multiple countries in Eastern Europe.",
+      "title": "Putin issues nuclear strike warning in bizarre response to Sky TV  wargame  show",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/putin-issues-nuclear-strike-warning-37713689",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Potential Pilots' Strike at Aeroméxico",
+      "companies_involved": [
+        "Aeroméxico"
+      ],
+      "industries_involved": [
+        "Aviation"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Aeroméxico may be affected by a potential pilots' strike?",
+        "Which downstream operations depend on Aeroméxico for transportation?",
+        "What are the potential impacts on logistics and transportation networks if the strike occurs?",
+        "Which regions may experience disruptions in air travel due to the strike?",
+        "How might this labor dispute affect Aeroméxico's partnerships with other airlines?"
+      ],
+      "reason": "The ongoing negotiations between Aeroméxico and its pilots' union could lead to a strike, which would disrupt flight operations and logistics, impacting supply chain activities related to air transportation.",
+      "summary": "Aeroméxico is currently in negotiations with its pilots' union, which may lead to a potential strike if an agreement is not reached. This situation poses a risk to air travel operations and could disrupt supply chain logistics in Mexico.",
+      "title": "Huelga en Aeroméxico : ¿ cuándo sería el paro y qué pasará con los vuelos ? ",
+      "url": "https://www.elimparcial.com/mexico/2026/09/30/huelga-en-aeromexico-cuando-seria-el-paro-y-que-pasara-con-los-vuelos/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Potential Pilots' Strike at Aeromexico",
+      "companies_involved": [
+        "Aeromexico"
+      ],
+      "industries_involved": [
+        "Aviation"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Aeromexico may be affected by a potential pilots' strike?",
+        "Which logistics operations depend on Aeromexico for transportation?",
+        "What are the potential impacts on passenger and cargo transport if the strike occurs?",
+        "Which downstream companies rely on Aeromexico for their supply chain operations?",
+        "How might this disruption affect the overall aviation industry in Mexico?"
+      ],
+      "reason": "The article discusses a potential strike by pilots at Aeromexico, which could disrupt airline operations, affecting logistics and transportation within the aviation sector.",
+      "summary": "The pilots' union at Aeromexico has rejected a salary proposal and extended the deadline for a potential strike, which could impact airline operations. This situation poses a risk to logistics and transportation in the aviation industry in Mexico.",
+      "title": "Pilotos prorrogan emplazamiento a huelga de Aeromexico",
+      "url": "https://www.milenio.com/negocios/pilotos-prorrogan-emplazamiento-a-huelga-de-aeromexico",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T141500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Supreme Court Ruling on Immigration Policy",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Mexico",
+        "South Sudan",
+        "Uganda",
+        "Equatorial Guinea",
+        "Liberia",
+        "Central African Republic"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a Supreme Court ruling on immigration policy, which does not have a direct connection to supply chain activities such as logistics, manufacturing, or trade. While it may have broader social implications, it does not indicate a disruption in supply chain operations.",
+      "summary": "The article reports on a Supreme Court decision allowing the Trump administration to resume a policy of sending illegal immigrants to third countries. This ruling primarily pertains to immigration law and does not directly impact supply chain activities.",
+      "title": "遣送非法移民至第三國 美最高法院裁定放行 | 國際",
+      "url": "https://www.cna.com.tw:443/news/aopl/202609300140.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "National Monte de Piedad Labor Strike",
+      "companies_involved": [
+        "Nacional Monte de Piedad"
+      ],
+      "industries_involved": [
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Nacional Monte de Piedad may be affected by the ongoing labor strike?",
+        "What impact does the labor strike have on the operational capabilities of Nacional Monte de Piedad?",
+        "Which financial services depend on the operations of Nacional Monte de Piedad?",
+        "How might the labor strike affect the availability of services provided by Nacional Monte de Piedad?",
+        "Which downstream companies rely on the financial services offered by Nacional Monte de Piedad?"
+      ],
+      "reason": "The ongoing labor strike at Nacional Monte de Piedad represents a significant operational disruption that affects its ability to provide financial services, potentially impacting suppliers and downstream companies reliant on its operations.",
+      "summary": "The Nacional Monte de Piedad is experiencing a prolonged labor strike that has lasted for over a year, affecting its operational capabilities. This disruption may have broader implications for financial services and related supply chains in Mexico.",
+      "title": "Huelga en el Monte de Piedad en Puebla - Quadratín Puebla",
+      "url": "https://puebla.quadratin.com.mx/economia/casi-un-ano-de-la-huelga-en-el-monte-de-piedad-en-puebla/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "VW Revision Offer",
+      "companies_involved": [
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Volkswagen's offer related to a revision timeline but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "Volkswagen has proposed different percentage offers based on the timeline for a revision, but this does not represent a supply chain disruption. The article lacks details on any operational impacts or disruptions to supply chain activities.",
+      "title": "Ofrece VW 13 % si la revisión se va a 2028 ; 7 . 9 % si se va a un año - Puebla La Jornada de Oriente",
+      "url": "https://www.lajornadadeoriente.com.mx/puebla/ofrece-vw-13-si-la-revision-se-va-a-2028-7-9-si-se-va-a-un-ano/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T131500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Salary Payment Issues in Hospitals",
+      "companies_involved": [
+        "Caja Costarricense de Seguro Social (CCSS)"
+      ],
+      "industries_involved": [
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Costa Rica"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of medical supplies may be affected by the salary payment issues?",
+        "Which healthcare operations depend on the affected hospitals for services?",
+        "What impact could the salary issues have on staffing and service continuity in the hospitals?",
+        "Which regions may experience healthcare service disruptions due to the affected hospitals?",
+        "Which downstream healthcare providers rely on the services of the affected hospitals?"
+      ],
+      "reason": "The salary payment issues at the hospitals could lead to labor disruptions, affecting the continuity of healthcare services and potentially impacting supply chain activities related to healthcare operations.",
+      "summary": "The internal audit of the CCSS has revealed significant salary payment issues affecting multiple hospitals in Costa Rica. This situation poses a risk of labor disruptions, which could impact healthcare service delivery and related supply chain activities.",
+      "title": "Auditoría Interna de la CCSS expone más casos de afectación salarial tras implementación de sistema de pagos - Monumental",
+      "url": "https://www.monumental.co.cr/2026/09/30/auditoria-interna-de-la-ccss-expone-mas-casos-de-afectacion-salarial-tras-implementacion-de-sistema-de-pagos/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Referee Strike Impacting School Sports",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Sports"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which schools may be affected by the cancellation of games due to the referee strike?",
+        "Which sports organizations rely on the availability of referees for their events?",
+        "What impact does the strike have on the scheduling and logistics of school sports events?",
+        "Which suppliers provide services or products to the affected sports programs?",
+        "How might this disruption affect student participation and engagement in school sports?"
+      ],
+      "reason": "The strike of referees due to nonpayment directly impacts the operation of school sports, leading to cancellations and potential disruptions in scheduling and logistics for educational institutions.",
+      "summary": "The ongoing strike of referees over nonpayment has led to the cancellation of multiple football games in Chicago Public Schools, potentially affecting the logistics and operations of school sports. This disruption may have broader implications for student engagement and scheduling in the education sector.",
+      "title": "Capitol Fax . com - Your Illinois News Radar » Isabel afternoon roundup",
+      "url": "https://capitolfax.com/2026/09/30/isabel%E2%80%99s-afternoon-roundup-606/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T204500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Promotion of Dance Competition",
+      "companies_involved": [
+        "Amway",
+        "ViuTV"
+      ],
+      "industries_involved": [
+        "Entertainment",
+        "Media"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a promotional event for a dance competition and does not indicate any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a collaboration between Amway and ViuTV to promote a dance competition. It does not present any information related to supply chain disruptions.",
+      "title": "陳漢典化身 「 推手 」！ 安麗攜手緯來推 《 舞麗對決 》 引爆街舞熱潮",
+      "url": "https://n.yam.com/Article/20260930186445",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T113000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volkswagen Mexico Labor Negotiations",
+      "companies_involved": [
+        "Volkswagen de México"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen de México may be affected by labor negotiations?",
+        "Which manufacturing facilities are dependent on the labor force at Volkswagen de México?",
+        "What are the potential impacts on production schedules if a strike occurs?",
+        "Which downstream companies rely on products manufactured by Volkswagen de México?",
+        "How might changes in labor agreements affect the supply chain costs for Volkswagen de México?"
+      ],
+      "reason": "The ongoing labor negotiations at Volkswagen de México could lead to a strike, which would disrupt production and logistics operations, impacting the overall supply chain.",
+      "summary": "Volkswagen de México is currently engaged in labor negotiations that could potentially lead to a strike if an agreement is not reached. This situation poses a risk to production and supply chain operations within the automotive industry in Mexico.",
+      "title": "Volkswagen de México presenta al Sitiavw dos nuevas ofertas",
+      "url": "https://intoleranciadiario.com/articles/finanzas/2026/09/30/1058471-volkswagen-de-mexico-presenta-al-sitiavw-dos-nuevas-ofertas-para-alcanzar-un-acuerdo-en-la-negociacion-salarial-2026.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T210000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "BIMSTEC Counter Terrorism Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Bangladesh",
+        "Bhutan",
+        "Myanmar",
+        "Nepal",
+        "Sri Lanka",
+        "Thailand"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting focused on counter-terrorism and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the 11th BIMSTEC counter-terrorism meeting held in New Delhi, where member states discussed security threats and cooperation. There is no indication of a supply chain disruption related to this event.",
+      "title": "Traditional , emerging security threats discussed at 11th BIMSTEC counter terrorism meet in Delhi",
+      "url": "https://news.webindia123.com/news/Articles/World/20260930/4505188.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Withdrawal of No UPI Day Protest",
+      "companies_involved": [
+        "All India Mobile Retailers Association (AIMRA)",
+        "All India Consumer Products Distributors Federation (AICPDF)"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Finance"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which retailers may be affected by the changes in UPI merchant discount rates?",
+        "How might the proposed changes in UPI charges impact the supply chain for consumer products?",
+        "Which financial institutions are involved in UPI transactions that could be affected?",
+        "What are the potential impacts on logistics and distribution for retailers if UPI charges are increased?",
+        "Which downstream companies depend on transactions facilitated by UPI?"
+      ],
+      "reason": "The article discusses the withdrawal of a protest against proposed changes to UPI merchant discount rates, which could impact retail transactions and financial operations, thus affecting supply chain activities in the retail and finance sectors.",
+      "summary": "The planned protest against UPI merchant discount rates was withdrawn after discussions with the finance minister, addressing concerns from retailers. This decision could influence retail operations and financial transactions in India, potentially impacting the supply chain.",
+      "title": "  നോ യുപിഐ ഡേ  പിൻവലിച്ചു ; വ്യാപാരികളുടെ ആശങ്കകൾ പരിഹരിക്കുമെന്ന് നിർമല സീതാരാമൻ | No UPI Day Protest Withdrawn",
+      "url": "https://www.madhyamam.com/business/personal-finance/no-upi-day-protest-withdrawn-1559276",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Discussion on Five-Day Banking",
+      "companies_involved": [
+        "Bank of India",
+        "Punjab National Bank",
+        "Indian Bank",
+        "IDBI Bank",
+        "State Bank of India"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "How might a shift to a five-day banking week impact the operational hours of banks?",
+        "Which suppliers or service providers depend on banking operations for their transactions?",
+        "What are the potential impacts on logistics and transportation services that rely on banking transactions?",
+        "Which downstream companies may face disruptions in financial transactions due to changes in banking hours?"
+      ],
+      "reason": "While the formation of the committee and discussions around banking hours may affect banking operations, it does not directly impact supply chain activities such as production, logistics, or trade.",
+      "summary": "The Indian Banks' Association has formed a committee to discuss the implementation of a five-day banking week, which could potentially affect banking operations. However, this event does not represent a direct supply chain disruption as it does not impact logistics, production, or trade activities.",
+      "title": "5 - day banking : IBA forms high level committee to discuss all saturday holidays with bank unions",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/5-day-banking-iba-forms-high-level-committee-to-discuss-all-saturday-holidays-with-bank-unions-14041211.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T124500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Virat Kohli's brother celebrates ODI century",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports achievement and does not have any meaningful connection to supply chain activities.",
+      "summary": "The article focuses on a personal achievement in sports and does not relate to supply chain disruptions. There are no companies, industries, or countries involved that would indicate a supply chain impact.",
+      "title": "  Here to another one champ : Virat Kohli brother Vikas celebrates his 55th ODI century",
+      "url": "https://aninews.in/news/entertainment/out-of-box/heres-to-another-one-champ-virat-kohlis-brother-vikas-celebrates-his-55th-odi-century20260928085144/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Virat Kohli's ODI Century",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a sports achievement and does not have any meaningful connection to supply chain activities.",
+      "summary": "The article highlights Virat Kohli's performance in a cricket match, celebrating his achievement of scoring a century. It does not pertain to any supply chain disruption or related activities.",
+      "title": "  Here to another one champ : Virat Kohli brother Vikas celebrates his 55th ODI century",
+      "url": "https://news.webindia123.com/news/Articles/Entertainment/20260928/4504257.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T050000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Averted Bank Strike",
+      "companies_involved": [
+        "State Bank of India",
+        "Indian Banks Association"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by labor disruptions?",
+        "Which banking operations depend on the stability of employee relations?",
+        "Which regions in India are most reliant on banking services for economic activity?",
+        "What downstream companies depend on banking services for their operations?",
+        "How might future labor disputes impact banking operations and customer transactions?"
+      ],
+      "reason": "The averted bank strike directly impacts banking operations, which are critical for financial transactions and economic activity, thus representing a potential disruption in service delivery and customer access to banking facilities.",
+      "summary": "The proposed three-day bank strike was averted, allowing banking operations to continue normally. This development is significant as it ensures uninterrupted financial services, which are vital for economic stability and customer transactions.",
+      "title": "बैंक हड़ताल टलने से ग्राहकों को म‍िली राहत , कर्मचार‍ियों से संभाला काउंटर तो आर्थ‍िकी को म‍िली ग‍त‍ि - customers relieved as bank strike is averted counters manned by staff keep the economy moving",
+      "url": "https://www.jagran.com/uttar-pradesh/varanasi-city-customers-relieved-as-bank-strike-is-averted-counters-manned-by-staff-keep-the-economy-moving-40387550.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Odisha Bandh over Textbook Errors",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event described in the article pertains to a political protest (bandh) related to educational issues and does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses a 12-hour bandh called by a farmers' rights outfit in Odisha over errors in school textbooks. While it may affect local businesses and public transport, it does not represent a supply chain disruption in terms of manufacturing or logistics.",
+      "title": "Farmer outfit calls 12 - hour Odisha bandh today over school textbook errors",
+      "url": "https://www.hindustantimes.com/education/news/farmers-outfit-calls-12-hour-odisha-bandh-over-school-textbook-errors-101790736176321.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Student Death Investigation",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a student death case and related safety concerns, which do not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers the investigation into the death of an IIT Bombay student and the family's concerns for safety. It does not indicate any supply chain disruption or impact on related industries.",
+      "title": "IIT Bombay Student Death Case : Sahil Wakode Parents Seek Police Protection , Express Fears Over Safety Amid Ongoing Probe",
+      "url": "https://www.freepressjournal.in/mumbai/iit-bombay-student-death-case-sahil-wakodes-parents-seek-police-protection-express-fears-over-safety-amid-ongoing-probe-mumbai-news",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Public Awareness Campaign",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a social issue and a hunger strike, which does not have a direct connection to supply chain activities or disruptions.",
+      "summary": "The article highlights a social issue in India regarding a hunger strike but does not relate to any supply chain disruptions or activities. There are no companies, industries, or countries involved that would indicate a supply chain impact.",
+      "title": "Think also about it",
+      "url": "https://www.legallyindia.com/Blogs/think-also-about-it-html/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "10th Anniversary of Uri Surgical Strikes",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses historical military operations and their significance in counter-terrorism strategy but does not indicate any current or potential disruptions to supply chain activities.",
+      "summary": "The article commemorates the 10th anniversary of the Uri surgical strikes, detailing India's military response to terrorism. It does not present any information that would indicate a supply chain disruption.",
+      "title": "10 Years of Surgical Strikes : From Uri to Balakot and Operation Sindoor",
+      "url": "https://www.jagranjosh.com/general-knowledge/uri-attack-surgical-strikes-10th-anniversary-what-happened-the-night-india-crossed-loc-to-attack-pakistan-1820012624-1",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T114500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "General news coverage",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses political events, legal matters, and sports, with no meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article covers various news stories including political events and sports updates, but does not present any information related to supply chain disruptions. Therefore, it does not qualify as a supply chain disruption.",
+      "title": "Here are the latest news and big news stories to follow",
+      "url": "https://www.thehindu.com/newsletter/the-morning-brew/here-are-the-latest-news-and-big-news-stories-to-follow/article71530062.ece",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cricket Match Performance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "West Indies"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cricket match and player performances, which do not have a meaningful connection to supply chain activities.",
+      "summary": "The article highlights a cricket match where Indian skipper Shubman Gill achieved record-breaking performances. It does not relate to any supply chain disruptions or impacts.",
+      "title": "Records tumble as Shubman Gill powers India to victory with stupendous double ton against West Indies",
+      "url": "https://timesofoman.com/article/177548-records-tumble-as-shubman-gill-powers-india-to-victory-with-stupendous-double-ton-against-west-indies",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T191500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Prime Minister's Address on Counter-Terrorism",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political address regarding counter-terrorism policy and does not provide any specific information about supply chain activities, disruptions, or impacts on logistics, production, or trade.",
+      "summary": "The article features Prime Minister Modi's statements on India's counter-terrorism policy and does not indicate any supply chain disruptions. There are no direct implications for companies, industries, or supply chain activities mentioned.",
+      "title": "Terror will face strong response : PM",
+      "url": "https://dailypioneer.com/news/terror-will-face-strong-response-pm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market Analysis",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses market trends and technical analysis of stock indices without any direct connection to supply chain activities or disruptions.",
+      "summary": "The article provides an analysis of market conditions and stock index performance, focusing on technical indicators and trading strategies. It does not indicate any supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "Trade Setup for September 30 : Top 15 things to know before the opening bell",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-september-30-top-15-things-to-know-before-the-opening-bell-14041402.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Deferred Nationwide Bank Strike",
+      "companies_involved": [
+        "Indian Banks' Association",
+        "United Forum of Bank Unions"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which businesses rely on banking services during the half yearly closing period?",
+        "What are the potential impacts on transactions for companies dependent on banking operations?",
+        "Which downstream companies may experience delays due to banking service disruptions?",
+        "How might changes in banking operations affect supply chain financing?"
+      ],
+      "reason": "The planned bank strike could have significantly disrupted banking services, impacting transactions and operations for businesses relying on these services, thus representing a potential supply chain disruption.",
+      "summary": "A nationwide bank strike in India was deferred after negotiations between bank unions and the Indian Banks' Association. This decision prevents potential disruptions in banking services that could have affected numerous businesses during a critical financial period.",
+      "title": "Will Banks Now Have A 5 - Day Week ? Why 3 - Day Nationwide Strike Was Put On Hold",
+      "url": "https://www.oneindia.com/india/will-banks-now-have-a-5-day-week-why-september-28-30-strike-was-deferred-8217967.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Reduction of Russian Oil Supplies to India",
+      "companies_involved": [
+        "Abu Dhabi National Oil Co (ADNOC)"
+      ],
+      "industries_involved": [
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "Russia",
+        "India",
+        "China",
+        "United Arab Emirates",
+        "Iraq",
+        "Angola"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indian oil refineries are affected by the reduction in Russian oil supplies?",
+        "Which manufacturing facilities in India depend on Russian oil imports?",
+        "What are the implications for logistics and transportation routes due to the shift in oil supply from Russia to China?",
+        "Which countries or regions create exposure for Indian oil refineries due to reliance on alternative oil sources?",
+        "Which downstream companies in India may be impacted by the increased costs of alternative oil supplies?"
+      ],
+      "reason": "The article discusses a significant reduction in oil supplies from Russia to India, which directly impacts the energy supply chain and the operations of Indian oil refineries, necessitating the procurement of more expensive alternatives.",
+      "summary": "Russia is reducing its oil supplies to India, redirecting volumes to China, which will force Indian refineries to seek more expensive alternatives. This shift in supply dynamics poses risks to the energy supply chain and could lead to increased costs for Indian oil importers.",
+      "title": "Россия сокращает поставки нефти в Индию , перенаправляя объемы Китаю | MigNews - Новости Израиля и Мира на русском языке",
+      "url": "https://mignews.com/news/economics/rossiya-sokrashaet-postavki-nefti-v-indiyu-perenapravlyaya-obemy-kitayu.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "U.S.-Iran Negotiations to End War",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by geopolitical tensions between the U.S. and Iran?",
+        "Which manufacturing or production relationships may be impacted by the ongoing conflict?",
+        "Which countries or regions create exposure due to the U.S.-Iran negotiations?",
+        "Which supply-chain dependencies could transmit disruptions from the geopolitical situation?",
+        "Which downstream companies may be exposed to risks arising from the U.S.-Iran conflict?"
+      ],
+      "reason": "The ongoing negotiations between the U.S. and Iran to end a war could lead to significant geopolitical instability, affecting trade routes, energy supplies, and overall supply chain operations in the region.",
+      "summary": "The article discusses U.S. and Iranian officials engaging in negotiations to end a prolonged conflict. This geopolitical situation has the potential to disrupt supply chains, particularly in energy and trade sectors, due to the implications of war and diplomatic relations.",
+      "title": "Morning Digest : U . S ., Iran separately talk with mediators in latest bid to end war ; Sahil Wakode parents stage hunger strike at Azad Maidan , demand professor arrest ; and more",
+      "url": "https://www.thehindu.com/news/morning-digest-september-29-2026/article71521584.ece",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Vote Theft Allegations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political allegations and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses political allegations made by Bhupesh Baghel against Modi and Shah regarding vote theft. It does not pertain to any supply chain disruptions or impacts on related activities.",
+      "title": "  Mandate of people is being stolen : Bhupesh Baghel hits out at Modi - Shah over vote theft allegations",
+      "url": "https://aninews.in/news/national/general-news/mandate-of-people-is-being-stolen-bhupesh-baghel-hits-out-at-modi-shah-over-vote-theft-allegations20260929214154/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Renewed Conflict between Pakistan and Afghanistan",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Pakistan",
+        "Afghanistan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the Pakistan-Afghanistan border region?",
+        "Which logistics companies may be affected by the conflict in this area?",
+        "What manufacturing operations could be disrupted due to increased border tensions?",
+        "Which downstream companies rely on trade routes that pass through the affected region?",
+        "How might this geopolitical conflict impact energy supply chains in the region?"
+      ],
+      "reason": "The renewed conflict between Pakistan and Afghanistan poses risks to supply chains due to potential disruptions in logistics, trade, and security in the border region, which could affect various industries.",
+      "summary": "The escalating conflict between Pakistan and Afghanistan could lead to significant supply chain disruptions, particularly in logistics and trade. The geopolitical tensions may impact operations and security in the region, affecting various industries reliant on stable cross-border relations.",
+      "title": "renewed conflict between pakistan and afghanistan ttp iskp and airstrikes",
+      "url": "https://www.prabhasakshi.com/international/renewed-conflict-between-pakistan-and-afghanistan-ttp-iskp-and-airstrikes",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T101500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Akhilesh Yadav skips INDIA block meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political event and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on Akhilesh Yadav's absence from a political meeting, which is related to electoral strategies rather than supply chain activities. There are no implications for supply chains or related industries.",
+      "title": "Why Akhilesh Yadav skips INDIA block meet",
+      "url": "https://www.sangbadpratidin.in/india/why-akhilesh-yadav-skips-india-block-meet/pid/1363960/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T151500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "IBSA Meeting on UNSC Reforms",
+      "companies_involved": [],
+      "industries_involved": [
+        "Mining",
+        "Energy"
+      ],
+      "countries_involved": [
+        "India",
+        "Brazil",
+        "South Africa",
+        "Israel",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of critical minerals are located in the affected countries?",
+        "Which manufacturing facilities depend on energy resources from these regions?",
+        "How might geopolitical tensions between Israel and Pakistan affect trade routes?",
+        "Which downstream companies rely on minerals sourced from India, Brazil, or South Africa?",
+        "What impact could UNSC reforms have on international trade agreements involving these countries?"
+      ],
+      "reason": "The meeting addresses geopolitical reforms that could influence trade policies and supply chains, particularly in critical minerals and energy sectors, which are essential for manufacturing and production.",
+      "summary": "The IBSA meeting focused on reforms in the UN Security Council and the need for permanent membership for India and Brazil, which could impact global trade dynamics. The discussions on critical minerals and energy transition highlight potential supply chain implications for industries reliant on these resources.",
+      "title": "  UNSC में भारत को म‍िले स्थायी सीट , IBSA का अल्टीमेटम , इजरायल - पाकिस्‍तान को फटकार",
+      "url": "https://navbharattimes.indiatimes.com/world/america/india-brazil-south-africa-called-unsc-reforms-india-permanent-seat-warn-pakistan-israel/articleshow/134557009.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Japan's Military Cooperation with Ukraine and India",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Japan",
+        "Ukraine",
+        "India",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense technology may be affected by Japan's military cooperation with Ukraine?",
+        "Which manufacturing facilities in Japan are involved in the production of military equipment for Ukraine?",
+        "How might the geopolitical tensions between Japan, Russia, and China impact energy supply chains?",
+        "Which downstream companies in the defense industry could be exposed to risks from Japan's military collaborations?",
+        "What logistics challenges could arise from increased military activity in the region?"
+      ],
+      "reason": "The article discusses Japan's military cooperation with Ukraine and India, which has implications for defense supply chains and energy logistics, particularly in the context of ongoing geopolitical tensions with Russia.",
+      "summary": "Japan's recent military collaborations with Ukraine and India may lead to significant geopolitical tensions, impacting defense and energy supply chains. The developments could disrupt logistics and production related to military equipment and energy resources.",
+      "title": "馬堯 ： 日本近期的對外軍事合作探因",
+      "url": "https://www.hkcna.hk/hk/content/s6abb24d4e4b07b78ad11b486.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Bank Strike",
+      "companies_involved": [
+        "Indian Banks Association",
+        "United Forum of Bank Unions"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of banking services may be affected by the strike?",
+        "Which financial operations depend on the affected banks?",
+        "How might the strike impact cash flow for businesses relying on banking services?",
+        "Which downstream companies depend on transactions processed by the affected banks?",
+        "What are the potential impacts on logistics and transportation due to banking service disruptions?"
+      ],
+      "reason": "The nationwide bank strike, although postponed, poses a risk to banking operations, which are critical for various supply chain activities including financial transactions, cash flow management, and logistics support.",
+      "summary": "A nationwide bank strike in India was postponed, but it highlights potential disruptions in banking operations that could affect supply chain activities. The banking sector is integral to financial transactions and logistics, making any strike a significant concern for businesses relying on these services.",
+      "title": "Bank Strike 2026 | Nationwide Bank Strike For Two Days Off Policy",
+      "url": "https://www.bhaskar.com/g/business/news/bank-strike-india-two-days-off-digital-services-update-139170491.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "India-Poland Defence Cooperation Meeting",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "Poland"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a meeting focused on expanding defense cooperation between India and Poland, which does not directly indicate any supply chain disruption related to manufacturing, logistics, or trade activities.",
+      "summary": "India and Poland held a Joint Working Group meeting to discuss enhancing defense cooperation. This event does not present a direct supply chain disruption as it primarily pertains to diplomatic relations rather than operational impacts on supply chains.",
+      "title": "India , Poland hold Joint Working Group meeting ; discuss expanding defence cooperation",
+      "url": "https://aninews.in/news/world/asia/india-poland-hold-joint-working-group-meeting-discuss-expanding-defence-cooperation20260928215237/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T190000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "F-35 debut at Tarang Shakti 2026",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a military exercise and the debut of the F-35 aircraft, which does not have a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article highlights the F-35's debut at a military exercise in India, emphasizing coordination between the US and India. However, it does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "  Strengthening coordination , readiness : US embassy hails F - 35 debut at Tarang Shakti 2026 in India",
+      "url": "https://aninews.in/news/world/asia/strengthening-coordination-readiness-us-embassy-hails-f-35-debut-at-tarang-shakti-2026-in-india20260929101255/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T063000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Myanmar Army Airstrike in Rebel Held Area",
+      "companies_involved": [],
+      "industries_involved": [
+        "Retail",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Myanmar"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected region of Myanmar?",
+        "Which logistics companies are responsible for transportation in the affected area?",
+        "Which retail businesses depend on the market in Kyauktaw?",
+        "What are the potential impacts on trade routes due to ongoing conflict in Myanmar?",
+        "Which downstream companies rely on products sourced from the affected region?"
+      ],
+      "reason": "The airstrike in a market area disrupts local commerce and logistics, potentially affecting supply chains reliant on the region for goods and services.",
+      "summary": "An airstrike in Myanmar's Rakhine state has resulted in significant casualties and damage to a key market area. This geopolitical event poses risks to local supply chains, particularly in retail and logistics sectors.",
+      "title": "म्यांमार में विद्रोहियों के इलाके में सेना की एयर स्ट्राइक , 33 मौ  तों से मचा हड़कंप ; 30 से ज्यादा घायल - myanmar army airstrike in rebel held area",
+      "url": "https://www.punjabkesari.in/international/news/myanmar-army-airstrike-in-rebel-held-area-2384251",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260928T211500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Tamil Nadu Newborn Gold Ring Scheme and IAF Cycle Rally",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a government initiative and a cycling event organized by the Indian Air Force, which do not have a meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article covers a government scheme in Tamil Nadu and a cycling rally by the Indian Air Force. Neither event indicates any supply chain disruption or impact on supply chain activities.",
+      "title": "Tamil Nadu Newborn Gold Ring Scheme ; IAF Kanyakumari to Kargil Cycle Rally",
+      "url": "https://divyamarathi.bhaskar.com/national/news/tamil-nadu-newborn-gold-ring-iaf-kanyakumari-kargil-cycle-rally-139185465.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "F-35A Debut at Tarang Shakti 2026",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "United States",
+        "India",
+        "Australia",
+        "United Arab Emirates",
+        "France",
+        "Germany",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a military exercise involving the F-35A fighter jets and does not indicate any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the participation of the F-35A Lightning II in a multinational military exercise in India. While it emphasizes defense cooperation and training, it does not present any direct supply chain disruptions.",
+      "title": "  Strengthening coordination , readines : US embassy hails F - 35 debut at Tarang Shakti 2026 in India",
+      "url": "https://economictimes.indiatimes.com/news/defence/strengthening-coordination-readiness-us-embassy-hails-f-35-debut-at-tarang-shakti-2026-in-india/articleshow/134556486.cms",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20260929T051500Z"
     }
   ]
 }
