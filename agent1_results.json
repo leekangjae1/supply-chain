@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T14:08:52Z",
-  "total_count": 10401,
+  "updated_at": "2026-10-03T18:14:48Z",
+  "total_count": 10441,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -283108,6 +283108,1031 @@
       "gdelt_country": "Vietnam",
       "gdelt_keyword": "tariff",
       "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Shift in Beverage Preferences",
+      "companies_involved": [],
+      "industries_involved": [
+        "Food and Beverage",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States",
+        "Japan",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the cultural popularity of matcha in New York and its historical context, but it does not indicate any disruptions in supply chains, production, or logistics.",
+      "summary": "The article highlights the rising trend of matcha consumption in New York, driven by cultural shifts and health consciousness post-pandemic. However, it does not present any supply chain disruptions or risks related to suppliers, manufacturing, or logistics.",
+      "title": "步伐最快的紐約 為何需要一杯慢抹茶 ？ ",
+      "url": "https://www.epochtimes.com/b5/26/10/1/n14861647.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Discussion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political meeting and election campaign in New Taipei City, which does not have a direct connection to supply chain activities or disruptions.",
+      "summary": "The article covers a political discussion between candidates and a Japanese scholar regarding local elections in New Taipei City. It does not indicate any supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "與小笠原欣幸談很多新北選情 李四川 ： 謝謝他給我很多指教相談甚歡 - 政治",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5591790",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Return to Suez Canal for Shipping",
+      "companies_involved": [
+        "HMM",
+        "MSC",
+        "Maersk",
+        "Hapag-Lloyd"
+      ],
+      "industries_involved": [
+        "Shipping",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Egypt",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of HMM operate in the affected region?",
+        "Which shipping routes are most impacted by the ongoing Middle Eastern conflict?",
+        "Which manufacturing facilities depend on shipping routes through the Suez Canal?",
+        "What are the potential impacts on shipping costs due to fluctuating fuel prices?",
+        "Which downstream companies depend on products shipped through the Suez Canal?"
+      ],
+      "reason": "The article discusses the resumption of shipping through the Suez Canal amidst ongoing geopolitical tensions in the Middle East, which directly impacts logistics and transportation routes for global shipping companies.",
+      "summary": "Global shipping companies, including HMM, are resuming operations through the Suez Canal due to inefficiencies in alternative routes caused by rising fuel costs and decreased demand. However, ongoing geopolitical tensions in the Middle East pose risks to shipping safety and costs.",
+      "title": "해운사들 , 수에즈 복귀 … 비용 · 안전 저울질",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315542",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Potential restrictions on Chinese automotive companies entering the US market",
+      "companies_involved": [
+        "Ford",
+        "Geely"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "United States",
+        "China",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Ford may be affected by potential trade restrictions?",
+        "Which manufacturing relationships could be impacted by the entry of Chinese automotive companies?",
+        "What are the implications for Ford's production capabilities in the US if Chinese companies are restricted?",
+        "Which countries or regions create exposure for Ford in light of these potential trade policies?",
+        "Which downstream companies depend on Ford's products that may be affected by these trade policies?"
+      ],
+      "reason": "The article discusses potential regulatory changes that could restrict Chinese automotive companies from entering the US market, which could significantly impact Ford's competitive landscape and its supply chain strategies.",
+      "summary": "Ford's CEO emphasizes the need for caution regarding the entry of Chinese automotive companies into the US market, drawing lessons from Europe's experience. This situation presents potential supply chain disruptions related to trade policies and competition in the automotive industry.",
+      "title": "福特CEO法利 ： 美国应吸取欧洲教训 ， 审慎对待中国车企入美",
+      "url": "https://www.163.com/dy/article/L861DLUT0511B8LM.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T100000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Espionage Alert by UK Security Agency",
+      "companies_involved": [
+        "China General Technology Group (CGTRI)"
+      ],
+      "industries_involved": [
+        "Academic Research",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which academic institutions in the UK are collaborating with CGTRI?",
+        "Which suppliers of technology and research services may be affected by the espionage alert?",
+        "What are the potential impacts on UK-China research partnerships?",
+        "Which downstream companies rely on research outputs from affected UK institutions?",
+        "How might this geopolitical tension affect trade relations between the UK and China?"
+      ],
+      "reason": "The article discusses a warning from the UK security agency regarding espionage activities linked to a Chinese research institution, which could impact academic collaborations and technology transfers, thus affecting supply chain dynamics in related industries.",
+      "summary": "The UK security agency has issued an espionage alert concerning the China General Technology Group, indicating potential risks to academic and technological collaborations. This geopolitical tension may disrupt supply chain activities related to research and technology sectors between the UK and China.",
+      "title": "英情報機構指中國藉學術單位提升間諜能力 北京怒駁稱 「 無中生有 」 | 國際",
+      "url": "https://newtalk.tw/news/view/2026-10-01/1062836",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Increased presence of Chinese brands in Singapore",
+      "companies_involved": [
+        "BYD",
+        "Luckin Coffee",
+        "Yuanji Food"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Food and Beverage",
+        "Retail"
+      ],
+      "countries_involved": [
+        "China",
+        "Singapore"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of BYD operate in Singapore?",
+        "What manufacturing relationships does Luckin Coffee have in the region?",
+        "Which logistics providers are involved in the distribution of Yuanji Food products in Singapore?",
+        "How might increased competition from Chinese brands affect local suppliers in Singapore?",
+        "Which downstream companies in Singapore depend on products from these Chinese brands?"
+      ],
+      "reason": "The article discusses the growing presence and acceptance of Chinese brands in Singapore, but it does not indicate any specific disruptions to supply chain activities such as logistics, production, or trade.",
+      "summary": "The article highlights the increasing integration of Chinese brands into the Singapore market, showcasing their growing acceptance among consumers. However, it does not present any direct supply chain disruptions or risks related to logistics, production, or trade.",
+      "title": "扎根狮城不只争一朝一夕 中资品牌从流量走向留量",
+      "url": "https://www.zaobao.com.sg/news/china/story20261001-9718569",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T221500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Chinese Espionage Threat to UK Academic Collaborations",
+      "companies_involved": [
+        "China General Technology Research Institute"
+      ],
+      "industries_involved": [
+        "Academia",
+        "Research and Development"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which UK universities have ongoing collaborations with the China General Technology Research Institute?",
+        "Which suppliers of academic research materials may be affected by the scrutiny of collaborations with Chinese entities?",
+        "Which research projects in the UK could be impacted by the termination of partnerships with the China General Technology Research Institute?",
+        "Which countries or regions are involved in the supply of research funding or materials to UK academic institutions?",
+        "Which downstream companies or operations may be exposed to legal risks due to collaborations with the China General Technology Research Institute?"
+      ],
+      "reason": "The warning from the UK's security agency regarding potential espionage activities linked to a Chinese organization indicates a significant geopolitical risk that could disrupt academic collaborations and research funding, impacting supply chain activities related to research and development.",
+      "summary": "The UK security agency has issued a warning about potential espionage activities linked to the China General Technology Research Institute, which could disrupt academic collaborations and research funding in the UK. This geopolitical threat poses risks to supply chain activities in the academia and research sectors.",
+      "title": "军情5处警告 ： 中国资助英国研究 成果或流向北京间谍机关",
+      "url": "https://www.wenxuecity.com/news/2026/09/30/126790977.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Biosan's Participation in China International Import Expo",
+      "companies_involved": [
+        "Biosan"
+      ],
+      "industries_involved": [
+        "Nutritional Supplements",
+        "Health Products"
+      ],
+      "countries_involved": [
+        "China",
+        "Norway"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Biosan's participation in a trade expo and its plans for market expansion in China, but it does not indicate any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "Biosan, a Nordic health brand, is showcasing its products at the China International Import Expo, aiming to expand its market presence in Asia. The article highlights the company's growth and future plans but does not indicate any supply chain disruptions.",
+      "title": "40周年启幕中国新程 ， 北欧营养健康品牌Biosan亮相第九届进博会",
+      "url": "https://baijiahao.baidu.com/s?id=1877750460769149241",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T193000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "2026 New Taipei Demo Day",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an event focused on innovation and entrepreneurship without any direct implications for supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article covers the upcoming '2026 New Taipei Demo Day' organized by the New Taipei Youth Bureau, aimed at connecting startups with investors and businesses. It does not indicate any supply chain disruptions or risks.",
+      "title": "新北市青年局 「 2026 New Taipei Demo Day 」 串連創投與企業 12組新創11 / 5登台提案 ！ | 鄧亦涵 | 地方新聞",
+      "url": "https://www.storm.mg/article/11168919",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Resurgence of Scam Operations in Myanmar",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Myanmar",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the resurgence of scam operations in Myanmar, which does not have a direct impact on traditional supply chain activities such as manufacturing, logistics, or trade. It primarily focuses on criminal activities rather than disruptions in supply chain operations.",
+      "summary": "The article reports on the revival of scam operations in Myanmar, particularly in the Mawlamyine area, following previous crackdowns. This resurgence is linked to political and criminal dynamics rather than direct supply chain disruptions.",
+      "title": "緬甸電詐園區死灰復燃 發9300多則招聘訊息 | 兩岸",
+      "url": "https://www.cna.com.tw:443/news/acn/202610010054.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Resurgence of Scam Operations in Myanmar",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Myanmar",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the resurgence of scam operations in Myanmar, which does not have a direct connection to traditional supply chain activities such as manufacturing, logistics, or trade. Therefore, it should not be classified as a supply chain disruption.",
+      "summary": "The article reports on the revival of scam operations in Myanmar, particularly in the Mawlamyine area, following previous crackdowns. While this situation may have implications for local governance and security, it does not directly impact supply chain activities.",
+      "title": "緬甸電詐園區死灰復燃 發9300多則招聘訊息 | 兩岸",
+      "url": "https://www.cna.com.tw/news/acn/202610010054.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Geopolitical Tensions in Taiwan",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the geopolitical stance of the United States regarding Taiwan but does not provide specific information about supply chain activities, disruptions, or impacts on logistics, trade, or production.",
+      "summary": "The article highlights the importance of Taiwan to U.S. interests but does not indicate any direct supply chain disruptions or impacts. There are no specific companies or industries mentioned that would be affected.",
+      "title": "武裝台灣是美國核心利益",
+      "url": "https://n.yam.com/Article/20261002503384",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Commemoration Ceremony",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article describes a ceremonial event honoring national heroes and does not indicate any disruptions or impacts on supply chain activities.",
+      "summary": "The article reports on a ceremonial event in China honoring national heroes. It does not present any information related to supply chain disruptions or impacts.",
+      "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 - 中国教育新闻网",
+      "url": "http://www.jyb.cn/rmtzgjyb/202610/t20261001_2111527578.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T044500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Decline in Indonesian Coal Exports",
+      "companies_involved": [
+        "Indonesian Coal Producers"
+      ],
+      "industries_involved": [
+        "Coal Mining",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Indonesia",
+        "Japan",
+        "South Korea",
+        "India",
+        "European countries"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Indonesian coal producers are affected by the export decline?",
+        "Which manufacturing or production relationships may be impacted by the reduced coal supply?",
+        "Which countries or regions are most dependent on Indonesian coal exports?",
+        "What supply-chain dependencies exist that could transmit the disruption from Indonesia to other markets?",
+        "Which downstream companies in Japan, South Korea, and India rely on Indonesian coal for energy production?"
+      ],
+      "reason": "The significant reduction in Indonesian coal exports due to production cuts and logistical challenges directly impacts global coal supply, affecting energy production in several countries reliant on coal.",
+      "summary": "Indonesia's coal exports have hit a five-year low due to production adjustments and logistical issues, creating a supply gap amid rising global demand. This disruption poses risks to energy production in countries like Japan, South Korea, and India, which are increasingly reliant on coal.",
+      "title": "全球煤市供需错位 ： 需求创新高 ， 印尼出口降至五年同期新低",
+      "url": "https://baijiahao.baidu.com/s?id=1877850810938420924",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a ceremonial event honoring heroes and does not indicate any actual or potential disruptions to supply chain activities.",
+      "summary": "The article reports on a ceremonial event in Beijing honoring national heroes. It does not present any information related to supply chain disruptions.",
+      "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 _ 今日关注 _ 天津政务网",
+      "url": "https://www.tj.gov.cn/sy/jrgz/202610/t20261001_7386779.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any information regarding supply chain activities or disruptions.",
+      "summary": "The article appears to be a byline or author information without any content related to supply chain disruptions.",
+      "title": "Jo He - rim – Asia News Network",
+      "url": "https://asianews.network/author/jo_he_rim/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Big Mac Index Analysis",
+      "companies_involved": [
+        "McDonald's",
+        "Вкусно и точка"
+      ],
+      "industries_involved": [
+        "Fast Food",
+        "Food and Beverage"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Norway",
+        "Switzerland",
+        "Denmark",
+        "Australia",
+        "India",
+        "Indonesia",
+        "Latvia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of McDonald's operate in the affected regions?",
+        "How does the pricing of 'Биг Хит' affect the supply chain for fast food in Russia?",
+        "What are the implications of minimum wage changes on the fast food industry in these countries?",
+        "Which logistics companies are involved in the distribution of fast food products in Russia?",
+        "How do regional price variations for 'Биг Хит' impact supply chain consistency?"
+      ],
+      "reason": "The article discusses the affordability of a specific product (Big Mac) in relation to minimum wage across various countries, but it does not indicate any direct supply chain disruptions or risks.",
+      "summary": "The article analyzes the time required to earn enough for a Big Mac in various countries, highlighting differences in minimum wage and product pricing. While it provides insights into economic conditions, it does not present a direct supply chain disruption.",
+      "title": "Рейтинг : сколько нужно работать на один Big Mac в 78 странах и территориях в 2026 году",
+      "url": "https://www.securitylab.ru/blog/personal/Anovikova/362784.php",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Military Training Exercise",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a military training exercise and historical reflections, with no direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses a military training exercise commemorating the Long March, emphasizing the spirit and dedication of the troops. It does not present any information that indicates a supply chain disruption.",
+      "title": "视频丨锻造新时代胜战尖刀 走近长征英雄部队  红八连  ",
+      "url": "https://baijiahao.baidu.com/s?id=1877906677491272238",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Commemoration Ceremony",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article describes a ceremonial event honoring national heroes and does not indicate any disruptions or impacts on supply chain activities.",
+      "summary": "The article reports on a ceremonial event in China honoring national heroes. It does not present any information related to supply chain disruptions or impacts.",
+      "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 -- 时政 -- 人民网",
+      "url": "http://politics.people.com.cn/n1/2026/1001/c1024-40808488.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Performance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural performance and the artistic journey of its creators, with no mention of supply chain activities or disruptions.",
+      "summary": "The article focuses on the artistic creation of a dance drama titled '栋梁' and does not relate to any supply chain disruptions. It highlights the historical and cultural significance of the characters involved but lacks any connection to supply chain activities.",
+      "title": "他们筑起  民族风骨  的大厦 （ 大地风华 ） |栋梁|学社|林徽因",
+      "url": "https://www.163.com/dy/article/L84RQ3QQ0530QRMB.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T233000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Nationwide Strikes and Protests in France",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Public Sector",
+        "Transportation",
+        "Fisheries"
+      ],
+      "countries_involved": [
+        "France",
+        "Portugal",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of public services may be affected by the strikes in France?",
+        "Which transportation companies are impacted by the protests blocking ports?",
+        "Which downstream companies rely on the transportation of goods through affected ports?",
+        "What manufacturing operations in France depend on public sector services that are currently disrupted?",
+        "Which logistics companies are exposed to the ongoing strikes and protests in France and neighboring countries?"
+      ],
+      "reason": "The article describes widespread strikes and protests in France that are disrupting public services, transportation, and logistics, which can significantly impact supply chain activities.",
+      "summary": "France is experiencing nationwide strikes and protests due to budget cuts and rising costs, affecting various sectors including education and transportation. The unrest has led to disruptions in logistics and public services, with potential ripple effects in neighboring countries like Portugal and Germany.",
+      "title": "Франция бунтует : 300 тысяч на улицах , 440 задержанных школьников и « лицензия на убийство » от Макрона",
+      "url": "https://argumenti.ru/world/franciya-buntuet-300-tysyach-na-ulicah-440-zaderzhannyh-shkolnikov-i-licenziya-1010508",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T130000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Football Match Result",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a football match and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a football match where the German national team, under coach Jürgen Klopp, achieved its first victory. There are no implications for supply chain activities or disruptions.",
+      "title": "Klopp jubelt erstmals als Bundestrainer : DFB - Elf schlägt Serbien",
+      "url": "https://www.berliner-zeitung.de:443/article/klopp-jubelt-erstmals-als-bundestrainer-dfb-elf-schlaegt-serbien-10452045",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Russian Aggression in Ukraine",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Germany",
+        "Ukraine",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense companies may be affected by the ongoing conflict?",
+        "Which manufacturing facilities in Europe depend on energy supplies from Russia?",
+        "Which countries are at risk of supply chain disruptions due to geopolitical tensions in Eastern Europe?",
+        "Which downstream companies in the defense industry rely on components sourced from Ukraine?",
+        "What logistics routes are impacted by the conflict in Ukraine?"
+      ],
+      "reason": "The article discusses the geopolitical tensions arising from the Russian invasion of Ukraine, which can significantly impact supply chains in Europe, particularly in defense and energy sectors. The potential for escalated conflict poses risks to manufacturing and logistics operations across the continent.",
+      "summary": "The article highlights the geopolitical risks associated with the ongoing conflict in Ukraine, emphasizing the potential for broader implications for European security and supply chains. The situation may disrupt industries reliant on stable relations with Russia and Ukraine, particularly in defense and energy.",
+      "title": "Merz : If Moscow Isnt Stopped in Ukraine , NATO Could Be Next",
+      "url": "https://www.kyivpost.com/post/85893",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Reopening of Nacional Monte de Piedad",
+      "companies_involved": [
+        "Nacional Monte de Piedad"
+      ],
+      "industries_involved": [
+        "Financial Services"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the reopening of a financial institution and the resolution of a labor dispute, which does not have a direct impact on supply chain activities such as manufacturing, logistics, or transportation.",
+      "summary": "Nacional Monte de Piedad is set to reopen on October 7 following a labor dispute resolution. The reopening will allow the institution to resume its operations without any direct implications for supply chain activities.",
+      "title": "Nacional Monte de Piedad : reapertura el 7 de octubre",
+      "url": "https://pulsoslp.com.mx/nacional/nacional-monte-de-piedad-reapertura-el-7-de-octubre/2091303",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Promotion for relocation",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a promotional event related to relocation and does not indicate any impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on a promotional event encouraging relocation to a specific area, with no implications for supply chain disruptions. There are no companies, industries, or countries directly affected by supply chain activities mentioned.",
+      "title": " 「 集集 Long Stay － 移居集集 （ 籍 ） 送好禮 」 千人移居 12位早鳥幸運得主出爐",
+      "url": "https://n.yam.com/Article/20261002634005",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Potential Pilot Strike at Aeroméxico",
+      "companies_involved": [
+        "Aeroméxico",
+        "Asociación Sindical de Pilotos Aviadores de México (ASPA)"
+      ],
+      "industries_involved": [
+        "Aviation"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Aeroméxico may be affected by a potential pilot strike?",
+        "Which operational processes at Aeroméxico could be disrupted if pilots go on strike?",
+        "What are the potential impacts on logistics and transportation due to a pilot strike?",
+        "Which downstream companies depend on Aeroméxico for transportation services?",
+        "How might this labor dispute affect Aeroméxico's supply chain relationships?"
+      ],
+      "reason": "The article discusses ongoing labor negotiations between Aeroméxico and its pilots, with a potential strike looming if an agreement is not reached, which could disrupt operations and logistics in the aviation sector.",
+      "summary": "Aeroméxico is currently in negotiations with its pilots over salary increases, with a 45-day extension granted to reach an agreement. If negotiations fail, a potential strike could disrupt Aeroméxico's operations and impact its supply chain.",
+      "title": "Aeroméxico : plazo de 45 días para evitar un conflicto con pilotos | Noticias de turismo REPORTUR",
+      "url": "https://www.reportur.com/aerolineas/2026/10/02/aeromexico-plazo-de-45-dias-para-evitar-un-conflicto-con-pilotos/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Home Printer Recommendations",
+      "companies_involved": [
+        "HP"
+      ],
+      "industries_involved": [
+        "Consumer Electronics"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on product recommendations and features of home printers without indicating any supply chain disruptions or impacts on manufacturing, logistics, or trade.",
+      "summary": "The article discusses the features and benefits of HP's home printers designed for families, emphasizing their printing quality and reliability. It does not present any information related to supply chain disruptions.",
+      "title": "孩子用的家用打印机推荐 ： 惠普连供不堵头适配全学龄",
+      "url": "https://oa.zol.com.cn/1255/12552662.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Lawsuit against EPA power plant emissions rule repeal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by changes in emissions regulations?",
+        "Which manufacturing or production relationships in the energy sector may be impacted by the lawsuit?",
+        "Which states or regions may face regulatory changes that affect energy supply chains?",
+        "Which supply-chain dependencies could be influenced by the outcome of this lawsuit?",
+        "Which downstream companies in the energy sector may be exposed to increased costs or operational changes?"
+      ],
+      "reason": "The lawsuit against the EPA's repeal of emissions regulations could lead to significant changes in energy production and supply chain dynamics, particularly for companies reliant on fossil fuels. This regulatory change may impact energy costs, production capabilities, and compliance requirements for various stakeholders in the energy sector.",
+      "summary": "The article discusses a lawsuit challenging the repeal of emissions regulations by the EPA, which could significantly impact the energy industry in the United States. The outcome may affect energy suppliers, production costs, and regulatory compliance across the sector.",
+      "title": "Chicago joins lawsuit over EPA power plant emissions rule",
+      "url": "https://www.chicagotribune.com/2026/10/01/lawsuit-trump-epa-power-plant-emissions/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nike Sales Decline Projection",
+      "companies_involved": [
+        "Nike"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Apparel"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [
+        "Which suppliers of Nike may be affected by the projected sales decline?",
+        "Which manufacturing facilities are linked to Nike's production?",
+        "What regions are critical for Nike's supply chain that could be impacted by lower sales?",
+        "Which downstream companies depend on Nike's products?"
+      ],
+      "reason": "The article discusses Nike's projected sales decline but does not provide specific information about disruptions in supply chain activities such as production, logistics, or sourcing.",
+      "summary": "Nike has projected a decline in sales following lower first-quarter revenue. However, the article does not indicate any direct supply chain disruptions related to this projection.",
+      "title": "Dow Jones Top Company Headlines at 5 PM ET : Nike Projects Sales Decline This Year After Lower First - Quarter Revenue | Barbie - Maker ... ",
+      "url": "https://www.morningstar.com/news/dow-jones/202610019431/dow-jones-top-company-headlines-at-5-pm-et-nike-projects-sales-decline-this-year-after-lower-first-quarter-revenue-barbie-maker",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "EPA Repeal of Emission Regulations",
+      "companies_involved": [
+        "EPA",
+        "Power Plant Operators"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which power plant operators may be affected by the repeal of emissions regulations?",
+        "Which suppliers of energy resources (coal, natural gas) are impacted by changes in regulation?",
+        "Which states have power plants that could face operational changes due to the new EPA rules?",
+        "Which downstream companies depend on energy produced by the affected power plants?",
+        "What are the potential impacts on energy prices due to the regulatory changes?"
+      ],
+      "reason": "The repeal of emissions regulations by the EPA could lead to changes in energy production practices, affecting suppliers and operators in the energy sector, which in turn impacts the broader supply chain.",
+      "summary": "The Trump administration's repeal of EPA regulations limiting emissions from power plants may disrupt the energy supply chain by altering operational practices for power plant operators. This regulatory change could have significant implications for energy prices and environmental compliance across the United States.",
+      "title": "States and cities sue over Trump EPA eliminating rule that limits emissions from power plants",
+      "url": "https://www.clickondetroit.com/news/politics/2026/10/01/states-and-cities-sue-over-trumps-epa-eliminating-rule-that-limits-emissions-from-power-plants/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T180000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Repeal of Emission Regulations for Power Plants",
+      "companies_involved": [
+        "EPA",
+        "Various Power Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which power companies may be affected by the repeal of emissions regulations?",
+        "Which suppliers provide equipment or services to power plants that could be impacted by regulatory changes?",
+        "Which regions in the U.S. are most dependent on coal and natural gas power plants?",
+        "What are the potential downstream effects on companies relying on energy from affected power plants?",
+        "How might changes in emissions regulations impact the supply chain for renewable energy sources?"
+      ],
+      "reason": "The repeal of emissions regulations for power plants could lead to increased pollution and operational changes for energy suppliers, affecting their supply chains and regulatory compliance.",
+      "summary": "The article discusses a lawsuit against the Trump administration's repeal of emissions regulations for power plants, which could significantly impact the energy sector. This regulatory change may disrupt supply chains related to energy production and compliance with environmental standards.",
+      "title": "States and cities sue over Trump EPA eliminating rule that limits emissions from power plants",
+      "url": "https://www.click2houston.com/news/politics/2026/10/01/states-and-cities-sue-over-trumps-epa-eliminating-rule-that-limits-emissions-from-power-plants/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T183000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Repeal of Emission Regulations for Power Plants",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by the repeal of emissions regulations?",
+        "Which manufacturing or production relationships in the energy sector may be impacted?",
+        "Which states or regions may face increased pollution and regulatory challenges?",
+        "Which supply-chain dependencies could transmit the disruption in energy production?",
+        "Which downstream companies in the utilities sector may be exposed to regulatory changes?"
+      ],
+      "reason": "The repeal of emissions regulations for power plants could lead to increased pollution and operational changes in the energy sector, affecting supply chains related to energy production and utilities.",
+      "summary": "The article discusses a lawsuit against the Trump administration for repealing emissions regulations for power plants, which could significantly impact the energy industry in the U.S. This regulatory change may disrupt supply chains related to energy production and utilities due to potential increases in pollution and operational adjustments.",
+      "title": "States and cities sue over Trump EPA eliminating rule that limits emissions from power plants",
+      "url": "https://www.news4jax.com/news/politics/2026/10/01/states-and-cities-sue-over-trumps-epa-eliminating-rule-that-limits-emissions-from-power-plants/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "EPA Repeal of Emissions Rules",
+      "companies_involved": [
+        "Utilities",
+        "Power Plant Operators"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide equipment or services to power plants affected by the EPA's rule change?",
+        "Which manufacturing facilities produce components for coal and natural gas power plants?",
+        "Which regions in the US are most dependent on fossil fuel power generation?",
+        "Which downstream companies rely on energy produced by the affected power plants?",
+        "What are the potential impacts on energy prices due to the repeal of emissions regulations?"
+      ],
+      "reason": "The repeal of emissions rules by the EPA directly impacts the energy sector, particularly utilities and power plant operators, which could lead to changes in production and sourcing of energy, affecting the overall supply chain.",
+      "summary": "The Trump administration's repeal of emissions rules for power plants may disrupt the energy supply chain by affecting regulations that govern fossil fuel usage. This could lead to increased pollution and impact energy production and pricing across the United States.",
+      "title": "US states and cities sue over Trump EPA repeal of emissions rules | US Environmental Protection Agency",
+      "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Youth Style Initiative",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a youth initiative related to style and materials, with no meaningful connection to supply chain activities.",
+      "summary": "The article discusses a youth initiative led by 鄭紫涵 that encourages young people to find their style through materials. It does not present any information related to supply chain disruptions.",
+      "title": "從花飾到整體造型 ： 鄭紫涵 「 花漾飾界 」 讓青年以材質找到自己的風格語言",
+      "url": "https://n.yam.com/Article/20261001860788",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Repeal of EPA Power Plant Emission Regulations",
+      "companies_involved": [
+        "Various utility companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which utility companies may be affected by the repeal of emission regulations?",
+        "Which suppliers of energy resources are impacted by changes in regulatory frameworks?",
+        "Which states have energy production facilities that could be affected by increased emissions?",
+        "Which downstream companies depend on energy produced by fossil fuel power plants?",
+        "What are the potential impacts on energy prices due to regulatory changes?"
+      ],
+      "reason": "The repeal of emission regulations by the EPA could lead to increased pollution from power plants, affecting energy supply chains, regulatory compliance costs, and potentially impacting utility companies and their suppliers.",
+      "summary": "The article discusses a lawsuit against the EPA's repeal of power plant emission regulations, which could significantly impact the energy sector in the U.S. This regulatory change may disrupt supply chains related to energy production and compliance, affecting various stakeholders in the industry.",
+      "title": "States , cities sue over Trump EPA eliminating rule on power plants",
+      "url": "https://www.sandiegouniontribune.com/2026/10/01/states-cities-sue-epa-power-plants-rule/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "EPA Rule Repeal on Power Plant Emissions",
+      "companies_involved": [
+        "EPA",
+        "Utilities"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which utilities may be affected by the repeal of emissions regulations?",
+        "Which suppliers provide equipment or services to power plants that may be impacted?",
+        "Which regions in the U.S. are most dependent on coal and natural gas power plants?",
+        "What are the potential downstream effects on companies relying on energy from affected power plants?",
+        "Which states have the highest exposure to changes in energy regulations?"
+      ],
+      "reason": "The repeal of emissions regulations by the EPA could lead to increased pollution from power plants, affecting energy supply and potentially leading to regulatory changes that impact utility operations and costs.",
+      "summary": "The article discusses a lawsuit against the EPA for repealing emissions regulations on power plants, which could disrupt energy supply chains in the U.S. The changes may affect utilities and their suppliers, leading to broader implications for energy production and environmental compliance.",
+      "title": "States and cities sue over Trump EPA eliminating rule that limits emissions from power plants – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/10/01/states-and-cities-sue-over-trumps-epa-eliminating-rule-that-limits-emissions-from-power-plants",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any information related to supply chain activities or disruptions.",
+      "summary": "The news article does not contain relevant content regarding supply chain disruptions or impacts on supply chain activities.",
+      "title": "Σαν σήμερα 2 Οκτωβρίου",
+      "url": "https://www.taxydromos.gr/diethni/1373901/san-simera-2-oktovrioy-10/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T213000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Repeal of emissions regulations for power plants",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Utilities"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by the repeal of emissions regulations?",
+        "Which power generation facilities depend on compliance with environmental regulations?",
+        "Which states or regions may face increased regulatory scrutiny or operational changes due to this event?",
+        "Which downstream companies rely on energy produced by affected power plants?",
+        "What are the potential impacts on energy prices and availability for manufacturers?"
+      ],
+      "reason": "The repeal of emissions regulations for power plants could lead to changes in energy supply dynamics, affecting utilities and energy-dependent industries. This regulatory change may impact production costs and operational decisions across various sectors reliant on energy.",
+      "summary": "The Trump administration's repeal of emissions regulations for power plants could disrupt the energy supply chain by altering compliance requirements for utilities. This may lead to increased pollution and potential regulatory challenges, impacting energy prices and availability for various industries.",
+      "title": "States and cities sue over Trump EPA eliminating rule that limits emissions from power plants",
+      "url": "https://www.wboc.com/news/national/states-and-cities-sue-over-trumps-epa-eliminating-rule-that-limits-emissions-from-power-plants/article_625fa395-21f5-5bba-b0fc-5fb9cbefc9ea.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T194500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Increased Export Activity at Yantian Port",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Retail",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Mexico",
+        "Netherlands"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are involved in the production of goods being exported from Yantian Port?",
+        "Which manufacturing facilities are responsible for the goods being shipped to the global markets?",
+        "What logistics companies are handling the transportation of these goods?",
+        "Which countries or regions are most reliant on exports from Yantian Port?",
+        "Which downstream companies depend on the timely delivery of these exported goods?"
+      ],
+      "reason": "The article discusses the ongoing export activities at Yantian Port, highlighting the logistics operations and the impact on supply chains due to increased export volumes during a peak season.",
+      "summary": "Yantian Port in Shenzhen is experiencing heightened export activity during the National Day holiday, facilitating the shipment of various consumer goods to global markets. This surge in logistics operations is crucial for maintaining supply chain efficiency during a peak export season.",
+      "title": "品类更多 、 品牌更强 ！ 国货出海有新变化",
+      "url": "https://baijiahao.baidu.com/s?id=1877892364606317307",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Increased Export Activity at Yantian Port",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Retail",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Mexico",
+        "Netherlands"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are involved in the production of goods being exported from Yantian Port?",
+        "Which manufacturing facilities are responsible for the goods being shipped to the global markets?",
+        "Which countries or regions are most reliant on exports from Yantian Port?",
+        "What logistics companies are handling the transportation of goods from Yantian Port?",
+        "Which downstream companies depend on the timely delivery of goods exported from Yantian Port?"
+      ],
+      "reason": "The article discusses the increased export activity at Yantian Port, which is crucial for logistics and trade, indicating a significant operational focus on ensuring smooth supply chain processes during peak export seasons.",
+      "summary": "Yantian Port in Shenzhen is experiencing heightened export activity during the National Day holiday, facilitating the shipment of various goods to global markets. This operational focus on logistics and export efficiency highlights the importance of the port in the supply chain.",
+      "title": "视频丨品类更多 、 品牌更强 ！ 国货出海有新变化",
+      "url": "https://baijiahao.baidu.com/s?id=1877905072231843674",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T034500Z"
     }
   ]
 }
