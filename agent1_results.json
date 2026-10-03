@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T00:30:01Z",
-  "total_count": 10117,
+  "updated_at": "2026-10-03T06:44:36Z",
+  "total_count": 10169,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -274747,6 +274747,1349 @@
       "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20261001T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Japan-US Joint Military Exercise",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a military exercise involving Japan and the US, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a joint military exercise between Japan and the United States. There is no indication of a supply chain disruption related to this event.",
+      "title": "视频丨日本陆上自卫队长射程导弹将参与日美联合军演",
+      "url": "https://baijiahao.baidu.com/s?id=1877757885681197597",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Temporary suspension of hamburger sales in Hokkaido",
+      "companies_involved": [
+        "McDonald's Japan"
+      ],
+      "industries_involved": [
+        "Fast Food"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide beef patties to McDonald's Japan?",
+        "Which manufacturing facilities are responsible for producing the affected hamburger products?",
+        "What logistics providers are involved in the distribution of products to Hokkaido?",
+        "Which regions are critical for sourcing beef for McDonald's Japan?",
+        "Which downstream restaurants or franchises may be impacted by the suspension of these products?"
+      ],
+      "reason": "The event involves a significant operational disruption due to quality issues with beef patties supplied to McDonald's locations in Hokkaido, leading to a temporary halt in sales of multiple hamburger products.",
+      "summary": "McDonald's Japan has temporarily suspended the sale of certain hamburgers in Hokkaido due to quality concerns with beef patties. This operational disruption affects 91 locations and highlights potential supply chain vulnerabilities related to food safety and product quality.",
+      "title": "北海道91間麥當勞突停賣漢堡 「 月見 、 大麥克 」 都中 ！ 原因曝光 | ETtoday國際新聞",
+      "url": "https://www.ettoday.net/news/20261001/3247495.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T163000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Protests Against Election Commission",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political protests and allegations against an election commissioner, which do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on political criticism and protests related to the election commission in India. It does not indicate any actual or potential supply chain disruptions.",
+      "title": "എസ്‌ഐആറിൽ സുപ്രീം കോടതിക്കും തെറ്റുപറ്റി ; കടുത്ത വിമർശനവുമായി അഭിജീത് ദീപ്‌‌കെ",
+      "url": "https://janayugomonline.com/supreme-court-also-erred-regarding-the-sir-abhijit-deepke-voices-sharp-criticism/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T154500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Baseball Achievement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a baseball player's achievements and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on a baseball player's personal achievements and does not indicate any supply chain disruption. There are no relevant companies, industries, or countries involved in a supply chain context.",
+      "title": "日本ハム ・ 清宮幸 、 自身通算100号 _ x30C1 _ ーム178発ダブル達成で必勝だ 「 いい締めくくりができれば 」（ スポニチ ） ",
+      "url": "https://mainichi.jp/articles/20261001/spp/sp0/001/069000c",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T214500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Toyota's Global Expansion of Century Model",
+      "companies_involved": [
+        "Toyota"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Japan",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Toyota's plans to expand a luxury vehicle model globally, which does not indicate any immediate supply chain disruption or risk. It focuses on market strategy rather than operational or logistical challenges.",
+      "summary": "Toyota is planning to introduce its luxury model, the Century, to global markets, aiming to compete in the high-end automotive sector. This move is part of a broader strategy to enhance its brand presence internationally, particularly against European luxury brands.",
+      "title": "对标劳斯莱斯等品牌 ？ 丰田欲将顶级豪华车型世极推向全球市场",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-10-01/doc-inittksf6623516.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Global launch of Toyota Century",
+      "companies_involved": [
+        "Toyota"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Japan",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses Toyota's plans to launch a luxury vehicle globally, which does not indicate any immediate supply chain disruption or risk. It focuses on market strategy rather than supply chain activities.",
+      "summary": "Toyota is planning to introduce its luxury model, the Century, to global markets, aiming to compete in the ultra-luxury segment. This move is more about brand positioning and market expansion rather than indicating any supply chain disruption.",
+      "title": "丰田欲将顶级豪华车型世极推向全球市场",
+      "url": "https://www.163.com/dy/article/L864IJA20511B8LM.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T110000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Expansion of Agricultural Automation Technology in Japan",
+      "companies_involved": [
+        "Megago Tech"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Automotive",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Megago Tech operate in Japan?",
+        "Which manufacturing facilities are involved in the production of agricultural automation technologies?",
+        "What are the potential impacts on logistics for agricultural machinery in Japan?",
+        "Which countries supply components for Megago Tech's agricultural automation products?",
+        "Which downstream companies in Japan may depend on Megago Tech's technology for their operations?"
+      ],
+      "reason": "The article discusses Megago Tech's expansion into the Japanese market for agricultural automation, which involves new technology applications that could affect supply chain operations, including suppliers and logistics in the agricultural sector.",
+      "summary": "Megago Tech is expanding its operations into Japan by showcasing agricultural automation technologies at key exhibitions. This move could impact supply chain dynamics in the agricultural and automotive industries, particularly in terms of supplier relationships and logistics.",
+      "title": "智慧駕駛跨域應用拓展日本市場 寰宇宏科技布局農機自動化與智慧底盤｜中央社財經訊息平台",
+      "url": "https://www.cna.com.tw:443/business/chinese/445646",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Expansion of Automated Agricultural Machinery in Japan",
+      "companies_involved": [
+        "寰宇宏科技"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 寰宇宏科技 operate in Japan?",
+        "Which manufacturing facilities are involved in the production of automated agricultural machinery?",
+        "What are the logistics implications of expanding into the Japanese market?",
+        "Which downstream companies may rely on the new automated agricultural products?",
+        "What regulatory changes in Japan could impact the operations of 寰宇宏科技?"
+      ],
+      "reason": "The article discusses the expansion of automated agricultural machinery into the Japanese market, which indicates potential changes in supply chain operations, including sourcing, manufacturing, and logistics.",
+      "summary": "寰宇宏科技 is expanding its automated agricultural machinery into the Japanese market, which may impact supply chain operations related to sourcing and logistics. This expansion could lead to new dependencies and operational changes in the agricultural and automotive industries.",
+      "title": "智慧駕駛跨域應用拓展日本市場 寰宇宏科技布局農機自動化與智慧底盤",
+      "url": "https://n.yam.com/Article/20261001825271",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical military analysis",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Soviet Union",
+        "Turkey",
+        "Japan",
+        "United States",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses historical military events and their geopolitical implications but does not provide any direct connection to current supply chain activities or disruptions.",
+      "summary": "The article analyzes the historical significance of the Battle of Moscow and its geopolitical consequences during World War II. It does not relate to any current supply chain disruptions or activities.",
+      "title": "Историк Лахтиков : победа под Москвой спасла СССР от нападения Японии и Турции",
+      "url": "https://russian.rt.com/science/news/1689093-istorik-pobeda-moskva-sssr",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Samsung Biologics Labor Strike",
+      "companies_involved": [
+        "Samsung Biologics"
+      ],
+      "industries_involved": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Samsung Biologics may be affected by the labor strike?",
+        "Which manufacturing processes at Samsung Biologics could be disrupted due to the strike?",
+        "What are the potential impacts on downstream companies that rely on products from Samsung Biologics?",
+        "Which regions or countries are dependent on the output from Samsung Biologics during the strike?",
+        "How might the labor dispute affect the supply chain for raw materials used in biopharmaceutical production?"
+      ],
+      "reason": "The planned labor strike at Samsung Biologics poses a significant risk to production capabilities, potentially leading to delays and financial losses, which directly impacts supply chain activities.",
+      "summary": "Samsung Biologics is facing a second full strike due to unresolved labor negotiations, which could disrupt biopharmaceutical production. The strike may lead to significant financial losses and affect the company's supply chain operations.",
+      "title": "삼성바이오 노조 , 26일부터 3주간 2차 총파업노사 협상 다시 결렬",
+      "url": "https://newsway.co.kr/news/view?ud=2026100216105583688",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased geopolitical tensions affecting supply chains",
+      "companies_involved": [
+        "Fujikura Ltd",
+        "Furukawa Electric Co., Ltd.",
+        "Sumitomo Electric Industries",
+        "Advantest",
+        "Tokyo Electron",
+        "Kioxia Holdings Corp",
+        "Taiyo Yuden",
+        "Murata Manufacturing"
+      ],
+      "industries_involved": [
+        "Telecommunications",
+        "Semiconductors",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "Japan",
+        "United States",
+        "Iran",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Fujikura Ltd operate in the affected regions?",
+        "Which manufacturing facilities depend on components sourced from Iran or China?",
+        "What are the potential impacts on semiconductor supply chains due to geopolitical tensions?",
+        "Which downstream companies depend on products from the affected telecommunications and semiconductor suppliers?",
+        "How might changes in U.S. military policy affect supply chain operations in Japan?"
+      ],
+      "reason": "The article discusses geopolitical tensions, particularly regarding military actions in the Middle East and potential export restrictions from China, which could disrupt supply chains in Japan's telecommunications and semiconductor industries.",
+      "summary": "The article highlights rising geopolitical tensions that may impact supply chains in Japan, particularly in the telecommunications and semiconductor sectors. Companies involved may face disruptions due to military actions and export restrictions, necessitating further investigation into their supply chain dependencies.",
+      "title": " 《 日股 》 獲利了結 日經指數晨收跌630點 光通訊3雄逆勢飆 - 財經",
+      "url": "https://www.chinatimes.com/realtimenews/20261002002365-260410",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taiwan-Japan Education Exchange Memorandum",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an educational exchange memorandum between Taiwan and Japan, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on a memorandum signed between the Kaohsiung Education Bureau and Oita Prefecture in Japan to enhance educational exchanges. This event does not indicate any supply chain disruption.",
+      "title": "高市教育局攜手日本大分縣 簽署教育交流備忘錄深化臺日交流",
+      "url": "https://n.yam.com/Article/20260930135711",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Potential strike at BHP Escondida mine",
+      "companies_involved": [
+        "BHP"
+      ],
+      "industries_involved": [
+        "Mining"
+      ],
+      "countries_involved": [
+        "Chile"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of BHP may be affected by the strike?",
+        "Which production operations depend on the output from the Escondida mine?",
+        "What are the potential impacts on logistics and transportation due to the strike?",
+        "Which downstream companies rely on copper produced by the Escondida mine?",
+        "How might this strike affect BHP's supply chain in other regions?"
+      ],
+      "reason": "The rejection of the offer by supervisors at the BHP Escondida mine indicates a potential labor disruption that could halt production, impacting the supply chain for copper and related industries.",
+      "summary": "Supervisors at the BHP Escondida mine in Chile have rejected an offer, which may lead to a strike. This situation poses a risk to copper production and could disrupt supply chains reliant on this key resource.",
+      "title": "Supervisors at BHP Escondida mine in Chile reject offer , paving the way for a strike",
+      "url": "https://www.mining.com/web/supervisors-at-bhps-escondida-mine-in-chile-reject-offer-paving-the-way-for-a-strike/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Global Collaboration in Franchise Industry",
+      "companies_involved": [],
+      "industries_involved": [
+        "Franchise",
+        "Retail"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the evolution of Taiwan's franchise industry towards global collaboration but does not indicate any specific disruptions or risks to supply chain activities.",
+      "summary": "The article highlights Taiwan's shift from brand export to a global franchise ecosystem, emphasizing new opportunities for collaboration. However, it does not present any immediate supply chain disruptions or risks.",
+      "title": "從品牌輸出走向產業生態系輸出 台灣加盟產業串聯全球合作新契機",
+      "url": "https://n.yam.com/Article/20260930269327",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T144500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Samsung Biologics Strike",
+      "companies_involved": [
+        "Samsung Biologics"
+      ],
+      "industries_involved": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Samsung Biologics may be affected by the strike?",
+        "Which manufacturing processes at Samsung Biologics could be disrupted due to the strike?",
+        "What are the potential impacts on production schedules if the strike occurs?",
+        "Which downstream companies rely on products manufactured by Samsung Biologics?",
+        "How might the strike affect the supply chain for raw materials used in biopharmaceutical production?"
+      ],
+      "reason": "The planned strike by the labor union at Samsung Biologics poses a significant risk to production and manufacturing operations, potentially leading to delays and financial losses due to halted processes and the need to discard batches of products.",
+      "summary": "Samsung Biologics is facing a potential three-week strike due to unresolved wage negotiations, which could disrupt production processes and lead to significant financial losses. The strike may impact the supply chain for biopharmaceuticals, affecting both upstream suppliers and downstream customers.",
+      "title": "삼성바이오 노조 , 26일부터 3주간 2차 총파업 … 임금협상  평행선  ",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=05100406645608984&mediaCodeNo=257",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Commemoration of the People's Heroes Monument",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political event and historical narrative without any direct implications for supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a political commemoration event in China and critiques the historical narrative surrounding it. There are no indications of supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "林輝 ： 習等祭拜的紀念碑終將被推倒",
+      "url": "https://www.epochtimes.com/b5/26/9/30/n14860771.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Contract Termination of Talent",
+      "companies_involved": [
+        "STARTO ENTERTAINMENT",
+        "Fuji Television",
+        "Nippon Television"
+      ],
+      "industries_involved": [
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the termination of a talent contract and its implications for television programming, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the termination of a talent contract by STARTO ENTERTAINMENT and the subsequent adjustments by television networks. This event is related to the entertainment industry and does not impact supply chain operations.",
+      "title": " 「 timeleszファミリア 」 放送の日テレ 猪俣周杜専属契約解除を受け 「 今後は7人で番組を継続 」（ スポニチ ） ",
+      "url": "https://mainichi.jp/articles/20261001/spp/sp0/006/138000c",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Geopolitical Tensions over 'Enemy State Clause'",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical tensions and historical positions regarding the 'Enemy State Clause' in the UN Charter, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a geopolitical dispute between China and Japan regarding the 'Enemy State Clause' in the UN Charter. While it reflects on historical positions and current military policies, it does not present a direct supply chain disruption.",
+      "title": "北京重提  敌国条款  30年前曾支持删除",
+      "url": "https://www.renminbao.com/rmb/articles/2026/10/1/96719.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T160000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Contract Termination of Talent",
+      "companies_involved": [
+        "STARTO ENTERTAINMENT",
+        "Fuji Television",
+        "Nippon Television"
+      ],
+      "industries_involved": [
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the termination of a talent contract and its impact on television programming, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the termination of a contract with a talent by STARTO ENTERTAINMENT, leading to changes in television programming. This event is related to the entertainment industry and does not represent a supply chain disruption.",
+      "title": " 「 timeleszファミリア 」 放送の日テレ 猪俣周杜専属契約解除を受け 「 今後は7人で番組を継続 」 - スポニチ Sponichi Annex 芸能",
+      "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/01/kiji/20261001s00041000124000c.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T023000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "PCA's performance in MLB playoffs",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a baseball player's performance and does not relate to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the performance of a baseball player in the MLB playoffs and does not indicate any supply chain disruption. There are no relevant companies, industries, or countries involved in supply chain activities.",
+      "title": "どうしたPCA … MVP  最有力  が2試合で早くも4三振 NHK解説者 「 焦ってますね 」（ スポニチ ） ",
+      "url": "https://mainichi.jp/articles/20261001/spp/sp0/102/144000c",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Subaru athlete's performance",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a sports event and the performance of an athlete, with no meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article discusses Subaru athlete Yamada Tomoki's commitment to contribute to his team's performance in a baseball championship. It does not relate to any supply chain disruptions or impacts.",
+      "title": "SUBARU ・ 山田知輝が2大会連続の日本選手権出場誓う 「 打撃で貢献したい 」 2日に関東代表決定戦初戦 （ スポニチ ） ",
+      "url": "https://mainichi.jp/articles/20261001/spp/sp0/001/000000c",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T004500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased US Military Presence in the Middle East",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by increased military tensions in the Middle East?",
+        "Which logistics companies operate in the region and could be impacted by geopolitical instability?",
+        "Which countries rely on energy shipments through the Strait of Hormuz that could be disrupted?",
+        "Which downstream companies depend on oil and gas supplies from the affected region?",
+        "What are the potential impacts on trade routes due to military escalations in the Middle East?"
+      ],
+      "reason": "The deployment of additional US military forces to the Middle East raises concerns about potential disruptions to energy supply chains, particularly through critical shipping routes like the Strait of Hormuz, which could affect global oil and gas markets.",
+      "summary": "The US is increasing its military presence in the Middle East amid escalating tensions with Iran, which could lead to significant disruptions in energy supply chains. The situation poses risks to logistics and trade, particularly for countries reliant on energy shipments through the region.",
+      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+      "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Hyundai and Kia Sales Decline Due to Supply Chain Issues",
+      "companies_involved": [
+        "Hyundai",
+        "Kia"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Hyundai and Kia may be affected by the production issues?",
+        "Which manufacturing facilities are impacted by the supply chain disruptions?",
+        "What regions are critical for the supply of components to Hyundai and Kia?",
+        "Which supply-chain dependencies could transmit the disruption to other automotive manufacturers?",
+        "Which downstream companies rely on vehicles produced by Hyundai and Kia?"
+      ],
+      "reason": "The article discusses significant sales declines for Hyundai due to production issues, including supply chain disruptions and labor strikes, which directly impact manufacturing and logistics operations.",
+      "summary": "Hyundai and Kia experienced contrasting sales results in September, with Hyundai facing a 16% decline attributed to supply chain disruptions and production issues. This situation highlights the operational challenges within the automotive industry, particularly in South Korea.",
+      "title": "현대차 · 기아 9월 판매 희비 … 해외 시장 성적표가 갈랐다",
+      "url": "https://www.newspim.com/news/view/20261002000961",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Australia-Japan Military Cooperation and Testing",
+      "companies_involved": [
+        "Australian Defense Force",
+        "Japan Ground Self-Defense Force"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Australia",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment are affected by the military cooperation between Australia and Japan?",
+        "Which manufacturing facilities in Australia may be impacted by increased military testing activities?",
+        "What geopolitical risks could affect trade relationships between Australia and Japan?",
+        "Which countries may impose restrictions on defense exports to Australia due to its cooperation with Japan?",
+        "Which downstream companies in the defense industry rely on the testing facilities in Australia?"
+      ],
+      "reason": "The military collaboration between Australia and Japan, particularly in the context of testing long-range strike capabilities, introduces geopolitical risks that could disrupt supply chains related to defense manufacturing and logistics.",
+      "summary": "The article discusses the deepening military ties between Australia and Japan, particularly in the context of testing long-range weapons. This cooperation poses potential geopolitical risks that could impact supply chains in the defense sector.",
+      "title": "Providing Japan with test ranges , Canberra risks becoming a target",
+      "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16490603.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T143000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical Political Commentary",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses historical and political perspectives on Sino-American relations and does not present any direct supply chain disruptions or impacts on logistics, production, or trade activities.",
+      "summary": "The article reflects on historical ties between China and the United States, particularly during World War II, and discusses the potential for renewed dialogue between China and Taiwan. However, it does not indicate any actual or potential supply chain disruptions.",
+      "title": "黃丙喜觀點 ： 孫中山與二戰歷史─兩岸重回和平對話的最大公約數 | 黃丙喜 | 評論",
+      "url": "https://www.storm.mg/article/11168583",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Seasonal seafood promotion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a culinary promotion related to seasonal seafood and does not indicate any disruptions in supply chain activities.",
+      "summary": "The article focuses on a seasonal seafood promotion at a restaurant, highlighting the culinary aspects of autumn crabs. It does not present any information related to supply chain disruptions.",
+      "title": "秋蟹之美豈止膏腴肉甜 ： 凱華樓以六道海味演繹時令與火候",
+      "url": "https://n.yam.com/Article/20261002326868",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Franchise Exhibition",
+      "companies_involved": [],
+      "industries_involved": [
+        "Food and Beverage",
+        "Health",
+        "Beauty"
+      ],
+      "countries_involved": [
+        "Various (26 countries represented)"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a franchise exhibition and the potential business opportunities in various sectors, but it does not indicate any specific disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a franchise exhibition involving representatives from 26 countries, focusing on opportunities in the food, health, and beauty industries. However, it does not present any direct supply chain disruptions.",
+      "title": "世界加盟展 26國代表共創40億商機 省人力服務 主打餐飲健康美容三大領域",
+      "url": "https://n.yam.com/Article/20261002264668",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased US Military Presence in the Middle East",
+      "companies_involved": [
+        "US Navy",
+        "Marine Corps"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the US Navy may be affected by increased military operations in the region?",
+        "Which energy companies rely on the Strait of Hormuz for oil transportation?",
+        "Which countries or regions are exposed to potential disruptions in oil supply due to military tensions?",
+        "Which downstream companies depend on oil supplies that pass through the Strait of Hormuz?",
+        "What logistics operations could be impacted by the US military's presence in the Middle East?"
+      ],
+      "reason": "The deployment of additional military forces in the Middle East raises tensions with Iran, which could disrupt oil supply routes and impact logistics and transportation in the region.",
+      "summary": "The US is increasing its military presence in the Middle East amid rising tensions with Iran, which could have significant implications for global oil supply and logistics. This geopolitical event poses risks to companies and industries reliant on stable energy supplies and transportation routes.",
+      "title": "US to send 3rd carrier strike group to Middle East as Iran tensions rise : Report",
+      "url": "https://aa.com.tr/en/us-israel-iran-war/us-to-send-3rd-carrier-strike-group-to-middle-east-as-iran-tensions-rise-report/4075490",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Global Bond Market Adjustment",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "United Kingdom",
+        "France",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses adjustments in the global bond market without a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on significant adjustments in the global bond market affecting major economies. However, it does not indicate any direct impact on supply chain activities.",
+      "title": "深观察丨全球债券市场遭遇  世纪级  调整 美英法日同步承压",
+      "url": "https://baijiahao.baidu.com/s?id=1877895673316266299",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased military presence in the Middle East",
+      "companies_involved": [
+        "Huawei",
+        "Micron",
+        "Nike"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Semiconductors",
+        "Apparel"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Huawei may be affected by geopolitical tensions in the Middle East?",
+        "Which manufacturing facilities of Micron are exposed to disruptions due to increased military presence?",
+        "What are the potential impacts on Nike's supply chain from rising tensions in the region?",
+        "Which countries or regions create exposure for companies involved in semiconductor manufacturing?",
+        "Which downstream companies depend on products from the affected suppliers in the technology and apparel sectors?"
+      ],
+      "reason": "The article discusses increased military presence in the Middle East, which could disrupt supply chains due to geopolitical tensions affecting trade routes and supplier relationships.",
+      "summary": "The article highlights rising geopolitical tensions in the Middle East, particularly involving the U.S. and Iran, which could impact supply chains for companies like Huawei, Micron, and Nike. Increased military presence may lead to disruptions in logistics and trade, affecting various industries.",
+      "title": "华尔街见闻早餐FM - Radio | 2026年10月2日",
+      "url": "https://wallstreetcn.com/articles/3782904",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Photography Exhibition",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a photography exhibition in Shanghai and does not mention any supply chain activities or disruptions.",
+      "summary": "The article focuses on a photography exhibition that captures stories of struggle in Shanghai. It does not relate to any supply chain disruptions or activities.",
+      "title": "从  烟火气  到  国际范 ， 这场摄影展记录上海奋斗故事",
+      "url": "https://baijiahao.baidu.com/s?id=1877716518021826858",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Completion of geological map",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the completion of a geological map and its implications for scientific understanding and resource security, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the completion of a geological map by Chinese researchers, which enhances understanding of geological structures and resource security. However, it does not present any immediate or potential supply chain disruptions.",
+      "title": "我国完成1∶500万中国及邻区大地构造图 -- 社会 · 法治 -- 人民网",
+      "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808711.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Micron's Global Manufacturing Expansion",
+      "companies_involved": [
+        "Micron Technology",
+        "台積電 (TSMC)",
+        "帆宣 (Feng Hsin)",
+        "亞翔 (ASE Technology)",
+        "漢唐 (Hantang)"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "United States",
+        "Singapore",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Micron Technology operate in the affected regions?",
+        "Which manufacturing facilities depend on the Taiwanese suppliers involved in the expansion?",
+        "What are the potential impacts on logistics due to the expansion in multiple countries?",
+        "Which countries or regions create exposure for Micron's supply chain?",
+        "Which downstream companies depend on products from the affected suppliers?"
+      ],
+      "reason": "The article discusses Micron's expansion of manufacturing capabilities in multiple countries, which involves collaboration with Taiwanese suppliers. This expansion could impact supply chain activities related to production, logistics, and supplier relationships.",
+      "summary": "Micron Technology is expanding its manufacturing operations globally, involving Taiwanese suppliers in projects across the United States, Singapore, and Japan. This expansion raises potential supply chain risks related to production capabilities and supplier dependencies.",
+      "title": "攜手台積電CoWoS生態系 ！ 美光帶帆宣 、 亞翔 、 漢唐赴美日星 ， 台廠供應鏈拓海外 | 魏鑫陽 | 財經",
+      "url": "https://www.storm.mg/article/11169160",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T173000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Chinese Short Dramas Entering Hollywood with AI Integration",
+      "companies_involved": [
+        "Fox Entertainment",
+        "Universal Pictures",
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Film and Television",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Fox Entertainment and Universal Pictures may be affected by the integration of Chinese short dramas?",
+        "Which production facilities in the U.S. are involved in the creation of these short dramas?",
+        "What dependencies exist between Chinese AI technology providers and U.S. film production companies?",
+        "Which downstream companies in the entertainment industry rely on the success of these new short drama formats?",
+        "How might changes in audience preferences in the U.S. impact the supply chain for content production?"
+      ],
+      "reason": "The article discusses the integration of Chinese short dramas into the U.S. film industry, highlighting the operational changes and the use of AI technology, which can significantly impact production processes and supply chain dynamics in the entertainment sector.",
+      "summary": "Chinese short dramas are increasingly entering the U.S. market, leveraging AI technology to enhance production efficiency. This shift represents a significant operational change in the film industry, potentially affecting various stakeholders in the supply chain.",
+      "title": "从竖屏闯好莱坞到AI技术入戏 中国影视出海升级",
+      "url": "https://finance.sina.com.cn/roll/2026-10-02/doc-inituwtr7585411.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Escalation of Middle East tensions affecting airline operations",
+      "companies_involved": [
+        "美兰空港",
+        "中国东方航空",
+        "中国国航"
+      ],
+      "industries_involved": [
+        "Aviation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Iran",
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of 美兰空港 operate in the affected region?",
+        "Which manufacturing or production relationships may be affected by rising fuel costs?",
+        "Which countries or regions create exposure for 中国东方航空 due to geopolitical tensions?",
+        "Which supply-chain dependencies could transmit the disruption from the Middle East to Chinese airlines?",
+        "Which downstream companies or operations may be exposed to increased fuel costs due to the geopolitical situation?"
+      ],
+      "reason": "The article discusses the impact of escalating geopolitical tensions in the Middle East on airline stocks and fuel prices, which directly affects the aviation industry's supply chain through increased operational costs and potential disruptions in fuel supply.",
+      "summary": "The article highlights the significant impact of rising geopolitical tensions in the Middle East on airline companies in China, leading to stock declines and increased fuel costs. This situation poses a risk to the supply chain of the aviation industry due to heightened operational expenses and potential disruptions in energy supply.",
+      "title": "中东局势骤紧拖累航空股 美兰空港和中国东方航空均跌超6 % _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202610023888337594.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Doha Debates Podcast Season Launch",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the return of a podcast series and does not mention any supply chain activities, disruptions, or impacts on suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article announces the return of the Doha Debates podcast for a new season. It does not relate to any supply chain disruptions or impacts.",
+      "title": "Doha Debates播客節目重返螢幕 ， 全新一季將探索形塑現今世界的種種概念",
+      "url": "https://n.yam.com/Article/20261002404658",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Opening of upgraded exhibition at Xibaipo Memorial Museum",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the opening of a memorial exhibition and does not indicate any disruptions or impacts on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the completion and opening of an upgraded exhibition at the Xibaipo Memorial Museum in China. It focuses on historical education and visitor engagement rather than any supply chain disruptions.",
+      "title": "修缮提升 ， 西柏坡纪念馆主题展馆开放",
+      "url": "https://hebei.ifeng.com/c/8wt2mXdI8gO",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Rising Import Risks in EU",
+      "companies_involved": [
+        "European Union",
+        "Chinese Exporters"
+      ],
+      "industries_involved": [
+        "Machinery",
+        "Textiles",
+        "Metals",
+        "Chemicals"
+      ],
+      "countries_involved": [
+        "European Union",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of machinery and textiles in the EU may be affected by increased import scrutiny?",
+        "Which manufacturing facilities in the EU depend on imports from China?",
+        "What are the potential impacts on logistics companies handling imports from China to the EU?",
+        "Which downstream companies in the EU rely on products from Chinese suppliers in the affected sectors?",
+        "How might trade policy changes affect sourcing strategies for EU companies?"
+      ],
+      "reason": "The article discusses significant increases in imports from China to the EU, raising concerns about trade policy and potential regulatory changes that could disrupt supply chains in various industries.",
+      "summary": "The European Commission has highlighted alarming trends in EU imports, particularly from China, which could lead to increased trade protection measures. This situation poses risks to supply chains in sectors such as machinery, textiles, metals, and chemicals.",
+      "title": "Европска комисија : четвртина укупног увоза у ЕУ показује ризичне трендове",
+      "url": "https://www.politika.rs/scc/clanak/789978/evropska-komisija-cetvrtina-ukupnog-uvoza-u-eu-pokazuje-rizicne-trendove",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T154500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volvo Car Sales Decline",
+      "companies_involved": [
+        "Volvo Car",
+        "Zhejiang Geely Holding Group"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Sweden"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volvo Car are located in China and the United States?",
+        "Which manufacturing facilities are affected by the decline in sales in these key markets?",
+        "What impact does the sales decline have on the supply chain dependencies with Zhejiang Geely Holding Group?",
+        "Which downstream companies depend on Volvo Car's production output?",
+        "How do currency fluctuations affect Volvo Car's supply chain costs?"
+      ],
+      "reason": "The significant decline in sales in key markets like China and the United States directly impacts Volvo Car's production and financial performance, indicating a disruption in their operational capabilities and supply chain activities.",
+      "summary": "Volvo Car has withdrawn its short-term sales forecasts due to a significant decline in sales, particularly in China and the United States. This operational disruption is expected to negatively impact their core earnings and cash flows.",
+      "title": "Volvo Car wycofuje prognozy . Chiny i united states uderzają w wyniki",
+      "url": "https://www.pb.pl/volvo-car-wycofuje-prognozy-chiny-i-usa-uderzaja-w-wyniki-1268069",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T094500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Film Production Review",
+      "companies_involved": [],
+      "industries_involved": [
+        "Film"
+      ],
+      "countries_involved": [
+        "China",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a film director's reflection on past production challenges and does not indicate any actual or potential disruptions to supply chain activities.",
+      "summary": "The article focuses on a film director's analysis of past production issues related to a specific film. It does not present any supply chain disruptions or impacts on logistics, manufacturing, or trade.",
+      "title": "时隔5年许鞍华再次检讨 《 第一炉香 》 坦荡面对失误 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261002/49774813.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Volkswagen Labor Dispute",
+      "companies_involved": [
+        "Volkswagen"
+      ],
+      "industries_involved": [
+        "Automotive"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Volkswagen may be affected by the labor dispute?",
+        "Which manufacturing facilities of Volkswagen could be impacted by potential strikes?",
+        "What regions are most vulnerable to disruptions in Volkswagen's supply chain due to labor issues?",
+        "Which supply-chain dependencies could be affected by the labor negotiations?",
+        "Which downstream companies rely on products from Volkswagen that may be impacted by this dispute?"
+      ],
+      "reason": "The article discusses a potential labor strike at Volkswagen, which could disrupt manufacturing and production activities, thereby impacting the supply chain.",
+      "summary": "Volkswagen is facing a potential labor strike due to disputes over work agreements, which could significantly disrupt its manufacturing operations. The situation is exacerbated by the company's recent decision to reduce its workforce, indicating broader operational challenges.",
+      "title": "Facket hotar Volkswagen med strejk",
+      "url": "https://www.svd.se/a/wrMyE5/facket-hotar-volkswagen-med-strejk",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T184500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "UK MI5 Espionage Alert on Chinese Research Collaboration",
+      "companies_involved": [
+        "China General Technology Research Institute (CGTRI)"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Academia"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which UK universities have partnerships with CGTRI that may be affected by the espionage alert?",
+        "Which suppliers of technology and research services may be impacted by increased scrutiny on collaborations with Chinese entities?",
+        "What manufacturing or production relationships exist between UK firms and Chinese technology providers?",
+        "Which countries or regions are involved in the supply chain of technology that may be affected by geopolitical tensions?",
+        "Which downstream companies in the UK depend on research outputs from collaborations with CGTRI?"
+      ],
+      "reason": "The alert from MI5 indicates potential risks to national security and academic collaborations, which could disrupt supply chains involving technology and research partnerships between the UK and China.",
+      "summary": "The UK MI5 has issued a rare alert regarding espionage activities linked to a Chinese research institute, potentially impacting academic and technological collaborations. This geopolitical event raises concerns about supply chain disruptions in technology and research sectors involving UK and Chinese entities.",
+      "title": "英国MI5首次公开发警报 指中国借学术研究提升间谍技术能力",
+      "url": "https://www.zaobao.com.sg/news/china/story20261001-9764654",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "National Day Celebrations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article describes a national celebration event with no direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the National Day celebrations in Guangdong, China, highlighting flag-raising ceremonies and public participation. There are no indications of supply chain disruptions or impacts on related activities.",
+      "title": "广东多地民众共迎国庆第一缕曙光 朝阳与国旗同辉 _ 南方网",
+      "url": "https://news.southcn.com/node_ac2b0b62a4/65dd5e72cb.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Reconstruction of fraudulent operation site",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Myanmar"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the reconstruction of a fraudulent operation site in Myanmar, which does not have a meaningful connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article reports on the rebuilding of a fraudulent operation site in Myanmar. It does not indicate any direct impact on supply chain activities or related industries.",
+      "title": "7月刚拆完的缅甸妙瓦底电诈园区陆续重建 ， 正通过社交媒体公开招募成员 ， 演员王星曾被骗到此处",
+      "url": "https://baijiahao.baidu.com/s?id=1877718973150722040",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "China halts oil product exports",
+      "companies_involved": [
+        "Chinese oil companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "China",
+        "United States",
+        "Iran",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil products are affected by China's export halt?",
+        "Which manufacturing facilities depend on oil products from China?",
+        "Which countries or regions are most impacted by the reduction in oil supply?",
+        "Which supply-chain dependencies could transmit the disruption from China to other regions?",
+        "Which downstream companies rely on oil products from the affected suppliers?"
+      ],
+      "reason": "The halt of oil product exports by China creates a significant disruption in the global energy supply chain, affecting production, logistics, and trade dynamics, especially in the context of rising geopolitical tensions in the Middle East.",
+      "summary": "China's decision to stop oil product exports has led to a sharp increase in global oil prices, indicating a potential supply chain disruption in the energy sector. This situation is exacerbated by geopolitical tensions involving the U.S. and Iran, which could further strain oil supply during the winter months.",
+      "title": "中 석유 수출 막자 브렌트유 4 % 급등 … 美 추가 파병까지",
+      "url": "https://biz.heraldcorp.com/article/10891196",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "10th Anniversary Celebration of Taichung National Opera House",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a celebratory event with no meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the 10th anniversary celebration of the Taichung National Opera House, featuring performances and festivities. There are no indications of supply chain disruptions or impacts on related industries or companies.",
+      "title": "臺中國家歌劇院10週年生日派對登場 九天戰鼓 、 120斤新丁粄熱鬧慶生",
+      "url": "https://n.yam.com/Article/20260930264898",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T134500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "High-end gifting market analysis",
+      "companies_involved": [
+        "茅台",
+        "爱马仕",
+        "和成天下"
+      ],
+      "industries_involved": [
+        "Luxury Goods",
+        "Consumer Goods"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses trends in high-end gifting and consumer behavior among wealthy individuals in China, but it does not indicate any specific supply chain disruptions or risks related to suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article analyzes the high-end gifting market in China, highlighting trends among wealthy consumers and the prominence of certain luxury brands. However, it does not present any direct supply chain disruptions or risks.",
+      "title": " 《 2026胡润中国高端礼赠特别报告 》 正式发布 茅台 、 爱马仕 、 和成天下为何成为高端礼赠代表案例 ？_ 中华网",
+      "url": "https://digi.china.com/articles/20260930/202609301963198.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T074500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Chinese Short Dramas Entering Hollywood with AI Integration",
+      "companies_involved": [
+        "Fox Entertainment",
+        "Universal",
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Film and Television",
+        "Technology"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Fox Entertainment are involved in the production of short dramas?",
+        "Which production facilities in the U.S. are collaborating with Chinese companies on short dramas?",
+        "What are the dependencies between Chinese AI technology providers and U.S. film production companies?",
+        "Which downstream companies in the U.S. film industry rely on the integration of Chinese AI tools?",
+        "How might changes in the production model affect supply chain relationships in the film industry?"
+      ],
+      "reason": "The article discusses the integration of Chinese short dramas and AI technology into the U.S. film industry, which indicates a shift in production processes and potential impacts on supply chain relationships within the entertainment sector.",
+      "summary": "Chinese short dramas are increasingly entering the U.S. market, leveraging AI technology to enhance production efficiency. This shift represents a significant change in the operational dynamics of the film industry, affecting both production and supply chain relationships.",
+      "title": "从竖屏闯好莱坞到AI技术入戏 中国影视出海升级 - 中新网",
+      "url": "https://www.chinanews.com.cn/cul/2026/10-02/10707039.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Launch of New Cake Product",
+      "companies_involved": [
+        "Molynk"
+      ],
+      "industries_involved": [
+        "Food and Beverage",
+        "Retail"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the launch of a new cake product and its popularity among tourists, but it does not indicate any disruptions to supply chains, production, or logistics.",
+      "summary": "The article highlights the successful launch of a new cake product in Shanghai, attracting both local and international customers. However, it does not present any supply chain disruptions or risks associated with this event.",
+      "title": "切片蛋糕捏捏乐全球首发 ， 中外游客排队买上海新晋伴手礼",
+      "url": "https://www.163.com/dy/article/L87NGB5Q055040N3.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased US Military Presence in the Middle East",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Strait of Hormuz and may be affected by military actions?",
+        "Which energy suppliers could be impacted by disruptions in the Middle East due to increased military tensions?",
+        "Which defense contractors are involved in supplying military equipment to the US forces in the region?",
+        "What are the potential impacts on oil supply chains if military actions escalate?",
+        "Which downstream companies depend on oil imports from the Middle East?"
+      ],
+      "reason": "The article discusses the deployment of US military forces to the Middle East in response to tensions with Iran, which could disrupt shipping routes, energy supplies, and trade in the region, thereby impacting global supply chains.",
+      "summary": "The article highlights the potential for increased military conflict in the Middle East due to US troop deployments, which could disrupt shipping and energy supply chains. The geopolitical tensions may lead to significant impacts on trade and logistics in the region.",
+      "title": "  11月或再炸伊朗 ， 美军第三艘航母驶向中东|美国|五角大楼",
+      "url": "https://www.163.com/dy/article/L87NFVUT051481US.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Middle East Tensions Impacting Oil Prices",
+      "companies_involved": [
+        "NVIDIA",
+        "Micron",
+        "Freddie Mac"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Energy",
+        "Finance"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of NVIDIA and Micron may be affected by rising oil prices?",
+        "Which manufacturing facilities depend on energy supplies from the Middle East?",
+        "How might increased oil prices impact the logistics costs for companies in the technology sector?",
+        "Which downstream companies depend on products from the affected suppliers in the energy sector?",
+        "What are the potential impacts on the financial sector due to rising interest rates and oil prices?"
+      ],
+      "reason": "The article discusses rising oil prices due to geopolitical tensions in the Middle East, which can significantly impact logistics and transportation costs, as well as production in energy-dependent industries.",
+      "summary": "Geopolitical tensions in the Middle East are driving up oil prices, which could lead to increased costs for logistics and production across various industries. Companies like NVIDIA and Micron may face supply chain challenges due to these rising energy costs.",
+      "title": "美債殖利率衝24年高點後回落 … 美股終場翻紅 油價破百美元 | 全球財經 | 全球",
+      "url": "https://udn.com/news/story/6811/9789759",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261001T233000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "New skincare product launches",
+      "companies_involved": [
+        "寵愛之名",
+        "Dr. May美博士",
+        "Curél珂潤",
+        "秀雅韓"
+      ],
+      "industries_involved": [
+        "Cosmetics",
+        "Skincare"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses new product launches in the skincare industry without indicating any disruptions to supply chains, manufacturing, or logistics.",
+      "summary": "The article highlights the launch of new anti-aging skincare products by several brands in Taiwan. It focuses on trends in skincare rather than any supply chain disruptions or risks.",
+      "title": "PDRN 、 外泌體紅什麼 ？ 4品牌 「 精準抗老新品 」 一次看 換季保養全面升級 | 愛漂亮",
+      "url": "https://woman.udn.com/woman/story/123163/9785967",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "strike",
+      "published_at": "20260930T080000Z"
     }
   ]
 }
