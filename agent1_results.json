@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T14:20:55Z",
-  "total_count": 10897,
+  "updated_at": "2026-10-04T23:11:32Z",
+  "total_count": 11014,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -297113,6 +297113,2884 @@
       "gdelt_country": "India",
       "gdelt_keyword": "flood",
       "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Debate on Drug Policy",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political debate regarding drug policy in Taiwan, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article covers a political discussion on drug policy in Taiwan, focusing on past statements made by a political candidate. It does not indicate any supply chain disruption or impact on related industries.",
+      "title": "爆沈伯洋曾發表文章 「 把毒品和藥品劃等號 」 楊植斗 ： 現在還認為 ？ | ETtoday政治新聞",
+      "url": "https://www.ettoday.net/news/20261002/3247727.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical analysis of figures",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses historical figures and their representations in folklore, with no connection to supply chain activities or disruptions.",
+      "summary": "The article focuses on the historical context and cultural significance of figures from the Shu Han period, with no relevance to current supply chain activities or disruptions.",
+      "title": "蜀漢五虎將赫赫有名 4人死後封神 唯獨1人遭冷落 - 歷史",
+      "url": "https://www.chinatimes.com/hottopic/20261002001444-260812",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the recognition of social workers and does not have any meaningful connection to supply chain activities.",
+      "summary": "The article highlights the recognition of social workers in New Taipei City. It does not pertain to any supply chain disruptions or related activities.",
+      "title": "第四屆全國績優社政人員表揚新北市許憶真等6位獲獎",
+      "url": "https://n.yam.com/Article/20261002363350",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T093000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Celebration of National Day and Chamber's Anniversary",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Hong Kong"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a celebratory event and does not indicate any actual or potential disruptions to supply chain activities.",
+      "summary": "The article reports on a celebration held by the Hong Kong Shantou Chamber of Commerce for the 77th anniversary of the People's Republic of China and the 80th anniversary of the chamber itself. It does not present any information related to supply chain disruptions.",
+      "title": "香港汕頭商會賀國慶77周年暨創會80周年",
+      "url": "https://www.hkcd.com/hkcdweb/content/2026/10/02/content_8778198.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Introduction of Disaster Preparedness Game in Education",
+      "companies_involved": [
+        "アールシーソリューション株式会社"
+      ],
+      "industries_involved": [
+        "Education",
+        "Disaster Management"
+      ],
+      "countries_involved": [
+        "Japan",
+        "China",
+        "Bangladesh"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the introduction of a disaster preparedness educational tool but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the use of a disaster preparedness card game in Japanese language schools to educate foreign students about disaster response. While it promotes safety and awareness, it does not represent a supply chain disruption.",
+      "title": "防災カードゲーム 「 PREP 」 日本語学校の防災教育で活用",
+      "url": "https://www.chibanippo.co.jp/prwire/1674272",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Historical Property Dispute",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a historical property dispute and does not present any current or potential supply chain disruptions related to suppliers, manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article recounts a historical property dispute involving a San Francisco undertaker and a railroad millionaire. It does not relate to any current supply chain disruptions or risks.",
+      "title": "In the 1870s , a San Francisco undertaker refused to sell his small house to a railroad millionaire ; instead of taking it , the tycoon built a towering spite fence around it",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-the-1870s-a-san-francisco-undertaker-refused-to-sell-his-small-house-to-a-railroad-millionaire-instead-of-taking-it-the-tycoon-built-a-towering-spite-fence-around-it/articleshow/134614593.cms",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Himlung Avalanche",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Mountaineering"
+      ],
+      "countries_involved": [
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which trekking companies operate in the affected region?",
+        "Which suppliers provide equipment or services to the mountaineering industry in Nepal?",
+        "Which tourism operators may be impacted by the disruption in climbing activities?",
+        "Which regions in Nepal are dependent on tourism for economic stability?",
+        "Which downstream companies rely on the tourism and mountaineering industry in Nepal?"
+      ],
+      "reason": "The avalanche at the Himlung base camp has a direct impact on the mountaineering tourism industry in Nepal, affecting logistics, safety, and future climbing activities, which are crucial for the local economy.",
+      "summary": "The Himlung avalanche has resulted in multiple fatalities and poses a significant risk to the mountaineering tourism industry in Nepal. This disaster may disrupt logistics and operations for trekking companies and related suppliers in the region.",
+      "title": "Himlung avalanche toll rises to 15 , one still missing",
+      "url": "https://peoplesreview.com.np/2026/10/02/himlung-avalanche-toll-rises-to-15-one-still-missing/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Entertainment Release",
+      "companies_involved": [],
+      "industries_involved": [
+        "Entertainment"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses new entertainment releases and does not present any information related to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights upcoming entertainment releases on Netflix, focusing on various films and series. There are no indications of supply chain disruptions or impacts on related industries.",
+      "title": "Netflix : 23 nouveautés débarquent cette semaine , dont une mini - série d  épouvante avec Josh Hartnett de six épisodes seulement ! ",
+      "url": "https://www.allocine.fr:443/article/fichearticle_gen_carticle=1000225528.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Logistics",
+      "event": "Opening of Harbin to Yichun High-Speed Railway",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Logistics",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may benefit from improved logistics in the Harbin to Yichun region?",
+        "Which manufacturing facilities are located near the new high-speed railway?",
+        "Which tourism companies may see increased demand due to improved access to Yichun?",
+        "Which downstream companies depend on transportation services in the affected region?",
+        "What impact will the new railway have on supply chain routes in Northeast China?"
+      ],
+      "reason": "The opening of the Harbin to Yichun high-speed railway significantly enhances transportation logistics in the region, impacting supply chains related to transportation, tourism, and local economies.",
+      "summary": "The Harbin to Yichun high-speed railway has officially opened, improving logistics and transportation in Northeast China. This development is expected to enhance economic activities and supply chain efficiencies in the region.",
+      "title": "写在我国最北高铁开通之际 - 鲁网新闻中心",
+      "url": "http://news.sdnews.com.cn/gn/202609/t20260929_4746720.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flood Control Infrastructure Development",
+      "companies_involved": [],
+      "industries_involved": [
+        "Water Management",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products may be affected by changes in water supply?",
+        "Which manufacturing facilities depend on water management systems in China?",
+        "Which regions in China are most vulnerable to flooding and could impact agricultural output?",
+        "What supply-chain dependencies exist between water management projects and agricultural production?",
+        "Which downstream companies rely on water resources managed by the new infrastructure?"
+      ],
+      "reason": "The article discusses significant investments in flood control and water management infrastructure in China, which can impact agricultural production and logistics due to improved water supply and flood mitigation efforts.",
+      "summary": "China is accelerating the development of its water network to enhance flood control and disaster mitigation. This initiative is expected to improve agricultural output and logistics by ensuring better water management and reducing flood risks.",
+      "title": "China to accelerate water network development",
+      "url": "http://global.chinadaily.com.cn/a/202610/01/WS6abd979be4b06d4aa056116c.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flood Control Infrastructure Development",
+      "companies_involved": [],
+      "industries_involved": [
+        "Water Management",
+        "Agriculture",
+        "Construction"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of water management equipment may be affected by the new infrastructure projects?",
+        "Which agricultural producers depend on the irrigation improvements in the affected regions?",
+        "Which construction companies are involved in the flood-control projects?",
+        "How might changes in water allocation impact agricultural supply chains?",
+        "Which downstream companies rely on the stability of water supply for their operations?"
+      ],
+      "reason": "The article discusses significant investments and developments in flood control and water management infrastructure in China, which can impact agricultural production, logistics, and water supply chains.",
+      "summary": "China is accelerating the development of its water network to enhance flood control and disaster mitigation. This initiative is likely to affect agricultural production and logistics due to improved irrigation and water management systems.",
+      "title": "China to accelerate water network development",
+      "url": "http://usa.chinadaily.com.cn/a/202610/01/WS6abd979be4b06d4aa056116c.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taipei City Government Social Media Management Issue",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses issues related to social media management and cybersecurity within the Taipei City Government, which do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a management issue within the Taipei City Government's social media accounts, including unauthorized access and cybersecurity concerns. However, it does not indicate any direct impact on supply chain activities.",
+      "title": "北市府官方粉專 「 狂發中國AI短片 」 超過一週救不回 ！ 議員怒轟荒腔走板 | 政治",
+      "url": "https://www.setn.com/news/1916142",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Social Media Account Hacking",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event described in the article pertains to a social media account being hacked, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses a hacking incident involving a social media account of a government department in Taiwan. This event does not represent a supply chain disruption as it lacks a meaningful connection to supply chain activities.",
+      "title": "扯 ！ 大地處粉專6天狂發28則 「 中國AI短片 」 蔣萬安 ： 我要求趕快處理 | 政治",
+      "url": "https://www.setn.com/news/1916152",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Completion of the Hongqili Waterway Bridge",
+      "companies_involved": [
+        "Xia Shen Railway Guangdong Co., Ltd.",
+        "China Railway Fourth Survey and Design Institute",
+        "China Railway Bridge Bureau"
+      ],
+      "industries_involved": [
+        "Construction",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are involved in the bridge project?",
+        "Which manufacturing facilities produce components for the bridge?",
+        "How might the completion of this bridge affect logistics and transportation in the region?",
+        "Which downstream companies rely on improved transportation links from the bridge?",
+        "What are the potential impacts on regional trade due to enhanced connectivity?"
+      ],
+      "reason": "The completion of the Hongqili Waterway Bridge is a significant infrastructure development that will enhance transportation and logistics in the Guangdong-Hong Kong-Macau Greater Bay Area, potentially impacting supply chain operations in the region.",
+      "summary": "The successful completion of the Hongqili Waterway Bridge is expected to significantly improve transportation and logistics in the Guangdong-Hong Kong-Macau Greater Bay Area. This infrastructure project will facilitate better connectivity between major cities, impacting supply chain dynamics in the region.",
+      "title": "粤港澳大湾区最大跨度公铁两用大桥顺利合龙 _ 广州日报大洋网",
+      "url": "https://news.dayoo.com/guangdong/202610/02/139996_55009610.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Green Iguana Infestation Impacting Red Bean Production",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products may be affected by the green iguana infestation?",
+        "Which farming operations are at risk due to the presence of green iguanas?",
+        "What regions in Taiwan are most impacted by this pest issue?",
+        "Which downstream companies rely on red beans from the affected areas?",
+        "How might the infestation affect the supply chain for red bean products?"
+      ],
+      "reason": "The article discusses a significant pest issue (green iguanas) that threatens the production of red beans in Pingtung County, Taiwan, which can disrupt agricultural supply chains.",
+      "summary": "A pest infestation of green iguanas is threatening the red bean crop in Pingtung County, Taiwan. Local authorities are taking action to mitigate the impact on farmers as the planting season approaches.",
+      "title": "萬丹獵龍大隊2晚抓299隻 ！「 最大咖 」 藏墓園 ... 5kg巨蜥活到已變色 | ETtoday生活新聞",
+      "url": "https://www.ettoday.net/news/20261002/3247897.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Social Media Account Compromise",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a social media account being compromised and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a political issue regarding a compromised social media account of a government department in Taiwan. It does not indicate any direct impact on supply chain activities.",
+      "title": "大地處粉專6天發28則中國AI短片 蔣萬安 ： 我要求趕快處理 | 政治",
+      "url": "https://newtalk.tw/news/view/2026-10-02/1063197",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T073000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Nepal Floods Impacting Employment and Trade",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Agriculture",
+        "Transport",
+        "Construction",
+        "Manufacturing",
+        "Wholesale and Retail Trade"
+      ],
+      "countries_involved": [
+        "Nepal",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the tourism and agriculture sectors operate in the affected region?",
+        "Which manufacturing facilities depend on inputs imported through the Nepal-China trade corridor?",
+        "Which downstream companies depend on products from the affected industries in Nepal?",
+        "What transport and logistics companies are impacted by the damaged infrastructure in Rasuwa?",
+        "Which regions are most exposed to disruptions in trade with China due to the floods?"
+      ],
+      "reason": "The floods in Nepal have caused significant damage to transport links and trade routes, directly impacting supply chain activities, including logistics and trade, which justifies classifying this event as a supply chain disruption.",
+      "summary": "The recent floods in Nepal have severely disrupted employment and trade, particularly affecting industries such as tourism, agriculture, and transport. The damage to critical infrastructure is likely to have far-reaching impacts on supply chains connected to Nepal and China.",
+      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone : ILO",
+      "url": "https://www.globalissues.org/news/2026/10/01/44233",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Social Media Account Hacking",
+      "companies_involved": [
+        "Meta"
+      ],
+      "industries_involved": [
+        "Social Media"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event described involves a social media account being hacked, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses the hacking of a social media account belonging to a government department in Taiwan. While it raises concerns about cybersecurity, it does not indicate any direct supply chain disruption.",
+      "title": "北市大地處粉專被盜 「 連發7天AI影片 」！ 蔣萬安回應了 - 政治",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592909",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Social Media Account Hacking",
+      "companies_involved": [
+        "Meta"
+      ],
+      "industries_involved": [
+        "Government",
+        "Social Media"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The event described involves a social media account being hacked, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article discusses the hacking of a social media account belonging to a government department in Taipei, Taiwan. While it raises concerns about cybersecurity, it does not indicate any direct supply chain disruptions.",
+      "title": "北市大地處粉專被盜 「 連發7天AI影片 」！ 蔣萬安回應了 - 臺北市",
+      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5592909",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Social Media Account Attack",
+      "companies_involved": [
+        "Meta"
+      ],
+      "industries_involved": [
+        "Social Media",
+        "Government"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a social media account attack affecting a government entity, but it does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a social media account attack involving a government agency in Taiwan. While it raises concerns about data security and public communication, it does not indicate any direct impact on supply chain operations.",
+      "title": "北市大地處臉書熱播28則中國AI短劇 沈伯洋 ： 有必要事後向民眾說明 | 政治",
+      "url": "https://newtalk.tw/news/view/2026-10-02/1063135",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Longfu Bridge Reconstruction",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the reconstruction of Longfu Bridge in Taiwan, focusing on its design, cultural significance, and flood prevention features. While it mentions improvements to infrastructure, it does not indicate any direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article details the inauguration of the Longfu Bridge in Taiwan, highlighting its design and flood prevention capabilities. However, it does not present any significant supply chain disruption or impact on related industries.",
+      "title": "長福橋變身三峽水岸新地標 「 走橋看河 」 漫遊新生活 | 大台北 | 地方",
+      "url": "https://udn.com/news/story/7323/9791095",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T091500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Public Vaccination Campaign for Flu and COVID-19",
+      "companies_involved": [
+        "Moderna",
+        "Novavax"
+      ],
+      "industries_involved": [
+        "Pharmaceutical",
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Moderna and Novavax are involved in the production of the vaccines?",
+        "What manufacturing facilities are responsible for the production of the flu and COVID-19 vaccines in Taiwan?",
+        "Which logistics companies are responsible for the distribution of these vaccines?",
+        "What are the potential impacts on healthcare providers due to increased demand for vaccinations?",
+        "Which downstream healthcare operations may be affected by the vaccination campaign?"
+      ],
+      "reason": "The article discusses a public vaccination campaign that involves the procurement and distribution of vaccines, which directly impacts supply chain activities related to healthcare and pharmaceuticals.",
+      "summary": "The article highlights the launch of a public vaccination campaign for flu and COVID-19 vaccines in Taiwan, marking a significant increase in vaccination rates. This event involves the procurement and distribution of vaccines, which can affect supply chain operations in the healthcare sector.",
+      "title": "流感疫苗首日26 . 6萬人搶打 「 創6年新高 」 近10萬人接種新冠 | ETtoday健康雲",
+      "url": "https://health.ettoday.net/news/3247920",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Chinese Fishing Vessel Incident in East Sand Area",
+      "companies_involved": [
+        "China National Offshore Oil Corporation"
+      ],
+      "industries_involved": [
+        "Fishing",
+        "Maritime Security"
+      ],
+      "countries_involved": [
+        "China",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which fishing companies operate in the East Sand area that may be affected by geopolitical tensions?",
+        "Which maritime logistics companies are involved in operations in the affected region?",
+        "What are the potential impacts on supply chains for companies relying on fishing resources from the East Sand area?",
+        "Which downstream companies depend on fishery products sourced from the affected region?",
+        "How might increased maritime security measures impact shipping routes in the area?"
+      ],
+      "reason": "The incident involves a confrontation between Taiwanese authorities and Chinese fishing vessels, which raises concerns about fishing rights and maritime security, potentially impacting supply chains related to fishing and maritime logistics in the region.",
+      "summary": "A confrontation occurred between Taiwanese coast guard and Chinese fishing vessels in the East Sand area, highlighting geopolitical tensions that could disrupt fishing operations and maritime logistics. This incident raises concerns about the security of supply chains in the fishing industry and related sectors.",
+      "title": "中國漁船拒離東沙海域 海巡噴水90秒後展開人道救援 - 政治",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592771",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Brazil Presidential Election Controversy",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Brazil"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the political climate and election in Brazil, which does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article covers the contentious political landscape surrounding the upcoming Brazilian presidential election, highlighting the rivalry between candidates. However, it does not indicate any direct supply chain disruptions or impacts on related industries.",
+      "title": "巴西大選充斥醜聞謾罵選民反感 魯拉與波索納洛激烈交鋒 | 國際",
+      "url": "https://www.cna.com.tw:443/news/aopl/202610020191.aspx",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Glacial Lake Flood Risk Mitigation Project",
+      "companies_involved": [
+        "Green Climate Fund",
+        "UNDP"
+      ],
+      "industries_involved": [
+        "Construction",
+        "Hydrology",
+        "Disaster Management"
+      ],
+      "countries_involved": [
+        "Nepal"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials are located in Nepal?",
+        "Which companies are involved in the hydrology and disaster management sectors in Nepal?",
+        "What are the potential impacts on hydroelectric plants due to the flooding?",
+        "Which downstream operations depend on the stability of the affected glacial lakes?",
+        "How might the project timeline affect suppliers of equipment and technology for flood mitigation?"
+      ],
+      "reason": "The article discusses a significant natural disaster event that has led to a government project aimed at mitigating flood risks, which directly impacts construction and disaster management industries, as well as the operations of hydroelectric plants in Nepal.",
+      "summary": "Nepal is initiating a project to drain four glacial lakes to reduce flood risks following a deadly glacier collapse. This effort, supported by international funding, aims to mitigate future disasters that could disrupt local industries and infrastructure.",
+      "title": "Nepal plans to drain four glacial lakes after deadly floods",
+      "url": "https://www.straitstimes.com/asia/nepal-plans-to-drain-four-glacial-lakes-after-deadly-floods",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T100000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Corruption Investigation",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a political corruption investigation involving local politicians and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a political corruption case in Taiwan involving local election candidates and their alleged bribery activities. There is no indication that this event impacts supply chain operations or activities.",
+      "title": "快訊 ／ 才獲頒績優宗教團體涉賄選 神農宮董座何逸松喊冤遭聲押 | ETtoday社會新聞",
+      "url": "https://www.ettoday.net/news/20261002/3247665.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nutritional Lunch Policy Discussion",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Food Services"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a policy proposal regarding nutritional lunches in schools, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers a political discussion on nutritional lunch policies in Taiwan, focusing on the implications for parents and students. It does not indicate any actual or potential supply chain disruptions.",
+      "title": "沈伯洋拋營養午餐保留自費彈性 蔣萬安 ： 免費可減輕家長負擔 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202610020077.aspx",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nutritional Lunch Policy Discussion",
+      "companies_involved": [],
+      "industries_involved": [
+        "Education",
+        "Food Services"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a policy proposal regarding nutritional lunches in schools and does not indicate any direct supply chain disruptions related to suppliers, manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article covers a political discussion on nutritional lunch policies in Taiwan, focusing on the implications for parents and students. It does not present any direct supply chain disruptions or impacts on supply chain activities.",
+      "title": "沈伯洋拋營養午餐保留自費彈性 蔣萬安 ： 免費可減輕家長負擔 | 地方",
+      "url": "https://www.cna.com.tw/news/aloc/202610020077.aspx",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "National Celebration",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a national celebration and patriotic sentiments in China, with no direct connection to supply chain activities or disruptions.",
+      "summary": "The article focuses on the celebration of National Day in China, highlighting patriotic feelings and collective experiences. It does not present any information related to supply chain disruptions or impacts on logistics, production, or trade.",
+      "title": "读懂中国人刻在心底的家国浪漫 - 三湘时评",
+      "url": "https://opinion.voc.com.cn/news/202610/33900189.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "October Natural Disaster Risk Assessment",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Transportation",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products may be affected by flooding in the identified regions?",
+        "Which transportation routes could be disrupted due to natural disasters during the holiday period?",
+        "Which logistics companies operate in the affected areas and may face operational challenges?",
+        "Which regions are most vulnerable to the forecasted natural disasters and how does that impact supply chains?",
+        "Which downstream companies rely on agricultural products from the affected regions?"
+      ],
+      "reason": "The article discusses various natural disaster risks, including flooding, typhoons, and droughts, which could significantly impact agricultural production, transportation, and logistics operations in China.",
+      "summary": "The article outlines the natural disaster risks for October in China, highlighting potential flooding, typhoons, and droughts. These events could disrupt agricultural production and logistics, affecting supply chains during the National Day holiday.",
+      "title": "10月及国庆假期全国自然灾害风险形势发布 - 中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707035.shtml",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "New Bus Acquisition",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the acquisition of new buses for public transportation, which does not indicate any disruption to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article announces the addition of new buses to a public transportation fleet, indicating an improvement in local transport services. However, it does not present any supply chain disruption or risk.",
+      "title": "喜讯 ！ 桑植再添20辆崭新公交车 城乡出行全面提质升级",
+      "url": "https://baijiahao.baidu.com/s?id=1877813846845240312",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily focuses on the celebration of the 77th anniversary of the People's Republic of China and does not discuss any specific supply chain disruptions, impacts on suppliers, manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article celebrates the 77th anniversary of the People's Republic of China, highlighting national pride and achievements. It does not contain information relevant to supply chain disruptions.",
+      "title": "全国各地共庆新中国77周年华诞 - 新华网",
+      "url": "https://www.news.cn/politics/20261002/009d235a398145889bbe04e1d17af151/c.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "EU-China Trade Negotiations",
+      "companies_involved": [
+        "European Union",
+        "Chinese manufacturers"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Trade"
+      ],
+      "countries_involved": [
+        "China",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of European manufacturers may be affected by potential trade restrictions?",
+        "Which manufacturing facilities in the EU depend on imports from China?",
+        "What are the key products that could be impacted by the trade negotiations?",
+        "Which downstream companies in the EU rely on Chinese raw materials or components?",
+        "How might changes in trade policy affect the supply chain dynamics between the EU and China?"
+      ],
+      "reason": "The ongoing trade negotiations between the EU and China have significant implications for supply chain activities, particularly in manufacturing and trade, as they may lead to restrictions on imports and affect the operational landscape for European companies.",
+      "summary": "The EU is engaged in critical trade negotiations with China, which could lead to significant changes in trade policy affecting supply chains. The outcome of these talks may impact thousands of jobs and the operational viability of European manufacturers reliant on Chinese imports.",
+      "title": "  Tough  talks with China have yet to deliver , EU trade chief says – POLITICO",
+      "url": "https://www.politico.eu/article/talks-eu-china-have-yet-to-deliver-eu-trade-chief-says/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily focuses on the celebration of the 77th anniversary of the People's Republic of China and does not discuss any specific supply chain disruptions, impacts on suppliers, manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article celebrates the 77th anniversary of the People's Republic of China, highlighting national pride and achievements. It does not contain information relevant to supply chain disruptions.",
+      "title": "全国各地共庆新中国77周年华诞",
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/02/content_591233.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Experience Event",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Georgia",
+        "Thailand",
+        "Vietnam",
+        "Malaysia",
+        "Laos",
+        "Indonesia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article describes a cultural immersion event at a university involving international students, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a cultural experience event at a university in Quanzhou, China, involving international students. It highlights the appreciation of cultural heritage but does not indicate any supply chain disruptions.",
+      "title": "黎明职业大学开展非遗进校园中外文化体验活动 - 泉州网|泉州晚报社 泉州新闻门户网站",
+      "url": "https://www.qzwb.com/gb/content/2026-10/02/content_9255224.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Food Safety Crisis in Taipei",
+      "companies_involved": [
+        "寶林茶室",
+        "成淵高中",
+        "大同高中",
+        "大直高中",
+        "內湖高中",
+        "景美女中",
+        "建國高中",
+        "大理高中",
+        "華江高中"
+      ],
+      "industries_involved": [
+        "Food Service",
+        "Education"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide food products to the affected schools?",
+        "What are the food safety protocols in place for the suppliers involved?",
+        "Which downstream operations depend on the food service providers linked to the crisis?",
+        "What regulatory changes are being considered in response to the food safety incidents?",
+        "Which other educational institutions may be affected by similar food safety issues?"
+      ],
+      "reason": "The article discusses a food safety crisis that has resulted in multiple fatalities and poses risks to food supply chains in educational institutions, indicating potential operational disruptions in food service and safety compliance.",
+      "summary": "A food safety crisis in Taipei has raised concerns about the operational capabilities of local food suppliers and their impact on educational institutions. The situation highlights significant risks in food safety management and regulatory compliance within the food service industry.",
+      "title": "自由開講 》 蔣萬安 ， 台北市民給你的不是1個月 ， 是快4年",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5573327",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Advancement in Autonomous Vessel Technology",
+      "companies_involved": [
+        "Taiwan Ocean Affairs Council"
+      ],
+      "industries_involved": [
+        "Maritime Technology",
+        "Defense"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of maritime technology are involved in the development of autonomous vessels?",
+        "Which manufacturing facilities are responsible for producing components for the autonomous vessels?",
+        "Which countries or regions are key suppliers for the technology used in these vessels?",
+        "What supply-chain dependencies exist between the autonomous vessel technology and traditional maritime operations?",
+        "Which downstream companies may rely on the advancements in autonomous vessel technology for their operations?"
+      ],
+      "reason": "The successful testing of autonomous vessels in Taiwan indicates a significant advancement in maritime technology, which could impact supply chain operations related to shipping, logistics, and defense sectors.",
+      "summary": "Taiwan has successfully tested autonomous vessels, marking a significant advancement in maritime technology. This development could enhance operational capabilities in shipping and defense, potentially impacting supply chains in these sectors.",
+      "title": "高雄外海測試成功 台灣自主無人船技術再進化 - 生活",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5592861",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "National Day Celebration",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a national celebration event and does not indicate any disruptions or impacts on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article covers the preparations for Taiwan's National Day celebration led by Han Kuo-yu. It highlights the event's significance and planned activities but does not relate to any supply chain disruptions.",
+      "title": "韓國瑜主持國慶記者會 籲展現團結祝福國家生日快樂 | 政治",
+      "url": "https://www.cna.com.tw:443/news/aipl/202610020181.aspx",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Ecological and Cultural Initiatives along the Yellow River",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses ecological protection and cultural initiatives related to the Yellow River, without any direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on ecological and cultural initiatives aimed at protecting the Yellow River and improving local communities. It does not present any direct supply chain disruptions or impacts on supply chain activities.",
+      "title": "家在黃河邊 （ 我家門前有條河 ） ",
+      "url": "https://portal.sina.com.hk/news-china/sina/2026/10/02/1943426/%E5%AE%B6%E5%9C%A8%E9%BB%83%E6%B2%B3%E9%82%8A%EF%BC%88%E6%88%91%E5%AE%B6%E9%96%80%E5%89%8D%E6%9C%89%E6%A2%9D%E6%B2%B3%EF%BC%89/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not discuss any events that have a meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a cultural event and does not relate to supply chain disruptions or activities.",
+      "title": "Altın Kozada  Canavar  ve  Varlık  seyirciyle buluştu",
+      "url": "https://www.birgun.net/haber/altin-kozada-canavar-ve-varlik-seyirciyle-bulustu-738167%20target=_blank%20class=stretched-link",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Housing Crisis Protests",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Spain"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a housing crisis and protests related to it, but it does not have a direct connection to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights a cultural response to a housing crisis in Spain, focusing on protests and political actions. However, it does not indicate any direct supply chain disruptions.",
+      "title": "El mundo de la cultura clama por soluciones a la crisis de la vivienda ante un día clave",
+      "url": "https://elpais.com/cultura/2026-10-02/el-mundo-de-la-cultura-clama-por-la-vivienda-en-un-dia-clave-para-una-crisis-que.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Debate on Taxation",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Greece"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political statements and debates regarding taxation and economic policies without any direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on political discussions in Greece regarding taxation and economic policies. It does not present any direct supply chain disruptions or impacts on logistics, production, or trade activities.",
+      "title": "Ανδρουλάκης : Η κυβέρνηση να αφήσει τις επιστολές για τον ΕΦΚ και να ψηφίσει τη τροπολογία του ΠΑΣΟΚ με την οποία εισηγείται το ιταλικό μοντέλο",
+      "url": "https://bankwars.gr/%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7%CF%82-%CE%B7-%CE%BA%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7-%CE%BD%CE%B1-%CE%B1%CF%86%CE%AE%CF%83%CE%B5%CE%B9-%CF%84%CE%B9%CF%82/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261001T233000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Putin's Speech on Global Challenges",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Russia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses geopolitical and global challenges as presented by President Putin but does not provide specific information about supply chain activities, disruptions, or impacts on logistics, trade, or production.",
+      "summary": "The article features President Putin's speech addressing global challenges and the need for cooperation among nations. However, it does not indicate any specific supply chain disruptions or impacts on supply chain activities.",
+      "title": "Свет на прекретници : Цео Путинов говор на „ Валдају  - 01 . 10 . 2026 , Sputnik Србија",
+      "url": "https://sputnikportal.rs/20261001/svet-na-prekretnici-ceo-putinov-govor-na-valdaju-1203957032.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261001T220000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Record Heat in Western Europe",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Spain",
+        "France",
+        "Germany",
+        "Italy",
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses record temperatures in Western Europe but does not provide a direct connection to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article reports that the summer was the hottest ever recorded in Western Europe. However, it does not indicate any specific supply chain disruptions or impacts on industries or companies.",
+      "title": "El verano fue el más cálido jamás registrado en Europa occidental",
+      "url": "https://efe.com/medio-ambiente/2026-10-02/temperaturas-verano-europa-occidental/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Extreme Heat and Drought in Europe",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Transportation",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Belgium",
+        "Spain"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by the drought?",
+        "Which transportation companies rely on river transport in the affected regions?",
+        "Which agricultural producers are dependent on water supply from the affected rivers?",
+        "Which countries or regions are most vulnerable to disruptions in energy supply due to low water levels?",
+        "Which downstream companies depend on products from the affected agricultural sector?"
+      ],
+      "reason": "The extreme heat and drought conditions in Europe have led to historically low river levels, impacting transportation of goods and energy generation, thus creating significant supply chain disruptions.",
+      "summary": "Europe is experiencing unprecedented heat and drought conditions, leading to low river levels that disrupt transportation and energy generation. This situation poses risks to various industries, particularly energy and agriculture, across multiple countries.",
+      "title": "Europa registra el verano con mayor estrés térmico y los ríos más secos desde 1992",
+      "url": "https://www.elmundo.es/ciencia/2026/10/02/6abf3fe621efa04d7e8b45d4.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20261002T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cornell University fraternity sexual assault case",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a legal case involving allegations of sexual assault at a university, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details a sexual assault case involving fraternity members at Cornell University. It does not present any information that indicates a disruption to supply chain activities.",
+      "title": "康乃爾性侵案 「 7男供詞超矛盾 」 他還反控 ： 我才是受害者 | ETtoday國際新聞",
+      "url": "https://www.ettoday.net/news/20261002/3247845.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Market fluctuations and investor sentiment",
+      "companies_involved": [
+        "Micron Technology",
+        "NVIDIA",
+        "Alphabet",
+        "Broadcom"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Technology"
+      ],
+      "countries_involved": [
+        "United States",
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Micron Technology may be affected by market fluctuations?",
+        "How might changes in investor sentiment impact production schedules for semiconductor companies?",
+        "Which countries are key suppliers for the semiconductor industry that could be affected by market volatility?",
+        "What dependencies exist between semiconductor manufacturers and their logistics providers in the U.S. and Taiwan?",
+        "Which downstream companies rely on products from Micron Technology and NVIDIA that could be impacted by these market changes?"
+      ],
+      "reason": "The article discusses stock market performance and investor sentiment, which do not directly indicate a supply chain disruption. While there are mentions of companies in the semiconductor industry, the focus is on market dynamics rather than specific supply chain activities.",
+      "summary": "The article highlights fluctuations in the stock market and investor sentiment, particularly in the semiconductor sector. However, it does not present a clear supply chain disruption as it lacks direct connections to supply chain activities.",
+      "title": " 【 盤前 】 美股紅盤台股卻有隱憂 ！ 台指夜盤跌223點 台股攻防要看這關 | 財經 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1916006",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261001T230000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Economic adjustments in Colombia",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Colombia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses economic conditions and fiscal challenges in Colombia but does not provide a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article outlines the current economic situation in Colombia, including fiscal challenges and potential improvements for exporters. However, it does not indicate any specific supply chain disruptions or impacts on logistics or production.",
+      "title": "Los vientos de la economía",
+      "url": "https://www.lapatria.com/opinion/columnistas/alberto-arce-londono/los-vientos-de-la-economia",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Failed execution of death penalty",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a failed execution of a death row inmate and the resulting political and legal ramifications, but it does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details a failed execution of a death row inmate in Tennessee, leading to political and legal controversies. However, it does not present any implications for supply chain activities.",
+      "title": "Ούτε σε εχθρό ! - Φρικτές λεπτομέρειες για την αποτυχημένη εκτέλεση της θανατοποινίτισσας Christa Pike - Άγρια πολιτική κόντρα και νομικός πόλεμος",
+      "url": "https://www.bankingnews.gr/ta-paraksena/articles/902812/oyte-se-exthro-friktes-leptomereies-gia-tin-apotyximeni-ektelesi-tis-thanatopoinitissas-christa-pike-agria-politiki-kontra-kai-nomikos-polemos",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Supreme Court Decision on Hawaii's Firearm Law",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a Supreme Court decision regarding firearm laws in Hawaii, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers a Supreme Court ruling on Hawaii's firearm regulations, focusing on legal implications rather than supply chain impacts. There are no direct connections to supply chain activities identified in the content.",
+      "title": "Skinny on SCOTUS - Stakes for Hawaii Vampire Rule , Clocks for TPS , and No Sharpies for Juries – RedState",
+      "url": "https://redstate.com/smoosieq/2026/10/01/skinny-on-scotus-late-june-part-1-n2207638",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Execution Fiasco",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a personal situation involving an individual and comments from a public figure, with no direct connection to supply chain activities or disruptions.",
+      "summary": "The article focuses on a critical situation involving Krista Paik and comments from Donald Trump regarding an execution. It does not relate to any supply chain activities or disruptions.",
+      "title": " « Σας παρακαλώ , δοκιμάστε πιο ψηλά »: Σε κρίσιμη κατάσταση η Κρίστα Πάικ μετά το φιάσκο της εκτέλεσης – « Δεν θα έπρεπε να είναι πολύ δύσκολο » σχολίασε ο Τραμπ",
+      "url": "https://www.inewsgr.com/227/sas-parakalo-dokimaste-pio-psila-se-krisimi-katastasi-i-krista-paik-meta-to-fiasko-tis-ektelesis--den-tha-eprepe-na-einai-poly-dyskolo-scholiase-o-trab.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Rising Oil Prices",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Transportation",
+        "Manufacturing"
+      ],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by rising oil prices?",
+        "How might increased transportation costs impact manufacturing operations?",
+        "Which countries are major suppliers of oil that could affect pricing?",
+        "Which downstream companies depend on energy-intensive processes?",
+        "What are the potential impacts on logistics providers due to higher fuel costs?"
+      ],
+      "reason": "The article discusses rising oil prices, which can significantly impact transportation and logistics costs, affecting supply chain operations across various industries.",
+      "summary": "The article highlights a surge in oil prices, which can lead to increased costs for transportation and manufacturing. This situation poses potential risks to supply chains reliant on energy and logistics.",
+      "title": "油價又衝百美元 台股震盪翻紅收48475再創高 | 金融",
+      "url": "https://news.ustv.com.tw/newsdetail/20261002A048",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Rising Oil Prices",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Transportation",
+        "Manufacturing"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by rising oil prices?",
+        "How might increased transportation costs impact manufacturing operations?",
+        "Which countries are most dependent on oil imports that could be affected?",
+        "What supply-chain dependencies exist that could transmit the impact of rising oil prices?",
+        "Which downstream companies may face increased costs due to higher energy prices?"
+      ],
+      "reason": "The article discusses rising oil prices, which can significantly impact transportation and manufacturing costs, thereby affecting supply chains globally.",
+      "summary": "The article highlights a surge in oil prices, which can lead to increased costs in transportation and manufacturing. This situation poses potential risks to various industries reliant on energy, affecting supply chain dynamics.",
+      "title": "油價又衝百美元 台股震盪翻紅收48475再創高 | 金融",
+      "url": "https://news.ustv.com.tw/newsdetail/20261002A048?newsall=true&type=144",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T081500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Political Instability in Venezuela",
+      "companies_involved": [],
+      "industries_involved": [
+        "Oil and Gas",
+        "Transportation",
+        "Aerospace"
+      ],
+      "countries_involved": [
+        "Venezuela",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of oil and gas companies may be affected by the political situation in Venezuela?",
+        "Which transportation companies are impacted by the reopening of commercial flights to Caracas?",
+        "What are the potential impacts on oil production and logistics due to the ongoing political instability?",
+        "Which downstream companies rely on Venezuelan oil exports?",
+        "How might changes in U.S. policy towards Venezuela affect trade relationships?"
+      ],
+      "reason": "The political instability and changes in governance in Venezuela can significantly impact the oil and gas industry, affecting production, logistics, and trade relationships, which are critical components of the supply chain.",
+      "summary": "The ongoing political instability in Venezuela poses risks to the oil and gas industry, impacting production and logistics. The reopening of commercial flights and changes in U.S. policy may also affect trade relationships and supply chain dynamics.",
+      "title": "Venezuela 9 Months Later : Pressure , Protests , Power Outages ... and a U . S . Military Base ? ",
+      "url": "https://pjmedia.com/sarah-anderson/2026/10/01/venezuela-more-election-pressure-protests-power-outages-and-a-us-military-base-n4957856",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Olivia Rodrigo TBM Sweepstakes",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a promotional sweepstakes and does not have any meaningful connection to supply chain activities such as suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article details the rules and eligibility for a sweepstakes related to Olivia Rodrigo. It does not pertain to any supply chain disruption or impact.",
+      "title": "Olivia Rodrigo TBM Sweepstakes",
+      "url": "https://g105.iheart.com/content/2026-10-01-olivia-rodrigo-tbm-sweepstakes/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T094500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Manchester City Financial Violation Controversy",
+      "companies_involved": [
+        "Manchester City"
+      ],
+      "industries_involved": [
+        "Sports",
+        "Entertainment"
+      ],
+      "countries_involved": [
+        "United Kingdom"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses financial violations and regulatory scrutiny related to Manchester City, but it does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article details the financial misconduct allegations against Manchester City, focusing on the implications for the club and the English Premier League. However, it does not indicate any direct supply chain disruptions.",
+      "title": "曼城  虚假赞助  争议升级 ， 英超财务监管迎来大考 _ 凤凰网",
+      "url": "https://news.ifeng.com/c/8wtA9uES5XP",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Surge in Diesel Prices",
+      "companies_involved": [
+        "Barclays",
+        "AAA"
+      ],
+      "industries_involved": [
+        "Transportation",
+        "Food Supply",
+        "Automotive",
+        "Consumer Goods"
+      ],
+      "countries_involved": [
+        "United States",
+        "Middle East",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of food and consumer goods are affected by rising transportation costs?",
+        "Which manufacturing facilities depend on diesel for logistics operations?",
+        "Which countries or regions are most impacted by the surge in diesel prices?",
+        "What supply-chain dependencies exist that could transmit the impact of increased diesel costs?",
+        "Which downstream companies in the food and automotive industries may be exposed to higher transportation costs?"
+      ],
+      "reason": "The significant increase in diesel prices due to supply chain disruptions in the Middle East and Russia directly impacts transportation costs, which can affect various industries reliant on logistics and supply chains.",
+      "summary": "The article discusses a substantial rise in diesel prices, which could lead to increased costs across multiple industries, including food and transportation. This surge is attributed to supply chain issues in oil-producing regions, indicating a potential disruption in logistics and production costs.",
+      "title": "  경유값 80 % 폭등  물가엔 쓰나미 … 식품 · 가전 줄줄이 오르나",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03063526645608984&mediaCodeNo=257",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tsunami",
+      "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "AI Trust in Healthcare",
+      "companies_involved": [],
+      "industries_involved": [
+        "Healthcare",
+        "Technology"
+      ],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the integration of AI in healthcare and the trust issues surrounding it, but it does not indicate any direct supply chain disruptions related to suppliers, manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article focuses on the discussion of trust in AI within the healthcare sector, particularly regarding its integration and implications for patient care. It does not present any information that would indicate a supply chain disruption.",
+      "title": "RFK Jr . Flips The AI Trust Question On Doctors",
+      "url": "https://www.newsweek.com/pro-health-care-access-health-newsletter/rfk-jr-flips-the-ai-trust-question-on-doctors-access-health-12513703",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tsunami",
+      "published_at": "20261002T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Tour Colombia Event Announcement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the location for a cycling event and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article announces the venue for the return of the Tour Colombia cycling event. It does not present any information that would suggest a supply chain disruption.",
+      "title": "Definida la sede para el regreso del Tour Colombia",
+      "url": "https://www.lanacion.com.co/definida-la-sede-para-el-regreso-del-tour-colombia/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261002T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Brazilian Presidential Elections Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Mining",
+        "Energy",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Brazil",
+        "Colombia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers in Colombia may be affected by changes in Brazilian policies regarding the Amazon?",
+        "Which companies in the mining and energy sectors could be impacted by a shift in Brazilian leadership?",
+        "What are the potential impacts on agricultural trade between Brazil and Colombia based on election outcomes?",
+        "Which regions in Brazil are critical for supply chains that may be affected by new environmental regulations?",
+        "Which downstream companies in Colombia rely on resources or products sourced from Brazil?"
+      ],
+      "reason": "The article discusses the potential geopolitical implications of the Brazilian elections, particularly regarding environmental policies and resource extraction, which could significantly impact supply chains in related industries.",
+      "summary": "The upcoming Brazilian presidential elections may lead to significant geopolitical shifts affecting supply chains in Colombia, particularly in the mining and energy sectors. The outcome could influence environmental policies and trade relations between the two countries.",
+      "title": "Lula , Bolsonaro y los efectos de las elecciones de Brasil en Colombia : ¿ qué está en juego para la relación con el gobierno de De la Espriella ? ",
+      "url": "https://www.eltiempo.com/politica/gobierno/lula-bolsonaro-y-los-efectos-de-las-elecciones-de-brasil-en-colombia-que-esta-en-juego-para-la-relacion-con-el-gobierno-de-de-la-espriella-3590590",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding and Infrastructure Failure in New Mexico",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Emergency Management"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of construction materials may be affected by the flooding in New Mexico?",
+        "Which emergency management companies are responsible for infrastructure repairs in the affected areas?",
+        "Which downstream operations depend on the infrastructure that is currently at risk?",
+        "What are the potential impacts on logistics and transportation due to damaged roads and bridges?",
+        "Which regions in New Mexico are most vulnerable to future flooding and how does that affect supply chain operations?"
+      ],
+      "reason": "The flooding in New Mexico poses a risk to critical infrastructure, which can disrupt logistics, transportation, and emergency response efforts, thereby impacting supply chain activities in the region.",
+      "summary": "Recent flooding in New Mexico has raised concerns about the integrity of critical infrastructure, particularly dams and bridges. This situation could lead to significant disruptions in logistics and emergency management operations, affecting supply chains in the region.",
+      "title": "McLeod Dam scare demands review of New Mexico flood infrastructure",
+      "url": "https://www.abqjournal.com/opinion/hatch-dam-scare-demands-statewide-review/3132997",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Flood Rescue Operations",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article describes a rescue operation by the National Guard in response to flooding, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a rescue operation conducted by the New Mexico National Guard due to flooding in San Miguel County. While it highlights emergency response efforts, it does not present a direct connection to supply chain disruptions.",
+      "title": "New Mexico National Guard swift water team rescues two in San Miguel County",
+      "url": "https://www.koat.com/article/new-mexico-national-guard-swift-water-team-rescues-two-in-san-miguel-county/73988141",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T054500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the states of Baja California Sur, Sinaloa, and Jalisco?",
+        "Which logistics companies may face disruptions due to flooding and landslides?",
+        "Which transportation routes are affected by Hurricane Rachel?",
+        "Which downstream companies depend on products transported through the affected regions?",
+        "What construction projects may be delayed due to the storm's impact?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation operations in Mexico and the U.S. Southwest, potentially affecting supply chains due to flooding and damage.",
+      "summary": "Hurricane Rachel has intensified and poses a significant threat to logistics and transportation in northern Mexico and parts of the U.S. Southwest. The storm's impact could disrupt supply chains due to flooding and infrastructure damage in the affected regions.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific coast",
+      "url": "https://panow.com/2026/10/01/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T011500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Potential failure of Mississippi control structures",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Shipping",
+        "Port Operations"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the ports of Baton Rouge and New Orleans?",
+        "What are the potential impacts on logistics companies relying on the Mississippi River for transportation?",
+        "Which suppliers depend on the ports of Baton Rouge and New Orleans for their operations?",
+        "How would a disruption in the Mississippi River's flow affect trade routes in the region?",
+        "Which downstream companies rely on the shipping capacity of the affected ports?"
+      ],
+      "reason": "The article discusses the potential failure of control structures on the Mississippi River, which could lead to significant economic consequences for the ports of Baton Rouge and New Orleans, impacting logistics and shipping operations.",
+      "summary": "The article highlights the risk of a potential failure of the Mississippi River control structures, which could severely disrupt shipping and logistics operations at two major ports in Louisiana. This disruption could have far-reaching economic implications for the region's supply chain activities.",
+      "title": "En verrouillant le Mississippi derrière des vannes de béton dès 1963 , les Américains ont littéralement empêché le fleuve dabandonner La Nouvelle - Orléans",
+      "url": "https://sciencepost.fr/en-verrouillant-le-mississippi-derriere-des-vannes-de-beton-des-1963-les-americains-ont-litteralement-empeche-le-fleuve-d-abandonner-la-nouvelle-orleans/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Closure of Puerto Vallarta due to Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Maritime",
+        "Logistics",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the affected ports?",
+        "Which suppliers rely on maritime transport through the closed ports?",
+        "Which downstream companies depend on goods transported through the affected regions?",
+        "What alternative logistics routes can be utilized during the port closures?",
+        "Which industries may face delays due to the closure of these ports?"
+      ],
+      "reason": "The closure of multiple ports in Mexico due to Hurricane Rachel poses a significant risk to maritime logistics and transportation, impacting supply chains reliant on these routes.",
+      "summary": "Hurricane Rachel has led to the closure of several ports along the Pacific coast of Mexico, including Puerto Vallarta. This disruption in maritime operations is likely to affect logistics and supply chains dependent on these ports for transportation and trade.",
+      "title": "Cierran puerto de Puerto Vallarta por el huracán Rachel",
+      "url": "https://jalisco.quadratin.com.mx/principal/cierran-puerto-de-puerto-vallarta-por-el-huracan-rachel/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a fictional film plot and does not present any real-world supply chain disruption or impact.",
+      "summary": "The article is a film review and does not relate to any actual or potential supply chain disruptions. It focuses on a fictional narrative involving an oil tycoon and a tsunami, with no connection to supply chain activities.",
+      "title": "WDR 2 Neue Filme : Digger - Filmtipp",
+      "url": "https://www1.wdr.de/radio/wdr2/themen/kino-filmtipps/digger-100.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the U.S. Southwest?",
+        "Which logistics companies may face disruptions due to port closures and flooding?",
+        "Which construction projects in the affected areas could be delayed due to the storm?",
+        "Which energy suppliers may be impacted by power outages in Texas and other states?",
+        "Which downstream companies depend on transportation routes affected by flooding?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics and transportation operations in Mexico and the U.S. Southwest, potentially disrupting supply chains due to flooding, port closures, and damage to infrastructure.",
+      "summary": "Hurricane Rachel has intensified and poses a threat to logistics and transportation in Mexico and the U.S. Southwest. The storm's impact could lead to significant disruptions in supply chains due to flooding and infrastructure damage.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific coast",
+      "url": "https://www.2news.com/news/national/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/article_6f2833af-c9df-588c-80e1-0afb8a531d73.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the affected regions of Mexico and the U.S. Southwest?",
+        "Which transportation routes may be impacted by flooding and storm conditions?",
+        "Which suppliers in the tourism industry may be affected by beach and port closures?",
+        "Which downstream companies depend on logistics operations in the affected areas?",
+        "What is the potential impact on supply chains due to flooding in northern Mexico and the U.S. Southwest?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation operations due to potential flooding, port closures, and damage to infrastructure, which can disrupt supply chains in the affected regions.",
+      "summary": "Hurricane Rachel has intensified and poses a significant threat to logistics and transportation in Mexico and the U.S. Southwest. The storm's impact could lead to flooding and port closures, affecting supply chain operations in these areas.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific coast",
+      "url": "http://www.goskagit.com/news/world/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/article_7f5848de-977e-55ca-a5e3-37f2d1e0537c.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T231500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the U.S. Southwest?",
+        "Which logistics companies may face disruptions due to port closures and flooding?",
+        "Which construction projects in the affected areas could be delayed due to the hurricane?",
+        "Which energy suppliers may experience outages or disruptions in service due to the storm?",
+        "Which downstream companies depend on transportation routes affected by flooding?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics and transportation operations in Mexico and the U.S. Southwest, potentially disrupting supply chains due to flooding, port closures, and damage to infrastructure.",
+      "summary": "Hurricane Rachel has intensified and poses a threat to logistics and transportation in Mexico and the U.S. Southwest. The storm's impact could lead to significant disruptions in supply chains due to flooding and infrastructure damage.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific coast",
+      "url": "https://www.messenger-inquirer.com/news/national/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/article_e6d6935a-7a92-593b-958f-83747192225a.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the U.S. Southwest?",
+        "Which logistics companies may face disruptions due to port closures and flooding?",
+        "Which construction projects in the affected areas could be delayed due to the hurricane?",
+        "Which energy suppliers may be impacted by power outages in Texas and other states?",
+        "Which downstream companies depend on transportation routes affected by flooding?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics and transportation operations in Mexico and the U.S. Southwest, potentially disrupting supply chains due to flooding, port closures, and damage to infrastructure.",
+      "summary": "Hurricane Rachel has intensified and poses a threat to supply chains in Mexico and the U.S. Southwest due to expected flooding and port closures. The storm could disrupt logistics, transportation, and energy supply in the affected regions.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific coast",
+      "url": "https://www.butlereagle.com/20261001/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel and Flooding in New Mexico",
+      "companies_involved": [
+        "Hatch Chile Association"
+      ],
+      "industries_involved": [
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products are located in the affected regions of New Mexico and Mexico?",
+        "Which manufacturing facilities depend on agricultural outputs from the flooded areas?",
+        "Which downstream companies rely on products from the affected growers in New Mexico?",
+        "What logistics routes are impacted by the flooding in New Mexico and the hurricane in Mexico?",
+        "Which countries or regions are exposed to supply chain disruptions due to the flooding and hurricane?"
+      ],
+      "reason": "The flooding in New Mexico and the potential impact of Hurricane Rachel on agricultural production create significant disruptions in supply chains related to agriculture, particularly for crops like chile.",
+      "summary": "Hurricane Rachel poses a threat to Mexico while New Mexico faces severe flooding, impacting agricultural production. The flooding has already led to crop damage and halted harvesting activities, indicating a potential supply chain disruption in the agricultural sector.",
+      "title": "Hurricane Rachel may reach 111 mph as New Mexico floods persist",
+      "url": "https://www.el-balad.com/17054760",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Tourism",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico?",
+        "Which logistics companies are responsible for transportation in the impacted areas?",
+        "Which tourism businesses may be affected by the hurricane's impact on coastal resorts?",
+        "Which construction projects are at risk due to flooding and landslides in the affected states?",
+        "Which downstream companies depend on goods transported through the affected regions?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, tourism, and construction activities in Mexico and the southwestern United States, potentially disrupting supply chains in these sectors.",
+      "summary": "Hurricane Rachel has intensified and is expected to cause severe flooding and damage in northern Mexico and parts of the U.S. Southwest. This natural disaster could disrupt logistics, tourism, and construction operations, impacting supply chains in the affected regions.",
+      "title": "Hurricane Rachel strengthens to Cat 3 storm off Mexico",
+      "url": "https://www.westernadvocate.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Tourism",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico?",
+        "Which logistics companies are responsible for transportation in the impacted areas?",
+        "Which tourism businesses may be affected by the hurricane's impact on coastal resorts?",
+        "Which construction projects are at risk due to flooding and landslides in the affected states?",
+        "Which downstream companies depend on goods transported through the affected regions?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics and transportation operations in Mexico and the U.S. Southwest, potentially disrupting supply chains due to flooding, damage to infrastructure, and impacts on tourism and construction industries.",
+      "summary": "Hurricane Rachel has intensified into a Category 3 storm, threatening coastal areas in Mexico and parts of the U.S. Southwest with heavy rainfall and flooding. This natural disaster could disrupt logistics, transportation, and various industries reliant on operations in the affected regions.",
+      "title": "Hurricane Rachel strengthens to Cat 3 storm off Mexico",
+      "url": "https://www.thecourier.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Tourism",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico?",
+        "Which logistics companies are responsible for transportation in the impacted areas?",
+        "Which downstream companies in the tourism industry may be affected by the hurricane?",
+        "Which construction projects in the affected states could face delays due to flooding?",
+        "Which regions in the U.S. may experience supply chain disruptions due to the storm's impact?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics and transportation in the affected areas, potentially disrupting supply chains related to tourism, construction, and other industries due to flooding and damage.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, threatening northern Mexico and parts of the U.S. Southwest with severe flooding and damage. This natural disaster could disrupt logistics and supply chains in the affected regions, impacting various industries.",
+      "title": "Hurricane Rachel strengthens to Cat 3 storm off Mexico",
+      "url": "https://www.newcastleherald.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the US Southwest?",
+        "Which logistics companies may face disruptions due to flooding in northern Mexico and the US?",
+        "Which construction projects in the affected areas could be delayed due to the hurricane?",
+        "Which downstream companies depend on transportation routes affected by the storm?",
+        "Which regions are most vulnerable to supply chain disruptions due to the hurricane's impact?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation operations in Mexico and the US, potentially affecting supply chains due to flooding and damage in the region.",
+      "summary": "Hurricane Rachel has intensified and poses a significant threat to logistics and transportation in Mexico and the US Southwest. The storm's impact could disrupt supply chains due to flooding and damage in the affected areas.",
+      "title": "Hurricane Rachel strengthens to Cat 3 storm off Mexico",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the US Southwest?",
+        "Which logistics companies may face disruptions due to flooding in northern Mexico and the US?",
+        "Which construction projects in the affected areas could be delayed due to the hurricane?",
+        "Which downstream companies depend on transportation routes affected by the storm?",
+        "What are the potential impacts on energy supply chains due to flooding and storm damage?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation in Mexico and the US, potentially disrupting supply chains due to flooding and damage to infrastructure.",
+      "summary": "Hurricane Rachel has intensified and poses a significant threat to logistics and transportation in Mexico and parts of the US. The storm's impact could lead to flooding and infrastructure damage, affecting supply chain operations in the region.",
+      "title": "Hurricane Rachel strengthens to Cat 3 storm off Mexico",
+      "url": "https://www.maitlandmercury.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the US Southwest?",
+        "Which logistics companies may face disruptions due to flooding in northern Mexico and the US?",
+        "Which construction projects in the affected areas could be delayed due to the hurricane?",
+        "Which transportation routes are impacted by the storm and subsequent flooding?",
+        "Which downstream companies rely on goods transported through the affected regions?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation operations in Mexico and the US, potentially disrupting supply chains due to flooding and damage to infrastructure.",
+      "summary": "Hurricane Rachel has intensified and poses a significant threat to logistics and transportation in Mexico and the US Southwest. The storm's impact could lead to flooding and infrastructure damage, affecting supply chain operations in the region.",
+      "title": "Hurricane Rachel strengthens to Cat 3 storm off Mexico",
+      "url": "https://www.singletonargus.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "McLeod Dam Erosion and Flooding",
+      "companies_involved": [
+        "McLead Watershed District",
+        "Caballo Soil & Water Conservation District"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Infrastructure"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which agricultural suppliers are located in the affected region?",
+        "Which farms depend on the water supply from McLeod Dam?",
+        "What infrastructure projects are impacted by the dam's condition?",
+        "Which downstream agricultural operations may be affected by the flooding?",
+        "Which companies rely on the agricultural output from the affected farms?"
+      ],
+      "reason": "The erosion and potential failure of McLeod Dam has led to flooding that directly impacts agricultural production and infrastructure, creating a significant supply chain disruption in the region.",
+      "summary": "The McLeod Dam in Doña Ana County has been graded as poor and poses a high hazard potential following heavy rainfall, leading to flooding that disrupts local agriculture. This event highlights the vulnerability of supply chains reliant on stable water infrastructure and agricultural production.",
+      "title": "Dam that nearly failed graded  poor  with  high hazard potential  in latest inspection",
+      "url": "https://www.koat.com/article/dam-that-nearly-failed-graded-poor-with-high-hazard-potential-in-latest-inspection/73986721",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Baja California Sur and Sinaloa that may be affected by the hurricane?",
+        "Which logistics companies have operations in the affected regions?",
+        "What transportation routes may be disrupted due to the hurricane's impact?",
+        "Which agricultural producers in the affected areas could face production losses?",
+        "Which downstream companies depend on products sourced from the affected regions?"
+      ],
+      "reason": "The hurricane poses a risk to logistics, transportation, and agricultural production in the affected regions, which can disrupt supply chains.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, threatening logistics and agricultural operations in Mexico's Pacific coast. The storm's impact could lead to significant disruptions in transportation and supply chain activities in the affected areas.",
+      "title": "  Rachel  se intensifica a huracán categoría 3 en el Pacífico",
+      "url": "https://unomasuno.com.mx/nacional/rachel-se-intensifica-a-huracan-categoria-3-en-el-pacifico/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T031500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected region of Mexico?",
+        "Which logistics companies may face disruptions due to Hurricane Rachel?",
+        "Which transportation routes are at risk due to the storm?",
+        "Which energy suppliers could be impacted by the hurricane?",
+        "Which downstream companies depend on logistics services in the affected area?"
+      ],
+      "reason": "Hurricane Rachel poses a threat to logistics and transportation operations along the Pacific coast of Mexico, which could disrupt supply chains reliant on these services.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, potentially impacting logistics and transportation in Mexico. This could lead to disruptions in supply chains that depend on operations in the affected region.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific coast",
+      "url": "http://www.rockymounttelegram.com/news/world/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/article_f94c0420-3375-5de7-acb0-d5000b606745.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico and the U.S. Southwest?",
+        "Which logistics companies may face disruptions due to port closures and flooding?",
+        "Which construction projects in the affected areas could be delayed due to the hurricane?",
+        "Which energy suppliers may experience outages or disruptions in service due to the storm?",
+        "Which downstream companies depend on transportation routes affected by flooding?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics and transportation operations in Mexico and the U.S. Southwest, potentially disrupting supply chains due to flooding, port closures, and damage to infrastructure.",
+      "summary": "Hurricane Rachel has intensified and poses a threat to logistics and transportation in Mexico and the U.S. Southwest. The storm could lead to significant disruptions in supply chains due to flooding and infrastructure damage.",
+      "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico Pacific Coast",
+      "url": "https://www.acadiananewsfirst.com/2026/10/01/hurricane-rachel-strengthens-category-3-storm-off-mexicos-pacific-coast/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T010000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Veteran Gathering Event",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a gathering event for veterans and does not have any meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on a veteran gathering event and does not indicate any supply chain disruption. There are no relevant companies, industries, or countries involved that would impact supply chain activities.",
+      "title": "金門老兵召集令10月1日榮耀登場 ！「 新市256 」 號召百萬英雄歸隊",
+      "url": "https://n.yam.com/Article/20261002299058",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Air Quality Monitoring",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses air quality levels and health recommendations but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article provides information on air quality in Saltillo, Mexico, indicating it is currently good for outdoor activities. However, it does not present any supply chain disruption or impact on related industries or companies.",
+      "title": "Calidad del aire hoy 1 de octubre a las 16 : 00 horas es buena para realizar actividades – Periódico Zócalo | Noticias de Saltillo , Torreón , Piedras Negras , Monclova , Acuña",
+      "url": "https://www.zocalo.com.mx/calidad-del-aire-hoy-1-de-octubre-a-las-1600-horas-es-buena-para-realizar-actividades/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Power Shutoffs Due to Wildfire Risk",
+      "companies_involved": [
+        "Edison International",
+        "Sempra Energy"
+      ],
+      "industries_involved": [
+        "Utilities",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Edison International and Sempra Energy may be affected by power shutoffs?",
+        "Which manufacturing facilities in Southern California depend on the power supply from these utilities?",
+        "What regions are most vulnerable to energy supply disruptions due to the wildfires?",
+        "Which downstream companies rely on energy from Edison International and Sempra Energy?",
+        "How might the power shutoffs impact logistics and transportation in the affected areas?"
+      ],
+      "reason": "The potential power shutoffs due to wildfire risk can disrupt energy supply, affecting manufacturing, logistics, and overall supply chain operations in the region.",
+      "summary": "Southern California utilities are preparing for potential power shutoffs as wildfire risks increase due to extreme heat. This situation poses a significant risk to energy supply, which can impact various supply chain activities in the region.",
+      "title": "Southern California Utilities Prep Shutoffs as Fire Risk Surges",
+      "url": "https://www.claimsjournal.com/news/national/2026/10/02/340496.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20261002T084500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Government Accountability Report",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a government accountability report and does not present any information related to supply chain activities, disruptions, or impacts on suppliers, manufacturing, logistics, or trade.",
+      "summary": "The article focuses on a government official's presentation regarding accountability and progress in the state of Zacatecas, Mexico. It does not indicate any supply chain disruptions or impacts on related industries.",
+      "title": "Resultados , producto de actuación sin zigzagueos : Rodrigo Reyes",
+      "url": "https://expresszacatecas.com/politica/legisladores/resultados-gubernamentales-producto-de-actuacion-sin-zigzagueos-rrm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "wildfire",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel intensification",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Nicaragua"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by Hurricane Rachel in Nicaragua?",
+        "Which manufacturing or production relationships may be impacted by the hurricane?",
+        "Which countries or regions create exposure due to Hurricane Rachel?",
+        "Which supply-chain dependencies could transmit the disruption from Hurricane Rachel?",
+        "Which downstream companies or operations may be exposed to the effects of Hurricane Rachel?"
+      ],
+      "reason": "Hurricane Rachel's intensification poses a risk to supply chain activities in Nicaragua, potentially affecting logistics, transportation, and operations in the region.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, which could disrupt supply chain activities in Nicaragua. The event raises concerns about logistics and transportation in the affected areas.",
+      "title": "  Rachel  se intensifica a huracán categoría 3",
+      "url": "https://nuevaya.com.ni/internacionales/rachel-se-intensifica-a-huracan-categoria-3/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T003000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Baja California Sur, Sinaloa, Nayarit, and Jalisco?",
+        "Which transportation routes may be disrupted due to the hurricane's impact?",
+        "Which agricultural producers in the affected areas could face crop damage?",
+        "Which logistics companies have operations in the impacted coastal regions?",
+        "What is the potential impact on shipping and port operations in the affected areas?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics, transportation, and agricultural operations in the affected regions, which can disrupt supply chains.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, threatening coastal regions in Mexico with severe weather conditions. This natural disaster could disrupt logistics, transportation, and agricultural activities, impacting supply chains in the area.",
+      "title": "Rachel se convierte en huracán categoría 3 al sur de BCS",
+      "url": "https://www.expreso.com.mx/noticias/mexico/rachel-se-convierte-en-huracan-categoria-3-al-sur-de-bcs/265607",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T021500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Intensification",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Maritime"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the affected ports of Colima and Baja California Sur?",
+        "Which suppliers rely on maritime transport through the affected regions?",
+        "Which downstream companies depend on goods transported through the impacted areas?",
+        "What is the impact on logistics operations in the regions affected by Hurricane Rachel?",
+        "Which manufacturing facilities may face delays due to port closures in the affected areas?"
+      ],
+      "reason": "The intensification of Hurricane Rachel poses a risk to logistics and transportation operations in Mexico, particularly affecting ports and maritime navigation, which can disrupt supply chains.",
+      "summary": "Hurricane Rachel has intensified to a category 3 storm, threatening logistics and transportation operations in Mexico. The storm's impact on ports and navigation could lead to significant supply chain disruptions in the region.",
+      "title": "Rachel se intensifica a categoría 3 - Quadratín",
+      "url": "https://www.quadratin.com.mx/nacionales/rachel-se-intensifica-a-categoria-3/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Shipping",
+        "Logistics",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the affected ports of Colima, Nayarit, and Jalisco?",
+        "Which logistics providers are dependent on operations in the affected regions?",
+        "Which tourism companies may be impacted by the port closures and weather conditions?",
+        "Which suppliers rely on transportation routes through the affected areas?",
+        "What are the potential impacts on trade routes due to the hurricane's effects?"
+      ],
+      "reason": "The hurricane's impact on ports and navigation restrictions directly affects logistics and shipping operations, which are critical components of the supply chain.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, causing port closures in Mexico's Pacific coast states. This natural disaster poses significant risks to shipping and logistics operations in the affected regions.",
+      "title": "Aumenta  Rachel  intensidad a huracán categoría 3",
+      "url": "https://diario.mx/nacional/2026/oct/01/aumenta-rachel-intensidad-a-huracan-categoria-3-1141187.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Baja California Sur and Sinaloa that may be affected by the hurricane?",
+        "Which logistics operations may be disrupted due to flooding and adverse weather conditions?",
+        "Which agricultural producers in the affected regions could face crop damage or supply interruptions?",
+        "Which downstream companies depend on products sourced from the affected areas?",
+        "What transportation routes may be impacted by the hurricane's effects?"
+      ],
+      "reason": "The intensification of Hurricane Rachel poses a significant risk to supply chain activities in Baja California Sur and Sinaloa, potentially disrupting logistics, agriculture, and construction operations due to severe weather conditions and flooding.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, threatening to cause severe weather and flooding in Baja California Sur and Sinaloa, Mexico. This natural disaster could disrupt logistics and agricultural supply chains in the affected regions.",
+      "title": "Huracán Rachel se intensifica a categoría 3 ; provocará lluvias intensas en BCS y Sinaloa",
+      "url": "https://planoinformativo.com/1173047/huracan-rachel-se-intensifica-a-categoria-3-provocara-lluvias-intensas-en-bcs-y-sinaloa",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T041500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Baja California Sur, Sinaloa, Nayarit, and Jalisco?",
+        "Which transportation routes may be disrupted due to flooding and high winds?",
+        "Which agricultural producers in the affected areas could face crop damage?",
+        "Which logistics companies have operations in the impacted states?",
+        "What is the potential impact on construction projects in the affected regions?"
+      ],
+      "reason": "The hurricane poses a risk of severe weather conditions that could disrupt logistics, transportation, and agricultural production in the affected areas, leading to potential supply chain disruptions.",
+      "summary": "Hurricane Rachel has intensified to a Category 3 storm, threatening heavy rainfall and strong winds in parts of Mexico. This natural disaster could significantly impact logistics, transportation, and agricultural activities in the affected regions.",
+      "title": "Huracán Rachel categoría 3 provoca fuertes lluvias en el Pacífico mexicano",
+      "url": "https://lineadirectaportal.com/mexico/huracan-rachel-se-intensifica-a-categoria-3-esta-es-su-ubicacion-y-trayectoria-2026-10-01__1712684",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Maritime",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the affected ports of Colima, Nayarit, and Jalisco?",
+        "Which suppliers rely on maritime transport through the affected regions?",
+        "What logistics operations may be disrupted due to port closures?",
+        "Which downstream companies depend on goods transported through the affected ports?",
+        "Which manufacturing facilities may face delays due to the hurricane's impact on logistics?"
+      ],
+      "reason": "The hurricane poses a threat to maritime operations and logistics in the affected regions, leading to potential disruptions in supply chains reliant on these ports.",
+      "summary": "Hurricane Rachel has intensified and is expected to impact maritime operations along the Pacific coast of Mexico. Port closures and navigation restrictions may disrupt logistics and supply chains in the affected areas.",
+      "title": "  Rachel  se intensifica a huracán categoría tres",
+      "url": "https://www.notisistema.com/noticias/rachel-se-intensifica-a-huracan-categoria-tres/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Maritime",
+        "Education"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which maritime companies operate in the affected coastal regions?",
+        "Which educational institutions may face disruptions due to the hurricane?",
+        "Which suppliers of goods and services are located in the affected areas?",
+        "What logistics operations could be impacted by the severe weather conditions?",
+        "Which downstream companies rely on transportation routes affected by the hurricane?"
+      ],
+      "reason": "The hurricane poses risks to maritime activities and educational operations in the affected regions, potentially disrupting logistics and supply chains.",
+      "summary": "Hurricane Rachel is expected to cause severe weather conditions, including heavy rainfall and high waves, particularly affecting maritime operations and leading to the suspension of educational activities in Los Cabos, Mexico. This natural disaster could disrupt logistics and supply chains in the region.",
+      "title": "Huracán Rachel categoría 2 provoca lluvias intensas y oleaje de hasta seis metros – Publimetro México",
+      "url": "https://www.publimetro.com.mx/noticias/2026/10/01/rachel-sube-a-categoria-2-y-activan-alerta-por-lluvias-viento-y-oleaje/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T001500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Baja California Sur and Sinaloa that may be affected by the hurricane?",
+        "Which transportation routes are impacted by the hurricane's expected flooding and winds?",
+        "Which agricultural producers in the affected regions may face crop damage due to the hurricane?",
+        "Which logistics companies have operations in the affected areas that could be disrupted?",
+        "What contingency plans do companies have in place for natural disasters in these regions?"
+      ],
+      "reason": "The hurricane poses a significant risk to logistics, transportation, and agricultural operations in the affected regions, potentially disrupting supply chains.",
+      "summary": "Hurricane Rachel has intensified to a category 3 storm, threatening significant rainfall and flooding in Baja California Sur and Sinaloa, Mexico. This natural disaster could disrupt logistics and agricultural activities in the region, impacting supply chains.",
+      "title": "Huracán  Rachel  se intensifica a categoría 3 : Conagua – Periódico Zócalo | Noticias de Saltillo , Torreón , Piedras Negras , Monclova , Acuña",
+      "url": "https://www.zocalo.com.mx/huracan-rachel-se-intensifica-a-categoria-3-conagua/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261001T234500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the states of Baja California Sur, Sinaloa, and Jalisco?",
+        "Which transportation routes may be affected by flooding and landslides?",
+        "Which downstream companies depend on agricultural products from the affected regions?",
+        "What logistics operations are at risk due to the hurricane's impact?",
+        "Which manufacturing facilities in the U.S. rely on imports from Mexico that may be disrupted?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation in Mexico and the U.S. due to potential flooding and landslides, which can disrupt supply chains.",
+      "summary": "Hurricane Rachel has strengthened and poses a significant threat to logistics and transportation along Mexico's Pacific coast. The storm's impact could disrupt supply chains in affected regions, particularly in agriculture and transportation.",
+      "title": "Hurricane Rachel strengthens to Category 2 off of Mexico Pacific Coast | News , Sports , Jobs",
+      "url": "https://www.lahainanews.com/wire/?category=5041&ID=399882",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T060000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "First September without hurricanes in 30 years",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Colombia"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a weather phenomenon (El Niño) leading to a lack of hurricanes, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the absence of hurricanes in September due to El Niño, marking a significant weather pattern change. However, it does not present any direct implications for supply chain operations or disruptions.",
+      "title": "Atlántico : Primer septiembre sin huracanes en más de 30 años a raíz de El Niño",
+      "url": "https://www.telesurtv.net/atlantico-primer-septiembre-huracanes-30-anos/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Baja California Sur, Sinaloa, Nayarit, and Jalisco?",
+        "Which transportation routes may be disrupted due to flooding and high winds?",
+        "Which agricultural producers in the affected areas could face crop damage?",
+        "What logistics companies have operations in the impacted states?",
+        "Which downstream companies depend on products sourced from the affected regions?"
+      ],
+      "reason": "The hurricane poses a risk of flooding and transportation disruptions, which can impact logistics and supply chain operations in the affected regions.",
+      "summary": "Hurricane Rachel, now a Category 2 storm, is expected to bring intense rainfall and strong winds to several states in Mexico, potentially disrupting logistics and transportation. The flooding and adverse weather conditions may affect agricultural production and supply chain activities in the region.",
+      "title": "Huracán Rachel ya es categoría 2 : CONAGUA alerta lluvias intensas en estos 4 estados en las próximas 24 horas",
+      "url": "https://www.elimparcial.com/mexico/2026/10/01/huracan-rachel-ya-es-categoria-2-conagua-alerta-lluvias-intensas-en-estos-4-estados-en-las-proximas-24-horas/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261001T224500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "El Niño Cyclonic Activity",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the weather phenomenon of El Niño and its effects on cyclonic activity in the Pacific, but it does not provide specific information on how this impacts supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the meteorological aspects of El Niño and its influence on cyclonic activity in the Pacific Ocean. It does not indicate any direct supply chain disruptions or impacts on companies or industries.",
+      "title": "El Niño : pourquoi le Pacifique connaît une forte activité cyclonique tandis que lAtlantique reste calme",
+      "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-10-02/el-nino-pourquoi-le-pacifique-connait-une-forte-activite-cyclonique-tandis-que-l-atlantique-reste-calme-92836",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T104500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Polo Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Emergency Services",
+        "Infrastructure"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers are located in the affected municipalities of Sonora?",
+        "Which logistics operations may be disrupted due to damaged infrastructure?",
+        "What is the status of transportation routes connecting to the affected areas?",
+        "Which downstream companies rely on services from the impacted regions?",
+        "How might the disruption of emergency services affect local supply chains?"
+      ],
+      "reason": "The article describes the impact of Hurricane Polo on infrastructure and emergency services in Sonora, Mexico, which can disrupt logistics and transportation, affecting supply chains in the region.",
+      "summary": "Hurricane Polo has caused significant infrastructure damage in Sonora, Mexico, leading to road collapses and communication issues. This natural disaster has the potential to disrupt logistics and emergency services, impacting local supply chains.",
+      "title": "Adolescente con nueve meses de embarazo queda atrapada tras el paso de Polo",
+      "url": "https://www.excelsior.com.mx/nacional/adolescente-con-nueve-meses-embarazo-queda-atrapada-tras-paso-polo",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261001T233000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Strengthening Avocado Export Production Agreements",
+      "companies_involved": [
+        "Asociación de Productores y Empacadores Exportadores de Aguacate de México (APEAM)"
+      ],
+      "industries_involved": [
+        "Agriculture",
+        "Food Export"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of avocado producers operate in Michoacán and Jalisco?",
+        "Which manufacturing or production relationships may be affected by the new environmental regulations?",
+        "Which countries or regions create exposure due to the new export restrictions?",
+        "Which supply-chain dependencies could transmit the disruption from deforestation regulations?",
+        "Which downstream companies depend on avocado exports from Mexico?"
+      ],
+      "reason": "The agreements and regulations announced by the Mexican government directly impact the avocado export supply chain, affecting production, trade, and compliance with environmental standards.",
+      "summary": "The Mexican government has announced new agreements to strengthen avocado production for export, focusing on sustainability and labor conditions. These measures, along with recent export restrictions due to deforestation, could significantly impact the avocado supply chain between Mexico and the United States.",
+      "title": "Sheinbaum anuncia acuerdos para fortalecer la producción de aguacate de exportación",
+      "url": "https://aristeguinoticias.com/0110/dinero-y-economia/sheinbaum-anuncia-acuerdos-para-fortalecer-la-produccion-de-aguacate-de-exportacion/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Rachel Impact on Teacapán Port",
+      "companies_involved": [],
+      "industries_involved": [
+        "Fishing",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which fishing companies operate in the Teacapán region that may be affected by the port closure?",
+        "Which tourism operators rely on access to the beaches in Teacapán?",
+        "What logistics companies are responsible for transporting goods to and from the affected port?",
+        "Which suppliers of fishing equipment may be impacted by the disruption in operations?",
+        "Which downstream businesses depend on the fishing and tourism industries in the affected area?"
+      ],
+      "reason": "The closure of the port and beaches due to Hurricane Rachel creates a disruption in fishing and tourism activities, impacting logistics and supply chains in these sectors.",
+      "summary": "The port and beaches in Teacapán, Mexico, are closed due to the effects of Hurricane Rachel, which poses a risk to local fishing and tourism industries. This disruption may affect logistics and supply chains reliant on these sectors.",
+      "title": "Se sale el mar en Teacapán ; el puerto y las playas permanecen cerrados hasta nuevo aviso",
+      "url": "https://lineadirectaportal.com/sinaloa/se-sale-el-mar-en-teacapan-el-puerto-y-las-playas-permanecen-cerrados-hasta-nuevo-aviso-2026-10-01__1712719",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Storm Relief Distribution",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses storm relief for veterans but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the distribution of storm relief funds to veterans in Indiana following recent flooding. While it highlights the impact of the storms on individuals, it does not present a direct connection to supply chain disruptions.",
+      "title": "Indiana distributes $158 , 000 in storm relief to households of veterans",
+      "url": "https://www.wishtv.com/weather/weather-stories/indiana-distributes-158000-in-storm-relief-to-households-of-veterans/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Judicial Sentencing in Gambling Case",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses legal proceedings and sentencing related to gambling and money laundering, which do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the sentencing of individuals involved in a gambling and money laundering case in Taiwan. It does not indicate any direct impact on supply chain activities or operations.",
+      "title": "九州博弈宣判 ！ 百億總裁陳政谷 、 最美女董座徐培菁各判11年8月 、 7年 | 法律前線 | 社會",
+      "url": "https://udn.com/news/story/7321/9790895",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T080000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Festival in Hanoi",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a cultural festival and its significance in promoting cultural exchange, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights the success of a cultural festival in Hanoi, which promotes international cultural exchange and understanding. However, it does not present any information that would indicate a supply chain disruption.",
+      "title": "Đề cử Giải Bùi Xuân Phái - Vì tình yêu Hà Nội 2026 - Lễ hội Văn hóa thế giới tại Hà Nội : Khi Hà Nội trở thành điểm hẹn của những nền văn hóa",
+      "url": "https://thethaovanhoa.vn/de-cu-giai-bui-xuan-phai-vi-tinh-yeu-ha-noi-2026-le-hoi-van-hoa-the-gioi-tai-ha-noi-khi-ha-noi-tro-thanh-diem-hen-cua-nhung-nen-van-hoa-20261002062156245.htm",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "NIO and Geely Strategic Partnership in Battery Swap",
+      "companies_involved": [
+        "NIO",
+        "Geely",
+        "易易互联 (Easymove)"
+      ],
+      "industries_involved": [
+        "Automotive",
+        "Energy"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of NIO and Geely may be affected by the new battery swap standards?",
+        "Which manufacturing facilities are involved in the production of vehicles that will utilize the new battery swap technology?",
+        "What regions in China are most impacted by the establishment of new battery swap stations?",
+        "Which supply-chain dependencies could be affected by the integration of NIO and Geely's operations?",
+        "Which downstream companies rely on the battery swap services provided by NIO and Geely?"
+      ],
+      "reason": "This event represents a significant operational shift in the automotive supply chain, particularly in the battery swap sector, which could affect production, logistics, and service delivery for both companies involved.",
+      "summary": "NIO and Geely have formed a strategic partnership to enhance battery swap technology, marking a pivotal shift in the automotive supply chain. This collaboration aims to improve operational efficiency and redefine industry standards, potentially impacting various stakeholders in the automotive and energy sectors.",
+      "title": "蔚来拿下吉利汽车 ， 震惊行业 ！ ",
+      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670be2gc.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T040000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No specific event identified",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any meaningful information regarding supply chain activities or disruptions.",
+      "summary": "The article lacks content and does not describe any event related to supply chain disruptions.",
+      "title": "辽宁向新闯  三关  ",
+      "url": "https://baijiahao.baidu.com/s?id=1877832453778133339",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No relevant event identified",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any meaningful information related to supply chain activities or disruptions.",
+      "summary": "The article does not contain relevant content regarding supply chain disruptions or impacts. It appears to be a placeholder or error message without any actionable information.",
+      "title": "家在黄河边 （ 我家门前有条河 ） ",
+      "url": "https://baijiahao.baidu.com/s?id=1877890196976521811",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261001T233000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No relevant event identified",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any meaningful information related to supply chain activities or disruptions.",
+      "summary": "The article does not contain relevant content regarding supply chain disruptions or impacts. It appears to be a placeholder or error message without any actionable information.",
+      "title": "家在黄河边 （ 我家门前有条河 ） ",
+      "url": "https://baijiahao.baidu.com/s?id=1877898434425104176",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Celebration of National Day and Speech by Xi Jinping",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article primarily discusses a national celebration and political speech without any direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the celebration of the 77th anniversary of the People's Republic of China and a speech by President Xi Jinping. It does not present any information that indicates a supply chain disruption or impact on supply chain activities.",
+      "title": "以奋斗之姿书写时代华章 习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量",
+      "url": "http://www.81.cn/yw_208727/16490810.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "flood",
+      "published_at": "20261002T020000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Hà Lan's escape in Greece",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any information related to supply chain activities, such as suppliers, manufacturing, logistics, or trade. It appears to focus on a non-supply chain related event.",
+      "summary": "The article discusses an event involving Hà Lan in Greece but does not indicate any supply chain disruptions. There are no relevant companies, industries, or countries involved that would impact supply chain activities.",
+      "title": "Hà Lan thoát hiểm ngoạn mục trên đất Hy Lạp",
+      "url": "https://baomoi.com/ha-lan-thoat-hiem-ngoan-muc-tren-dat-hy-lap-c56177653.epi",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T000000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Sports Team Preparation",
+      "companies_involved": [],
+      "industries_involved": [
+        "Sports"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "Japan",
+        "South Korea"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a sports team's preparation for a new season and does not indicate any disruptions related to supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on the Taipei Taishin Warriors basketball team's preparations for the upcoming season, including player returns and practice matches. It does not present any information related to supply chain disruptions.",
+      "title": "TPBL ／ 戰神迎新賽季最後衝刺 林庭謙歸隊助陣 ！ 丁聖儒領軍狂飆助攻 | 運動 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1916253",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T071500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cold Weather in Northern Vietnam",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses cold weather conditions but does not provide any specific information regarding impacts on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a strong cold front affecting Northern Vietnam. However, it does not indicate any direct implications for supply chain operations or activities.",
+      "title": "Không khí lạnh cường độ mạnh tràn về , nhiều nơi ở Bắc bộ trời rét và lạnh",
+      "url": "https://baomoi.com/khong-khi-lanh-cuong-do-manh-tran-ve-nhieu-noi-o-bac-bo-troi-ret-va-lanh-c56178754.epi",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T024500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a public figure and does not relate to any supply chain activities or disruptions.",
+      "summary": "The article focuses on the life of a former bodybuilder and does not present any information relevant to supply chain disruptions.",
+      "title": "Huyền thoại thể hình Lý Đức đình đám một thời hiện ra sao ở tuổi U65 ? ",
+      "url": "https://ngoisao.vn/hau-truong/chuyen-lang-sao/huyen-thoai-the-hinh-ly-duc-dinh-dam-mot-thoi-hien-ra-sao-o-tuoi-u65-d493088.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T043000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Huawei's Chip Breakthrough Amid Geopolitical Challenges",
+      "companies_involved": [
+        "Huawei"
+      ],
+      "industries_involved": [
+        "Semiconductors",
+        "Telecommunications"
+      ],
+      "countries_involved": [
+        "China",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Huawei may be affected by geopolitical restrictions?",
+        "Which manufacturing facilities are involved in the production of the Kirin chips?",
+        "What countries are critical for Huawei's semiconductor supply chain?",
+        "Which supply-chain dependencies could be impacted by the inability to access advanced semiconductor technology?",
+        "Which downstream companies rely on Huawei's Kirin chips for their products?"
+      ],
+      "reason": "The article discusses Huawei's advancements in chip technology in the context of geopolitical restrictions that have historically impacted its supply chain, indicating a significant connection to supply chain activities.",
+      "summary": "Huawei has successfully developed the Kirin 9050 Pro chip despite facing significant geopolitical challenges that have restricted access to advanced semiconductor technology. This breakthrough not only impacts Huawei's supply chain but also signifies a shift in the global semiconductor landscape.",
+      "title": "绝境突围的麒麟芯片",
+      "url": "http://news.cyol.com/gb/keji/articles/2026-10/02/content_ybXJXVuQ3N.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T030000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Criminal Activity Impacting Supply Chains",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United Kingdom",
+        "Albania",
+        "Colombia",
+        "Pakistan",
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses organized crime and drug trafficking in the UK, which may indirectly affect supply chains but does not provide a direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article highlights the rise of organized crime in the UK, particularly involving Albanian gangs in the drug trade. While it discusses potential impacts on society and law enforcement, it does not directly indicate a supply chain disruption.",
+      "title": "Investigimi i  The Sun : Shqiptarët ndryshuan - Syri",
+      "url": "https://www.syri.net/kronike/920477/investigimi-i-the-sun-shqiptaret-ndryshuan-peizazhin-kriminal-moren-nen-kontroll-tregun-e-kokaines/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T034500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Amazon Kindle Product Launch",
+      "companies_involved": [
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Consumer Electronics"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the launch of a new Kindle product by Amazon, focusing on design and features rather than any disruptions in supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the release of new Kindle models by Amazon, showcasing improvements in design and materials. However, it does not indicate any supply chain disruptions or risks associated with this product launch.",
+      "title": "你的下一台 「 泡面盖 」， 何必是塑料的 ？ ",
+      "url": "https://www.163.com/dy/article/L888K5EM05118O8G.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T070000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Amazon Kindle Product Launch",
+      "companies_involved": [
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Consumer Electronics"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the launch of a new Kindle product and its design features, but it does not indicate any disruptions or risks to the supply chain, manufacturing, or logistics.",
+      "summary": "The article focuses on the release of new Kindle models by Amazon, highlighting design improvements and features. It does not present any supply chain disruptions or risks associated with the product launch.",
+      "title": "你的下一台泡面盖 ， 何必是塑料的 ？ ",
+      "url": "https://tech.ifeng.com/c/8wtVmjZFTfH",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261002T064500Z"
     }
   ]
 }
