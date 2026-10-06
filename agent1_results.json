@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T08:14:01Z",
-  "total_count": 11047,
+  "updated_at": "2026-10-06T15:18:17Z",
+  "total_count": 11058,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -300908,6 +300908,310 @@
       "gdelt_country": "Mexico",
       "gdelt_keyword": "sanctions",
       "published_at": "20261002T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential conflict escalation between Russia and NATO",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Estonia",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense equipment may be affected by increased tensions in the region?",
+        "Which logistics operations could be disrupted due to potential military actions?",
+        "Which countries or regions create exposure for companies operating near the Baltic Sea?",
+        "Which supply-chain dependencies could transmit the disruption from the geopolitical tensions?",
+        "Which downstream companies in the defense industry may be exposed to risks from this potential conflict?"
+      ],
+      "reason": "The article discusses the potential for military conflict between Russia and NATO, which could disrupt logistics and defense supply chains in the region, impacting companies and industries involved in these sectors.",
+      "summary": "The article highlights the escalating tensions between Russia and NATO, particularly in the Baltic region, which poses a risk of military conflict. This geopolitical situation could significantly impact logistics and defense supply chains in the affected countries.",
+      "title": "Russia , lEstonia sposta le forze al confine . Berlino , allerta degli 007 su Mosca : « Contro di noi una guerra - ombra » ",
+      "url": "https://www.ilgazzettino.it/mondo/estonia_soldati_confine_russia_cosa_sta_succedendo-9805940.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Ninja Airfryer Price Comparison",
+      "companies_involved": [
+        "LIDL",
+        "Amazon"
+      ],
+      "industries_involved": [
+        "Retail",
+        "Consumer Electronics"
+      ],
+      "countries_involved": [
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a price comparison between LIDL and Amazon for a specific product but does not indicate any disruption in supply chain activities such as manufacturing, logistics, or sourcing.",
+      "summary": "The article highlights a price competition between LIDL and Amazon for the Ninja Double Stack Airfryer. It does not present any information regarding supply chain disruptions or impacts on production or logistics.",
+      "title": "Ninja Double Stack bei LIDL billiger als bei Amazon Prime Day Deals",
+      "url": "http://www.tz.de/produktempfehlung/ninja-double-stack-bei-lidl-billiger-als-bei-amazon-prime-day-deals-zr-94526545.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Global CFO Program Launch",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "USA",
+        "Spain"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a leadership program for CFOs and does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article announces the launch of a Global CFO Program aimed at preparing financial leaders for technological and geopolitical changes. It does not present any information that would indicate a supply chain disruption.",
+      "title": "IESE Business School | University of Navarra : IESE startet das Global CFO - Programm",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69763550-iese-business-school-university-of-navarra-iese-startet-das-global-cfo-programm-382.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "FBI Arrest Related to Espionage",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses an espionage case involving an individual allegedly acting on behalf of the Chinese government, but it does not directly impact supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the arrest of an individual accused of espionage related to a foreign government. While it highlights geopolitical tensions, it does not indicate a direct supply chain disruption.",
+      "title": "張婉瑩監視賴總統之子遭押 FBI ： 捍衛民主盟友主權 | 政治",
+      "url": "https://www.cna.com.tw/news/aipl/202610060057.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Global Interest Rate Hikes Due to Rising Oil Prices",
+      "companies_involved": [
+        "Taiwan Central Bank",
+        "U.S. Federal Reserve",
+        "European Central Bank",
+        "Bank of Japan"
+      ],
+      "industries_involved": [
+        "Finance",
+        "Energy",
+        "Manufacturing",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "United States",
+        "Japan",
+        "South Korea",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy resources are affected by rising oil prices?",
+        "How might increased interest rates impact manufacturing costs for companies in Taiwan?",
+        "Which countries are most reliant on oil imports that could be affected by these price changes?",
+        "What downstream companies depend on the financial stability of the affected banks?",
+        "Which manufacturing facilities in Taiwan are exposed to fluctuations in energy costs?"
+      ],
+      "reason": "The article discusses the potential for global interest rate hikes driven by rising oil prices, which can significantly impact supply chain costs, particularly in energy-intensive industries and those reliant on financing.",
+      "summary": "The article highlights the potential for interest rate increases in major economies due to rising oil prices, which could disrupt supply chains by increasing costs for manufacturers and impacting trade dynamics. Taiwan's economy, particularly its AI and technology sectors, may face challenges as a result.",
+      "title": "台灣央行就是不一樣 ！ 林啟超預估美日歐Q4再次升息 ， 台股 「 過五關斬六將 」 有底氣 | 林彥呈 | 財經",
+      "url": "https://www.storm.mg/article/11170209",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Attempted Hijacking of FlyDubai Flight",
+      "companies_involved": [
+        "FlyDubai"
+      ],
+      "industries_involved": [
+        "Aviation"
+      ],
+      "countries_involved": [
+        "Israel",
+        "United Arab Emirates",
+        "Saudi Arabia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of FlyDubai may be affected by increased security measures?",
+        "Which airports in Israel and the UAE could experience operational disruptions due to heightened security?",
+        "Which downstream airlines may be impacted by changes in air traffic regulations following this incident?",
+        "What are the potential impacts on passenger logistics and transportation in the region?",
+        "Which countries may impose new regulations affecting flights to and from Israel?"
+      ],
+      "reason": "The attempted hijacking of a commercial flight poses significant risks to aviation security and could lead to increased regulations and operational disruptions in the affected regions, impacting supply chain activities related to air travel and logistics.",
+      "summary": "An attempted hijacking of a FlyDubai flight has raised security concerns in Israel and the surrounding regions. This incident could lead to increased operational disruptions and regulatory changes affecting the aviation supply chain.",
+      "title": "Israelul și - a ridicat avioanele de luptă după tentativa de deturnare a cursei FlyDubai . Care era scenariul - limită",
+      "url": "https://www.mediafax.ro/externe/israelul-si-a-ridicat-avioanele-de-lupta-dupa-tentativa-de-deturnare-a-cursei-flydubai-care-era-scenariul-limita-23820184",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Drone Attacks in Moscow and Black Sea",
+      "companies_involved": [
+        "Turkish Cargo Company (owner of the attacked ship)"
+      ],
+      "industries_involved": [
+        "Maritime Shipping",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "Turkey",
+        "Romania",
+        "Azerbaijan",
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Turkish cargo company operate in the affected region?",
+        "Which maritime shipping routes are impacted by the conflict in the Black Sea?",
+        "Which energy suppliers may be affected by the attacks on oil installations?",
+        "Which downstream companies depend on the maritime transport of goods from the Black Sea region?",
+        "What are the potential impacts on logistics operations due to increased military activity in the area?"
+      ],
+      "reason": "The drone attacks in Moscow and the Black Sea have direct implications for maritime shipping and energy supply chains, affecting transportation routes and potentially leading to increased risks for companies operating in these regions.",
+      "summary": "Recent drone attacks in Moscow and the Black Sea have resulted in casualties and targeted energy infrastructure, indicating a significant geopolitical disruption. This situation poses risks to maritime shipping and energy supply chains, particularly for companies operating in or reliant on these regions.",
+      "title": "Guerre en Ukraine . Attaque de drones près de Moscou , marins et civils tués … Le point sur la nuit",
+      "url": "https://toulon.maville.com/actu/actudet_-guerre-en-ukraine-attaque-de-drones-pres-de-moscou-marins-et-civils-tues-le-point-sur-la-nuit_fil-7510152_actu.Htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Drone Attacks in Ukraine and Russia",
+      "companies_involved": [
+        "Turkish Cargo Company"
+      ],
+      "industries_involved": [
+        "Maritime Shipping",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Ukraine",
+        "Russia",
+        "Turkey",
+        "Romania"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Turkish Cargo Company operate in the affected region?",
+        "Which maritime shipping routes are impacted by the conflict in the Black Sea?",
+        "Which energy suppliers may be affected by the attacks on oil installations near Moscow?",
+        "Which downstream companies depend on maritime transport in the Black Sea area?",
+        "What are the potential impacts on logistics operations due to the ongoing conflict?"
+      ],
+      "reason": "The drone attacks and military actions in the region have direct implications for maritime shipping and energy supply chains, affecting logistics and transportation routes.",
+      "summary": "The ongoing conflict in Ukraine, marked by drone attacks and military actions, poses significant risks to supply chains, particularly in maritime shipping and energy sectors. The situation could disrupt logistics operations and trade routes in the Black Sea region.",
+      "title": "Guerre en Ukraine . Attaque de drones près de Moscou , marins et civils tués … Le point sur la nuit",
+      "url": "https://draguignan.maville.com/actu/actudet_-guerre-en-ukraine-attaque-de-drones-pres-de-moscou-marins-et-civils-tues-le-point-sur-la-nuit_fil-7510152_actu.Htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Conflict over Bab el-Mandeb Strait",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "Yemen",
+        "Saudi Arabia",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Red Sea and may be affected by the conflict?",
+        "Which energy companies rely on oil routes through Bab el-Mandeb?",
+        "What suppliers are located in the affected regions that could face disruptions?",
+        "Which countries are dependent on oil transported through Bab el-Mandeb?",
+        "Which downstream companies depend on oil supplies from the affected routes?"
+      ],
+      "reason": "The conflict over the Bab el-Mandeb Strait poses a significant risk to global shipping and energy supply chains, as it is a critical maritime passage for oil transport. The military actions and control over this chokepoint can disrupt logistics and trade flows, impacting various industries reliant on these routes.",
+      "summary": "The ongoing conflict in Yemen over the Bab el-Mandeb Strait represents a significant geopolitical disruption that threatens global energy supply chains. Control of this critical maritime route is essential for oil transport, and the military actions in the region could lead to substantial impacts on shipping and energy markets.",
+      "title": "Saudi - Backed Forces Strike Back After Iran Proxy Seizes Control of Bab el - Mandeb – PJ Media",
+      "url": "https://pjmedia.com/david-manney/2026/10/05/irans-proxy-grabbed-bab-el-mandeb-saudi-backed-forces-just-hit-back-hard-n4958009",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Military Execution Approval",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a military execution and legal proceedings surrounding it, which do not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on President Trump's approval of the execution of Nidal Hasan, a convicted military shooter. This event is primarily a legal and military matter with no direct implications for supply chain activities.",
+      "title": "Trump Approves Firing Squad for Fort Hood Shooter Nidal Hasan , Setting Up First Military Execution Since 1961",
+      "url": "https://www.ibtimes.com.au/trump-approves-nidal-hasan-firing-squad-execution-1876316",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Skillcation Trend",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Education"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a trend in tourism and experiential learning but does not indicate any disruptions to supply chains, logistics, or production activities.",
+      "summary": "The article highlights a growing trend in tourism focused on experiential learning, known as 'skillcation.' While this trend may influence local economies, it does not represent a supply chain disruption.",
+      "title": "晶采观察丨从  打卡  到  学艺  国庆文旅消费涌现新亮点 _ 广州日报大洋网",
+      "url": "https://news.dayoo.com/china/202610/06/139997_55010131.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
     }
   ]
 }
