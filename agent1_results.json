@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T07:29:02Z",
-  "total_count": 11074,
+  "updated_at": "2026-10-07T14:53:51Z",
+  "total_count": 11079,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -301679,6 +301679,127 @@
       "gdelt_risk_type": "policy_regulation",
       "gdelt_country": "India",
       "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Discussion on Economic Policy",
+      "companies_involved": [
+        "NVIDIA",
+        "Grab",
+        "foodpanda"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Food Delivery"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "Singapore"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of NVIDIA may be affected by changes in Taiwan's economic policies?",
+        "How might the merger between Grab and foodpanda impact competition in the food delivery industry?",
+        "Which manufacturing facilities in Taiwan are dependent on NVIDIA's operations?",
+        "What are the potential impacts on logistics for food delivery services in Taiwan due to regulatory changes?",
+        "Which downstream companies rely on services from Grab and foodpanda?"
+      ],
+      "reason": "The article discusses political discussions and proposals regarding economic policy in Taiwan, but does not indicate any immediate or potential disruptions to supply chain activities.",
+      "summary": "The article focuses on political discussions in Taiwan regarding economic policies and the establishment of a sovereign fund. While it mentions companies like NVIDIA and Grab, it does not present any direct supply chain disruptions.",
+      "title": "王世堅喻施政如射箭 卓榮泰盼行政立法同弓同靶 | 政治",
+      "url": "https://www.cna.com.tw/news/aipl/202610060193.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Strike at AGC Group's Aijiexu",
+      "companies_involved": [
+        "AGC Group",
+        "Aijiexu"
+      ],
+      "industries_involved": [
+        "Glass Manufacturing",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of AGC Group may be affected by the strike at Aijiexu?",
+        "Which manufacturing facilities depend on Aijiexu for glass products?",
+        "What are the potential impacts on production schedules due to the strike?",
+        "Which downstream companies rely on products from Aijiexu?",
+        "How might labor disruptions at Aijiexu affect supply chain operations in Taiwan?"
+      ],
+      "reason": "The strike at Aijiexu due to labor disputes over wage adjustments can disrupt production and operations, impacting the supply chain for glass products and potentially affecting downstream industries reliant on these materials.",
+      "summary": "Aijiexu, a subsidiary of AGC Group, is facing a strike due to unresolved wage disputes, which could disrupt its operations and affect the supply chain for glass manufacturing. This situation highlights the potential for labor-related disruptions to impact production and logistics in the electronics sector.",
+      "title": "艾杰旭資方主張經營困難 工會揭營運數據 ： 明明就有能力調薪 ！ | 財經",
+      "url": "https://newtalk.tw/news/view/2026-10-06/1064013",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "N/A",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a specific car model and does not provide any information related to supply chain activities such as suppliers, manufacturing, or logistics.",
+      "summary": "The article discusses the Donkervoort supercar but does not indicate any supply chain disruptions or impacts. There are no relevant supply chain connections identified.",
+      "title": "Inside the Donkervoort , a Dutch super car like no other",
+      "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "No relevant event identified",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article does not provide any meaningful information related to supply chain activities or disruptions.",
+      "summary": "The article appears to be unrelated to supply chain disruptions, as it does not discuss any specific events impacting suppliers, manufacturing, logistics, or trade.",
+      "title": "吾家吾国丨他们的奋斗人生 ， 镌刻共和国前行铿锵足迹",
+      "url": "https://baijiahao.baidu.com/s?id=1878283251369797261",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Hainan Tourism Development",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Hospitality"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses tourism development and infrastructure improvements in Hainan, which do not have a direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the ongoing development and enhancement of tourism infrastructure in Hainan, China, focusing on increasing visitor numbers and improving service quality. However, it does not indicate any disruptions to supply chains or related activities.",
+      "title": "海南景区风光不老体验常新 _ 广州日报大洋网",
+      "url": "https://news.dayoo.com/china/202610/06/139997_55010133.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
       "published_at": "20261006T083000Z"
     }
   ]

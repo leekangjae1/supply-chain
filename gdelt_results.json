@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-07T07:27:09.598223",
-  "selected_group": "policy_regulation",
+  "updated_at": "2026-10-07T14:53:12.480740",
+  "selected_group": "operation",
   "timespan": "3d",
-  "new_count": 15,
-  "total_count": 11074,
+  "new_count": 5,
+  "total_count": 11079,
   "results": [
     {
       "risk_type": "operation",
@@ -143966,6 +143966,71 @@
       "source_country": "",
       "published_at": "20261006T083000Z",
       "collected_at": "2026-10-07T07:17:06.815254"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Japan",
+      "keyword": "strike",
+      "query": "\"Japan\" strike",
+      "title": "王世堅喻施政如射箭 卓榮泰盼行政立法同弓同靶 | 政治",
+      "url": "https://www.cna.com.tw/news/aipl/202610060193.aspx",
+      "domain": "cna.com.tw",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-07T13:07:05.510849"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Japan",
+      "keyword": "strike",
+      "query": "\"Japan\" strike",
+      "title": "艾杰旭資方主張經營困難 工會揭營運數據 ： 明明就有能力調薪 ！ | 財經",
+      "url": "https://newtalk.tw/news/view/2026-10-06/1064013",
+      "domain": "newtalk.tw",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-07T13:07:05.510862"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Japan",
+      "keyword": "strike",
+      "query": "\"Japan\" strike",
+      "title": "Inside the Donkervoort , a Dutch super car like no other",
+      "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
+      "domain": "cityam.com",
+      "language": "English",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-07T13:07:05.510866"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "吾家吾国丨他们的奋斗人生 ， 镌刻共和国前行铿锵足迹",
+      "url": "https://baijiahao.baidu.com/s?id=1878283251369797261",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-07T13:22:57.858264"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "海南景区风光不老体验常新 _ 广州日报大洋网",
+      "url": "https://news.dayoo.com/china/202610/06/139997_55010133.htm",
+      "domain": "news.dayoo.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-07T13:22:57.858269"
     }
   ]
 }
