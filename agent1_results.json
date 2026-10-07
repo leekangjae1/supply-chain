@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T15:18:17Z",
-  "total_count": 11058,
+  "updated_at": "2026-10-07T00:09:10Z",
+  "total_count": 11059,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -301210,6 +301210,42 @@
       "url": "https://news.dayoo.com/china/202610/06/139997_55010131.htm",
       "gdelt_risk_type": "operation",
       "gdelt_country": "Mexico",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Regulatory Changes in ETF Investment",
+      "companies_involved": [
+        "中国平安",
+        "华夏基金",
+        "易方达资产管理",
+        "南方东英",
+        "富国资产管理",
+        "广发国际"
+      ],
+      "industries_involved": [
+        "Finance",
+        "Investment Management"
+      ],
+      "countries_involved": [
+        "China",
+        "Hong Kong"
+      ],
+      "risk_exposure_questions": [
+        "Which investment firms may be affected by the new ETF regulations?",
+        "How might the changes in ETF investment regulations impact the liquidity of funds?",
+        "Which companies are dependent on the performance of the newly listed ETFs?",
+        "What suppliers of financial services may be impacted by the influx of insurance funds into ETFs?",
+        "Which downstream investment strategies could be affected by the regulatory changes?"
+      ],
+      "reason": "The article discusses regulatory changes regarding ETF investments by insurance funds, which does not have a direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article outlines recent regulatory changes that allow insurance funds to invest in ETFs listed in Hong Kong. While this may influence financial markets, it does not represent a direct supply chain disruption.",
+      "title": "险资 、 公募 ， 突然加快行动 ！ ",
+      "url": "https://stock.jrj.com.cn/2026/10/06160858625148.shtml",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "South Korea",
       "gdelt_keyword": "strike",
       "published_at": "20261006T083000Z"
     }
