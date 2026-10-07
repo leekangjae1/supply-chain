@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T00:09:10Z",
-  "total_count": 11059,
+  "updated_at": "2026-10-07T07:29:02Z",
+  "total_count": 11074,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -301247,6 +301247,438 @@
       "gdelt_risk_type": "operation",
       "gdelt_country": "South Korea",
       "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "South Korea's fuel shipments to Russia",
+      "companies_involved": [
+        "Rosneft",
+        "NNK"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Russia",
+        "United Kingdom",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of fuel in South Korea may be affected by the sanctions?",
+        "Which shipping companies are involved in transporting fuel to Russia?",
+        "Which countries or regions are impacted by the geopolitical tensions surrounding this trade?",
+        "Which supply-chain dependencies could be affected by the sanctions on Russian companies?",
+        "Which downstream companies in South Korea rely on fuel exports to Russia?"
+      ],
+      "reason": "The article discusses South Korea's fuel shipments to Russia, which involve tankers under sanctions, impacting international trade and geopolitical relations. This trade could disrupt supply chains by undermining sanctions and affecting energy supply dynamics.",
+      "summary": "The article highlights South Korea's controversial fuel shipments to Russia, including the use of sanctioned tankers. This situation poses a risk to the integrity of international sanctions and could disrupt energy supply chains.",
+      "title": "Hipokryzja w Seulu ? Korea Południowa wysyła paliwo do Rosji na objętych sankcjami tankowcach",
+      "url": "https://www.bankier.pl/wiadomosc/Hipokryzja-w-Seulu-Korea-Poludniowa-wysyla-paliwo-do-Rosji-na-objetych-sankcjami-tankowcach-9207978.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Regulatory scrutiny of OTA refund practices",
+      "companies_involved": [
+        "Trip.com",
+        "Agoda"
+      ],
+      "industries_involved": [
+        "Online Travel Agency",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Singapore"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Trip.com and Agoda may be affected by regulatory changes?",
+        "How might the scrutiny of refund practices impact the operations of Trip.com and Agoda?",
+        "Which countries or regions are impacted by the regulatory environment affecting these OTAs?",
+        "What supply-chain dependencies exist between Trip.com, Agoda, and their service providers?",
+        "Which downstream companies rely on Trip.com and Agoda for travel services?"
+      ],
+      "reason": "The article discusses regulatory scrutiny and consumer protection issues related to the refund practices of online travel agencies, which can significantly impact their operations and relationships with suppliers and customers.",
+      "summary": "The article highlights ongoing regulatory scrutiny of Trip.com and Agoda regarding their refund practices, which could disrupt their operations and affect consumer trust. This scrutiny may lead to changes in how these companies manage their supply chains and customer interactions.",
+      "title": "환불 배짱 트립닷컴 · 아고다국감서 송곳 검증",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026100615380106759",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fuel shipments from South Korea to Russia",
+      "companies_involved": [
+        "South Korean shipping companies",
+        "Russian fuel importers"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of fuel in South Korea are involved in shipments to Russia?",
+        "Which shipping companies are transporting fuel to Russia?",
+        "What are the potential impacts on energy supply chains due to increased fuel imports by Russia?",
+        "Which countries may impose further sanctions affecting these shipments?",
+        "Which downstream companies in Russia depend on the imported fuel?"
+      ],
+      "reason": "The article discusses the shipment of fuel from South Korea to Russia, which is significant due to the geopolitical implications and the potential undermining of sanctions against Russia. This directly affects supply chain activities related to energy and logistics.",
+      "summary": "The article highlights the ongoing fuel shipments from South Korea to Russia, despite sanctions, which poses a risk to supply chain integrity and geopolitical stability. This situation may impact energy supply chains and international trade relations.",
+      "title": "Guardian : Καύσιμα από τη Νότια Κορέα στη Ρωσία μέσω του σκιώδους στόλου",
+      "url": "https://www.skai.gr/news/world/guardian-kaysima-apo-ti-notia-korea-sti-rosia-meso-tou-skiodous-stolou",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Call for Sanctions on Israel",
+      "companies_involved": [],
+      "industries_involved": [
+        "Political",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Israel",
+        "Russia",
+        "European Union"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by potential sanctions on Israel?",
+        "Which logistics operations could be impacted by geopolitical tensions in the region?",
+        "What manufacturing relationships exist between companies in the EU and Israel that could be disrupted?",
+        "Which countries or regions create exposure due to the call for sanctions?",
+        "Which downstream companies depend on products sourced from Israel?"
+      ],
+      "reason": "The call for sanctions on Israel due to geopolitical tensions could impact trade and logistics operations, affecting supply chains connected to the region.",
+      "summary": "The article discusses a call for sanctions on Israel in light of geopolitical tensions, which could lead to disruptions in trade and logistics. This situation may affect supply chains involving companies operating in or sourcing from Israel.",
+      "title": "AP üyesi Strada , İsraile Rusyaya uygulanan yaptırım çağrısı yaptı",
+      "url": "https://www.haberler.com/guncel/ap-uyesi-strada-israil-e-rusya-ya-uygulanan-20301839-haberi/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Iranian Procurement Activities for Military Technology",
+      "companies_involved": [
+        "German Technology Manufacturers"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Technology"
+      ],
+      "countries_involved": [
+        "Iran",
+        "Germany"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of German technology manufacturers may be affected by Iranian procurement activities?",
+        "Which manufacturing or production relationships in Germany could be impacted by sanctions against Iran?",
+        "Which countries or regions are involved in the supply chain of technology relevant to Iran's military needs?",
+        "Which supply-chain dependencies could transmit the disruption from Iran's procurement efforts?",
+        "Which downstream companies in the defense industry may be exposed to risks from increased Iranian activities?"
+      ],
+      "reason": "The article discusses Iran's efforts to procure technology for military purposes, which could disrupt supply chains in the defense and technology sectors, particularly for German manufacturers facing sanctions and increased scrutiny.",
+      "summary": "The article highlights Iran's intensified efforts to acquire Western technology for its military programs, particularly from Germany. This situation poses potential supply chain disruptions due to geopolitical tensions and regulatory challenges.",
+      "title": "Brennpunkte - Verfassungsschutz warnt vor iranischen Beschaffungsaktivitäten",
+      "url": "https://unternehmen-heute.de/news.php?newsid=6713717",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Rising Fest Music Festival",
+      "companies_involved": [],
+      "industries_involved": [
+        "Entertainment",
+        "Music"
+      ],
+      "countries_involved": [
+        "Japan",
+        "France"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a music festival and does not present any information related to supply chain activities such as production, logistics, or trade disruptions.",
+      "summary": "The article covers the Rising Fest music festival in Longvic, France, featuring a Japanese metal band. It does not indicate any supply chain disruptions or impacts on supply chain activities.",
+      "title": "Longvic . La 13e édition du Rising Fest va faire rugir lespace Jean Bouhey",
+      "url": "https://www.bienpublic.com/culture-loisirs/2026/10/06/la-13-sup-e-sup-edition-du-rising-fest-va-faire-rugir-l-espace-jean-bouhey",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Early Executive Appointments",
+      "companies_involved": [
+        "Hanwha Group",
+        "Samsung",
+        "SK",
+        "Hyundai",
+        "LG"
+      ],
+      "industries_involved": [
+        "Defense",
+        "Shipbuilding",
+        "Aerospace",
+        "Automotive",
+        "Electronics"
+      ],
+      "countries_involved": [
+        "South Korea"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Hanwha Group may be affected by the early executive appointments?",
+        "How might the changes in leadership at Hanwha impact its supply chain operations?",
+        "Which manufacturing facilities are linked to the newly appointed executives?",
+        "What are the potential impacts on logistics and transportation due to the leadership changes?",
+        "Which downstream companies depend on products from Hanwha and other affected groups?"
+      ],
+      "reason": "The article discusses executive appointments and strategic planning within major South Korean companies, but does not indicate any direct supply chain disruptions or impacts on logistics, production, or trade.",
+      "summary": "The article highlights Hanwha Group's decision to conduct executive appointments earlier than usual, potentially influencing other major South Korean companies. However, it does not present any direct supply chain disruptions or risks.",
+      "title": "한화발  10월 인사  신호탄재계 경영 시계도 빨라진다",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026100610495348060",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Battery Production and Profitability Fluctuations",
+      "companies_involved": [
+        "LG Energy Solution",
+        "Samsung SDI",
+        "SK On"
+      ],
+      "industries_involved": [
+        "Battery Manufacturing",
+        "Electric Vehicles"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of LG Energy Solution operate in the affected regions?",
+        "Which manufacturing facilities depend on the production of batteries for electric vehicles?",
+        "What is the impact of fluctuating ESS production on the supply chain of Samsung SDI?",
+        "Which countries are key suppliers for SK On's battery production?",
+        "Which downstream companies depend on products from LG Energy Solution and Samsung SDI?"
+      ],
+      "reason": "The article discusses the financial performance and operational challenges of major battery manufacturers, indicating potential disruptions in production and profitability that could affect supply chains in the electric vehicle sector.",
+      "summary": "The article highlights the financial struggles and operational shifts of South Korean battery manufacturers LG Energy Solution, Samsung SDI, and SK On, indicating potential disruptions in battery production and supply chains. The fluctuations in profitability and production capacity could impact the electric vehicle industry significantly.",
+      "title": "ESS로 살아난 배터리 3사 , 동반 흑자 기조  와해  ",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026100615524520259",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Return of $180 billion tariffs",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by the changes in tariff policies?",
+        "Which manufacturing or production relationships may be impacted by the return of tariffs?",
+        "Which countries or regions create exposure due to the tariff changes?",
+        "Which supply-chain dependencies could transmit the disruption from tariff changes?",
+        "Which downstream companies or operations may be exposed to increased costs due to tariffs?"
+      ],
+      "reason": "The return of tariffs can significantly impact trade relationships, affecting costs and supply chain dynamics for companies involved in importing goods. This can lead to increased prices and potential supply shortages.",
+      "summary": "The U.S. government has reinstated $180 billion in tariffs, which could disrupt trade flows and impact supply chains. Companies may face increased costs and altered sourcing strategies as a result.",
+      "title": "Ağ Ev 180 milyard dollarlıq tarifləri geri qaytarıb",
+      "url": "https://ayna.az/ag-ev-180-milyard-dollarliq-tarifleri-geri-qaytarib",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Arrest of Chinese Spy in the US",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a geopolitical event involving espionage but does not directly impact supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on the arrest of a Chinese national accused of espionage in the United States, highlighting concerns over national security. However, it does not indicate any direct implications for supply chain operations or disruptions.",
+      "title": "張婉瑩在美監視賴清德兒被捕 美參議員 ： 國安遭中共滲透威脅 - 國際",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5597353",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Legal case against Cornell University",
+      "companies_involved": [
+        "Cornell University"
+      ],
+      "industries_involved": [
+        "Education"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a legal case involving allegations of sexual assault at a university, which does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on a civil lawsuit against Cornell University related to allegations of sexual assault. It does not indicate any supply chain disruption or impact on supply chain activities.",
+      "title": "Sociala medier kokar efter misstänkt gruppvåldtäkt",
+      "url": "https://www.hn.se/nyheter/varlden/sociala-medier-kokar-efter-misstankt-gruppvaldtakt.03b0a846-bbef-541a-b504-2ee55d42be5c",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Yemen Military Operations Against Houthis",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Yemen",
+        "Saudi Arabia",
+        "Iran",
+        "Pakistan"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the affected region?",
+        "Which energy suppliers may be impacted by the conflict in Yemen?",
+        "Which countries or regions create exposure for companies operating in Yemen?",
+        "Which supply-chain dependencies could transmit the disruption from Yemen to other regions?",
+        "Which downstream companies depend on energy supplies from the affected area?"
+      ],
+      "reason": "The military operations in Yemen and the involvement of regional powers like Saudi Arabia and Iran create significant geopolitical instability, which can disrupt logistics and energy supply chains in the region.",
+      "summary": "The ongoing military operations in Yemen against the Houthi group pose a risk to supply chains, particularly in logistics and energy sectors. The conflict's potential to escalate could impact regional trade and transportation routes.",
+      "title": "Yemen forces launch push against Houthis",
+      "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac44457e4b06d4aa0561711.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Political Shift in Bosnia and Herzegovina",
+      "companies_involved": [
+        "AAFS Infrastructure and Energy"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Infrastructure"
+      ],
+      "countries_involved": [
+        "Bosnia and Herzegovina",
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of AAFS Infrastructure and Energy operate in Bosnia and Herzegovina?",
+        "Which manufacturing or production relationships may be affected by the political changes in Bosnia and Herzegovina?",
+        "Which countries or regions create exposure for AAFS Infrastructure and Energy due to the political situation?",
+        "Which supply-chain dependencies could transmit the disruption from the political changes in Bosnia and Herzegovina?",
+        "Which downstream companies depend on energy projects in Bosnia and Herzegovina?"
+      ],
+      "reason": "The political victory of Milorad Dodik, who advocates for greater autonomy and has ties to Russia, could lead to regulatory changes and instability in Bosnia and Herzegovina, impacting energy projects and international trade relations.",
+      "summary": "The recent political developments in Bosnia and Herzegovina, particularly the victory of Milorad Dodik, pose potential risks to supply chains, especially in the energy and infrastructure sectors. The involvement of AAFS Infrastructure and Energy in a significant gas pipeline project highlights the geopolitical implications of this political shift.",
+      "title": "El Pais o Dodiku :  Putinov saveznik na Balkanu pobijedio na izborima u BiH iako nije bio na listiću  ",
+      "url": "https://24sata.info/el-pais-o-dodiku-putinov-saveznik-na-balkanu-pobijedio-na-izborima-u-bih-iako-nije-bio-na-listicu/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "World Bank GDP Growth Forecast for India",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses economic growth forecasts and AI adoption in India but does not indicate any specific supply chain disruptions or impacts on supply chain activities.",
+      "summary": "The World Bank has raised India's GDP growth forecast, attributing it to strong industrial and services activity. However, the article does not present any direct supply chain disruptions or risks.",
+      "title": "World Bank Raises India GDP Growth Forecast To 7 . 1 % For FY27 , Sees AI Driving Productivity Gains",
+      "url": "https://www.freepressjournal.in/business/world-bank-raises-india-gdp-growth-forecast-to-71-for-fy27-sees-ai-driving-productivity-gains",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Sanctions Impact on Sri Lanka's Trade Relations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Shipping",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Sri Lanka",
+        "Iran",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies may be affected by sanctions related to Iranian vessels?",
+        "What logistics operations in Sri Lanka could be impacted by the refusal to assist Iranian ships?",
+        "Which suppliers in Sri Lanka are dependent on trade relations with Iran?",
+        "How might the geopolitical situation affect shipping routes in the Indian Ocean?",
+        "Which downstream companies rely on goods transported through Sri Lanka that may be affected by these sanctions?"
+      ],
+      "reason": "The article discusses the potential impact of U.S. sanctions on Sri Lanka's ability to assist Iranian vessels, which could disrupt shipping and logistics operations in the region.",
+      "summary": "Sri Lanka faces potential supply chain disruptions due to U.S. sanctions affecting its ability to assist Iranian ships stranded in international waters. This geopolitical situation may impact shipping and logistics industries in Sri Lanka and its trade relations.",
+      "title": "Sri Lanka cannot resist sanctions , but can raise non - aligned policy collectively with others - Joint Opposition - Breaking News",
+      "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-resist-sanctions-but-can-raise-non-aligned-policy-collectively-with-others-Joint-Opposition/108-351850",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "sanctions",
       "published_at": "20261006T083000Z"
     }
   ]
