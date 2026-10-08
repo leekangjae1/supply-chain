@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T14:53:51Z",
-  "total_count": 11079,
+  "updated_at": "2026-10-08T01:07:32Z",
+  "total_count": 11083,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -301799,6 +301799,104 @@
       "url": "https://news.dayoo.com/china/202610/06/139997_55010133.htm",
       "gdelt_risk_type": "operation",
       "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Demand for 5-Day Work Week for Bank Employees",
+      "companies_involved": [
+        "Indian Banks Association"
+      ],
+      "industries_involved": [
+        "Banking"
+      ],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [
+        "Which banks may be affected by the implementation of a 5-day work week?",
+        "How might the change in work hours impact customer service operations in the banking sector?",
+        "Which suppliers of banking services could be impacted by labor changes in the industry?",
+        "What are the potential effects on productivity and service delivery due to the proposed shift in work hours?",
+        "Which downstream financial services depend on the operations of banks that may change their work schedules?"
+      ],
+      "reason": "The demand for a 5-day work week for bank employees could lead to operational changes in the banking sector, affecting service delivery and employee productivity, which are critical components of the supply chain in financial services.",
+      "summary": "The call for a 5-day work week for bank employees in India may lead to significant operational changes within the banking industry. This could impact service delivery and productivity, posing risks to the supply chain in financial services.",
+      "title": "Kalvakuntla Kavitha : బ్యాంకు ఉద్యోగులకు 5 రోజుల పని దినాలు ఇవ్వాలి .. కవిత",
+      "url": "https://vaartha.com/telangana/kalvakuntla-kavitha-demands-5-day-work-week-for-bank-employees/786606/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Political Allegations in Telangana",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "India"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political allegations regarding voter registration and does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article addresses political issues in Telangana related to voter registration and does not indicate any supply chain disruption. There are no companies or industries affected by this event.",
+      "title": "Telangana : Owaisi alleges bid to delete 122 Muslim voters in Goshamahal ; demands ECI action over fraudulent  Form 7  filings",
+      "url": "https://aninews.in/news/national/politics/telangana-owaisi-alleges-bid-to-delete-122-muslim-voters-in-goshamahal-demands-eci-action-over-fraudulent-form-7-filings20261006130241/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Taiwan's participation in the Nagoya Asian Games",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Taiwan",
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the Taiwanese delegation's participation in the Asian Games and does not indicate any disruptions to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the Taiwanese delegation's performance at the Nagoya Asian Games and the support from the government. It does not present any information related to supply chain disruptions.",
+      "title": "總統接見名古屋亞運代表團盼選手再接再厲 允給予最有力支持 | 運動",
+      "url": "https://www.cna.com.tw/news/aspt/202610060098.aspx",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
+      "gdelt_keyword": "strike",
+      "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Uran exploration by Azincourt Energy",
+      "companies_involved": [
+        "Azincourt Energy"
+      ],
+      "industries_involved": [
+        "Mining",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Canada"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Azincourt Energy are involved in the exploration process?",
+        "What are the potential impacts on energy supply if the exploration is successful?",
+        "Which regions in Canada could be affected by the mining operations?",
+        "What are the dependencies on logistics for transporting mined uranium?",
+        "Which downstream companies may rely on uranium sourced from Azincourt Energy?"
+      ],
+      "reason": "The article discusses exploration activities by Azincourt Energy but does not indicate any immediate supply chain disruptions or impacts on production, logistics, or trade.",
+      "summary": "The article focuses on Azincourt Energy's uranium exploration efforts in Canada. While it highlights potential opportunities in the mining sector, it does not present any current supply chain disruptions.",
+      "title": "Uran - Geheimtipp : Bohrer läuft genau dort , wo schon Uran getroffen wurde : Startet dieser Nanocap jetzt durch ? ",
+      "url": "https://www.boersennews.de/nachrichten/partner/mediafeed/uran-geheimtipp-bohrer-laeuft-genau-dort-wo-schon-uran-getroffen-wurde-startet-dieser-nanocap-jetzt-durch/5301230/",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20261006T083000Z"
     }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-07T14:53:12.480740",
+  "updated_at": "2026-10-08T01:07:05.954518",
   "selected_group": "operation",
   "timespan": "3d",
-  "new_count": 5,
-  "total_count": 11079,
+  "new_count": 4,
+  "total_count": 11083,
   "results": [
     {
       "risk_type": "operation",
@@ -144031,6 +144031,58 @@
       "source_country": "",
       "published_at": "20261006T083000Z",
       "collected_at": "2026-10-07T13:22:57.858269"
+    },
+    {
+      "risk_type": "operation",
+      "country": "India",
+      "keyword": "strike",
+      "query": "\"India\" strike",
+      "title": "Kalvakuntla Kavitha : బ్యాంకు ఉద్యోగులకు 5 రోజుల పని దినాలు ఇవ్వాలి .. కవిత",
+      "url": "https://vaartha.com/telangana/kalvakuntla-kavitha-demands-5-day-work-week-for-bank-employees/786606/",
+      "domain": "vaartha.com",
+      "language": "Telugu",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-08T00:57:10.628979"
+    },
+    {
+      "risk_type": "operation",
+      "country": "India",
+      "keyword": "strike",
+      "query": "\"India\" strike",
+      "title": "Telangana : Owaisi alleges bid to delete 122 Muslim voters in Goshamahal ; demands ECI action over fraudulent  Form 7  filings",
+      "url": "https://aninews.in/news/national/politics/telangana-owaisi-alleges-bid-to-delete-122-muslim-voters-in-goshamahal-demands-eci-action-over-fraudulent-form-7-filings20261006130241/",
+      "domain": "aninews.in",
+      "language": "English",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-08T00:57:10.628992"
+    },
+    {
+      "risk_type": "operation",
+      "country": "India",
+      "keyword": "strike",
+      "query": "\"India\" strike",
+      "title": "總統接見名古屋亞運代表團盼選手再接再厲 允給予最有力支持 | 運動",
+      "url": "https://www.cna.com.tw/news/aspt/202610060098.aspx",
+      "domain": "cna.com.tw",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-08T00:57:10.628994"
+    },
+    {
+      "risk_type": "operation",
+      "country": "India",
+      "keyword": "strike",
+      "query": "\"India\" strike",
+      "title": "Uran - Geheimtipp : Bohrer läuft genau dort , wo schon Uran getroffen wurde : Startet dieser Nanocap jetzt durch ? ",
+      "url": "https://www.boersennews.de/nachrichten/partner/mediafeed/uran-geheimtipp-bohrer-laeuft-genau-dort-wo-schon-uran-getroffen-wurde-startet-dieser-nanocap-jetzt-durch/5301230/",
+      "domain": "boersennews.de",
+      "language": "German",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-08T00:57:10.628995"
     }
   ]
 }
