@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T07:49:30.689719",
-  "selected_group": "policy_regulation",
+  "updated_at": "2026-10-08T14:57:08.295078",
+  "selected_group": "operation",
   "timespan": "3d",
-  "new_count": 2,
-  "total_count": 11085,
+  "new_count": 7,
+  "total_count": 11092,
   "results": [
     {
       "risk_type": "operation",
@@ -144109,6 +144109,97 @@
       "source_country": "",
       "published_at": "20261008T053000Z",
       "collected_at": "2026-10-08T07:25:54.236895"
+    },
+    {
+      "risk_type": "operation",
+      "country": "Japan",
+      "keyword": "strike",
+      "query": "\"Japan\" strike",
+      "title": " 《 七大罪 ： Origin 》 今日開啟全新篇章 班之子 「 蘭斯洛特 」 與第17章 「 水之心 」 登場",
+      "url": "https://n.yam.com/Article/20261008310934",
+      "domain": "n.yam.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:13:42.120100"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "习近平文化思想引领文化强国建设迈出坚实步伐",
+      "url": "http://news.cyol.com/gb/news/articles/2026-10/08/content_Lg7lW9IAqj.html",
+      "domain": "news.cyol.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:22:23.471566"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "对话徐东莲 ， 谈新科物理学诺奖得主哈尔岑 ： 他永远把科学放在第一位 ， 支持中国深海中微子望远镜",
+      "url": "http://news.cyol.com/gb/keji/articles/2026-10/08/content_enwl0AsBa2.html",
+      "domain": "news.cyol.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:22:23.471568"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "读 《 羽蛇的天空 》： 科幻不只有未来维度 ， 更有回望过往 、 重构文明的强大力量",
+      "url": "https://www.163.com/dy/article/L8NIQH6G055040N3.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:22:23.471569"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "泉州民营企业家热议市第十四次党代会精神 - 要闻时政",
+      "url": "http://qz.fjsen.com/2026-10/08/content_32263569.htm",
+      "domain": "qz.fjsen.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:22:23.471571"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": "首开1 . 2亿 ！ 六年断供之后 ， 浦口纯四代洋房杀疯了",
+      "url": "https://www.163.com/dy/article/L8NJ3G0105149FJ9.html",
+      "domain": "163.com",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:22:23.471574"
+    },
+    {
+      "risk_type": "operation",
+      "country": "China",
+      "keyword": "strike",
+      "query": "\"China\" strike",
+      "title": " 【 平武 】 一站式  满足游客多样化需求 深度体验游映照文旅市场热度 _ 绵阳新闻网",
+      "url": "http://www.myrb.net/html/2026/news/10/458409.html",
+      "domain": "myrb.net",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T13:22:23.471575"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T07:49:52Z",
-  "total_count": 11085,
+  "updated_at": "2026-10-08T14:57:50Z",
+  "total_count": 11092,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -301959,6 +301959,170 @@
       "gdelt_risk_type": "policy_regulation",
       "gdelt_country": "Vietnam",
       "gdelt_keyword": "tariff",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "New game chapter release",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the release of a new chapter in a video game, which does not have a meaningful connection to supply chain activities.",
+      "summary": "The article announces the launch of a new chapter in the video game 'Seven Deadly Sins: Origin'. It does not pertain to any supply chain disruptions.",
+      "title": " 《 七大罪 ： Origin 》 今日開啟全新篇章 班之子 「 蘭斯洛特 」 與第17章 「 水之心 」 登場",
+      "url": "https://n.yam.com/Article/20261008310934",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "strike",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Cultural Policy Announcement",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses cultural policies and ideological developments in China without any direct implications for supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article focuses on the promotion of cultural policies and ideological frameworks in China, with no mention of supply chain disruptions or impacts on logistics, production, or trade activities.",
+      "title": "习近平文化思想引领文化强国建设迈出坚实步伐",
+      "url": "http://news.cyol.com/gb/news/articles/2026-10/08/content_Lg7lW9IAqj.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nobel Prize in Physics awarded to Francis Halzen",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China",
+        "Belgium",
+        "United States"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a scientific achievement and ongoing research projects related to neutrino astronomy, but it does not indicate any direct impact on supply chain activities such as manufacturing, logistics, or trade.",
+      "summary": "The article highlights the recent Nobel Prize awarded to Francis Halzen for his contributions to neutrino astronomy and discusses the development of a new neutrino observatory in the South China Sea. However, it does not present any information that would indicate a supply chain disruption.",
+      "title": "对话徐东莲 ， 谈新科物理学诺奖得主哈尔岑 ： 他永远把科学放在第一位 ， 支持中国深海中微子望远镜",
+      "url": "http://news.cyol.com/gb/keji/articles/2026-10/08/content_enwl0AsBa2.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Literary Analysis of a Sci-Fi Novel",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a literary work and its themes, with no connection to supply chain activities or disruptions.",
+      "summary": "The article provides an analysis of the sci-fi novel '羽蛇的天空' by 宝树, focusing on its narrative and thematic elements. It does not address any supply chain disruptions or related events.",
+      "title": "读 《 羽蛇的天空 》： 科幻不只有未来维度 ， 更有回望过往 、 重构文明的强大力量",
+      "url": "https://www.163.com/dy/article/L8NIQH6G055040N3.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Development of 'World Quanzhou' Initiative",
+      "companies_involved": [
+        "七匹狼实业股份有限公司",
+        "特步集团",
+        "八马茶业",
+        "顺美集团",
+        "安踏集团",
+        "恒安集团",
+        "福建泉工股份有限公司",
+        "浩博（福建）新材料科技有限公司",
+        "达利食品集团",
+        "盼盼食品集团",
+        "利郎集团",
+        "舒华体育股份有限公司"
+      ],
+      "industries_involved": [
+        "Manufacturing",
+        "Textiles",
+        "Food and Beverage",
+        "Sports Equipment",
+        "Materials",
+        "Tea Industry"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the involved companies operate in the affected region?",
+        "Which manufacturing facilities depend on suppliers located in Quanzhou?",
+        "Which countries or regions create exposure for these companies as they expand globally?",
+        "Which supply-chain dependencies could transmit the disruption from local to international markets?",
+        "Which downstream companies depend on products from the involved companies?"
+      ],
+      "reason": "The article discusses the strategic initiatives of various companies in Quanzhou to expand their operations globally, which could impact their supply chains through increased production, sourcing, and logistics activities.",
+      "summary": "The article outlines the ambitions of Quanzhou's private enterprises to enhance their global presence through the 'World Quanzhou' initiative. This development could lead to significant operational changes in supply chains as companies seek to expand their markets and improve their production capabilities.",
+      "title": "泉州民营企业家热议市第十四次党代会精神 - 要闻时政",
+      "url": "http://qz.fjsen.com/2026-10/08/content_32263569.htm",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Nanjing Real Estate Market Dynamics",
+      "companies_involved": [],
+      "industries_involved": [
+        "Real Estate",
+        "Construction"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses the dynamics of the real estate market in Nanjing, focusing on a new housing project and urban development, but does not indicate any direct supply chain disruptions related to suppliers, manufacturing, logistics, or other supply chain activities.",
+      "summary": "The article highlights the resurgence of the Nanjing real estate market with the launch of a new housing project after a six-year hiatus. It emphasizes urban renewal and local development but does not present any supply chain disruption.",
+      "title": "首开1 . 2亿 ！ 六年断供之后 ， 浦口纯四代洋房杀疯了",
+      "url": "https://www.163.com/dy/article/L8NJ3G0105149FJ9.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "National Holiday Tourism Surge",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Hospitality",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a surge in tourism during a national holiday, highlighting local attractions and experiences, but does not indicate any disruptions to supply chains, production, or logistics.",
+      "summary": "The article reports on the vibrant tourism activities in Pingwu County during the National Day holiday, showcasing various local attractions and experiences. However, it does not present any information that would indicate a supply chain disruption.",
+      "title": " 【 平武 】 一站式  满足游客多样化需求 深度体验游映照文旅市场热度 _ 绵阳新闻网",
+      "url": "http://www.myrb.net/html/2026/news/10/458409.html",
+      "gdelt_risk_type": "operation",
+      "gdelt_country": "China",
+      "gdelt_keyword": "strike",
       "published_at": "20261008T053000Z"
     }
   ]
