@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T01:07:32Z",
-  "total_count": 11083,
+  "updated_at": "2026-10-08T07:49:52Z",
+  "total_count": 11085,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -301899,6 +301899,67 @@
       "gdelt_country": "India",
       "gdelt_keyword": "strike",
       "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "South Korea's Legal Action on Fuel Shipments to Russia",
+      "companies_involved": [
+        "South Korean Government",
+        "Various Shipping Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Shipping"
+      ],
+      "countries_involved": [
+        "South Korea",
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of fuel to South Korean ports may be affected by legal actions?",
+        "Which shipping companies are involved in transporting fuel to Russia?",
+        "What are the implications for energy supply chains due to potential sanctions?",
+        "Which downstream companies rely on fuel sourced from South Korea?",
+        "How might geopolitical tensions between South Korea and Russia impact trade routes?"
+      ],
+      "reason": "The article discusses potential legal actions by South Korea regarding fuel shipments to Russia, which could disrupt energy supply chains and shipping logistics, thereby impacting trade and regulatory compliance.",
+      "summary": "South Korea is considering legal action against fuel shipments to Russia that may violate domestic laws. This situation raises concerns about the implications for energy supply chains and international trade relations amid ongoing geopolitical tensions.",
+      "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+      "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "South Korea",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Trade Policy",
+      "event": "Changes in International Trade Regulations",
+      "companies_involved": [],
+      "industries_involved": [
+        "Import/Export",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Vietnam"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers may be affected by changes in international trade regulations?",
+        "Which manufacturing or production relationships may be impacted by new trade policies?",
+        "Which countries or regions create exposure due to fluctuating trade agreements?",
+        "Which supply-chain dependencies could transmit the disruption from changing trade policies?",
+        "Which downstream companies may be exposed to increased costs or delays due to these changes?"
+      ],
+      "reason": "The article discusses the importance of understanding international trade regulations and their impact on costs and risk management for businesses, indicating a potential disruption in supply chain activities due to changing trade policies.",
+      "summary": "The article emphasizes the need for businesses to adapt to changing international trade regulations to manage costs and risks effectively. It highlights the significant increase in Vietnam's import/export activities and the importance of compliance with trade policies.",
+      "title": "Doanh nghiệp cần nắm chắc nghiệp vụ xuất nhập khẩu để giảm rủi ro , tối ưu chi phí",
+      "url": "https://stockbiz.vn/tin-tuc/doanh-nghiep-can-nam-chac-nghiep-vu-xuat-nhap-khau-de-giam-rui-ro-toi-uu-chi-phi/42168302",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261008T053000Z"
     }
   ]
 }

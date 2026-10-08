@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T01:07:05.954518",
-  "selected_group": "operation",
+  "updated_at": "2026-10-08T07:49:30.689719",
+  "selected_group": "policy_regulation",
   "timespan": "3d",
-  "new_count": 4,
-  "total_count": 11083,
+  "new_count": 2,
+  "total_count": 11085,
   "results": [
     {
       "risk_type": "operation",
@@ -144083,6 +144083,32 @@
       "source_country": "",
       "published_at": "20261006T083000Z",
       "collected_at": "2026-10-08T00:57:10.628995"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "South Korea",
+      "keyword": "sanctions",
+      "query": "\"South Korea\" sanctions",
+      "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+      "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+      "domain": "theguardian.com",
+      "language": "English",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T06:06:18.954495"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Vietnam",
+      "keyword": "tariff",
+      "query": "\"Vietnam\" tariff",
+      "title": "Doanh nghiệp cần nắm chắc nghiệp vụ xuất nhập khẩu để giảm rủi ro , tối ưu chi phí",
+      "url": "https://stockbiz.vn/tin-tuc/doanh-nghiep-can-nam-chac-nghiep-vu-xuat-nhap-khau-de-giam-rui-ro-toi-uu-chi-phi/42168302",
+      "domain": "stockbiz.vn",
+      "language": "Vietnamese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-08T07:25:54.236895"
     }
   ]
 }
