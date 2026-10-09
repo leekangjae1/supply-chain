@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-09T07:59:09.678475",
-  "selected_group": "policy_regulation",
+  "updated_at": "2026-10-09T14:49:20.467717",
+  "selected_group": "disaster",
   "timespan": "3d",
-  "new_count": 0,
-  "total_count": 11093,
+  "new_count": 6,
+  "total_count": 11099,
   "results": [
     {
       "risk_type": "operation",
@@ -144213,6 +144213,84 @@
       "source_country": "",
       "published_at": "20261006T083000Z",
       "collected_at": "2026-10-09T00:01:18.153544"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Germany",
+      "keyword": "earthquake",
+      "query": "\"Germany\" earthquake",
+      "title": "Águas do Guaíba se mantêm altas e enchente se prolonga",
+      "url": "https://www.correiodopovo.com.br/blogs/h%c3%a1-um-s%c3%a9culo-no-cp/aguas-do-guaiba-se-mantem-altas-e-enchente-se-prolonga-1.1754242",
+      "domain": "correiodopovo.com.br",
+      "language": "Portuguese",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-09T13:46:54.532187"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Mexico",
+      "keyword": "hurricane",
+      "query": "\"Mexico\" hurricane",
+      "title": "Тропический шторм  Исайяс  в Мексиканском заливе достиг силы урагана",
+      "url": "https://www.m24.ru/news/08102026/949921",
+      "domain": "m24.ru",
+      "language": "Russian",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-09T14:25:58.459370"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Mexico",
+      "keyword": "hurricane",
+      "query": "\"Mexico\" hurricane",
+      "title": " ¡ Simón gana fuerza ! NHC advierte rápida intensificación y posible huracán mayor desde el viernes",
+      "url": "https://lineadirectaportal.com/clima/simon-gana-fuerza-nhc-advierte-rapida-intensificacion-y-posible-huracan-mayor-desde-el-viernes-2026-10-07__1716156",
+      "domain": "lineadirectaportal.com",
+      "language": "Spanish",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-09T14:25:58.459381"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Mexico",
+      "keyword": "hurricane",
+      "query": "\"Mexico\" hurricane",
+      "title": "Isaías se convierte en huracán , el primero de la temporada en el Atlántico y mar Caribe",
+      "url": "https://lineadirectaportal.com/clima/isaias-se-convierte-en-huracan-el-primero-de-la-temporada-en-el-atlantico-y-mar-caribe-2026-10-07__1716211",
+      "domain": "lineadirectaportal.com",
+      "language": "Spanish",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-09T14:25:58.459383"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Mexico",
+      "keyword": "hurricane",
+      "query": "\"Mexico\" hurricane",
+      "title": "Тропический шторм « Исайяс » в Мексиканском заливе усилился до урагана :: Новости дня / ВЗГЛЯД",
+      "url": "https://vz.ru/news/2026/10/8/1460239.html",
+      "domain": "vz.ru",
+      "language": "Russian",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-09T14:25:58.459385"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Mexico",
+      "keyword": "hurricane",
+      "query": "\"Mexico\" hurricane",
+      "title": "México en alerta por tres ciclones : Así afectarán Simón , Isaías y Rachel los próximos días",
+      "url": "https://vanguardia.com.mx/noticias/mexico-en-alerta-por-tres-ciclones-asi-afectaran-simon-isaias-y-rachel-los-proximos-dias-MA23988664",
+      "domain": "vanguardia.com.mx",
+      "language": "Spanish",
+      "source_country": "",
+      "published_at": "20261008T053000Z",
+      "collected_at": "2026-10-09T14:25:58.459386"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T07:59:13Z",
-  "total_count": 11093,
+  "updated_at": "2026-10-09T14:50:03Z",
+  "total_count": 11099,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -302148,6 +302148,184 @@
       "gdelt_country": "Germany",
       "gdelt_keyword": "tariff",
       "published_at": "20261006T083000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding in Guaíba",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Brazil"
+      ],
+      "risk_exposure_questions": [
+        "Which construction companies are operating in the flooded areas?",
+        "Which logistics providers may face disruptions due to the flooding?",
+        "Which suppliers of construction materials are located in the affected region?",
+        "Which downstream companies depend on logistics services in the impacted areas?"
+      ],
+      "reason": "The flooding in Guaíba has caused significant disruptions to transportation and logistics in the affected areas, impacting local businesses and potentially delaying supply chain operations.",
+      "summary": "The ongoing flooding in Guaíba is causing transportation difficulties and damage to infrastructure, which may disrupt local supply chains. Companies involved in construction and logistics in the region are particularly at risk.",
+      "title": "Águas do Guaíba se mantêm altas e enchente se prolonga",
+      "url": "https://www.correiodopovo.com.br/blogs/h%c3%a1-um-s%c3%a9culo-no-cp/aguas-do-guaiba-se-mantem-altas-e-enchente-se-prolonga-1.1754242",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of the Gulf of Mexico?",
+        "Which logistics companies may face disruptions due to the hurricane's path?",
+        "Which transportation routes are at risk due to Hurricane Isaias?",
+        "Which energy suppliers could be impacted by the hurricane's effects on infrastructure?",
+        "Which downstream companies rely on logistics services in the affected areas?"
+      ],
+      "reason": "The hurricane poses a threat to logistics and transportation operations in the Gulf of Mexico, which can disrupt supply chains in the region.",
+      "summary": "Hurricane Isaias has intensified in the Gulf of Mexico and is expected to impact the northern coast of the Gulf in the United States. This natural disaster could disrupt logistics and transportation operations, affecting supply chains in both the U.S. and Mexico.",
+      "title": "Тропический шторм  Исайяс  в Мексиканском заливе достиг силы урагана",
+      "url": "https://www.m24.ru/news/08102026/949921",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Simón",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Colima and Michoacán?",
+        "Which transportation routes may be impacted by the hurricane's landfall?",
+        "Which agricultural producers in the region could face disruptions due to flooding?",
+        "Which logistics companies have operations in the affected areas?",
+        "What contingency plans do companies have in place for natural disasters in this region?"
+      ],
+      "reason": "The intensification of Hurricane Simón poses a significant risk to logistics, transportation, and agricultural operations in southwestern Mexico, potentially leading to supply chain disruptions due to flooding and infrastructure damage.",
+      "summary": "Hurricane Simón is expected to rapidly intensify and approach the southwestern coast of Mexico, potentially causing significant disruptions to logistics and transportation. The storm's projected rainfall and wind could impact agricultural production and supply chain operations in the affected regions.",
+      "title": " ¡ Simón gana fuerza ! NHC advierte rápida intensificación y posible huracán mayor desde el viernes",
+      "url": "https://lineadirectaportal.com/clima/simon-gana-fuerza-nhc-advierte-rapida-intensificacion-y-posible-huracan-mayor-desde-el-viernes-2026-10-07__1716156",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaías",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Agriculture",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the regions affected by Hurricane Isaías?",
+        "Which logistics companies may face disruptions due to the hurricane's path?",
+        "Which agricultural producers in Mexico could be impacted by the hurricane?",
+        "Which energy suppliers may experience operational challenges due to the hurricane?",
+        "Which downstream companies depend on transportation routes that may be affected by the hurricane?"
+      ],
+      "reason": "Hurricane Isaías poses a threat to logistics and transportation operations in the affected regions, which can disrupt supply chains, particularly in agriculture and energy sectors.",
+      "summary": "Hurricane Isaías has formed in the Atlantic and is moving towards the eastern coast of Mexico and the United States. This natural disaster could significantly impact logistics, transportation, and agricultural operations in the affected areas.",
+      "title": "Isaías se convierte en huracán , el primero de la temporada en el Atlántico y mar Caribe",
+      "url": "https://lineadirectaportal.com/clima/isaias-se-convierte-en-huracan-el-primero-de-la-temporada-en-el-atlantico-y-mar-caribe-2026-10-07__1716211",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Tropical Storm Isaias Strengthening",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Logistics",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of agricultural products may be affected by the weather conditions?",
+        "Which transportation routes could be disrupted due to severe weather events?",
+        "Which logistics companies operate in the affected regions and may face operational challenges?",
+        "What agricultural production facilities are located in areas prone to flooding or severe weather?",
+        "Which downstream companies depend on timely deliveries of agricultural products from the affected regions?"
+      ],
+      "reason": "The article discusses the potential impacts of climate phenomena and severe weather on transportation, logistics, and agricultural production, indicating a risk to supply chain operations.",
+      "summary": "The article highlights the strengthening of Tropical Storm Isaias and its potential impact on weather patterns in Russia and Mexico. This could lead to disruptions in transportation and logistics, affecting agricultural supply chains.",
+      "title": "Тропический шторм « Исайяс » в Мексиканском заливе усилился до урагана :: Новости дня / ВЗГЛЯД",
+      "url": "https://vz.ru/news/2026/10/8/1460239.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Cyclones Affecting Mexico",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Agriculture",
+        "Tourism"
+      ],
+      "countries_involved": [
+        "Mexico",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Mexico?",
+        "Which logistics companies may face disruptions due to the cyclones?",
+        "Which agricultural producers in Mexico could be impacted by the severe weather?",
+        "Which transportation routes may be affected by the cyclones?",
+        "Which downstream companies depend on products from the affected regions?"
+      ],
+      "reason": "The cyclones pose a risk to logistics, transportation, and agricultural production in Mexico, potentially disrupting supply chains in these sectors.",
+      "summary": "Mexico is currently facing the threat of three cyclones, which could lead to significant disruptions in logistics and transportation. The adverse weather conditions may impact agricultural production and related supply chains in the affected regions.",
+      "title": "México en alerta por tres ciclones : Así afectarán Simón , Isaías y Rachel los próximos días",
+      "url": "https://vanguardia.com.mx/noticias/mexico-en-alerta-por-tres-ciclones-asi-afectaran-simon-isaias-y-rachel-los-proximos-dias-MA23988664",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261008T053000Z"
     }
   ]
 }
