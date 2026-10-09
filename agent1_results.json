@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T14:57:50Z",
-  "total_count": 11092,
+  "updated_at": "2026-10-09T01:16:06Z",
+  "total_count": 11093,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -302124,6 +302124,30 @@
       "gdelt_country": "China",
       "gdelt_keyword": "strike",
       "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Tourism Guidance for Expats",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Turkey",
+        "Germany",
+        "Netherlands",
+        "France",
+        "Austria",
+        "Sweden"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on travel and tourism guidance for expatriates visiting Şanlıurfa, with no direct implications for supply chain activities such as production, logistics, or trade.",
+      "summary": "The article provides a travel guide for expatriates visiting Şanlıurfa, Turkey, detailing attractions and travel tips. It does not present any supply chain disruptions or risks related to supply chain activities.",
+      "title": "Gurbetçiler İçin Şanlıurfa Gezi Rehberi ( 3 Günde Ne Görülür ?) ",
+      "url": "https://sanliurfa.com/blog/gurbetciler-icin-sanliurfa-gezi-rehberi",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "tariff",
+      "published_at": "20261006T083000Z"
     }
   ]
 }

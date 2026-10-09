@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T14:57:08.295078",
-  "selected_group": "operation",
+  "updated_at": "2026-10-09T01:15:54.995849",
+  "selected_group": "policy_regulation",
   "timespan": "3d",
-  "new_count": 7,
-  "total_count": 11092,
+  "new_count": 1,
+  "total_count": 11093,
   "results": [
     {
       "risk_type": "operation",
@@ -144200,6 +144200,19 @@
       "source_country": "",
       "published_at": "20261008T053000Z",
       "collected_at": "2026-10-08T13:22:23.471575"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Germany",
+      "keyword": "tariff",
+      "query": "\"Germany\" tariff",
+      "title": "Gurbetçiler İçin Şanlıurfa Gezi Rehberi ( 3 Günde Ne Görülür ?) ",
+      "url": "https://sanliurfa.com/blog/gurbetciler-icin-sanliurfa-gezi-rehberi",
+      "domain": "sanliurfa.com",
+      "language": "Turkish",
+      "source_country": "",
+      "published_at": "20261006T083000Z",
+      "collected_at": "2026-10-09T00:01:18.153544"
     }
   ]
 }
