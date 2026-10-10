@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T07:32:16Z",
-  "total_count": 11099,
+  "updated_at": "2026-10-10T13:59:53Z",
+  "total_count": 11128,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -302326,6 +302326,853 @@
       "gdelt_country": "Mexico",
       "gdelt_keyword": "hurricane",
       "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "7.6 Magnitude Earthquake in Panama",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Panama",
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which construction companies may be affected by the damage to buildings in Panama?",
+        "Which logistics companies operate in Panama and may face disruptions due to the earthquake?",
+        "Which transportation networks in Panama are impacted by the earthquake and aftershocks?",
+        "Which suppliers of goods to Panama may experience delays due to the earthquake?",
+        "Which downstream companies rely on transportation routes through Panama that may be affected?"
+      ],
+      "reason": "The earthquake in Panama has caused damage to infrastructure, including temporary airport closures and power outages, which can disrupt logistics and transportation operations, thereby impacting supply chains.",
+      "summary": "A 7.6 magnitude earthquake struck Panama, causing infrastructure damage and temporary disruptions in logistics and transportation. This event poses potential risks to supply chains operating in or reliant on Panama.",
+      "title": "亲历巴拿马7 . 6级地震中国人发声 余震不断引担忧 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261010/49786804.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "7.7 Magnitude Earthquake in Panama",
+      "companies_involved": [],
+      "industries_involved": [
+        "Transportation",
+        "Logistics",
+        "Education"
+      ],
+      "countries_involved": [
+        "Panama",
+        "Colombia",
+        "Ecuador",
+        "Nicaragua",
+        "Guatemala"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Panama that may be affected by the earthquake?",
+        "Which logistics companies rely on the Panama International Airport for operations?",
+        "What impact does the earthquake have on transportation routes in Panama?",
+        "Which educational institutions may face disruptions in supply chains due to the nationwide school closure?",
+        "Which downstream companies depend on goods transported through the Panama Canal?"
+      ],
+      "reason": "The earthquake has caused significant disruptions to transportation and logistics in Panama, including airport closures and school shutdowns, which can impact supply chain activities.",
+      "summary": "A 7.7 magnitude earthquake struck Panama, leading to nationwide school closures and airport operations being suspended. While the Panama Canal remains operational, the event poses risks to transportation and logistics in the region.",
+      "title": "巴拿馬規模7 . 7極淺層強震 全國停課 、 機場暫停起降 ｜ 公視新聞網 PNN",
+      "url": "https://news.pts.org.tw/article/830758",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Community Discussion on Future Development",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Japan"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a community event focused on future development and recovery from a past earthquake, but it does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article highlights a community event aimed at discussing future development in the aftermath of the Noto earthquake. It does not present any information that would indicate a supply chain disruption.",
+      "title": "ここから始まる何かを探して ： 北陸中日新聞Web",
+      "url": "https://www.chunichi.co.jp/article/1323393",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Flooding and Landslides during Typhoon Season",
+      "companies_involved": [],
+      "industries_involved": [
+        "Emergency Services",
+        "Logistics",
+        "Construction"
+      ],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of emergency services operate in the affected regions?",
+        "Which logistics companies may face disruptions due to road blockages from landslides?",
+        "Which construction projects are delayed due to the natural disasters?",
+        "Which downstream companies rely on logistics services in the affected areas?",
+        "What are the potential impacts on supply chains for companies operating in flood-prone regions?"
+      ],
+      "reason": "The article discusses natural disasters, specifically flooding and landslides, which can significantly disrupt logistics, emergency services, and construction activities in the affected areas.",
+      "summary": "The article highlights the impact of natural disasters during the typhoon season in China, which poses risks to logistics and emergency services. The flooding and landslides can disrupt supply chains and operations in the affected regions.",
+      "title": "中央政法委发布第三季度见义勇为勇士榜 _ 国内国际 _ 新闻 _ ",
+      "url": "http://www.chuzhou.cn/2026/1010/990136.shtml",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "China",
+      "gdelt_keyword": "typhoon",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Red Cultural Heritage Protection Initiative",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "China"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses efforts to protect cultural heritage and historical sites related to the Long March in China, which does not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on the protection of historical sites and cultural heritage in China, specifically related to the Long March. It highlights the initiatives taken by local authorities to preserve these sites, but does not indicate any supply chain disruptions.",
+      "title": "夹金山下的  红色守护 ： 以检察公益诉讼擦亮长征印记",
+      "url": "http://news.cyol.com/gb/news/articles/2026-10/08/content_77pMgRteEY.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Germany",
+      "gdelt_keyword": "flood",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "7.6 Magnitude Earthquake in Panama",
+      "companies_involved": [
+        "Panama International Airport"
+      ],
+      "industries_involved": [
+        "Transportation",
+        "Logistics",
+        "Emergency Services"
+      ],
+      "countries_involved": [
+        "Panama",
+        "Colombia",
+        "Costa Rica",
+        "Ecuador",
+        "Peru",
+        "Nicaragua",
+        "Guatemala",
+        "El Salvador",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies operating in Panama may be affected by the earthquake?",
+        "Which manufacturing or production relationships may be impacted due to the earthquake's effects?",
+        "Which countries or regions create exposure for companies operating in Panama due to the earthquake?",
+        "Which supply-chain dependencies could transmit the disruption from Panama to other countries?",
+        "Which downstream companies or operations may be exposed to delays or disruptions due to the earthquake?"
+      ],
+      "reason": "The earthquake in Panama poses a risk to transportation and logistics operations, particularly with the suspension of airport operations and potential impacts on supply chains in the region.",
+      "summary": "A 7.6 magnitude earthquake struck Panama, causing significant concern and leading to the suspension of operations at Panama International Airport. The event has the potential to disrupt supply chains across multiple countries in the region due to its impact on transportation and logistics.",
+      "title": "7 . 6 magnitude earthquake in Panama , fear in the capital : tsunami risk",
+      "url": "https://www.thevermilion.com/7-6-magnitude-earthquake-in-panama-fear-in-the-capital-tsunami-risk/article_21530/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Russia Diesel Supply Deal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of diesel fuel may be affected by the new deal with Russia?",
+        "How might this deal impact U.S. energy companies and their supply chains?",
+        "Which transportation routes could be affected by increased diesel imports from Russia?",
+        "What are the potential regulatory implications for companies involved in energy trade with Russia?",
+        "Which downstream companies depend on diesel fuel supplied from Russia?"
+      ],
+      "reason": "The announcement of a deal to import diesel from Russia represents a significant shift in U.S. energy policy and could impact supply chains related to energy sourcing and transportation.",
+      "summary": "President Trump announced a deal to import diesel from Russia, reversing previous sanctions and impacting U.S. energy policy. This geopolitical event could affect energy supply chains and transportation logistics in the U.S.",
+      "title": "AP News in Brief at 12 : 04 a . m . EDT",
+      "url": "http://www.gazettextra.com/news/nation_world/ap-news-in-brief-at-12-04-a-m-edt/article_f833cdbb-ff2e-5f42-965b-9b371c884967.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers may be affected by power outages in Alabama and Florida?",
+        "Which logistics companies operate in the affected regions and may face disruptions?",
+        "Which downstream companies depend on energy supply from the affected areas?",
+        "What manufacturing operations in the Southeast could be impacted by flooding and power outages?",
+        "Which suppliers of companies in the affected regions are vulnerable to operational disruptions?"
+      ],
+      "reason": "The hurricane has caused significant power outages and flooding, which can disrupt energy supply and logistics operations in the affected areas, impacting various supply chain activities.",
+      "summary": "Hurricane Isaias has made landfall in the U.S. Gulf Coast, causing widespread power outages and potential flooding in Alabama and Florida. This natural disaster poses risks to energy supply and logistics operations, which could affect supply chains in the region.",
+      "title": "AP News in Brief at 12 : 04 a . m . EDT",
+      "url": "https://www.woonsocketcall.com/news/national_and_world_news/ap-news-in-brief-at-12-04-a-m-edt/article_e52b742b-83ac-53a0-80bc-a4829bcbc907.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact on Florida and Alabama",
+      "companies_involved": [
+        "Energy companies in the Gulf of Mexico"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Transportation",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which energy suppliers are affected by the shutdown of Gulf oil and gas production?",
+        "Which transportation companies are impacted by flight cancellations in the affected airports?",
+        "Which logistics operations depend on the affected energy supply from the Gulf region?",
+        "Which downstream companies rely on energy production from the Gulf of Mexico?",
+        "Which suppliers of goods and services are located in the affected areas of Florida and Alabama?"
+      ],
+      "reason": "The hurricane has caused significant disruptions to energy production and transportation logistics, impacting supply chains in the affected regions.",
+      "summary": "Hurricane Isaias has made landfall in Florida, causing widespread power outages and significant disruptions to energy production in the Gulf of Mexico. The storm's impact on transportation and logistics further exacerbates supply chain vulnerabilities in the region.",
+      "title": "Ураганът „ Исаяс  връхлетя Флорида : Наводнения , разрушения и над 600 000 домакинства без ток",
+      "url": "https://www.vesti.bg/sviat/uraganyt-isaias-vryhletia-florida-navodneniia-razrusheniia-i-nad-600-000-domakinstva-bez-tok-6272550",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Florida and Alabama?",
+        "Which logistics companies may face disruptions due to the hurricane's impact?",
+        "Which transportation routes are affected by Hurricane Isaias?",
+        "Which downstream companies rely on goods transported through the impacted areas?",
+        "What construction projects in the region may be delayed due to the hurricane?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics and transportation operations in the affected areas, which can disrupt supply chains reliant on these services.",
+      "summary": "Hurricane Isaias has made landfall in Florida, causing damaging winds and flash flooding. This natural disaster is likely to disrupt logistics and transportation operations, impacting various industries in the region.",
+      "title": "Hurricane Isaias On Land , Moving North - 10 PM CDT",
+      "url": "https://95ksj.iheart.com/content/2026-10-09-isaias-on-land-moving-north/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Retail"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Florida and Alabama?",
+        "Which logistics companies may face disruptions due to the hurricane's impact?",
+        "Which transportation routes are affected by Hurricane Isaias?",
+        "Which downstream companies rely on goods transported through the impacted areas?",
+        "What construction projects in the region may be delayed due to the hurricane?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, transportation, and infrastructure in the affected areas, which can disrupt supply chains.",
+      "summary": "Hurricane Isaias has made landfall in Florida, causing damaging winds and flash flooding. This natural disaster is likely to impact logistics and transportation operations in the region, potentially disrupting supply chains.",
+      "title": "Hurricane Isaias On Land , Moving North - 10 PM CDT",
+      "url": "https://1043hallelujahfm.iheart.com/content/2026-10-09-isaias-on-land-moving-north/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a college football game and the potential impact of Hurricane Isaias on the event, but it does not have a meaningful connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article focuses on a college football game scheduled to occur despite Hurricane Isaias. While the storm may affect local events, it does not indicate a supply chain disruption.",
+      "title": "Georgia - Alabama showdown is on schedule despite arrival of Hurricane Isaias ; Trump will skip game",
+      "url": "https://www.yakimaherald.com/news/nation_and_world/nation/georgia-alabama-showdown-is-on-schedule-despite-arrival-of-hurricane-isaias-trump-will-skip-game/article_9541d1a2-c9f9-5ecf-8224-91444494460f.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Landfall in Florida",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Energy",
+        "Construction"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the logistics industry operate in Florida?",
+        "Which manufacturing facilities may be affected by power outages in the region?",
+        "Which construction projects in Florida could be delayed due to the hurricane?",
+        "Which downstream companies depend on logistics services in the affected area?",
+        "What energy suppliers are impacted by the power outages in Florida and Alabama?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, energy supply, and construction activities in Florida, leading to potential disruptions in supply chains.",
+      "summary": "Hurricane Isaias has made landfall in Florida, causing severe weather conditions and power outages affecting over 471,000 customers. This natural disaster is likely to disrupt logistics and energy supply chains in the region.",
+      "title": "الإعصار إساياس يصل إلى اليابسة في ولاية فلوريدا الأمريكية",
+      "url": "http://arabic.news.cn/20261010/3efa69f3dce9412fa8f2aca8da6b60c6/c.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Geopolitical tensions affecting oil supply",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Metals"
+      ],
+      "countries_involved": [
+        "United States",
+        "Saudi Arabia",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by geopolitical tensions in the Middle East?",
+        "Which manufacturing facilities depend on oil supplies from the affected regions?",
+        "Which countries or regions create exposure for companies relying on oil imports?",
+        "Which supply-chain dependencies could transmit disruptions from geopolitical events?",
+        "Which downstream companies depend on energy prices influenced by geopolitical risks?"
+      ],
+      "reason": "The article discusses geopolitical tensions in the Middle East affecting oil supply, which can impact energy prices and subsequently influence various supply chains reliant on oil and metals.",
+      "summary": "Geopolitical tensions in the Middle East, including attacks on oil tankers and threats to oil production, are causing fluctuations in energy prices. This situation poses potential risks to supply chains in the energy and metals industries due to reliance on stable oil supplies.",
+      "title": "Altında en kritik çarşamba ! Fiyatların yönü için kırılma haftası",
+      "url": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/altinda-en-kritik-carsamba-fiyatlarin-yonu-icin-kirilma-haftasi-1821747",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "",
+      "event": "",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [],
+      "risk_exposure_questions": [],
+      "reason": "The article focuses on a community member helping neighbors clean up after Hurricane Matthew, but it does not discuss any supply chain activities, disruptions, or impacts on suppliers, manufacturers, or logistics.",
+      "summary": "The article highlights a 98-year-old man's efforts to assist his neighbors in cleaning up after Hurricane Matthew. It does not present any information related to supply chain disruptions.",
+      "title": "Savannah : 98 - year - old helps neighbors clean up after Matthew",
+      "url": "https://www.wjcl.com/article/savannah-man-helps-neighbors-hurricane-matthew/73999210",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261008T053000Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "AI Infrastructure Energy Constraints",
+      "companies_involved": [
+        "OpenAI",
+        "Google",
+        "Meta",
+        "Nvidia"
+      ],
+      "industries_involved": [
+        "Technology",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers provide energy solutions to data centers of OpenAI, Google, Meta, and Nvidia?",
+        "What manufacturing facilities are dependent on the energy supply from the affected regions?",
+        "Which countries or regions are critical for the energy supply to AI infrastructure?",
+        "What supply-chain dependencies exist between AI companies and energy providers?",
+        "Which downstream companies rely on the AI services provided by OpenAI, Google, Meta, and Nvidia?"
+      ],
+      "reason": "The article discusses significant constraints in energy supply and infrastructure that could impact the operations of major AI companies, indicating a potential disruption in their supply chains.",
+      "summary": "The article highlights the challenges faced by AI companies due to energy supply constraints, particularly in North America. These constraints could significantly impact the operations and scalability of companies like OpenAI, Google, Meta, and Nvidia.",
+      "title": "模型还在加速 ， 世界如何跟上 ？ ",
+      "url": "https://tech.ifeng.com/c/8x6ZpSnseJR",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "7.2 Magnitude Earthquake in Panama",
+      "companies_involved": [
+        "Panama Canal Authority"
+      ],
+      "industries_involved": [
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "Panama",
+        "Colombia",
+        "Costa Rica",
+        "Ecuador",
+        "Peru",
+        "Nicaragua",
+        "Guatemala",
+        "El Salvador",
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Panama Canal Authority operate in the affected region?",
+        "Which logistics companies depend on the Panama Canal for transportation?",
+        "Which manufacturing facilities in the region may be impacted by the earthquake?",
+        "What are the potential impacts on trade routes through the Panama Canal?",
+        "Which downstream companies rely on goods transported through the affected areas?"
+      ],
+      "reason": "The earthquake in Panama has the potential to disrupt logistics and transportation operations, particularly through the Panama Canal, which is a critical trade route. Although the canal's operations are currently reported as normal, the situation may change depending on any damage assessments and ongoing aftershocks.",
+      "summary": "A 7.2 magnitude earthquake struck Panama, prompting a tsunami warning that was later lifted. The Panama Canal's operations are reported to be normal, but the event raises concerns about potential disruptions in logistics and transportation in the region.",
+      "title": "Panamada 7 , 2 büyüklüğündeki depremin ardından tsunami uyarısı kaldırıldı",
+      "url": "https://www.haberler.com/guncel/panama-da-7-2-buyuklugundeki-depremin-ardindan-20315400-haberi/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Earthquake in Panama",
+      "companies_involved": [
+        "Cobre Panama"
+      ],
+      "industries_involved": [
+        "Mining",
+        "Construction",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Panama",
+        "United States",
+        "Colombia",
+        "Ecuador",
+        "Guatemala"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Cobre Panama operate in the affected region?",
+        "Which logistics companies are responsible for transporting goods in Panama?",
+        "Which construction companies may be impacted by damaged infrastructure?",
+        "Which downstream companies depend on copper from Cobre Panama?",
+        "What is the status of transportation routes in the affected provinces?"
+      ],
+      "reason": "The earthquake has caused significant damage to infrastructure, including roads and buildings, which can disrupt logistics and transportation operations. Additionally, the mining operations at Cobre Panama may be affected due to the seismic activity and damage to access routes.",
+      "summary": "A powerful earthquake in Panama has led to infrastructure damage and potential disruptions in logistics and mining operations. The situation is being monitored, and international assistance is being mobilized to address the impacts.",
+      "title": "Президентът на Панама след мощното земетресение : Страната е изправена пред голямо бедствие",
+      "url": "https://www.vesti.bg/sviat/sled-moshtnoto-zemetresenie-panama-e-izpravena-pred-goliamo-bedstvie-6272543",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Panama Earthquake",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "Panama"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Panama that may be affected by the earthquake?",
+        "Which manufacturing facilities in Panama could be impacted by the earthquake?",
+        "Which logistics operations are dependent on transportation routes through Panama?",
+        "Which countries may experience supply chain disruptions due to the tsunami threat?",
+        "Which downstream companies rely on products sourced from Panama?"
+      ],
+      "reason": "The earthquake in Panama poses a risk to supply chain activities, particularly in logistics and transportation, which could affect suppliers and manufacturers operating in or relying on Panama.",
+      "summary": "A powerful earthquake has struck Panama, triggering a tsunami warning across nine countries. This natural disaster could disrupt supply chain activities, particularly in logistics and transportation, affecting operations in the region.",
+      "title": "Panama Earthquake – 7 . 7 आणि 6 . 6 तीव्रतेच्या दोन शक्तिशाली भूकंपाने पनामा हादरले ; 9 देशांना त्सुनामीचा इशारा",
+      "url": "https://www.saamana.com/7-7-and-6-6-magnitude-earthquake-strikes-off-panama-triggers-tsunami-threat-across-9-countries-saamana-online-news/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "7.6-Magnitude Earthquake in Panama",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction"
+      ],
+      "countries_involved": [
+        "Panama",
+        "Colombia",
+        "Costa Rica"
+      ],
+      "risk_exposure_questions": [
+        "Which logistics companies operate in the affected regions of Panama?",
+        "Which transportation routes may be impacted by the earthquake's damage?",
+        "Which construction projects in Panama could be delayed due to the earthquake?",
+        "Which suppliers of goods rely on transportation through Panama or nearby countries?",
+        "Which downstream companies depend on products transported through the Panama Canal?"
+      ],
+      "reason": "The earthquake in Panama poses a risk to logistics and transportation operations, potentially affecting supply chains in the region due to damage to infrastructure and disruptions in movement.",
+      "summary": "A 7.6-magnitude earthquake struck near Panama, prompting tsunami warnings and causing damage in several provinces. The event may disrupt logistics and transportation operations in Panama and neighboring countries.",
+      "title": "7 . 6 - Magnitude Earthquake Hits Panama , Tsunami Threat Ends , Residents Report Damage And Aftershocks",
+      "url": "https://www.oneindia.com/international/7-6-magnitude-earthquake-hits-panama-tsunami-threat-ends-residents-report-damage-and-aftershocks-8230657.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Simon Impact on Mexico",
+      "companies_involved": [],
+      "industries_involved": [
+        "Tourism",
+        "Fishing",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of companies in the tourism industry operate in the affected region?",
+        "Which fishing companies may be impacted by the hurricane's effects on local fishing activities?",
+        "Which logistics companies are responsible for transportation in the affected areas?",
+        "Which downstream companies depend on tourism in the impacted regions?",
+        "What are the potential impacts on supply chains due to port closures in Manzanillo and Puerto Vallarta?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, transportation, and local industries such as tourism and fishing, which are critical components of the supply chain in the affected regions.",
+      "summary": "Hurricane Simon is rapidly intensifying and poses a serious threat to Mexico's Pacific coast, particularly affecting logistics and local industries. The potential for severe flooding and landslides could disrupt supply chains in tourism, fishing, and transportation.",
+      "title": "Uragan Simon brzo jača , mogao bi stvoriti ogromne probleme Meksiku",
+      "url": "https://www.index.hr/vijesti/clanak/uragan-simon-brzo-jaca-prijeti-obali-meksika/2844081.aspx",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics",
+        "Transportation"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Florida and Alabama?",
+        "Which logistics companies are responsible for transportation in the impacted areas?",
+        "What energy suppliers are affected by the power outages in Florida and Alabama?",
+        "Which downstream companies rely on transportation routes through the affected areas?",
+        "What manufacturing facilities may be impacted by the storm's effects on logistics?"
+      ],
+      "reason": "The hurricane has caused significant travel delays, power outages, and potential flooding, which can disrupt logistics, energy supply, and transportation operations in the affected regions.",
+      "summary": "Hurricane Isaias has made landfall in Florida and Alabama, causing widespread power outages and travel disruptions. The storm's impact on logistics and energy supply poses a risk to supply chain operations in the affected areas.",
+      "title": "Donald Trump : Hurricane Isaias  under control , Florida , Alabama issue warnings",
+      "url": "http://www.jpost.com/environment-and-climate-change/article-911211",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Landfall in Florida",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Retail",
+        "Construction"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in Florida that may be affected by the hurricane?",
+        "Which logistics companies have operations in the impacted areas?",
+        "Which transportation routes may be disrupted due to the hurricane?",
+        "Which downstream companies depend on products shipped from Florida?",
+        "What is the potential impact on construction projects in Florida due to the hurricane?"
+      ],
+      "reason": "The hurricane poses a risk to logistics and transportation operations in Florida, which can disrupt supply chains in various industries.",
+      "summary": "Hurricane Isaias has made landfall in Florida, potentially impacting logistics and transportation operations. This natural disaster could disrupt supply chains across multiple industries, including retail and construction.",
+      "title": "El huracán Isaías , de categoría 2 , toca tierra en Florida",
+      "url": "https://eldeber.com.bo/mundo/huracan-isaias-categoria-2-toca-tierra-florida_1791600225",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Landfall",
+      "companies_involved": [
+        "Waffle House"
+      ],
+      "industries_involved": [
+        "Food Service",
+        "Transportation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Waffle House operate in the affected region?",
+        "Which transportation routes are impacted by the flooding and road closures?",
+        "Which energy suppliers may be affected by the power outages in Florida and Alabama?",
+        "Which downstream companies depend on products from suppliers in the affected areas?",
+        "What manufacturing facilities are located in the regions experiencing severe weather?"
+      ],
+      "reason": "The hurricane has caused significant flooding, power outages, and transportation disruptions, which can impact supply chains in the affected areas, particularly in food service and logistics.",
+      "summary": "Hurricane Isaias has made landfall along the US Gulf Coast, causing severe weather conditions that are likely to disrupt supply chains in the region. Key impacts include power outages, road closures, and the grounding of flights, affecting various industries such as food service and transportation.",
+      "title": "Isaias makes landfall along the US Gulf Coast as a dangerous Category 2 hurricane",
+      "url": "https://www.asiaone.com/world/isaias-makes-landfall-along-us-gulf-coast-dangerous-category-2-hurricane",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact on Gulf Coast",
+      "companies_involved": [
+        "Waffle House"
+      ],
+      "industries_involved": [
+        "Food Service",
+        "Transportation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Waffle House operate in the affected region?",
+        "Which transportation routes are impacted by road closures due to flooding?",
+        "Which energy suppliers may be affected by power outages in Florida and Alabama?",
+        "Which downstream companies depend on the food supply from the affected areas?",
+        "What manufacturing facilities are located in the impacted regions that could face operational disruptions?"
+      ],
+      "reason": "The hurricane has caused significant flooding, power outages, and road closures, which can disrupt logistics, transportation, and supply chains in the affected areas.",
+      "summary": "Hurricane Isaias has made landfall on the U.S. Gulf Coast, causing severe flooding and power outages, which pose risks to supply chains in the region. Key industries such as food service and transportation are likely to be affected due to operational disruptions and infrastructure damage.",
+      "title": "Isaias makes landfall as hurricane , hammering US Gulf Coast with powerful winds , dangerous flooding",
+      "url": "https://www.sun-sentinel.com/2026/10/09/isaias-makes-landfall-as-hurricane-hammering-us-gulf-coast-with-powerful-winds-dangerous-flooding/",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Simon Impact",
+      "companies_involved": [],
+      "industries_involved": [
+        "Logistics",
+        "Transportation",
+        "Construction",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Mexico"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers operate in the affected regions of Guerrero, Michoacán, Colima, Jalisco, and Nayarit?",
+        "Which logistics companies may face disruptions due to the hurricane's impact?",
+        "What agricultural production may be affected in the impacted states?",
+        "Which transportation routes are at risk due to severe weather conditions?",
+        "Which downstream companies rely on goods transported through the affected areas?"
+      ],
+      "reason": "The hurricane poses a significant threat to logistics, transportation, and agricultural production in the affected regions, which can disrupt supply chains.",
+      "summary": "Hurricane Simon has intensified to a Category 3 storm, threatening heavy rainfall and severe weather in several states in Mexico. This natural disaster is likely to impact logistics, transportation, and agricultural activities in the affected areas.",
+      "title": "El huracán Simon se intensifica a categoría 3 ; Gobierno de México se alista para el impacto",
+      "url": "https://noticiaslatam.lat/20261010/el-huracan-simon-se-intensifica-a-categoria-3-gobierno-de-mexico-se-alista-para-el-impacto-1175379696.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Hurricane Isaias Impact on Gulf Coast",
+      "companies_involved": [
+        "Waffle House"
+      ],
+      "industries_involved": [
+        "Food Service",
+        "Transportation",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Waffle House operate in the affected region?",
+        "Which transportation routes are impacted by the flooding and road closures?",
+        "Which energy suppliers may be affected by the power outages in Florida and Alabama?",
+        "Which downstream companies depend on the food supply from the affected areas?",
+        "What manufacturing facilities are located in the regions experiencing severe weather?"
+      ],
+      "reason": "The hurricane has caused significant flooding, power outages, and road closures, which can disrupt logistics, transportation, and supply chains in the affected areas.",
+      "summary": "Hurricane Isaias has made landfall on the U.S. Gulf Coast, causing severe flooding and power outages, which pose risks to supply chains in the region. Key industries such as food service and transportation are likely to be impacted due to road closures and operational disruptions.",
+      "title": "Isaias makes landfall as hurricane , hammering US Gulf Coast with powerful winds , dangerous flooding",
+      "url": "https://www.cadillacnews.com/ap/national/isaias-makes-landfall-as-hurricane-hammering-us-gulf-coast-with-powerful-winds-dangerous-flooding/article_a85b027b-e952-5725-9183-abf0cb70afdd.html",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Mexico",
+      "gdelt_keyword": "hurricane",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Panama Earthquakes",
+      "companies_involved": [],
+      "industries_involved": [
+        "Construction",
+        "Logistics",
+        "Healthcare"
+      ],
+      "countries_involved": [
+        "Panama",
+        "Nicaragua",
+        "Colombia"
+      ],
+      "risk_exposure_questions": [
+        "Which construction companies have projects in Panama that may be affected by the earthquakes?",
+        "Which logistics providers operate in Panama and could face disruptions due to infrastructure damage?",
+        "Which healthcare facilities in Panama rely on supply chains that could be impacted by the earthquakes?",
+        "What suppliers are located in the affected regions of Panama, Nicaragua, and Colombia?",
+        "Which downstream companies depend on products or services from the affected regions?"
+      ],
+      "reason": "The earthquakes in Panama pose a risk to supply chain activities, particularly in construction, logistics, and healthcare, due to potential infrastructure damage and disruptions in operations.",
+      "summary": "Recent earthquakes in Panama have raised concerns about potential disruptions to supply chains in the region. While the Panama Canal remains operational, the impact on local infrastructure and logistics could affect various industries.",
+      "title": "巴拿馬接連發生7 . 7及6 . 6強震 拉丁美洲多國感受強烈搖晃 ｜ 公視新聞網 PNN",
+      "url": "https://news.pts.org.tw/article/830775",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Vietnam",
+      "gdelt_keyword": "earthquake",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "El Niño Weather Phenomenon",
+      "companies_involved": [],
+      "industries_involved": [
+        "Agriculture",
+        "Food Supply"
+      ],
+      "countries_involved": [
+        "Nicaragua",
+        "Colombia",
+        "Brazil",
+        "India",
+        "Australia",
+        "Indonesia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of staple foods in Europe are located in the affected regions?",
+        "Which agricultural production facilities in Nicaragua are at risk of crop failure?",
+        "Which countries are major exporters of crops affected by El Niño?",
+        "Which downstream companies in Europe rely on imports from the affected countries?",
+        "What logistics routes may be impacted by extreme weather events related to El Niño?"
+      ],
+      "reason": "The El Niño phenomenon is expected to cause extreme weather conditions that could lead to crop failures and food supply disruptions, particularly affecting agricultural production and logistics in several countries.",
+      "summary": "The intensifying El Niño weather phenomenon poses significant risks to global agriculture and food supply chains, particularly in regions like Nicaragua and Brazil. This could lead to crop failures and increased food insecurity, impacting supply chains reliant on these agricultural products.",
+      "title": "When will El Niño peak and end ? A full timeline of the weather phenomenon taking the world by storm",
+      "url": "https://www.euronews.com/2026/10/10/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "India",
+      "gdelt_keyword": "flood",
+      "published_at": "20261010T064500Z"
     }
   ]
 }
