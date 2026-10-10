@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-10T13:57:15.923989",
+  "updated_at": "2026-10-10T23:16:15.129930",
   "selected_group": "disaster",
   "timespan": "3d",
-  "new_count": 29,
-  "total_count": 11128,
+  "new_count": 1,
+  "total_count": 11129,
   "results": [
     {
       "risk_type": "operation",
@@ -144668,6 +144668,19 @@
       "source_country": "",
       "published_at": "20261010T064500Z",
       "collected_at": "2026-10-10T13:49:07.146538"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "Japan",
+      "keyword": "hurricane",
+      "query": "\"Japan\" hurricane",
+      "title": "Что произошло 10 октября : 5 важных исторических событий и фактов",
+      "url": "https://ura.news/articles/1053134736",
+      "domain": "ura.news",
+      "language": "Russian",
+      "source_country": "",
+      "published_at": "20261010T064500Z",
+      "collected_at": "2026-10-10T21:41:13.139117"
     }
   ]
 }

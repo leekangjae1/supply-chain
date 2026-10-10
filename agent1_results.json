@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T13:59:53Z",
-  "total_count": 11128,
+  "updated_at": "2026-10-10T23:16:26Z",
+  "total_count": 11129,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -303172,6 +303172,35 @@
       "gdelt_risk_type": "disaster",
       "gdelt_country": "India",
       "gdelt_keyword": "flood",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Natural Disaster",
+      "event": "Great Hurricane of 1780",
+      "companies_involved": [],
+      "industries_involved": [
+        "Shipping",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "Barbados",
+        "Martinique",
+        "Saint Lucia"
+      ],
+      "risk_exposure_questions": [
+        "Which shipping companies operate in the Caribbean region?",
+        "Which agricultural suppliers are located in the affected islands?",
+        "What logistics operations are dependent on ports in the Caribbean?",
+        "Which downstream companies rely on agricultural products from the affected areas?"
+      ],
+      "reason": "The article describes a historical natural disaster that had significant impacts on shipping and agriculture in the Caribbean, which could affect supply chains in those industries.",
+      "summary": "The article recounts the Great Hurricane of 1780, a devastating natural disaster that impacted shipping and agriculture in the Caribbean. This event highlights potential historical supply chain disruptions in these sectors.",
+      "title": "Что произошло 10 октября : 5 важных исторических событий и фактов",
+      "url": "https://ura.news/articles/1053134736",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "hurricane",
       "published_at": "20261010T064500Z"
     }
   ]
