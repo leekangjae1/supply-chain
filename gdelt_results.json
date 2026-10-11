@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-11T14:24:39.217982",
+  "updated_at": "2026-10-11T23:26:42.028191",
   "selected_group": "disaster",
   "timespan": "3d",
-  "new_count": 0,
-  "total_count": 11141,
+  "new_count": 2,
+  "total_count": 11143,
   "results": [
     {
       "risk_type": "operation",
@@ -144837,6 +144837,32 @@
       "source_country": "",
       "published_at": "20261010T064500Z",
       "collected_at": "2026-10-11T07:14:11.832818"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "United States",
+      "keyword": "flood",
+      "query": "\"United States\" flood",
+      "title": "Bern Steak House sues Tampa over $100M South Howard flood project",
+      "url": "https://www.fox13news.com/news/berns-steak-house-sues-tampa-over-100m-south-howard-flood-project",
+      "domain": "fox13news.com",
+      "language": "English",
+      "source_country": "",
+      "published_at": "20261010T064500Z",
+      "collected_at": "2026-10-11T22:34:15.591945"
+    },
+    {
+      "risk_type": "disaster",
+      "country": "United States",
+      "keyword": "flood",
+      "query": "\"United States\" flood",
+      "title": "Qui oserait croire à un retrait des troupes coloniales françaises du Tchad ? ",
+      "url": "http://www.afriquesenlutte.org/afrique-centrale/tchad/article/qui-oserait-croire-a-un-retrait",
+      "domain": "afriquesenlutte.org",
+      "language": "French",
+      "source_country": "",
+      "published_at": "20261010T064500Z",
+      "collected_at": "2026-10-11T22:34:15.591958"
     }
   ]
 }

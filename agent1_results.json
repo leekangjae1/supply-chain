@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T14:24:43Z",
-  "total_count": 11141,
+  "updated_at": "2026-10-11T23:26:58Z",
+  "total_count": 11143,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -303570,6 +303570,70 @@
       "gdelt_risk_type": "policy_regulation",
       "gdelt_country": "India",
       "gdelt_keyword": "tariff",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Operation",
+      "event": "Flood Relief Project Lawsuit",
+      "companies_involved": [
+        "Bern's Steak House",
+        "Ciccio Restaurant Group",
+        "Epicurean Hotel",
+        "Kimmins Contracting Corp.",
+        "AtkinsRéalis USA Inc."
+      ],
+      "industries_involved": [
+        "Hospitality",
+        "Construction",
+        "Engineering"
+      ],
+      "countries_involved": [
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Bern's Steak House may be affected by the construction delays?",
+        "Which construction projects are dependent on Kimmins Contracting Corp. that could be impacted?",
+        "What are the potential impacts on logistics for the hospitality industry in Tampa due to the construction?",
+        "Which other businesses in the area may face disruptions due to the flood project?",
+        "How might the legal disputes affect the timeline for construction and related supply chain activities?"
+      ],
+      "reason": "The lawsuit against the City of Tampa regarding the flood relief project indicates potential disruptions to construction and logistics in the area, which could impact local businesses and their supply chains.",
+      "summary": "Bern's Steak House and other local businesses are suing the City of Tampa over a flood relief project that could disrupt operations for several years. The legal battle may delay construction, affecting logistics and supply chains for the hospitality and construction industries in the region.",
+      "title": "Bern Steak House sues Tampa over $100M South Howard flood project",
+      "url": "https://www.fox13news.com/news/berns-steak-house-sues-tampa-over-100m-south-howard-flood-project",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "flood",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Potential withdrawal of French troops from Chad",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "France",
+        "Chad"
+      ],
+      "risk_exposure_questions": [
+        "Which defense contractors may be affected by changes in military presence in Chad?",
+        "How might the withdrawal of French troops impact logistics operations in the region?",
+        "Which suppliers of military equipment operate in Chad and could be affected by geopolitical changes?",
+        "What are the implications for trade routes in Chad if military stability is compromised?",
+        "Which downstream operations in France depend on the stability of the situation in Chad?"
+      ],
+      "reason": "The potential withdrawal of French troops from Chad could lead to instability in the region, affecting logistics and defense operations, which are critical components of the supply chain.",
+      "summary": "The article discusses the potential withdrawal of French troops from Chad, which could create geopolitical instability. This situation may impact logistics and defense industries, highlighting the interconnectedness of military presence and supply chain operations.",
+      "title": "Qui oserait croire à un retrait des troupes coloniales françaises du Tchad ? ",
+      "url": "http://www.afriquesenlutte.org/afrique-centrale/tchad/article/qui-oserait-croire-a-un-retrait",
+      "gdelt_risk_type": "disaster",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "flood",
       "published_at": "20261010T064500Z"
     }
   ]
