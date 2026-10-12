@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T23:26:58Z",
-  "total_count": 11143,
+  "updated_at": "2026-10-12T07:42:38Z",
+  "total_count": 11144,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -303634,6 +303634,42 @@
       "gdelt_risk_type": "disaster",
       "gdelt_country": "United States",
       "gdelt_keyword": "flood",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Sanctions on ICC",
+      "companies_involved": [],
+      "industries_involved": [
+        "Legal",
+        "International Relations"
+      ],
+      "countries_involved": [
+        "United States",
+        "Japan",
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Italy",
+        "Canada",
+        "Netherlands",
+        "Denmark"
+      ],
+      "risk_exposure_questions": [
+        "Which international legal firms may be affected by the sanctions?",
+        "How might these sanctions impact trade relations between the US and the involved countries?",
+        "Which countries have dependencies on the ICC for legal proceedings?",
+        "What are the potential impacts on companies operating in the affected countries due to the geopolitical tensions?",
+        "Which downstream operations in the legal industry may be exposed to disruptions from these sanctions?"
+      ],
+      "reason": "The US sanctions on the International Criminal Court (ICC) could lead to geopolitical tensions that may affect international trade and legal operations, impacting companies and industries involved in global supply chains.",
+      "summary": "The US government's decision to sanction the ICC has drawn widespread opposition from multiple countries, potentially leading to geopolitical tensions. This situation may disrupt international legal and trade relations, affecting various industries and their supply chains.",
+      "title": "美國擬制裁國際刑事法院 英日法德等8國外長齊聲反對 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202610100092.aspx",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
       "published_at": "20261010T064500Z"
     }
   ]

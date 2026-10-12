@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-11T23:26:42.028191",
-  "selected_group": "disaster",
+  "updated_at": "2026-10-12T07:42:26.955932",
+  "selected_group": "policy_regulation",
   "timespan": "3d",
-  "new_count": 2,
-  "total_count": 11143,
+  "new_count": 1,
+  "total_count": 11144,
   "results": [
     {
       "risk_type": "operation",
@@ -144863,6 +144863,19 @@
       "source_country": "",
       "published_at": "20261010T064500Z",
       "collected_at": "2026-10-11T22:34:15.591958"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "country": "Japan",
+      "keyword": "sanctions",
+      "query": "\"Japan\" sanctions",
+      "title": "美國擬制裁國際刑事法院 英日法德等8國外長齊聲反對 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202610100092.aspx",
+      "domain": "cna.com.tw",
+      "language": "Chinese",
+      "source_country": "",
+      "published_at": "20261010T064500Z",
+      "collected_at": "2026-10-12T05:27:36.876363"
     }
   ]
 }
