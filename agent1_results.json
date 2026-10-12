@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T07:42:38Z",
-  "total_count": 11144,
+  "updated_at": "2026-10-12T17:11:38Z",
+  "total_count": 11164,
   "results": [
     {
       "is_supply_chain_disruption": false,
@@ -303669,6 +303669,609 @@
       "url": "https://www.cna.com.tw/news/aopl/202610100092.aspx",
       "gdelt_risk_type": "policy_regulation",
       "gdelt_country": "Japan",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Lifting of sanctions on Myanmar military-linked businessman’s daughter",
+      "companies_involved": [
+        "Shwe Byain Phyu Group of Companies"
+      ],
+      "industries_involved": [
+        "Petroleum",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Myanmar"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of the Shwe Byain Phyu Group may be affected by the geopolitical changes?",
+        "Which manufacturing or production relationships may be impacted by the lifting of sanctions?",
+        "Which countries or regions create exposure for companies involved in the Myanmar petroleum industry?",
+        "Which supply-chain dependencies could transmit the disruption from Myanmar to the US?",
+        "Which downstream companies depend on products from the Shwe Byain Phyu Group?"
+      ],
+      "reason": "The lifting of sanctions on individuals linked to the Myanmar military could impact the supply chain, particularly in the petroleum sector, as it may facilitate trade and logistics operations that were previously restricted.",
+      "summary": "The US has lifted sanctions on the daughter of a Myanmar businessman linked to the military, which may affect the supply chain in the petroleum industry. This geopolitical change could lead to increased trade and logistics activities involving companies associated with the Myanmar military regime.",
+      "title": "US lifts sanctions on daughter of Myanmar military - linked businessman",
+      "url": "https://www.asiaone.com/world/us-lifts-sanctions-daughter-myanmar-military-linked-businessman",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US Sanctions on ICC",
+      "companies_involved": [
+        "International Criminal Court"
+      ],
+      "industries_involved": [
+        "Legal Services"
+      ],
+      "countries_involved": [
+        "United States",
+        "Netherlands"
+      ],
+      "risk_exposure_questions": [
+        "Which companies provide services to the International Criminal Court that may be affected by the sanctions?",
+        "How might the sanctions impact legal service providers operating in the Netherlands?",
+        "Which countries or regions have legal firms that collaborate with the ICC?",
+        "What are the supply-chain dependencies for companies that rely on the ICC for legal proceedings?",
+        "Which downstream operations in the legal industry may be exposed to disruptions due to these sanctions?"
+      ],
+      "reason": "The sanctions imposed by the US on the ICC could disrupt legal services and operations related to international law, affecting companies that interact with the court and potentially impacting their supply chains.",
+      "summary": "The US has imposed sanctions on the International Criminal Court following a former judge's Nobel Prize win, which could disrupt legal services and operations tied to international law. This geopolitical event may affect companies that provide services to the ICC and their supply chain dependencies.",
+      "title": "US Slaps Sanctions on ICC Following Ex - Judge Nobel Prize Win - Jowhar News Leader",
+      "url": "https://jowhar.com/us-slaps-sanctions-on-icc-following-ex-judges-nobel-prize-win/",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Trump's agreement with Russia",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "USA",
+        "Russia",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political criticism regarding a deal between Trump and Russia, but does not provide any direct connection to supply chain activities such as manufacturing, logistics, or trade disruptions.",
+      "summary": "The article focuses on political criticism of a deal between Trump and Russia, with no implications for supply chain disruptions. There are no identified companies or industries affected by this event.",
+      "title": "Naprostá zrada Ukrajiny i Evropy , kritizují demokraté Trumpovu dohodu s Ruskem",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/donald-trump-usa-vladimir-putin-nafta.A261010_070803_zahranicni_pluh",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "ICC Sanctions Discussion",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "United States",
+        "Israel"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses political statements regarding sanctions on the International Criminal Court, which do not have a direct connection to supply chain activities such as production, logistics, or trade.",
+      "summary": "The article covers comments made by President Trump regarding sanctions on the ICC, aimed at defending certain individuals from prosecution. There is no indication that this event has a meaningful impact on supply chain activities.",
+      "title": "Trump says ICC sanctions aimed at defending Netanyahu and others",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-icc-sanctions-aimed-defending-netanyahu-and-others",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fire at Russian Oil Terminal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "U.S. Oil Companies"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the fire at the terminal?",
+        "Which manufacturing or production relationships may be impacted by the disruption in oil supply?",
+        "Which countries or regions are dependent on oil exports from the affected terminal?",
+        "Which supply-chain dependencies could transmit the disruption to U.S. oil companies?",
+        "Which downstream companies depend on oil products from the affected terminal?"
+      ],
+      "reason": "The fire at the oil terminal in Russia directly impacts the supply of oil derivatives, affecting logistics and trade routes, which can disrupt the supply chain for companies reliant on these resources.",
+      "summary": "A fire at a key Russian oil terminal following a drone attack poses a significant risk to oil supply chains, particularly affecting exports. This event has geopolitical implications, especially in the context of U.S.-Russia relations and energy supply.",
+      "title": "Ovo je ukrajinski odgovor na dogovor Trumpa i Putina",
+      "url": "https://www.index.hr/vijesti/clanak/ovo-je-ukrajinski-odgovor-na-dogovor-trumpa-i-putina/2844072.aspx?index_ref=homepage_comment_box_d&commentId=12210160",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fire at Russian Oil Terminal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "Novošahtinsk Refinery"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the fire at the terminal?",
+        "Which manufacturing or production relationships may be impacted by disruptions in oil supply from Russia?",
+        "Which countries or regions are dependent on oil exports from the affected terminal?",
+        "Which supply-chain dependencies could transmit the disruption to downstream operations?",
+        "Which downstream companies rely on products from the affected oil terminal?"
+      ],
+      "reason": "The fire at the oil terminal in Russia directly impacts the supply chain for oil exports, affecting logistics, production, and trade in the energy sector.",
+      "summary": "A fire at a key Russian oil terminal has significant implications for oil supply chains, particularly in light of recent geopolitical developments involving the U.S. and Russia. This incident could disrupt oil exports and impact global energy markets.",
+      "title": "Ovo je ukrajinski odgovor na dogovor Trumpa i Putina",
+      "url": "https://www.index.hr/vijesti/clanak/ovo-je-ukrajinski-odgovor-na-dogovor-trumpa-i-putina/2844072.aspx?index_ref=homepage_comment_box_d&commentId=12210143",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fire at Russian Oil Terminal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "Novošahtinsk Refinery"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the fire at the terminal?",
+        "Which manufacturing or production relationships may be impacted by the disruption of oil exports?",
+        "What countries or regions are dependent on the oil supplied from the affected terminal?",
+        "Which supply-chain dependencies could transmit the disruption to downstream operations?",
+        "Which downstream companies rely on products from the affected oil terminal?"
+      ],
+      "reason": "The fire at the oil terminal in Russia directly impacts the supply chain for oil exports, affecting logistics, production, and trade relationships in the energy sector.",
+      "summary": "A fire at a key Russian oil terminal has significant implications for oil exports, particularly in light of recent geopolitical developments involving the U.S. and Russia. This event could disrupt supply chains related to oil and gas, impacting both production and logistics.",
+      "title": "Ovo je ukrajinski odgovor na dogovor Trumpa i Putina",
+      "url": "https://www.index.hr/vijesti/clanak/ovo-je-ukrajinski-odgovor-na-dogovor-trumpa-i-putina/2844072.aspx?index_ref=homepage_comment_box_d&commentId=12210018",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fire at Russian Oil Terminal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "U.S. Oil Companies"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the fire at the terminal?",
+        "Which manufacturing facilities depend on oil supplies from the affected terminal?",
+        "What are the potential impacts on U.S. companies involved in the import of Russian diesel?",
+        "Which countries are dependent on oil exports from the affected terminal?",
+        "Which downstream companies rely on products from the affected oil terminal?"
+      ],
+      "reason": "The fire at the oil terminal in Russia directly impacts the supply chain for oil exports, affecting logistics, production, and trade relationships between Russia, Ukraine, and the U.S.",
+      "summary": "A fire at a key Russian oil terminal has significant implications for oil supply chains, particularly in light of recent geopolitical developments involving U.S. imports of Russian diesel. This event could disrupt logistics and trade flows, impacting multiple countries and industries.",
+      "title": "Ovo je ukrajinski odgovor na dogovor Trumpa i Putina",
+      "url": "https://www.index.hr/vijesti/clanak/ovo-je-ukrajinski-odgovor-na-dogovor-trumpa-i-putina/2844072.aspx?index_ref=homepage_comment_box_d&commentId=12210108",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fire at Russian Oil Terminal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "Novošahtinsk Refinery"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the fire at the terminal?",
+        "Which manufacturing or production relationships may be impacted by disruptions in oil supply from Russia?",
+        "Which countries or regions are dependent on oil exports from the affected terminal?",
+        "Which supply-chain dependencies could transmit the disruption from the affected terminal to downstream operations?",
+        "Which downstream companies rely on oil products from the affected terminal or refinery?"
+      ],
+      "reason": "The fire at the oil terminal in Russia directly impacts the supply chain for oil and gas, affecting production and logistics for energy exports, which can have broader implications for global energy markets.",
+      "summary": "A fire at a key Russian oil terminal has significant implications for oil supply chains, particularly in light of recent geopolitical developments involving the U.S. and Russia. This event could disrupt oil exports and affect global energy prices.",
+      "title": "Ovo je ukrajinski odgovor na dogovor Trumpa i Putina",
+      "url": "https://www.index.hr/vijesti/clanak/ovo-je-ukrajinski-odgovor-na-dogovor-trumpa-i-putina/2844072.aspx?index_ref=homepage_comment_box_d&commentId=12210240",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Fire at Russian Oil Terminal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "Novošahtinsk Refinery"
+      ],
+      "industries_involved": [
+        "Oil and Gas",
+        "Energy"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Russian oil companies may be affected by the fire at the terminal?",
+        "Which manufacturing or production relationships may be impacted by disruptions in oil supply?",
+        "Which countries or regions are dependent on oil exports from the affected terminal?",
+        "Which supply-chain dependencies could be disrupted due to the fire at the oil terminal?",
+        "Which downstream companies rely on products from the affected oil terminal?"
+      ],
+      "reason": "The fire at the oil terminal in Russia directly impacts the supply chain for oil exports, affecting logistics, production, and trade in the energy sector.",
+      "summary": "A fire at a key Russian oil terminal has significant implications for oil supply chains, particularly in light of recent geopolitical developments. This incident could disrupt oil exports and affect global energy markets.",
+      "title": "Ovo je ukrajinski odgovor na dogovor Trumpa i Putina",
+      "url": "https://www.index.hr/vijesti/clanak/ovo-je-ukrajinski-odgovor-na-dogovor-trumpa-i-putina/2844072.aspx?index_ref=homepage_comment_box_d&commentId=12210091",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Tensions between Greece and Turkey over F-35 sales",
+      "companies_involved": [
+        "Lockheed Martin"
+      ],
+      "industries_involved": [
+        "Defense"
+      ],
+      "countries_involved": [
+        "Turkey",
+        "Greece",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Lockheed Martin may be affected by geopolitical tensions?",
+        "Which manufacturing facilities are involved in the production of F-35s that could be impacted?",
+        "What are the potential impacts on defense contracts between the U.S. and Turkey?",
+        "Which countries or regions create exposure for Lockheed Martin in light of these tensions?",
+        "Which downstream companies depend on components or contracts related to the F-35 program?"
+      ],
+      "reason": "The article discusses geopolitical tensions between Greece and Turkey regarding military aircraft sales, which could impact defense supply chains and production agreements.",
+      "summary": "The ongoing political dispute between Greece and Turkey over F-35 sales raises concerns about potential disruptions in defense supply chains. This situation could affect companies involved in the production and sale of military aircraft, particularly Lockheed Martin.",
+      "title": "Miçotakis ve Çipras Türkiye için birbirine girdi !  Trump  ın yakasına yapışıp Ankaraya satma diyecek  ",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/micotakis-ve-cipras-turkiye-icin-birbirine-girdi-trumpin-yakasina-yapisip-ankaraya-sa-1821756",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Ongoing conflict in Ukraine",
+      "companies_involved": [
+        "Russian energy companies",
+        "U.S. energy companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of U.S. energy companies may be affected by the ongoing conflict?",
+        "Which manufacturing or production relationships may be impacted by the geopolitical tensions?",
+        "Which countries or regions create exposure for companies involved in energy trade?",
+        "Which supply-chain dependencies could transmit the disruption from Russia to the U.S. market?",
+        "Which downstream companies depend on energy supplies from Russian sources?"
+      ],
+      "reason": "The ongoing conflict in Ukraine and the refusal of peace negotiations by Russia can lead to significant disruptions in energy supply chains, affecting logistics and trade relationships between involved countries.",
+      "summary": "The article discusses the refusal of peace negotiations by Russia regarding the conflict in Ukraine, which has implications for energy supply chains. The geopolitical tensions may disrupt energy supplies and logistics, impacting companies and industries involved in these sectors.",
+      "title": "Rusi potvrdili : Putin u razgovoru s Trumpom odbio ideju o završetku rata",
+      "url": "https://www.index.hr/vijesti/clanak/rusi-potvrdili-putin-u-razgovoru-s-trumpom-odbio-ideju-o-zavrsetku-rata/2844079.aspx",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Russian Oil Supply Agreement with the US",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "US Oil Companies"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "Russia",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of US oil companies may be affected by changes in Russian oil supply?",
+        "Which manufacturing or production relationships may be impacted by the influx of Russian oil?",
+        "What are the geopolitical risks associated with relying on Russian oil supplies?",
+        "Which downstream companies in the US energy sector depend on Russian oil imports?",
+        "How might fluctuations in Russian oil supply affect pricing and availability in the US market?"
+      ],
+      "reason": "The proposed supply of Russian oil and petroleum products to the US has direct implications for energy supply chains, affecting logistics, trade, and geopolitical relations.",
+      "summary": "Russian President Putin's announcement of potential oil supplies to the US could significantly impact global energy markets. This agreement may alter supply chain dynamics in the energy sector, particularly for US oil companies.",
+      "title": "Putin says Russian oil supplies to US will",
+      "url": "https://timesofoman.com/article/177842-putin-says-russian-oil-supplies-to-us-will-positively-impact-global-economy-after-trump-call",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "Russian Diesel Import Deal",
+      "companies_involved": [
+        "Russian Oil Companies",
+        "US Treasury"
+      ],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "Russia",
+        "United States",
+        "Ukraine"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of diesel fuel may be affected by the import deal?",
+        "Which US companies rely on Russian diesel for their operations?",
+        "What are the potential impacts on US fuel prices due to this deal?",
+        "Which logistics companies are involved in the transportation of Russian diesel to the US?",
+        "How might this deal affect the supply chain of companies dependent on stable fuel prices?"
+      ],
+      "reason": "The announcement of a deal to import Russian diesel into the US has significant implications for energy supply chains, including potential changes in fuel prices and regulatory impacts due to the suspension of sanctions.",
+      "summary": "The recent deal to import Russian diesel into the US could disrupt energy supply chains by altering fuel availability and prices. This geopolitical move raises questions about the implications for US energy policy and the broader impact on global oil markets.",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-10-trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": false,
+      "disruption_type": "Other",
+      "event": "Navi Pillay wins Nobel Peace Prize",
+      "companies_involved": [],
+      "industries_involved": [],
+      "countries_involved": [
+        "South Africa",
+        "Israel",
+        "United States",
+        "Norway",
+        "Germany"
+      ],
+      "risk_exposure_questions": [],
+      "reason": "The article discusses a Nobel Peace Prize award and related geopolitical tensions but does not indicate any direct impact on supply chain activities such as production, logistics, or trade.",
+      "summary": "The article reports on Navi Pillay winning the Nobel Peace Prize for her work in international justice, highlighting geopolitical tensions but does not present a supply chain disruption. There are no direct implications for supply chain activities identified in the content.",
+      "title": "South African - born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20261010/f60744c07df969e50e9e69786fdb7de1",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Conflict and Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Oil and Gas"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by the US sanctions on Iran?",
+        "Which manufacturing or production relationships in the energy sector may be impacted by the conflict?",
+        "Which countries or regions are most exposed to disruptions in oil supply due to the conflict?",
+        "Which supply-chain dependencies could transmit the disruption from the US-Iran conflict to other regions?",
+        "Which downstream companies in the energy sector depend on oil imports from Iran?"
+      ],
+      "reason": "The ongoing conflict and sanctions between the US and Iran have significant implications for global oil supply chains, particularly affecting energy prices and availability. The geopolitical tensions can disrupt logistics and trade routes, especially through critical areas like the Strait of Hormuz.",
+      "summary": "The article discusses the geopolitical tensions between the US and Iran, highlighting the impact of sanctions on Iran's economy and potential disruptions to oil supply chains. This conflict poses risks to energy industries and global trade, particularly in oil transportation.",
+      "title": "Trump and Iran agree on one thing . The US election calendar isnt driving their decisions on the war",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/articleshow/134847184.cms",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Energy",
+      "event": "US-Russia Diesel Supply Deal",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Transportation",
+        "Agriculture"
+      ],
+      "countries_involved": [
+        "United States",
+        "Russia"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of diesel fuel may be affected by the new deal with Russia?",
+        "Which transportation companies rely on diesel fuel for their operations?",
+        "How might fluctuations in diesel prices impact agricultural producers in the US?",
+        "Which countries may be affected by changes in global diesel supply due to this deal?",
+        "What are the potential impacts on logistics companies that depend on diesel fuel?"
+      ],
+      "reason": "The announcement of a diesel supply deal between the US and Russia directly impacts energy supply chains, particularly in the context of diesel fuel pricing and availability, which affects transportation and agricultural sectors.",
+      "summary": "A new diesel supply deal between the US and Russia aims to alleviate rising fuel prices in the US and globally. This agreement could significantly impact energy supply chains, particularly for transportation and agriculture, as it involves substantial quantities of diesel fuel deliveries.",
+      "title": "Donald Trump Makes BIG Announcement , Strikes Diesel Deal With Putin , Says  Prices Will Come Down Fast  ",
+      "url": "https://www.oneindia.com/international/donald-trump-makes-big-announcement-strikes-diesel-deal-with-putin-says-prices-will-come-down-fas-8230651.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Manchester City Scandal Impacting UAE Investments",
+      "companies_involved": [
+        "Manchester City",
+        "Mubadala",
+        "Masdar"
+      ],
+      "industries_involved": [
+        "Sports",
+        "Investment",
+        "Energy"
+      ],
+      "countries_involved": [
+        "United Kingdom",
+        "United Arab Emirates"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of Manchester City may be affected by the potential loss of UAE investments?",
+        "Which manufacturing or production relationships may be impacted by changes in investment from UAE firms?",
+        "Which countries or regions create exposure due to the reliance on UAE investments in the UK?",
+        "Which supply-chain dependencies could transmit the disruption from the sports industry to other sectors?",
+        "Which downstream companies or operations may be exposed to changes in funding from UAE investors?"
+      ],
+      "reason": "The scandal involving Manchester City has the potential to disrupt significant investments from the UAE, which could impact various sectors including sports, energy, and local economies in the UK.",
+      "summary": "The ongoing scandal surrounding Manchester City has escalated into a geopolitical issue, potentially jeopardizing substantial investments from the UAE in the UK. This situation could lead to broader implications for supply chains linked to these investments.",
+      "title": "Μάντσεστερ Σίτι : Ένα σκάνδαλο εξαπάτησης στο ποδόσφαιρο εξελίχθηκε σε γεωπολιτικό πρόβλημα για τη Βρετανία",
+      "url": "https://www.reporter.gr/diethnh/diethneis-eidhseis/687977-mantsester-siti-ena-skandalo-eksapatisis-sto-podosfairo-ekselixthike-se-geopolitiko-provlima-gia-ti-vretania",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "Increased Russian Military Pressure and Logistics Adaptation",
+      "companies_involved": [],
+      "industries_involved": [
+        "Defense",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "Russia",
+        "Ukraine",
+        "United States"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of defense materials may be affected by the ongoing conflict?",
+        "Which logistics companies are involved in transporting goods in the affected regions?",
+        "Which countries are supplying military equipment to Ukraine that could be impacted by Russian actions?",
+        "What are the dependencies of logistics operations on the routes affected by military actions?",
+        "Which downstream companies rely on logistics services in the conflict zones?"
+      ],
+      "reason": "The article discusses the ongoing military conflict between Russia and Ukraine, highlighting the impact on logistics and supply chains due to military operations and adaptations in transportation methods. This has significant implications for defense and logistics industries.",
+      "summary": "The article outlines the intensified military pressure from Russia on Ukraine and the resulting logistical challenges faced by both sides. The adaptation of Russian supply methods indicates potential disruptions in logistics and defense supply chains.",
+      "title": "РФ усиливает давление на фронте , Кремль говорит о мире",
+      "url": "https://odessa-life.od.ua/news/rf-usilivaet-davlenie-na-fronte-kreml-govorit-o-mire-a-ssha-razreshili-operaczii-s-rossijskim-toplivom",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
+      "gdelt_keyword": "sanctions",
+      "published_at": "20261010T064500Z"
+    },
+    {
+      "is_supply_chain_disruption": true,
+      "disruption_type": "Geopolitical",
+      "event": "US-Iran Conflict and Sanctions",
+      "companies_involved": [],
+      "industries_involved": [
+        "Energy",
+        "Logistics"
+      ],
+      "countries_involved": [
+        "United States",
+        "Iran"
+      ],
+      "risk_exposure_questions": [
+        "Which suppliers of energy companies may be affected by the US sanctions on Iran?",
+        "Which logistics operations are impacted by the naval blockade in the Strait of Hormuz?",
+        "Which countries rely on oil imports from Iran that could be disrupted?",
+        "Which downstream companies depend on oil supplies that may be affected by the conflict?"
+      ],
+      "reason": "The ongoing conflict and sanctions between the US and Iran have significant implications for energy supply chains, particularly in oil transportation and logistics, which can disrupt global markets.",
+      "summary": "The geopolitical tensions between the US and Iran, including sanctions and military actions, pose a risk to energy supply chains and logistics operations. The potential for disruptions in oil supply and transportation routes, such as the Strait of Hormuz, could have widespread implications for global trade.",
+      "title": "Trump and Iran agree on one thing . The US election calendar isnt driving their decisions on the war",
+      "url": "http://www.gazettextra.com/news/nation_world/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions/article_1c0bd0ae-dc37-559a-b9db-e23dbf21b05a.html",
+      "gdelt_risk_type": "policy_regulation",
+      "gdelt_country": "United States",
       "gdelt_keyword": "sanctions",
       "published_at": "20261010T064500Z"
     }
