@@ -23,7 +23,8 @@ from crewai import Agent, Task, Crew, Process, LLM
 # supply-chain
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "gdelt_results.json"
+GDELT_INPUT_FILE = BASE_DIR / "gdelt_results.json"
+NEWSAPI_INPUT_FILE = BASE_DIR / "newsapi_results.json"
 OUTPUT_FILE = BASE_DIR / "agent1_results.json"
 
 
@@ -86,35 +87,78 @@ risk_analyzer = Agent(
 
 
 # =========================================================
-# 4. GDELT 결과 불러오기
+# 4. 뉴스 수집 결과 불러오기 (GDELT + NewsAPI.ai)
 # =========================================================
 
-def load_gdelt_results():
+def load_news_file(filepath: Path, source_name: str) -> list:
     """
-    gdelt_results.json에서 GDELT 뉴스 데이터를 불러온다.
+    수집기 JSON의 {"results": [...]} 또는 리스트 형식을 읽는다.
+    파일이 없거나 읽을 수 없어도 다른 뉴스 소스 처리는 계속한다.
     """
-
-    if not INPUT_FILE.exists():
-        print(f"[ERROR] 입력 파일을 찾을 수 없습니다: {INPUT_FILE}")
+    if not filepath.exists():
+        print(f"[INFO] {source_name} 입력 파일이 없습니다: {filepath}")
         return []
 
     try:
-        with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # 현재 gdelt_monitoring.py 형식
         if isinstance(data, dict):
-            return data.get("results", [])
+            articles = data.get("results", [])
+        elif isinstance(data, list):
+            articles = data
+        else:
+            articles = []
 
-        # 혹시 JSON 자체가 list인 경우도 지원
-        if isinstance(data, list):
-            return data
+        if not isinstance(articles, list):
+            print(f"[WARN] {source_name}의 results가 리스트가 아닙니다.")
+            return []
 
+        normalized = []
+        for article in articles:
+            if not isinstance(article, dict):
+                continue
+            item = dict(article)
+            item.setdefault("source_api", source_name)
+            # 수집 파일 이름을 기준으로 출처를 보정한다.
+            if not item.get("source_api"):
+                item["source_api"] = source_name
+            normalized.append(item)
+
+        print(f"[INFO] {source_name}: {len(normalized)}건 로드")
+        return normalized
+
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"[ERROR] {source_name} 결과 로드 실패: {e}")
         return []
 
-    except Exception as e:
-        print(f"[ERROR] GDELT 결과 로드 실패: {e}")
-        return []
+
+def load_all_news_results() -> list:
+    """
+    GDELT와 NewsAPI.ai 결과를 합친다.
+    같은 URL이 두 파일에 있으면 먼저 읽은 GDELT 레코드를 우선한다.
+    """
+    combined = []
+    seen_urls = set()
+
+    sources = [
+        (GDELT_INPUT_FILE, "gdelt"),
+        (NEWSAPI_INPUT_FILE, "newsapi.ai"),
+    ]
+
+    for filepath, source_name in sources:
+        for article in load_news_file(filepath, source_name):
+            url = str(article.get("url", "") or "").strip()
+            if not url:
+                continue
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            article["url"] = url
+            combined.append(article)
+
+    print(f"[INFO] 통합 뉴스 수: {len(combined)}건")
+    return combined
 
 
 # =========================================================
@@ -243,7 +287,7 @@ def parse_json_from_response(raw_response: str):
 
 def analyze_article_with_agent1(article):
     """
-    하나의 GDELT 뉴스 기사를 Agent 1이 분석한다.
+    하나의 뉴스 기사를 Agent 1이 분석한다 (GDELT 또는 NewsAPI.ai).
     """
 
     title = article.get("title", "")
@@ -514,26 +558,23 @@ def analyze_article_with_agent1(article):
         parsed_result["title"] = title
         parsed_result["url"] = url
 
-        # GDELT 메타데이터도 보존
-        parsed_result["gdelt_risk_type"] = article.get(
-            "risk_type",
-            ""
-        )
+        # 수집기와 무관한 공통 메타데이터 보존
+        parsed_result["source_api"] = article.get("source_api", "")
+        parsed_result["risk_type"] = article.get("risk_type", "")
+        parsed_result["country"] = article.get("country", "")
+        parsed_result["keyword"] = article.get("keyword", "")
+        parsed_result["query"] = article.get("query", "")
+        parsed_result["domain"] = article.get("domain", "")
+        parsed_result["language"] = article.get("language", "")
+        parsed_result["source_country"] = article.get("source_country", "")
+        parsed_result["published_at"] = article.get("published_at", "")
+        parsed_result["collected_at"] = article.get("collected_at", "")
 
-        parsed_result["gdelt_country"] = article.get(
-            "country",
-            ""
-        )
-
-        parsed_result["gdelt_keyword"] = article.get(
-            "keyword",
-            ""
-        )
-
-        parsed_result["published_at"] = article.get(
-            "published_at",
-            ""
-        )
+        # 기존 Agent 2/후속 코드와의 호환성을 위해 레거시 필드도 유지.
+        # NewsAPI.ai 기사에도 같은 메타데이터 값을 넣어 기존 필드 참조를 깨뜨리지 않는다.
+        parsed_result["gdelt_risk_type"] = article.get("risk_type", "")
+        parsed_result["gdelt_country"] = article.get("country", "")
+        parsed_result["gdelt_keyword"] = article.get("keyword", "")
 
         return parsed_result
 
@@ -602,16 +643,15 @@ def main():
 
     print("\n")
     print("=" * 80)
-    print("AGENT 1 - SUPPLY CHAIN NEWS ANALYSIS")
+    print("AGENT 1 - GDELT + NewsAPI.ai SUPPLY CHAIN NEWS ANALYSIS")
     print("=" * 80)
 
     # -----------------------------------------------------
-    # GDELT 결과 불러오기
+    # GDELT + NewsAPI.ai 결과 불러오기
     # -----------------------------------------------------
 
-    gdelt_results = load_gdelt_results()
-
-    print(f"GDELT articles: {len(gdelt_results)}")
+    news_articles = load_all_news_results()
+    print(f"Input articles (deduplicated): {len(news_articles)}")
 
     # -----------------------------------------------------
     # 기존 Agent 1 결과
@@ -619,7 +659,7 @@ def main():
 
     existing_results, existing_urls = load_existing_results()
 
-    if not gdelt_results:
+    if not news_articles:
         print("[INFO] 분석할 뉴스가 없습니다.")
         # downstream workflow가 사용할 결과 파일을 항상 유지
         save_results(existing_results)
@@ -636,7 +676,7 @@ def main():
 
     new_articles = []
 
-    for article in gdelt_results:
+    for article in news_articles:
 
         url = article.get("url", "")
 
