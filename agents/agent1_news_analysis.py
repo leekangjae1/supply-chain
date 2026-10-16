@@ -26,6 +26,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 GDELT_INPUT_FILE = BASE_DIR / "gdelt_results.json"
 NEWSAPI_INPUT_FILE = BASE_DIR / "newsapi_results.json"
 OUTPUT_FILE = BASE_DIR / "agent1_results.json"
+# NEWS_SOURCE_MODE: "both" (default), "gdelt", or "newsapi"
+NEWS_SOURCE_MODE = os.getenv("NEWS_SOURCE_MODE", "both").strip().lower()
 
 
 # .env 파일이 있다면 로드
@@ -135,16 +137,35 @@ def load_news_file(filepath: Path, source_name: str) -> list:
 
 def load_all_news_results() -> list:
     """
-    GDELT와 NewsAPI.ai 결과를 합친다.
-    같은 URL이 두 파일에 있으면 먼저 읽은 GDELT 레코드를 우선한다.
+    NEWS_SOURCE_MODE 설정에 따라 GDELT, NewsAPI.ai 또는 두 소스를 읽는다.
+    기본값은 기존 동작과의 호환성을 위해 both이다.
     """
     combined = []
     seen_urls = set()
 
-    sources = [
-        (GDELT_INPUT_FILE, "gdelt"),
-        (NEWSAPI_INPUT_FILE, "newsapi.ai"),
-    ]
+    source_map = {
+        "both": [
+            (GDELT_INPUT_FILE, "gdelt"),
+            (NEWSAPI_INPUT_FILE, "newsapi.ai"),
+        ],
+        "gdelt": [
+            (GDELT_INPUT_FILE, "gdelt"),
+        ],
+        "newsapi": [
+            (NEWSAPI_INPUT_FILE, "newsapi.ai"),
+        ],
+        "newsapi.ai": [
+            (NEWSAPI_INPUT_FILE, "newsapi.ai"),
+        ],
+    }
+    sources = source_map.get(NEWS_SOURCE_MODE)
+    if sources is None:
+        raise ValueError(
+            f"잘못된 NEWS_SOURCE_MODE={NEWS_SOURCE_MODE!r}. "
+            "가능한 값: both, gdelt, newsapi"
+        )
+
+    print(f"[INFO] 뉴스 소스 모드: {NEWS_SOURCE_MODE}")
 
     for filepath, source_name in sources:
         for article in load_news_file(filepath, source_name):
@@ -643,7 +664,7 @@ def main():
 
     print("\n")
     print("=" * 80)
-    print("AGENT 1 - GDELT + NewsAPI.ai SUPPLY CHAIN NEWS ANALYSIS")
+    print(f"AGENT 1 - SUPPLY CHAIN NEWS ANALYSIS (source={NEWS_SOURCE_MODE})")
     print("=" * 80)
 
     # -----------------------------------------------------
