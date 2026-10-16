@@ -1,24 +1,40 @@
-name: Supply Chain News Monitoring
+name: GDELT Monitoring
 
 on:
   schedule:
+    # 자동 실행은 기존 운영 방식대로 6시간마다 두 수집기를 모두 실행
     - cron: "0 */6 * * *"
   workflow_dispatch:
+    inputs:
+      news_source:
+        description: "Agent 1에서 사용할 뉴스 수집기 선택"
+        required: true
+        type: choice
+        default: both
+        options:
+          - gdelt
+          - newsapi
+          - both
 
 permissions:
   contents: write
 
+defaults:
+  run:
+    shell: bash
+
 concurrency:
-  group: supply-chain-news-monitoring
-  cancel-in-progress: true
+  group: supply-chain-news-agent1
+  cancel-in-progress: false
 
 jobs:
-  run-news-monitoring:
+  run-news-agent1:
     runs-on: ubuntu-latest
-
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       NEWSAPI_AI_API_KEY: ${{ secrets.NEWSAPI_AI_API_KEY }}
+      # 수동 실행은 사용자가 선택한 소스, 예약 실행은 both
+      NEWS_SOURCE_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.news_source || 'both' }}
 
     steps:
       - name: Checkout repository
@@ -27,76 +43,101 @@ jobs:
           fetch-depth: 0
 
       - name: Sync latest main
-        run: |
-          git pull origin main
+        run: git pull --rebase origin main
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Check required API keys
+      - name: Check OpenAI API key
         run: |
-          if [ -z "$OPENAI_API_KEY" ]; then
+          if [[ -z "$OPENAI_API_KEY" ]]; then
             echo "ERROR: OPENAI_API_KEY is not configured in GitHub Secrets."
             exit 1
           fi
-          if [ -z "$NEWSAPI_AI_API_KEY" ]; then
+          echo "Selected source mode: $NEWS_SOURCE_MODE"
+
+      - name: Run GDELT monitoring
+        if: ${{ env.NEWS_SOURCE_MODE == 'gdelt' || env.NEWS_SOURCE_MODE == 'both' }}
+        run: python gdelt_monitoring.py
+
+      - name: Validate GDELT result
+        if: ${{ env.NEWS_SOURCE_MODE == 'gdelt' || env.NEWS_SOURCE_MODE == 'both' }}
+        run: |
+          test -f gdelt_results.json || { echo "ERROR: gdelt_results.json was not created."; exit 1; }
+          python -m json.tool gdelt_results.json > /dev/null
+          echo "GDELT JSON is valid."
+
+      - name: Check NewsAPI.ai API key
+        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' }}
+        run: |
+          if [[ -z "$NEWSAPI_AI_API_KEY" ]]; then
             echo "ERROR: NEWSAPI_AI_API_KEY is not configured in GitHub Secrets."
             exit 1
           fi
 
-      - name: Run GDELT monitoring
-        run: |
-          python gdelt_monitoring.py
-
-      - name: Check GDELT result
-        run: |
-          test -f gdelt_results.json || (echo "ERROR: gdelt_results.json does not exist." && exit 1)
-          python -m json.tool gdelt_results.json > /dev/null
-
       - name: Run NewsAPI.ai monitoring
-        run: |
-          python newsapi_monitoring.py
+        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' }}
+        run: python newsapi_monitoring.py
 
-      - name: Check NewsAPI.ai result
+      - name: Validate NewsAPI.ai result
+        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' }}
         run: |
-          test -f newsapi_results.json || (echo "ERROR: newsapi_results.json does not exist." && exit 1)
+          test -f newsapi_results.json || { echo "ERROR: newsapi_results.json was not created."; exit 1; }
           python -m json.tool newsapi_results.json > /dev/null
+          echo "NewsAPI.ai JSON is valid."
 
-      - name: Run Agent 1 News Analysis
-        run: |
-          python agents/agent1_news_analysis.py
+      - name: Run Agent 1 using selected source
+        run: python agents/agent1_news_analysis.py
 
-      - name: Check Agent 1 result
+      - name: Validate Agent 1 result
         run: |
-          test -f agent1_results.json || (echo "ERROR: agent1_results.json does not exist." && exit 1)
+          test -f agent1_results.json || { echo "ERROR: agent1_results.json was not created."; exit 1; }
           python -m json.tool agent1_results.json > /dev/null
           echo "Agent 1 JSON is valid."
-          ls -lh gdelt_results.json newsapi_results.json agent1_results.json
+          ls -lh agent1_results.json
 
-      - name: Upload combined results
+      - name: Upload Agent 1 result for Agent 2
         uses: actions/upload-artifact@v4
         with:
           name: agent1-results
+          path: agent1_results.json
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Upload raw news results for debugging
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-raw-results
           path: |
             gdelt_results.json
+            gdelt_monitoring.csv
             newsapi_results.json
-            agent1_results.json
-          if-no-files-found: error
+            newsapi_monitoring.csv
+          if-no-files-found: warn
+          retention-days: 14
 
       - name: Commit results
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add gdelt_results.json gdelt_monitoring.csv newsapi_results.json newsapi_monitoring.csv agent1_results.json
+          for file in gdelt_results.json gdelt_monitoring.csv newsapi_results.json newsapi_monitoring.csv agent1_results.json; do
+            if [[ -f "$file" ]]; then
+              git add "$file"
+            fi
+          done
 
-          git diff --cached --quiet || git commit -m "Update GDELT, NewsAPI.ai, and Agent 1 results"
-
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "No result changes to commit."
+          else
+            git commit -m "Update ${NEWS_SOURCE_MODE} news and Agent 1 results"
+            git push origin HEAD:main
+          fi
