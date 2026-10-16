@@ -1,4 +1,4 @@
-name: GDELT Monitoring
+name: Supply Chain News Monitoring
 
 on:
   schedule:
@@ -9,15 +9,16 @@ permissions:
   contents: write
 
 concurrency:
-  group: gdelt-monitoring
+  group: supply-chain-news-monitoring
   cancel-in-progress: true
 
 jobs:
-  run-gdelt:
+  run-news-monitoring:
     runs-on: ubuntu-latest
 
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      NEWSAPI_AI_API_KEY: ${{ secrets.NEWSAPI_AI_API_KEY }}
 
     steps:
       - name: Checkout repository
@@ -39,10 +40,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Check OpenAI API key
+      - name: Check required API keys
         run: |
           if [ -z "$OPENAI_API_KEY" ]; then
-            echo "ERROR: OPENAI_API_KEY is not configured."
+            echo "ERROR: OPENAI_API_KEY is not configured in GitHub Secrets."
+            exit 1
+          fi
+          if [ -z "$NEWSAPI_AI_API_KEY" ]; then
+            echo "ERROR: NEWSAPI_AI_API_KEY is not configured in GitHub Secrets."
             exit 1
           fi
 
@@ -50,26 +55,39 @@ jobs:
         run: |
           python gdelt_monitoring.py
 
+      - name: Check GDELT result
+        run: |
+          test -f gdelt_results.json || (echo "ERROR: gdelt_results.json does not exist." && exit 1)
+          python -m json.tool gdelt_results.json > /dev/null
+
+      - name: Run NewsAPI.ai monitoring
+        run: |
+          python newsapi_monitoring.py
+
+      - name: Check NewsAPI.ai result
+        run: |
+          test -f newsapi_results.json || (echo "ERROR: newsapi_results.json does not exist." && exit 1)
+          python -m json.tool newsapi_results.json > /dev/null
+
       - name: Run Agent 1 News Analysis
         run: |
           python agents/agent1_news_analysis.py
 
       - name: Check Agent 1 result
         run: |
-          echo "===== Agent 1 result ====="
-          if [ ! -f "agent1_results.json" ]; then
-            echo "ERROR: agent1_results.json does not exist."
-            exit 1
-          fi
-          ls -lh agent1_results.json
+          test -f agent1_results.json || (echo "ERROR: agent1_results.json does not exist." && exit 1)
           python -m json.tool agent1_results.json > /dev/null
           echo "Agent 1 JSON is valid."
+          ls -lh gdelt_results.json newsapi_results.json agent1_results.json
 
-      - name: Upload Agent 1 result
+      - name: Upload combined results
         uses: actions/upload-artifact@v4
         with:
           name: agent1-results
-          path: agent1_results.json
+          path: |
+            gdelt_results.json
+            newsapi_results.json
+            agent1_results.json
           if-no-files-found: error
 
       - name: Commit results
@@ -77,8 +95,8 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add gdelt_results.json gdelt_monitoring.csv agent1_results.json
+          git add gdelt_results.json gdelt_monitoring.csv newsapi_results.json newsapi_monitoring.csv agent1_results.json
 
-          git diff --cached --quiet || git commit -m "Update GDELT and Agent 1 monitoring results"
+          git diff --cached --quiet || git commit -m "Update GDELT, NewsAPI.ai, and Agent 1 results"
 
           git push origin main
