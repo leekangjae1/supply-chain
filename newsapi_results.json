@@ -1,0 +1,311 @@
+{
+  "updated_at": "2026-10-16T03:07:45.308784+00:00",
+  "selected_group": "all",
+  "source": "newsapi.ai",
+  "risk_groups_searched": [
+    "disaster",
+    "operation",
+    "labor",
+    "policy_regulation",
+    "logistics",
+    "geopolitical_conflict",
+    "energy",
+    "raw_materials",
+    "chokepoint_disruption",
+    "chokepoint_disaster",
+    "chokepoint_conflict"
+  ],
+  "query_count": 71,
+  "date_start": "2026-10-13",
+  "date_end": "2026-10-16",
+  "new_count": 0,
+  "total_count": 0,
+  "failed_query_count": 71,
+  "failed_queries": [
+    {
+      "risk_type": "disaster",
+      "query": "\"South Korea\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"South Korea\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"South Korea\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"South Korea\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"South Korea\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"South Korea\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"China\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"China\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"China\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"China\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"China\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"China\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Japan\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Japan\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Japan\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Japan\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Japan\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Japan\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Germany\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Germany\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Germany\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Germany\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Germany\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Germany\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"United States\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"United States\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"United States\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"United States\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"United States\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"United States\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"India\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"India\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"India\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"India\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"India\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"India\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Spain\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Spain\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Spain\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Spain\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Spain\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Spain\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Romania\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Romania\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Romania\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Romania\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Romania\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Romania\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Thailand\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Thailand\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Thailand\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Thailand\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Thailand\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Thailand\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Portugal\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Portugal\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Portugal\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Portugal\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Portugal\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Portugal\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "disaster",
+      "query": "\"Vietnam\" (earthquake OR flood OR typhoon OR tsunami OR wildfire OR hurricane OR drought OR heatwave OR cyclone)"
+    },
+    {
+      "risk_type": "operation",
+      "query": "\"Vietnam\" (\"factory fire\" OR \"industrial accident\" OR \"plant shutdown\" OR \"production halt\" OR \"power outage\" OR \"utility failure\")"
+    },
+    {
+      "risk_type": "labor",
+      "query": "\"Vietnam\" (strike OR \"labor dispute\" OR walkout OR lockout OR \"worker shortage\" OR \"labor shortage\")"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "query": "\"Vietnam\" (tariff OR sanctions OR \"import ban\" OR \"export ban\" OR \"trade restriction\" OR \"customs regulation\")"
+    },
+    {
+      "risk_type": "logistics",
+      "query": "\"Vietnam\" (\"port closure\" OR \"port congestion\" OR \"shipping disruption\" OR \"container shortage\" OR \"freight delay\" OR \"vessel rerouting\")"
+    },
+    {
+      "risk_type": "geopolitical_conflict",
+      "query": "\"Vietnam\" (war OR \"armed conflict\" OR \"military attack\" OR invasion OR blockade)"
+    },
+    {
+      "risk_type": "energy",
+      "query": "(LNG OR \"liquefied natural gas\" OR \"natural gas\" OR \"crude oil\" OR diesel OR coal OR electricity) (\"supply disruption\" OR shortage OR \"export reduction\" OR \"terminal outage\" OR \"production shutdown\" OR \"price spike\")"
+    },
+    {
+      "risk_type": "raw_materials",
+      "query": "(copper OR gold OR manganese OR tin OR cobalt OR tantalum OR tungsten) (shortage OR \"mine disruption\" OR \"smelter outage\" OR \"export restriction\" OR \"supply disruption\" OR \"price spike\")"
+    },
+    {
+      "risk_type": "chokepoint_disruption",
+      "query": "(\"Strait of Malacca\" OR \"North Sea\" OR \"Suez Canal\" OR \"China coast\" OR Mediterranean OR \"Gulf of Thailand\" OR \"Gulf of Tonkin\" OR \"Red Sea\" OR \"Strait of Hormuz\") (blockade OR closure OR \"vessel attack\" OR \"maritime accident\" OR collision OR grounding OR piracy OR \"shipping disruption\" OR rerouting OR congestion)"
+    },
+    {
+      "risk_type": "chokepoint_disaster",
+      "query": "(\"Strait of Malacca\" OR \"North Sea\" OR \"Suez Canal\" OR \"China coast\" OR Mediterranean OR \"Gulf of Thailand\" OR \"Gulf of Tonkin\" OR \"Red Sea\" OR \"Strait of Hormuz\") (earthquake OR flood OR typhoon OR tsunami OR hurricane)"
+    },
+    {
+      "risk_type": "chokepoint_conflict",
+      "query": "(\"Strait of Malacca\" OR \"North Sea\" OR \"Suez Canal\" OR \"China coast\" OR Mediterranean OR \"Gulf of Thailand\" OR \"Gulf of Tonkin\" OR \"Red Sea\" OR \"Strait of Hormuz\") (war OR \"armed conflict\" OR \"military attack\")"
+    }
+  ],
+  "results": []
+}
