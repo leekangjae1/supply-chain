@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T06:36:47.962510+00:00",
+  "updated_at": "2026-10-16T13:44:22.976503+00:00",
   "selected_group": "all",
   "source": "newsapi.ai",
   "risk_groups_searched": [
@@ -16,9 +16,9 @@
     "chokepoint_conflict"
   ],
   "query_count": 71,
-  "date_start": "2026-10-13",
-  "date_end": "2026-10-16",
-  "new_count": 1602,
+  "date_start": "2026-02-01",
+  "date_end": "2026-03-31",
+  "new_count": 0,
   "total_count": 1602,
   "failed_query_count": 5,
   "failed_queries": [
