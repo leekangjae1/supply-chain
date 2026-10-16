@@ -28,14 +28,13 @@ REQUEST_DELAY_SECONDS = float(os.getenv("NEWSAPI_REQUEST_DELAY_SECONDS", "1.5"))
 MAX_RETRIES = int(os.getenv("NEWSAPI_MAX_RETRIES", "3"))
 TIMEOUT_SECONDS = int(os.getenv("NEWSAPI_TIMEOUT_SECONDS", "45"))
 
-# 기본은 GDELT 수집기와 비슷하게 최근 3일.
-# 보고서 사례 기간으로 바꾸려면 GitHub Actions 환경변수에 다음을 설정:
-# NEWSAPI_DATE_START=2026-02-01 / NEWSAPI_DATE_END=2026-03-31
-_today = datetime.now(timezone.utc).date()
-DEFAULT_DATE_START = (_today - timedelta(days=3)).isoformat()
-DEFAULT_DATE_END = _today.isoformat()
-DATE_START = os.getenv("NEWSAPI_DATE_START", DEFAULT_DATE_START)
-DATE_END = os.getenv("NEWSAPI_DATE_END", DEFAULT_DATE_END)
+
+# ============================================================
+# 검색 기간 고정: 2026-02-01 ~ 2026-03-31
+# ============================================================
+DATE_START = "2026-02-01"
+DATE_END = "2026-03-31"
+
 
 COUNTRIES = [
     "South Korea", "China", "Japan", "Germany", "United States",
