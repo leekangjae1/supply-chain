@@ -33,7 +33,7 @@ TIMEOUT_SECONDS = int(os.getenv("NEWSAPI_TIMEOUT_SECONDS", "45"))
 # 검색 기간 고정: 2026-02-01 ~ 2026-03-31
 # ============================================================
 DATE_START = "2026-02-01"
-DATE_END = "2026-03-31"
+DATE_END = "2026-03-01"
 
 
 COUNTRIES = [
