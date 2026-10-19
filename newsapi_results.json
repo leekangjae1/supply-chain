@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:44:22.976503+00:00",
+  "updated_at": "2026-10-19T14:31:58.762533+00:00",
   "selected_group": "all",
   "source": "newsapi.ai",
   "risk_groups_searched": [
@@ -17,32 +17,11 @@
   ],
   "query_count": 71,
   "date_start": "2026-02-01",
-  "date_end": "2026-03-31",
+  "date_end": "2026-03-01",
   "new_count": 0,
   "total_count": 1602,
-  "failed_query_count": 5,
-  "failed_queries": [
-    {
-      "risk_type": "energy",
-      "query": "(LNG OR \"liquefied natural gas\" OR \"natural gas\" OR \"crude oil\" OR diesel OR coal OR electricity) (\"supply disruption\" OR shortage OR \"export reduction\" OR \"terminal outage\" OR \"production shutdown\" OR \"price spike\")"
-    },
-    {
-      "risk_type": "raw_materials",
-      "query": "(copper OR gold OR manganese OR tin OR cobalt OR tantalum OR tungsten) (shortage OR \"mine disruption\" OR \"smelter outage\" OR \"export restriction\" OR \"supply disruption\" OR \"price spike\")"
-    },
-    {
-      "risk_type": "chokepoint_disruption",
-      "query": "(\"Strait of Malacca\" OR \"North Sea\" OR \"Suez Canal\" OR \"China coast\" OR Mediterranean OR \"Gulf of Thailand\" OR \"Gulf of Tonkin\" OR \"Red Sea\" OR \"Strait of Hormuz\") (blockade OR closure OR \"vessel attack\" OR \"maritime accident\" OR collision OR grounding OR piracy OR \"shipping disruption\" OR rerouting OR congestion)"
-    },
-    {
-      "risk_type": "chokepoint_disaster",
-      "query": "(\"Strait of Malacca\" OR \"North Sea\" OR \"Suez Canal\" OR \"China coast\" OR Mediterranean OR \"Gulf of Thailand\" OR \"Gulf of Tonkin\" OR \"Red Sea\" OR \"Strait of Hormuz\") (earthquake OR flood OR typhoon OR tsunami OR hurricane)"
-    },
-    {
-      "risk_type": "chokepoint_conflict",
-      "query": "(\"Strait of Malacca\" OR \"North Sea\" OR \"Suez Canal\" OR \"China coast\" OR Mediterranean OR \"Gulf of Thailand\" OR \"Gulf of Tonkin\" OR \"Red Sea\" OR \"Strait of Hormuz\") (war OR \"armed conflict\" OR \"military attack\")"
-    }
-  ],
+  "failed_query_count": 0,
+  "failed_queries": [],
   "results": [
     {
       "risk_type": "disaster",
