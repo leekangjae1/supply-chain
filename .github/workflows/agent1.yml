@@ -2,19 +2,20 @@ name: GDELT Monitoring
 
 on:
   schedule:
-    # 자동 실행은 기존 운영 방식대로 6시간마다 두 수집기를 모두 실행
     - cron: "0 */6 * * *"
   workflow_dispatch:
     inputs:
       news_source:
-        description: "Agent 1에서 사용할 뉴스 수집기 선택"
+        description: "Agent 1에서 사용할 뉴스 입력 방식 선택"
         required: true
         type: choice
-        default: both
+        default: data
         options:
+          - data
           - gdelt
           - newsapi
           - both
+          - all
 
 permissions:
   contents: write
@@ -33,7 +34,6 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       NEWSAPI_AI_API_KEY: ${{ secrets.NEWSAPI_AI_API_KEY }}
-      # 수동 실행은 사용자가 선택한 소스, 예약 실행은 both
       NEWS_SOURCE_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.news_source || 'both' }}
 
     steps:
@@ -56,27 +56,38 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Check OpenAI API key
+      - name: Check OpenAI API key and input files
         run: |
           if [[ -z "$OPENAI_API_KEY" ]]; then
             echo "ERROR: OPENAI_API_KEY is not configured in GitHub Secrets."
             exit 1
           fi
+
           echo "Selected source mode: $NEWS_SOURCE_MODE"
 
+          if [[ "$NEWS_SOURCE_MODE" == "data" || "$NEWS_SOURCE_MODE" == "all" ]]; then
+            if ! find data -maxdepth 1 -type f -name '*.json' -print -quit | grep -q .; then
+              echo "ERROR: No JSON files found in data/."
+              echo "Upload the extracted JSON files, not only a ZIP archive."
+              exit 1
+            fi
+            echo "JSON files found in data/:"
+            find data -maxdepth 1 -type f -name '*.json' | sort
+          fi
+
       - name: Run GDELT monitoring
-        if: ${{ env.NEWS_SOURCE_MODE == 'gdelt' || env.NEWS_SOURCE_MODE == 'both' }}
+        if: ${{ env.NEWS_SOURCE_MODE == 'gdelt' || env.NEWS_SOURCE_MODE == 'both' || env.NEWS_SOURCE_MODE == 'all' }}
         run: python gdelt_monitoring.py
 
       - name: Validate GDELT result
-        if: ${{ env.NEWS_SOURCE_MODE == 'gdelt' || env.NEWS_SOURCE_MODE == 'both' }}
+        if: ${{ env.NEWS_SOURCE_MODE == 'gdelt' || env.NEWS_SOURCE_MODE == 'both' || env.NEWS_SOURCE_MODE == 'all' }}
         run: |
           test -f gdelt_results.json || { echo "ERROR: gdelt_results.json was not created."; exit 1; }
           python -m json.tool gdelt_results.json > /dev/null
           echo "GDELT JSON is valid."
 
       - name: Check NewsAPI.ai API key
-        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' }}
+        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' || env.NEWS_SOURCE_MODE == 'all' }}
         run: |
           if [[ -z "$NEWSAPI_AI_API_KEY" ]]; then
             echo "ERROR: NEWSAPI_AI_API_KEY is not configured in GitHub Secrets."
@@ -84,11 +95,11 @@ jobs:
           fi
 
       - name: Run NewsAPI.ai monitoring
-        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' }}
+        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' || env.NEWS_SOURCE_MODE == 'all' }}
         run: python newsapi_monitoring.py
 
       - name: Validate NewsAPI.ai result
-        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' }}
+        if: ${{ env.NEWS_SOURCE_MODE == 'newsapi' || env.NEWS_SOURCE_MODE == 'both' || env.NEWS_SOURCE_MODE == 'all' }}
         run: |
           test -f newsapi_results.json || { echo "ERROR: newsapi_results.json was not created."; exit 1; }
           python -m json.tool newsapi_results.json > /dev/null
@@ -117,13 +128,13 @@ jobs:
         with:
           name: news-raw-results
           path: |
+            data/*.json
             gdelt_results.json
             gdelt_monitoring.csv
             newsapi_results.json
             newsapi_monitoring.csv
           if-no-files-found: warn
           retention-days: 14
-
 
       - name: Commit results
         run: |
@@ -140,11 +151,6 @@ jobs:
             echo "No result changes to commit."
           else
             git commit -m "Update ${NEWS_SOURCE_MODE} news and Agent 1 results"
-
-            # 원격 main의 최신 변경사항을 반영하고 결과 커밋을 재적용
             git pull --rebase origin main
-
-            # 반영된 결과를 원격 저장소에 업로드
             git push origin HEAD:main
           fi
-
