@@ -25,8 +25,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 GDELT_INPUT_FILE = BASE_DIR / "gdelt_results.json"
 NEWSAPI_INPUT_FILE = BASE_DIR / "newsapi_results.json"
+DATA_DIR = BASE_DIR / "data"  # 별도로 수집한 JSON 파일을 넣는 폴더
 OUTPUT_FILE = BASE_DIR / "agent1_results.json"
-# NEWS_SOURCE_MODE: "both" (default), "gdelt", or "newsapi"
+# NEWS_SOURCE_MODE: "both" (default), "gdelt", "newsapi", "data", or "all"
+# data: data/ 폴더의 JSON만 분석
+# all: GDELT + NewsAPI.ai + data/ 폴더 모두 분석
 NEWS_SOURCE_MODE = os.getenv("NEWS_SOURCE_MODE", "both").strip().lower()
 
 
@@ -137,8 +140,14 @@ def load_news_file(filepath: Path, source_name: str) -> list:
 
 def load_all_news_results() -> list:
     """
-    NEWS_SOURCE_MODE 설정에 따라 GDELT, NewsAPI.ai 또는 두 소스를 읽는다.
-    기본값은 기존 동작과의 호환성을 위해 both이다.
+    NEWS_SOURCE_MODE에 따라 GDELT, NewsAPI.ai, data/ 폴더의 JSON을 읽는다.
+
+    지원 모드:
+      - both: 기존 동작 (GDELT + NewsAPI.ai)
+      - gdelt: GDELT만
+      - newsapi: NewsAPI.ai만
+      - data: data/ 폴더의 별도 수집 JSON만
+      - all: GDELT + NewsAPI.ai + data/ 폴더
     """
     combined = []
     seen_urls = set()
@@ -148,13 +157,12 @@ def load_all_news_results() -> list:
             (GDELT_INPUT_FILE, "gdelt"),
             (NEWSAPI_INPUT_FILE, "newsapi.ai"),
         ],
-        "gdelt": [
+        "gdelt": [(GDELT_INPUT_FILE, "gdelt")],
+        "newsapi": [(NEWSAPI_INPUT_FILE, "newsapi.ai")],
+        "newsapi.ai": [(NEWSAPI_INPUT_FILE, "newsapi.ai")],
+        "data": [],
+        "all": [
             (GDELT_INPUT_FILE, "gdelt"),
-        ],
-        "newsapi": [
-            (NEWSAPI_INPUT_FILE, "newsapi.ai"),
-        ],
-        "newsapi.ai": [
             (NEWSAPI_INPUT_FILE, "newsapi.ai"),
         ],
     }
@@ -162,23 +170,58 @@ def load_all_news_results() -> list:
     if sources is None:
         raise ValueError(
             f"잘못된 NEWS_SOURCE_MODE={NEWS_SOURCE_MODE!r}. "
-            "가능한 값: both, gdelt, newsapi"
+            "가능한 값: both, gdelt, newsapi, data, all"
         )
 
     print(f"[INFO] 뉴스 소스 모드: {NEWS_SOURCE_MODE}")
 
+    # 기존 수집 파일 불러오기
     for filepath, source_name in sources:
         for article in load_news_file(filepath, source_name):
-            url = str(article.get("url", "") or "").strip()
-            if not url:
-                continue
-            if url in seen_urls:
+            url = str(article.get("url") or article.get("uri") or "").strip()
+            if not url or url in seen_urls:
                 continue
             seen_urls.add(url)
             article["url"] = url
             combined.append(article)
 
-    print(f"[INFO] 통합 뉴스 수: {len(combined)}건")
+    # 별도 수집 데이터 폴더 불러오기
+    if NEWS_SOURCE_MODE in ("data", "all"):
+        if not DATA_DIR.exists():
+            print(f"[WARN] data 폴더가 없습니다: {DATA_DIR}")
+        else:
+            data_files = sorted(DATA_DIR.glob("*.json"))
+            print(f"[INFO] data 폴더 JSON 파일 수: {len(data_files)}")
+            for filepath in data_files:
+                # 숨김/보조 파일은 제외
+                if filepath.name.startswith("."):
+                    continue
+                source_name = f"collected_json:{filepath.name}"
+                for article in load_news_file(filepath, source_name):
+                    url = str(article.get("url") or article.get("uri") or "").strip()
+                    if not url:
+                        print(f"[WARN] URL이 없어 제외: {filepath.name}")
+                        continue
+                    if url in seen_urls:
+                        continue
+                    seen_urls.add(url)
+                    article["url"] = url
+                    # 수집 파일의 공통 필드 이름 차이를 보정한다.
+                    if not article.get("title"):
+                        article["title"] = article.get("name", "")
+                    if not article.get("body"):
+                        article["body"] = article.get("text") or article.get("description") or ""
+                    if not article.get("published_at"):
+                        article["published_at"] = (
+                            article.get("dateTime") or article.get("date") or article.get("publishedAt") or ""
+                        )
+                    if not article.get("language"):
+                        article["language"] = article.get("lang") or article.get("languageCode") or ""
+                    if not article.get("domain"):
+                        article["domain"] = article.get("source", "")
+                    combined.append(article)
+
+    print(f"[INFO] 통합 뉴스 수 (URL 중복 제거 후): {len(combined)}건")
     return combined
 
 
@@ -320,10 +363,17 @@ def analyze_article_with_agent1(article):
     print("=" * 80)
 
     # -----------------------------------------------------
-    # 기사 본문 추출
+    # 기사 본문 사용
+    # 별도 수집 JSON에 body/text가 있으면 URL 재접속보다 우선 사용한다.
+    # 저장된 본문이 없을 때만 URL에서 본문 추출을 시도한다.
     # -----------------------------------------------------
 
-    article_text = extract_article_text(url)
+    article_text = str(
+        article.get("body") or article.get("text") or article.get("description") or ""
+    ).strip()
+
+    if not article_text:
+        article_text = extract_article_text(url)
 
     # 본문 추출 실패 시 제목을 사용
     if not article_text:
@@ -585,11 +635,16 @@ def analyze_article_with_agent1(article):
         parsed_result["country"] = article.get("country", "")
         parsed_result["keyword"] = article.get("keyword", "")
         parsed_result["query"] = article.get("query", "")
-        parsed_result["domain"] = article.get("domain", "")
-        parsed_result["language"] = article.get("language", "")
+        parsed_result["domain"] = article.get("domain", article.get("source", ""))
+        parsed_result["language"] = article.get("language", article.get("lang", ""))
         parsed_result["source_country"] = article.get("source_country", "")
-        parsed_result["published_at"] = article.get("published_at", "")
+        parsed_result["published_at"] = article.get(
+            "published_at", article.get("dateTime", article.get("date", ""))
+        )
         parsed_result["collected_at"] = article.get("collected_at", "")
+        # 원본 수집 데이터의 본문/출처/날짜도 결과에 보존한다.
+        parsed_result["source"] = article.get("source", "")
+        parsed_result["body"] = article.get("body", article.get("text", ""))
 
         # 기존 Agent 2/후속 코드와의 호환성을 위해 레거시 필드도 유지.
         # NewsAPI.ai 기사에도 같은 메타데이터 값을 넣어 기존 필드 참조를 깨뜨리지 않는다.
@@ -668,7 +723,7 @@ def main():
     print("=" * 80)
 
     # -----------------------------------------------------
-    # GDELT + NewsAPI.ai 결과 불러오기
+    # 설정된 뉴스 입력 소스 불러오기 (GDELT / NewsAPI.ai / data 폴더)
     # -----------------------------------------------------
 
     news_articles = load_all_news_results()
